@@ -17,7 +17,8 @@
     "lead": "MyQuickPaste is a lightweight Windows app that supercharges your daily copy-and-paste workflow. Store AI prompts, email templates, and code snippets, then paste them instantly into any app.",
     "ctaPrimary": "Get it free on Microsoft Store",
     "ctaSecondary": "Try all Pro features free for 14 days",
-    "trust": "Microsoft Store certified · Data encrypted locally on your PC"
+    "trust": "Microsoft Store certified · Data encrypted locally on your PC",
+    "screenshotAlt": "MyQuickPaste: click a slot to paste the full saved text. Setup once in Edit."
   },
   "problem": {
     "title": "Sound familiar?",

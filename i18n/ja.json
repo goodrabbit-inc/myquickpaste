@@ -17,7 +17,8 @@
     "lead": "MyQuickPasteは、日々のコピー&ペースト作業を効率化する軽量Windowsアプリです。AIプロンプト、メール定型文、コード片などを登録し、どのアプリにもすぐ貼り付けられます。",
     "ctaPrimary": "Microsoft Storeで無料ダウンロード",
     "ctaSecondary": "14日間、Pro全機能を無料でお試し",
-    "trust": "Microsoft Store 認定 · データはPC内で暗号化保存"
+    "trust": "Microsoft Store 認定 · データはPC内で暗号化保存",
+    "screenshotAlt": "MyQuickPaste：一覧をクリックすると登録した全文が貼り付け。Editで一度だけ登録。"
   },
   "problem": {
     "title": "こんな経験、ありませんか？",

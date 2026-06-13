@@ -98,6 +98,8 @@
     fillCards("usecases-grid", t.usecases && t.usecases.items);
     fillList("pricing-free-list", t.pricing && t.pricing.freeItems);
     fillList("pricing-pro-list", t.pricing && t.pricing.proItems);
+    var heroImg = document.getElementById("hero-screenshot");
+    if (heroImg && t.hero && t.hero.screenshotAlt) heroImg.alt = t.hero.screenshotAlt;
     if (t.meta) {
       document.title = t.meta.title || document.title;
       document.documentElement.lang = t.meta.lang || "ja";

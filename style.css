@@ -239,6 +239,20 @@ a:hover {
   font-size: 1rem;
 }
 
+.hero-screenshot-wrap {
+  max-width: min(1024px, 100%);
+  margin: 0.5rem auto 1.75rem;
+  padding: 0;
+}
+
+.hero-screenshot {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+}
+
 .hero-cta {
   margin-bottom: 0.75rem;
 }

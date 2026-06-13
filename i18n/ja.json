@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "ja",
-    "title": "MyQuickPaste - よく使う文字列をワンクリックでペースト",
-    "description": "同じ文字列のコピー&ペーストにうんざりしていませんか？MyQuickPasteは、AIプロンプトや定型文を保存してワンクリックで貼り付けられる軽量Windowsツール。Microsoft Storeで無料、14日間Pro全機能試用付き。"
+    "title": "MyQuickPaste - ワンクリックで全文を貼り付け",
+    "description": "毎日同じ文字列のコピペにうんざりしていませんか？MyQuickPasteは常に前面表示の超薄型Windowsサイドキック。一度登録したテキストをワンクリックで貼り付け。PC内暗号化保存、Microsoft Store無料。"
   },
   "lang": { "label": "言語" },
   "nav": {
@@ -12,9 +12,15 @@
     "privacy": "プライバシー"
   },
   "hero": {
-    "hook": "同じ文字列のコピー&ペースト、繰り返していませんか？",
-    "tagline": "よく使う文字列を保存して、ワンクリックでペースト",
-    "lead": "MyQuickPasteは、日々のコピー&ペースト作業を効率化する軽量Windowsアプリです。AIプロンプト、メール定型文、コード片などを登録し、どのアプリにもすぐ貼り付けられます。",
+    "kicker": "MyQuickPaste",
+    "headline": "毎日、同じ文字列のコピペにうんざりしていませんか？",
+    "lead1": "MyQuickPasteは、常に前面に表示される超薄型クリップボードサイドキック。ワンクリックですぐに、よく使うテキストを貼り付けられます。",
+    "lead2": "メールの挨拶、署名テンプレート、コード、AIプロンプトなどを一度登録すれば、集中を途切れさせることなく、すぐに呼び出せます。",
+    "features": [
+      { "label": "集中を妨げない", "text": "常に前面表示。作業の流れを止めません。" },
+      { "label": "ローカル暗号化", "text": "データはPC内に安全保存。クラウド送信なし。" },
+      { "label": "毎日の入力をゼロに", "text": "同じ文字の打ち直しをなくします。" }
+    ],
     "ctaPrimary": "Microsoft Storeで無料ダウンロード",
     "ctaSecondary": "14日間、Pro全機能を無料でお試し",
     "trust": "Microsoft Store 認定 · データはPC内で暗号化保存",

@@ -212,10 +212,12 @@ a:hover {
   box-shadow: var(--shadow);
 }
 
-.hero-hook {
-  margin: 1.25rem 0 0.5rem;
-  font-size: 1.05rem;
-  font-weight: 600;
+.hero-kicker {
+  margin: 1.25rem 0 0.35rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
   color: var(--pro);
 }
 
@@ -224,19 +226,60 @@ a:hover {
   font-size: 2.25rem;
   font-weight: 800;
   letter-spacing: -0.02em;
+  line-height: 1.2;
+  max-width: 18em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .tagline {
-  font-size: 1.2rem;
+  font-size: 1.12rem;
   font-weight: 600;
-  margin: 0.5rem 0 0.75rem;
+  margin: 1rem 0 0.65rem;
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--fg);
 }
 
 .lead {
   color: var(--muted);
-  max-width: 38em;
-  margin: 0 auto 1.5rem;
+  max-width: 40em;
+  margin: 0 auto 1.25rem;
   font-size: 1rem;
+}
+
+.hero-features {
+  list-style: none;
+  margin: 0 auto 1.5rem;
+  padding: 0;
+  max-width: 40em;
+  text-align: left;
+}
+
+.hero-features li {
+  position: relative;
+  padding-left: 1.35rem;
+  margin-bottom: 0.55rem;
+  color: var(--fg);
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+.hero-features li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.62em;
+  width: 0.42rem;
+  height: 0.42rem;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.hero-features strong {
+  font-weight: 700;
+  color: var(--fg);
 }
 
 .hero-screenshot-wrap {
@@ -507,10 +550,10 @@ footer p {
   }
 
   .hero-title {
-    font-size: 1.75rem;
+    font-size: 1.65rem;
   }
 
   .tagline {
-    font-size: 1.05rem;
+    font-size: 1.02rem;
   }
 }

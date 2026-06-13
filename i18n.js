@@ -33,6 +33,15 @@
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
 
+  function fillHeroFeatures(id, items) {
+    var ul = document.getElementById(id);
+    if (!ul || !items) return;
+    ul.innerHTML = items.map(function (item) {
+      if (typeof item === "string") return "<li>" + escapeHtml(item) + "</li>";
+      return "<li><strong>" + escapeHtml(item.label) + "</strong>: " + escapeHtml(item.text) + "</li>";
+    }).join("");
+  }
+
   function fillList(id, items) {
     var ul = document.getElementById(id);
     if (!ul || !items) return;
@@ -92,6 +101,7 @@
       if (val != null) el.textContent = val;
     });
     fillList("problem-list", t.problem && t.problem.items);
+    fillHeroFeatures("hero-features", t.hero && t.hero.features);
     setText("problem-solution", t.problem && t.problem.solution);
     fillCards("benefits-grid", t.benefits && t.benefits.items);
     fillCards("features-grid", t.features && t.features.items);

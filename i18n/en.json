@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "en",
-    "title": "MyQuickPaste - Paste Your Frequent Text with One Click",
-    "description": "Tired of copying and pasting the same text over and over? MyQuickPaste is a lightweight Windows tool to save snippets, AI prompts, and templates. Free on Microsoft Store with a 14-day Pro trial."
+    "title": "MyQuickPaste - One Click. Paste the Full Text.",
+    "description": "Stop copy-pasting the same text every day. MyQuickPaste is an ultra-slim, always-on-top Windows sidekick that pastes your snippets with one click. Local, encrypted, free on Microsoft Store."
   },
   "lang": { "label": "Language" },
   "nav": {
@@ -12,9 +12,15 @@
     "privacy": "Privacy"
   },
   "hero": {
-    "hook": "Tired of copying and pasting the same text over and over?",
-    "tagline": "Save your frequent text and paste it with one click",
-    "lead": "MyQuickPaste is a lightweight Windows app that supercharges your daily copy-and-paste workflow. Store AI prompts, email templates, and code snippets, then paste them instantly into any app.",
+    "kicker": "MyQuickPaste",
+    "headline": "Stop Copy-Pasting the Same Text Every Single Day.",
+    "lead1": "MyQuickPaste is the ultra-slim, always-on-top clipboard sidekick that instantly pastes your frequently used text with just one click.",
+    "lead2": "Set up your snippets once—from email greetings, template signatures, to complex code and AI prompts—and access them immediately without ever losing your focus or disrupting your workflow.",
+    "features": [
+      { "label": "Zero-Interrupt Workflow", "text": "Constantly on top, completely focus-free." },
+      { "label": "Local & Encrypted", "text": "Your data stays safely on your PC. No cloud, no leaks." },
+      { "label": "Boost Daily Speed", "text": "Reduce repetitive typing to absolute zero." }
+    ],
     "ctaPrimary": "Get it free on Microsoft Store",
     "ctaSecondary": "Try all Pro features free for 14 days",
     "trust": "Microsoft Store certified · Data encrypted locally on your PC",

@@ -85,6 +85,7 @@
   }
 
   function apply(t) {
+    if (!t) return;
     document.querySelectorAll("[data-i18n]").forEach(function (el) {
       var key = el.getAttribute("data-i18n");
       var val = get(t, key);

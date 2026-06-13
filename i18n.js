@@ -3,25 +3,31 @@
   var SUPPORTED = ["ja", "en"];
   var DEFAULT = "ja";
   var STORAGE_KEY = "mqp-lang";
+  var LANG_NAMES = { ja: "\u65e5\u672c\u8a9e", en: "English" };
+
   function resolveLang(pref) {
     if (pref && SUPPORTED.indexOf(pref) !== -1) return pref;
     var nav = (navigator.language || "ja").slice(0, 2).toLowerCase();
     if (SUPPORTED.indexOf(nav) !== -1) return nav;
     return DEFAULT;
   }
+
   function get(obj, path) {
     return path.split(".").reduce(function (o, k) {
       return o && o[k] !== undefined ? o[k] : null;
     }, obj);
   }
+
   function escapeHtml(s) {
     return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
   }
+
   function fillList(id, items) {
     var ul = document.getElementById(id);
     if (!ul || !items) return;
     ul.innerHTML = items.map(function (item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("");
   }
+
   function fillCards(id, items) {
     var div = document.getElementById(id);
     if (!div || !items) return;
@@ -29,10 +35,43 @@
       return '<article class="card"><h3>' + escapeHtml(item.title) + "</h3><p>" + escapeHtml(item.text) + "</p></article>";
     }).join("");
   }
+
   function setText(id, text) {
     var el = document.getElementById(id);
     if (el && text) el.textContent = text;
   }
+
+  var pickerBtn = null;
+  var pickerMenu = null;
+  var pickerLabel = null;
+
+  function closeLangMenu() {
+    if (!pickerBtn || !pickerMenu) return;
+    pickerBtn.setAttribute("aria-expanded", "false");
+    pickerMenu.hidden = true;
+  }
+
+  function openLangMenu() {
+    if (!pickerBtn || !pickerMenu) return;
+    pickerBtn.setAttribute("aria-expanded", "true");
+    pickerMenu.hidden = false;
+  }
+
+  function toggleLangMenu() {
+    if (!pickerMenu) return;
+    if (pickerMenu.hidden) openLangMenu();
+    else closeLangMenu();
+  }
+
+  function updateLangPicker(lang) {
+    if (pickerLabel && LANG_NAMES[lang]) pickerLabel.textContent = LANG_NAMES[lang];
+    if (!pickerMenu) return;
+    pickerMenu.querySelectorAll("[data-lang]").forEach(function (item) {
+      var selected = item.getAttribute("data-lang") === lang;
+      item.setAttribute("aria-selected", selected ? "true" : "false");
+    });
+  }
+
   function apply(t) {
     document.querySelectorAll("[data-i18n]").forEach(function (el) {
       var key = el.getAttribute("data-i18n");
@@ -45,23 +84,25 @@
     fillCards("features-grid", t.features && t.features.items);
     fillCards("usecases-grid", t.usecases && t.usecases.items);
     fillList("pricing-free-list", t.pricing && t.pricing.freeItems);
-    fillList("pricing-pro-list", t.pricing && t.pricing.proItems);
+    fillList("pricing-pro-list", t.pricing && t.proicing.proItems);
     if (t.meta) {
       document.title = t.meta.title || document.title;
       document.documentElement.lang = t.meta.lang || "ja";
       var desc = document.querySelector('meta[name="description"]');
       if (desc && t.meta.description) desc.setAttribute("content", t.meta.description);
+      updateLangPicker(t.meta.lang || DEFAULT);
     }
-    var sel = document.getElementById("lang-select");
-    if (sel && t.meta && t.meta.lang) sel.value = t.meta.lang;
   }
+
   function load(lang) {
     return fetch("i18n/" + lang + ".json").then(function (res) {
       if (!res.ok) throw new Error("Failed to load i18n/" + lang + ".json");
       return res.json();
     });
   }
+
   function setLang(lang) {
+    closeLangMenu();
     var resolved = resolveLang(lang);
     return load(resolved).then(function (t) {
       apply(t);
@@ -71,11 +112,37 @@
       if (resolved !== DEFAULT) return setLang(DEFAULT);
     });
   }
+
+  function initLangPicker() {
+    pickerBtn = document.getElementById("lang-picker-btn");
+    pickerMenu = document.getElementById("lang-picker-menu");
+    pickerLabel = document.getElementById("lang-picker-label");
+    if (!pickerBtn || !pickerMenu) return;
+
+    pickerBtn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      toggleLangMenu();
+    });
+
+    pickerMenu.querySelectorAll("[data-lang]").forEach(function (item) {
+      item.addEventListener("click", function () {
+        setLang(item.getAttribute("data-lang"));
+      });
+    });
+
+    document.addEventListener("click", function () {
+      closeLangMenu();
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeLangMenu();
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
+    initLangPicker();
     var saved = null;
     try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
     setLang(saved);
-    var sel = document.getElementById("lang-select");
-    if (sel) sel.addEventListener("change", function () { setLang(sel.value); });
   });
 })();

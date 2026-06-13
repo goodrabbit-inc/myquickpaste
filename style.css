@@ -240,15 +240,20 @@ a:hover {
 }
 
 .hero-screenshot-wrap {
-  max-width: min(1024px, 100%);
-  margin: 0.5rem auto 1.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0.75rem auto 1.5rem;
   padding: 0;
 }
 
 .hero-screenshot {
   display: block;
   width: 100%;
+  max-width: 640px;
   height: auto;
+  margin: 0 auto;
   border-radius: 12px;
   box-shadow: var(--shadow);
 }

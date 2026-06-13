@@ -1,6 +1,6 @@
 # MyQuickPaste — GitHub Pages サイト
 
-公開 URL: https://gacha0124-sketch.github.io/myquickpaste/
+公開 URL: https://goodrabbit-inc.github.io/myquickpaste/
 
 ## 構成
 

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "lang": "ja",
+    "title": "MyQuickPaste - よく使う文字列をワンクリックでペースト",
+    "description": "同じ文字列のコピー&ペーストにうんざりしていませんか？MyQuickPasteは、AIプロンプトや定型文を保存してワンクリックで貼り付けられる軽量Windowsツール。Microsoft Storeで無料、14日間Pro全機能試用付き。"
+  },
+  "lang": { "label": "言語" },
+  "nav": {
+    "home": "ホーム",
+    "support": "サポート",
+    "releaseNotes": "リリースノート",
+    "privacy": "プライバシー"
+  },
+  "hero": {
+    "hook": "同じ文字列のコピー&ペースト、繰り返していませんか？",
+    "tagline": "よく使う文字列を保存して、ワンクリックでペースト",
+    "lead": "MyQuickPasteは、日々のコピー&ペースト作業を効率化する軽量Windowsアプリです。AIプロンプト、メール定型文、コード片などを登録し、どのアプリにもすぐ貼り付けられます。",
+    "ctaPrimary": "Microsoft Storeで無料ダウンロード",
+    "ctaSecondary": "14日間、Pro全機能を無料でお試し",
+    "trust": "Microsoft Store 認定 · データはPC内で暗号化保存"
+  },
+  "problem": {
+    "title": "こんな経験、ありませんか？",
+    "items": [
+      "ChatGPTのプロンプトを毎回探し直している",
+      "メールやチャットで同じ挨拶・返信文を何度も打っている",
+      "Excelの数式やIDをメモ帳から探している"
+    ],
+    "solution": "MyQuickPasteなら、一度保存するだけ。常に前面に表示されるコンパクトなウィンドウから、いつでもどこでもペーストできます。"
+  },
+  "benefits": {
+    "title": "選ばれる3つの理由",
+    "items": [
+      { "title": "ワンクリックでペースト", "text": "保存した文字列を、作業の流れを止めずにすぐ貼り付け。" },
+      { "title": "いつも手の届く場所に", "text": "コンパクトで常に前面表示。コピーのためにアプリを切り替える必要はありません。" },
+      { "title": "プライバシー重視", "text": "データはPC内に暗号化して保存。クラウドには送信しません。" }
+    ]
+  },
+  "features": {
+    "title": "主な機能",
+    "items": [
+      { "title": "テキストスロット", "text": "A〜Eの5タブで整理。無料版は10スロット、Proで拡張。" },
+      { "title": "クリップボード履歴", "text": "直近20件を自動保存（Pro）。過去のコピーをすぐ呼び出せます。" },
+      { "title": "クイック変換", "text": "日付・時刻の挿入や大文字/小文字変換をワンタップで。" },
+      { "title": "21言語UI", "text": "日本語・英語を含む21言語のインターフェースに対応。" }
+    ]
+  },
+  "usecases": {
+    "title": "こんな方におすすめ",
+    "items": [
+      { "title": "AI・プロンプト", "text": "長いChatGPTやClaudeのプロンプトを保存し、品質を保ったまま再利用。" },
+      { "title": "オフィス・メール", "text": "署名、定型返信、よく使うフレーズをカテゴリ別に管理。" },
+      { "title": "開発・Excel", "text": "コード片、数式、パス、IDなどをすぐ挿入できる状態で保持。" },
+      { "title": "サポート・SNS", "text": "FAQ回答や定型挨拶をワンクリックでチャットに投入。" }
+    ]
+  },
+  "pricing": {
+    "title": "料金",
+    "freeTitle": "無料版",
+    "freePrice": "¥0",
+    "freeItems": [
+      "テキストスロット最大10個",
+      "ウィンドウサイズ変更",
+      "21言語UI",
+      "14日間Pro全機能試用"
+    ],
+    "proTitle": "Pro版（買い切り）",
+    "proPrice": "価格はStoreでご確認ください",
+    "proItems": [
+      "スロット数の拡張",
+      "クリップボード履歴（20件）",
+      "インポート / エクスポート",
+      "買い切り・サブスクなし"
+    ],
+    "note": "本体アプリは無料です。Pro版はMicrosoft Storeのアドオンとして購入できます。"
+  },
+  "cta": {
+    "title": "繰り返し入力の時間を、もう無駄にしない",
+    "lead": "数分でインストール。無料で始めて、14日間すべてのPro機能を体験できます。",
+    "button": "Microsoft StoreでMyQuickPasteを入手"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

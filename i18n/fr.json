@@ -2,7 +2,7 @@
   "meta": {
     "lang": "fr",
     "title": "MyQuickPaste - Collez tout le texte en un clic",
-    "description": "Vous copiez-collez les mêmes textes chaque jour ? MyQuickPaste, l'assistant Windows toujours au premier plan. Gratuit sur Microsoft Store."
+    "description": "Vous copiez-collez les mêmes textes chaque jour ? Enregistrez vos passages favoris et collez-les en un clic. Un outil Windows léger, toujours sous la main. Gratuit sur Microsoft Store."
   },
   "lang": {
     "label": "Langue"
@@ -16,27 +16,27 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Enregistrez vos textes fréquents. Collez en un clic.",
-    "headline": "MyQuickPaste — un outil Windows léger et toujours visible pour coller vos textes en un clic, depuis le coin de l'écran",
+    "headline": "MyQuickPaste — reste dans un coin de l'écran. Collez vos textes enregistrés en un clic sur Windows.",
     "features": [
       {
-        "label": "Accès instantané",
-        "text": "Récupérez prompts IA, extraits de code et modèles d'e-mails en un instant."
+        "label": "Collage en un clic",
+        "text": "Prompts IA, extraits de code et modèles d'e-mails, directement là où vous travaillez."
       },
       {
-        "label": "Enregistrement simple",
-        "text": "Enregistrez un texte copié immédiatement, sans prise de tête."
+        "label": "Configuration facile",
+        "text": "Copiez un texte, enregistrez-le dans un slot. C'est tout."
       },
       {
-        "label": "100 % local",
-        "text": "Données chiffrées sur votre PC. Confidentialité totale, sans cloud."
+        "label": "Reste sur votre PC",
+        "text": "Stockage local chiffré. Rien n'est envoyé dans le cloud."
       },
       {
-        "label": "Prêt en un clin d'œil",
-        "text": "Interface simple : ~200 px de large, toujours au premier plan."
+        "label": "Simple et clair",
+        "text": "Affichage compact, toujours au premier plan, facile à prendre en main dès le premier jour."
       }
     ],
     "ctaPrimary": "Télécharger gratuitement sur Microsoft Store",
-    "ctaSecondary": "Essai Pro gratuit pendant 14 jours",
+    "ctaSecondary": "Essayez toutes les fonctions Pro gratuitement pendant 14 jours",
     "trust": "Certifié Microsoft Store · Données chiffrées localement sur votre PC",
     "screenshotAlt": "MyQuickPaste : cliquez sur un slot pour coller le texte complet. Configurez une fois dans Modifier."
   },
@@ -44,46 +44,46 @@
     "title": "Ça vous parle ?",
     "items": [
       "Retrouver le même prompt ChatGPT à chaque fois",
-      "Retaper les mêmes salutations dans vos e-mails",
-      "Chercher une formule Excel dans le Bloc-notes"
+      "Retaper les mêmes salutations et réponses dans vos e-mails et chats",
+      "Chercher une formule Excel ou un identifiant dans le Bloc-notes"
     ],
-    "solution": "Avec MyQuickPaste, enregistrez une fois. Collez depuis une fenêtre compacte toujours visible."
+    "solution": "Enregistrez une fois dans MyQuickPaste. Collez à tout moment depuis une fenêtre compacte toujours visible."
   },
   "benefits": {
     "title": "Trois raisons de l'adopter",
     "items": [
       {
         "title": "Collage en un clic",
-        "text": "Collez vos textes sans interrompre votre flux de travail."
+        "text": "Collez vos textes enregistrés sans interrompre votre travail."
       },
       {
         "title": "Toujours à portée de main",
-        "text": "Fenêtre compacte et toujours au premier plan."
+        "text": "Affichage compact et toujours au premier plan — plus besoin de changer d'application pour copier-coller."
       },
       {
-        "title": "Confidentialité",
-        "text": "Vos données restent sur votre PC, chiffrées localement."
+        "title": "Respect de la vie privée",
+        "text": "Vos textes restent sur votre PC, chiffrés. Rien n'est envoyé dans le cloud."
       }
     ]
   },
   "features": {
-    "title": "Fonctionnalités clés",
+    "title": "Fonctionnalités principales",
     "items": [
       {
         "title": "Slots de texte",
-        "text": "Organisez par onglets A–E. Gratuit : 10 slots. Pro : plus."
+        "text": "Organisez avec les onglets A à E. La version gratuite inclut 10 slots ; Pro en ajoute davantage."
       },
       {
         "title": "Historique du presse-papiers",
-        "text": "20 derniers copies (Pro)."
+        "text": "Enregistrement automatique des 20 dernières copies (Pro). Collez en un clic un texte copié plus tôt."
       },
       {
         "title": "Transformations rapides",
-        "text": "Date, heure, casse en un tap."
+        "text": "Insérez la date ou l'heure, ou changez la casse avant de coller."
       },
       {
-        "title": "Interface 21 langues",
-        "text": "Disponible en 21 langues."
+        "title": "21 langues",
+        "text": "Utilisez l'application en 21 langues, dont le français et l'anglais."
       }
     ]
   },
@@ -91,20 +91,20 @@
     "title": "Idéal pour",
     "items": [
       {
-        "title": "Professionnels",
-        "text": "Modèles d'e-mails et réponses types en un clic."
+        "title": "Le travail de bureau",
+        "text": "Modèles d'e-mails, signatures et réponses types — en un clic."
       },
       {
-        "title": "Créateurs & devs",
-        "text": "Prompts IA, code et modèles instantanément."
+        "title": "Créateurs et développeurs",
+        "text": "Prompts IA, extraits de code et modèles collés en un instant."
       },
       {
-        "title": "Support",
-        "text": "FAQ et salutations prêtes à coller."
+        "title": "Support et administration",
+        "text": "Réponses FAQ et salutations standard dans le chat, en un clic."
       },
       {
-        "title": "Utilisateurs quotidiens",
-        "text": "Fini la saisie répétitive."
+        "title": "Tous ceux qui tapent toute la journée",
+        "text": "Éliminez la saisie répétitive dès aujourd'hui."
       }
     ]
   },
@@ -113,24 +113,24 @@
     "freeTitle": "Gratuit",
     "freePrice": "0 €",
     "freeItems": [
-      "10 slots",
+      "Jusqu'à 10 slots de texte",
       "Fenêtre redimensionnable",
       "21 langues",
-      "Essai Pro 14 jours"
+      "Essai Pro complet de 14 jours"
     ],
     "proTitle": "Pro (achat unique)",
-    "proPrice": "Voir le Store",
+    "proPrice": "Voir le prix sur Microsoft Store",
     "proItems": [
-      "Plus de slots",
-      "Historique (20)",
+      "Plus de slots de texte",
+      "Historique du presse-papiers (20 éléments)",
       "Import / export",
-      "Sans abonnement"
+      "Achat unique, sans abonnement"
     ],
-    "note": "L'application de base est gratuite. Pro disponible en add-on Store."
+    "note": "L'application de base est gratuite. Pro est disponible en tant que module complémentaire sur Microsoft Store."
   },
   "cta": {
-    "title": "Arrêtez de perdre du temps à retaper",
-    "lead": "Installez en quelques minutes.",
+    "title": "Ne perdez plus de temps à retaper la même chose",
+    "lead": "Installez en quelques minutes. Commencez gratuitement et testez toutes les fonctions Pro pendant 14 jours.",
     "button": "Télécharger gratuitement sur Microsoft Store"
   },
   "footer": {

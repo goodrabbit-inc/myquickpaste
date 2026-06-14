@@ -2,7 +2,7 @@
   "meta": {
     "lang": "de",
     "title": "MyQuickPaste – Mit einem Klick einfügen",
-    "description": "Kopieren Sie täglich denselben Text? Schlankes Windows-Tool, immer im Vordergrund. Kostenlos im Microsoft Store."
+    "description": "Kopieren Sie täglich denselben Text? Speichern Sie Ihre Textbausteine und fügen Sie sie mit einem Klick ein. Ein schlankes Windows-Tool, immer griffbereit. Kostenlos im Microsoft Store."
   },
   "lang": {
     "label": "Sprache"
@@ -16,53 +16,53 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Häufig genutzten Text speichern. Mit einem Klick einfügen.",
-    "headline": "MyQuickPaste – schlankes, immer sichtbares Windows-Tool für schnelles Einfügen per Klick in der Bildschirmecke",
+    "headline": "MyQuickPaste – sitzt in der Bildschirmecke. Gespeicherten Text mit einem Klick unter Windows einfügen.",
     "features": [
       {
-        "label": "Sofort abrufen",
-        "text": "KI-Prompts, Code-Snippets und E-Mail-Vorlagen blitzschnell nutzen."
+        "label": "Einfügen mit einem Klick",
+        "text": "KI-Prompts, Code-Snippets und E-Mail-Vorlagen direkt dort einfügen, wo Sie arbeiten."
       },
       {
-        "label": "Einfach speichern",
-        "text": "Kopierte Texte sofort registrieren – ganz unkompliziert."
+        "label": "Einfach einrichten",
+        "text": "Text kopieren, als Slot speichern. Fertig."
       },
       {
-        "label": "100 % lokal",
-        "text": "Verschlüsselt auf dem PC. Volle Privatsphäre, kein Cloud-Upload."
+        "label": "Bleibt auf Ihrem PC",
+        "text": "Verschlüsselte lokale Speicherung. Nichts wird in die Cloud hochgeladen."
       },
       {
-        "label": "Sofort verständlich",
-        "text": "Schmal (~200 px), immer im Vordergrund, sofort einsatzbereit."
+        "label": "Einfach und übersichtlich",
+        "text": "Kompakte Anzeige, immer im Vordergrund – vom ersten Tag an leicht zu bedienen."
       }
     ],
     "ctaPrimary": "Kostenlos im Microsoft Store herunterladen",
-    "ctaSecondary": "14 Tage Pro kostenlos testen",
-    "trust": "Microsoft Store-zertifiziert · Lokal verschlüsselt auf Ihrem PC",
+    "ctaSecondary": "Alle Pro-Funktionen 14 Tage kostenlos testen",
+    "trust": "Microsoft Store-zertifiziert · Daten lokal verschlüsselt auf Ihrem PC",
     "screenshotAlt": "MyQuickPaste: Slot anklicken, vollständigen Text einfügen. Einmal in Bearbeiten einrichten."
   },
   "problem": {
     "title": "Kommt Ihnen bekannt vor?",
     "items": [
-      "Immer wieder denselben ChatGPT-Prompt suchen",
-      "Gleiche E-Mail-Grüße neu tippen",
-      "Excel-Formeln im Editor suchen"
+      "Jedes Mal denselben ChatGPT-Prompt wieder suchen",
+      "Immer wieder dieselben Grüße und Antworten in E-Mails und Chats tippen",
+      "Excel-Formeln oder IDs im Editor suchen, die Sie täglich brauchen"
     ],
-    "solution": "Mit MyQuickPaste einmal speichern. Jederzeit aus dem kompakten Fenster einfügen."
+    "solution": "Einmal in MyQuickPaste speichern. Jederzeit aus dem kompakten Fenster im Vordergrund einfügen."
   },
   "benefits": {
-    "title": "Drei Gründe für MyQuickPaste",
+    "title": "Drei Gründe, die überzeugen",
     "items": [
       {
         "title": "Einfügen mit einem Klick",
-        "text": "Ohne Workflow-Unterbrechung."
+        "text": "Gespeicherten Text einfügen, ohne den Arbeitsfluss zu unterbrechen."
       },
       {
         "title": "Immer griffbereit",
-        "text": "Kompakt und immer im Vordergrund."
+        "text": "Kompakt und immer im Vordergrund – kein App-Wechsel nur zum Kopieren und Einfügen."
       },
       {
-        "title": "Privatsphäre",
-        "text": "Verschlüsselt lokal auf dem PC."
+        "title": "Datenschutz von Anfang an",
+        "text": "Ihre Textbausteine bleiben verschlüsselt auf Ihrem PC. Nichts geht in die Cloud."
       }
     ]
   },
@@ -71,40 +71,40 @@
     "items": [
       {
         "title": "Text-Slots",
-        "text": "Tabs A–E. Gratis: 10 Slots."
+        "text": "Organisieren mit Tabs A–E. Kostenlos 10 Slots; Pro bietet mehr."
       },
       {
         "title": "Zwischenablage-Verlauf",
-        "text": "20 Einträge (Pro)."
+        "text": "Automatisches Speichern der letzten 20 Kopien (Pro). Früher kopierte Inhalte mit einem Klick einfügen."
       },
       {
-        "title": "Schnellfunktionen",
-        "text": "Datum, Uhrzeit, Groß/Klein."
+        "title": "Schnelle Transformationen",
+        "text": "Datum oder Uhrzeit einfügen oder die Groß-/Kleinschreibung vor dem Einfügen ändern."
       },
       {
         "title": "21 Sprachen",
-        "text": "Mehrsprachige Oberfläche."
+        "text": "Nutzen Sie die App in 21 Sprachen, einschließlich Deutsch und Englisch."
       }
     ]
   },
   "usecases": {
-    "title": "Perfekt für",
+    "title": "Ideal für",
     "items": [
       {
-        "title": "Business",
-        "text": "E-Mail-Vorlagen per Klick."
+        "title": "Büroarbeit",
+        "text": "E-Mail-Vorlagen, Signaturen und Standardantworten – mit einem Klick."
       },
       {
-        "title": "Entwickler",
-        "text": "Code und Prompts sofort einfügen."
+        "title": "Kreative und Entwickler",
+        "text": "KI-Prompts, Code-Snippets und Vorlagen sofort einfügen."
       },
       {
-        "title": "Support",
-        "text": "FAQ-Antworten bereithalten."
+        "title": "Support und Verwaltung",
+        "text": "FAQ-Antworten und Standardgrüße mit einem Klick in den Chat."
       },
       {
-        "title": "Tägliche PC-Nutzer",
-        "text": "Wiederholtes Tippen eliminieren."
+        "title": "Alle, die den ganzen Tag tippen",
+        "text": "Wiederholtes Tippen ab heute reduzieren."
       }
     ]
   },
@@ -113,24 +113,24 @@
     "freeTitle": "Kostenlos",
     "freePrice": "0 €",
     "freeItems": [
-      "10 Slots",
-      "Größe änderbar",
+      "Bis zu 10 Text-Slots",
+      "Größenveränderbares Fenster",
       "21 Sprachen",
-      "14 Tage Pro-Test"
+      "14-tägige Pro-Testversion"
     ],
     "proTitle": "Pro (Einmalkauf)",
-    "proPrice": "Preis im Store",
+    "proPrice": "Preis im Microsoft Store",
     "proItems": [
-      "Mehr Slots",
-      "Verlauf (20)",
-      "Import/Export",
-      "Kein Abo"
+      "Mehr Text-Slots",
+      "Zwischenablage-Verlauf (20 Einträge)",
+      "Import / Export",
+      "Einmalkauf, kein Abo"
     ],
-    "note": "Basis-App kostenlos. Pro als Store-Add-on."
+    "note": "Die Basis-App ist kostenlos. Pro ist als Add-on im Microsoft Store erhältlich."
   },
   "cta": {
-    "title": "Schluss mit repetitivem Tippen",
-    "lead": "In Minuten installiert.",
+    "title": "Keine Zeit mehr mit wiederholtem Tippen verschwenden",
+    "lead": "In wenigen Minuten installiert. Kostenlos starten und alle Pro-Funktionen 14 Tage testen.",
     "button": "Kostenlos im Microsoft Store herunterladen"
   },
   "footer": {

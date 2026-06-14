@@ -2,136 +2,136 @@
   "meta": {
     "lang": "pt",
     "title": "MyQuickPaste - Cole o texto completo com um clique",
-    "description": "Ainda copia o mesmo texto todos os dias? MyQuickPaste e um assistente Windows leve, sempre visivel. Gratis na Microsoft Store."
+    "description": "Copia e cola o mesmo texto todos os dias? Guarde frases frequentes e cole com um clique. Ferramenta leve para Windows. Grátis na Microsoft Store."
   },
   "lang": {
     "label": "Idioma"
   },
   "nav": {
-    "home": "Inicio",
+    "home": "Início",
     "support": "Suporte",
-    "releaseNotes": "Notas de versao",
+    "releaseNotes": "Notas de versão",
     "privacy": "Privacidade"
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Guarde textos usados com frequência. Cole com um clique.",
-    "headline": "MyQuickPaste — assistente Windows leve e sempre visivel para colar mais rapido com um clique no canto da tela",
+    "catch": "Guarde textos que usa com frequência. Cole com um clique.",
+    "headline": "MyQuickPaste — fica no canto do ecrã. Cole textos guardados com um clique no Windows.",
     "features": [
       {
-        "label": "Acesso instantaneo",
-        "text": "Prompts de IA, trechos de codigo e modelos de e-mail em segundos."
+        "label": "Colar com um clique",
+        "text": "Prompts de IA, trechos de código e modelos de e-mail, diretamente onde está a trabalhar."
       },
       {
-        "label": "Registro simples",
-        "text": "Registre o texto copiado na hora com um fluxo direto."
+        "label": "Fácil de configurar",
+        "text": "Copie o texto, guarde num slot. É só isso."
       },
       {
-        "label": "100% local",
-        "text": "Criptografado no PC. Privacidade total, sem nuvem."
+        "label": "Fica no seu PC",
+        "text": "Armazenamento local encriptado. Nada é enviado para a cloud."
       },
       {
-        "label": "Pronto em segundos",
-        "text": "Facil desde o primeiro dia: ~200 px, sempre visivel."
+        "label": "Simples e claro",
+        "text": "Visualização compacta, sempre visível, fácil de usar desde o primeiro dia."
       }
     ],
-    "ctaPrimary": "Baixar gratis na Microsoft Store",
-    "ctaSecondary": "Teste Pro gratis por 14 dias",
-    "trust": "Certificado Microsoft Store · Dados criptografados localmente no PC",
-    "screenshotAlt": "MyQuickPaste: clique em um slot para colar o texto completo. Configure uma vez em Editar."
+    "ctaPrimary": "Transferir grátis na Microsoft Store",
+    "ctaSecondary": "Experimente todas as funções Pro grátis durante 14 dias",
+    "trust": "Certificado Microsoft Store · Dados encriptados localmente no seu PC",
+    "screenshotAlt": "MyQuickPaste: clique num slot para colar o texto completo. Configure uma vez em Editar."
   },
   "problem": {
-    "title": "Parece familiar?",
+    "title": "Isto soa-lhe familiar?",
     "items": [
-      "Procurar o mesmo prompt do ChatGPT toda vez",
-      "Redigitar as mesmas saudacoes em e-mail e chat",
-      "Buscar formulas do Excel ou IDs no Bloco de notas"
+      "Procurar o mesmo prompt do ChatGPT sempre que precisa",
+      "Escrever as mesmas saudações e respostas em e-mail e chat",
+      "Procurar no Bloco de notas fórmulas Excel ou IDs que usa todos os dias"
     ],
-    "solution": "Com MyQuickPaste salve uma vez. Cole de uma janela compacta sempre visivel, a qualquer momento."
+    "solution": "Guarde uma vez no MyQuickPaste. Cole a qualquer momento a partir de uma janela compacta sempre visível."
   },
   "benefits": {
-    "title": "Tres motivos para escolher",
+    "title": "Três razões para escolher",
     "items": [
       {
         "title": "Colar com um clique",
-        "text": "Cole o texto salvo sem interromper o fluxo de trabalho."
+        "text": "Cole textos guardados sem interromper o seu fluxo de trabalho."
       },
       {
-        "title": "Sempre por perto",
-        "text": "Janela compacta e sempre visivel. Sem alternar apps so para copiar."
+        "title": "Sempre ao alcance",
+        "text": "Compacto e sempre visível — sem mudar de app só para copiar e colar."
       },
       {
-        "title": "Privacidade",
-        "text": "Seus dados ficam no PC, criptografados localmente. Sem nuvem."
+        "title": "Privacidade em primeiro lugar",
+        "text": "Os seus textos ficam no PC, encriptados. Nada é enviado para a cloud."
       }
     ]
   },
   "features": {
-    "title": "Recursos principais",
+    "title": "Funcionalidades principais",
     "items": [
       {
         "title": "Slots de texto",
-        "text": "Organize nas abas A–E. Gratis: 10 slots. Pro: mais."
+        "text": "Organize com os separadores A–E. A versão gratuita inclui 10 slots; Pro adiciona mais."
       },
       {
-        "title": "Historico da area de transferencia",
-        "text": "Salva automaticamente as ultimas 20 copias (Pro)."
+        "title": "Histórico da área de transferência",
+        "text": "Gravação automática das últimas 20 cópias (Pro). Cole com um clique algo copiado anteriormente."
       },
       {
-        "title": "Transformacoes rapidas",
-        "text": "Data, hora e maiusculas/minusculas com um toque."
+        "title": "Transformações rápidas",
+        "text": "Insira data ou hora, ou altere maiúsculas/minúsculas antes de colar."
       },
       {
-        "title": "Interface em 21 idiomas",
-        "text": "Disponivel em 21 idiomas, incluindo portugues."
+        "title": "21 idiomas",
+        "text": "Use a app em 21 idiomas, incluindo português e inglês."
       }
     ]
   },
   "usecases": {
-    "title": "Perfeito para",
+    "title": "Ideal para",
     "items": [
       {
-        "title": "Profissionais",
-        "text": "Modelos de e-mail, assinaturas e respostas com um clique."
+        "title": "Trabalho de escritório",
+        "text": "Modelos de e-mail, assinaturas e respostas habituais — com um clique."
       },
       {
-        "title": "Criadores e desenvolvedores",
-        "text": "Prompts de IA, codigo e modelos colados na hora."
+        "title": "Criadores e programadores",
+        "text": "Prompts de IA, trechos de código e modelos colados num instante."
       },
       {
-        "title": "Suporte",
-        "text": "Respostas de FAQ e saudacoes padrao no chat com um clique."
+        "title": "Suporte e administração",
+        "text": "Respostas de FAQ e saudações padrão no chat, com um clique."
       },
       {
-        "title": "Quem digita todo dia",
-        "text": "Elimine a digitacao repetitiva a partir de hoje."
+        "title": "Quem escreve o dia todo",
+        "text": "Elimine a escrita repetitiva a partir de hoje."
       }
     ]
   },
   "pricing": {
-    "title": "Precos",
-    "freeTitle": "Gratis",
-    "freePrice": "R$ 0",
+    "title": "Preços",
+    "freeTitle": "Grátis",
+    "freePrice": "0 €",
     "freeItems": [
-      "Ate 10 slots de texto",
-      "Janela redimensionavel",
-      "UI em 21 idiomas",
-      "Pro completo por 14 dias"
+      "Até 10 slots de texto",
+      "Janela redimensionável",
+      "21 idiomas",
+      "Teste Pro completo de 14 dias"
     ],
-    "proTitle": "Pro (compra unica)",
-    "proPrice": "Ver preco na Store",
+    "proTitle": "Pro (compra única)",
+    "proPrice": "Consulte o preço na Microsoft Store",
     "proItems": [
-      "Mais slots",
-      "Historico (20)",
+      "Mais slots de texto",
+      "Histórico da área de transferência (20 itens)",
       "Importar / exportar",
-      "Compra unica, sem assinatura"
+      "Compra única, sem subscrição"
     ],
-    "note": "O app base e gratuito. Pro esta disponivel como complemento na Microsoft Store."
+    "note": "A app base é gratuita. Pro está disponível como add-on na Microsoft Store."
   },
   "cta": {
-    "title": "Pare de perder tempo digitando o mesmo texto",
-    "lead": "Instale em minutos. Comece gratis e experimente todos os recursos Pro por 14 dias.",
-    "button": "Baixar gratis na Microsoft Store"
+    "title": "Pare de perder tempo a escrever o mesmo",
+    "lead": "Instale em minutos. Comece grátis e experimente todas as funções Pro durante 14 dias.",
+    "button": "Transferir grátis na Microsoft Store"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lang": "zh-CN",
+    "lang": "zh-cn",
     "title": "MyQuickPaste - 一键粘贴全文",
-    "description": "还在每天重复复制粘贴相同文字？MyQuickPaste 是常驻屏幕角落的轻量 Windows 工具。Microsoft Store 免费下载。"
+    "description": "每天都在重复复制粘贴同样的文字？保存常用文本，一键粘贴。轻量 Windows 常驻工具，Microsoft Store 免费下载。"
   },
   "lang": {
     "label": "语言"
@@ -10,59 +10,59 @@
   "nav": {
     "home": "首页",
     "support": "支持",
-    "releaseNotes": "发行说明",
+    "releaseNotes": "更新日志",
     "privacy": "隐私"
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "保存常用文本。一键粘贴。",
-    "headline": "MyQuickPaste — 放在屏幕角落、一键快速粘贴的 Windows 复制粘贴效率常驻轻量工具",
+    "catch": "保存常用文字，一键粘贴。",
+    "headline": "MyQuickPaste — 常驻屏幕角落，在 Windows 上一键粘贴已保存的文字。",
     "features": [
       {
-        "label": "即时调用",
-        "text": "快速调出 AI 提示词、代码片段和邮件模板。"
+        "label": "一键粘贴",
+        "text": "AI 提示词、代码片段、邮件模板，直接粘贴到当前工作位置。"
       },
       {
-        "label": "简单注册",
-        "text": "复制的内容可立即保存，操作非常简单。"
+        "label": "轻松注册",
+        "text": "复制文字，保存为槽位，就这么简单。"
       },
       {
-        "label": "100% 本地存储",
-        "text": "数据加密，完全保护隐私，不上传云端。"
+        "label": "只保存在本机",
+        "text": "数据加密存储在本地，不会上传到云端。"
       },
       {
-        "label": "上手即用",
-        "text": "新手也能秒懂：宽约 200px，始终置顶显示。"
+        "label": "简洁清晰",
+        "text": "紧凑显示、始终置顶，上手即用。"
       }
     ],
     "ctaPrimary": "在 Microsoft Store 免费下载",
-    "ctaSecondary": "14 天免费试用 Pro 全部功能",
-    "trust": "Microsoft Store 认证 · 数据在 PC 本地加密保存",
-    "screenshotAlt": "MyQuickPaste：点击槽位即可粘贴完整文本。在编辑中一次性设置。"
+    "ctaSecondary": "14 天免费试用全部 Pro 功能",
+    "trust": "Microsoft Store 认证 · 数据在本机加密保存",
+    "screenshotAlt": "MyQuickPaste：点击槽位即可粘贴完整文字。在编辑中一次性设置。"
   },
   "problem": {
-    "title": "是否有同感？",
+    "title": "你是否也有这样的经历？",
     "items": [
-      "每次都要找相同的 ChatGPT 提示词",
-      "在邮件和聊天中重复输入相同问候语",
-      "在记事本里找 Excel 公式或 ID"
+      "每次都要重新找同一个 ChatGPT 提示词",
+      "在邮件和聊天中反复输入相同的问候和回复",
+      "在记事本里翻找每天用的 Excel 公式或 ID"
     ],
-    "solution": "MyQuickPaste 一次保存，随时从置顶小窗粘贴。"
+    "solution": "在 MyQuickPaste 中保存一次，随时从紧凑的置顶窗口一键粘贴。"
   },
   "benefits": {
-    "title": "用户喜爱的三大理由",
+    "title": "三个选择它的理由",
     "items": [
       {
         "title": "一键粘贴",
-        "text": "不中断工作流程，立即粘贴。"
+        "text": "粘贴已保存的文字，不打断工作流程。"
       },
       {
-        "title": "触手可及",
-        "text": "小巧置顶，无需切换窗口。"
+        "title": "始终触手可及",
+        "text": "紧凑显示、始终置顶，无需切换应用来复制粘贴。"
       },
       {
-        "title": "隐私优先",
-        "text": "数据本地加密，不上传云端。"
+        "title": "注重隐私",
+        "text": "文字片段加密保存在本机，不会发送到云端。"
       }
     ]
   },
@@ -71,66 +71,66 @@
     "items": [
       {
         "title": "文本槽位",
-        "text": "A–E 五个标签页整理。免费 10 个槽位。"
+        "text": "用 A–E 五个标签页整理。免费版 10 个槽位，Pro 可扩展更多。"
       },
       {
         "title": "剪贴板历史",
-        "text": "自动保存最近 20 条（Pro）。"
+        "text": "自动保存最近 20 条复制记录（Pro）。一键粘贴之前复制的内容。"
       },
       {
         "title": "快速转换",
-        "text": "插入日期、时间或更改大小写。"
+        "text": "插入日期或时间，或在粘贴前切换大小写。"
       },
       {
         "title": "21 种语言",
-        "text": "界面支持 21 种语言。"
+        "text": "支持包括中文和日语在内的 21 种界面语言。"
       }
     ]
   },
   "usecases": {
-    "title": "适合人群",
+    "title": "适合这些用户",
     "items": [
       {
-        "title": "商务人士",
-        "text": "邮件模板和签名一键粘贴。"
+        "title": "办公人士",
+        "text": "邮件模板、签名、常用回复，一键粘贴。"
       },
       {
         "title": "创作者与开发者",
-        "text": "AI 提示词和代码即时粘贴。"
+        "text": "AI 提示词、代码片段、模板，即刻粘贴。"
       },
       {
-        "title": "客服支持",
-        "text": "FAQ 和标准回复快速发送。"
+        "title": "客服与行政",
+        "text": "FAQ 回答和标准问候语，一键发送到聊天。"
       },
       {
-        "title": "日常 PC 用户",
-        "text": "告别重复输入。"
+        "title": "每天大量输入的用户",
+        "text": "从今天起，告别重复输入。"
       }
     ]
   },
   "pricing": {
     "title": "价格",
-    "freeTitle": "免费",
+    "freeTitle": "免费版",
     "freePrice": "¥0",
     "freeItems": [
-      "最多 10 个槽位",
-      "可调窗口大小",
+      "最多 10 个文本槽位",
+      "可调整窗口大小",
       "21 种语言",
-      "14 天 Pro 试用"
+      "14 天 Pro 全功能试用"
     ],
-    "proTitle": "Pro（一次性购买）",
-    "proPrice": "请在 Store 查看价格",
+    "proTitle": "Pro 版（一次性购买）",
+    "proPrice": "价格请见 Microsoft Store",
     "proItems": [
-      "扩展槽位",
+      "扩展槽位数量",
       "剪贴板历史（20 条）",
-      "导入/导出",
+      "导入 / 导出",
       "一次性购买，无订阅"
     ],
-    "note": "基础应用免费。Pro 为 Microsoft Store 附加组件。"
+    "note": "基础应用免费。Pro 版可在 Microsoft Store 以附加组件形式购买。"
   },
   "cta": {
     "title": "别再浪费时间重复输入",
-    "lead": "几分钟即可安装。",
+    "lead": "几分钟即可安装。免费开始，14 天内体验全部 Pro 功能。",
     "button": "在 Microsoft Store 免费下载"
   },
   "footer": {

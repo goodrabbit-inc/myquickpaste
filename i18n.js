@@ -72,6 +72,14 @@
     return DEFAULT;
   }
 
+  function getLangFromUrl() {
+    try {
+      return new URLSearchParams(window.location.search).get("lang");
+    } catch (e) {
+      return null;
+    }
+  }
+
   function getBasePath() {
     var path = location.pathname || "/";
     if (/\.html$/i.test(path)) {
@@ -179,7 +187,32 @@
     });
   }
 
-  function apply(t, lang) {
+  function updatePageSeo(langCode, t, historyMode) {
+    if (t && t.meta) {
+      document.documentElement.lang = t.meta.lang || langCode;
+      if (t.meta.title) document.title = t.meta.title;
+      var desc = document.querySelector('meta[name="description"]');
+      if (desc && t.meta.description) desc.setAttribute("content", t.meta.description);
+    }
+
+    if (!historyMode) return;
+
+    var newUrl =
+      window.location.protocol +
+      "//" +
+      window.location.host +
+      window.location.pathname +
+      "?lang=" +
+      encodeURIComponent(langCode);
+
+    if (historyMode === "replace") {
+      window.history.replaceState({ path: newUrl, lang: langCode }, "", newUrl);
+    } else if (historyMode === "push") {
+      window.history.pushState({ path: newUrl, lang: langCode }, "", newUrl);
+    }
+  }
+
+  function apply(t, lang, historyMode) {
     if (!t) return;
     document.querySelectorAll("[data-i18n]").forEach(function (el) {
       var key = el.getAttribute("data-i18n");
@@ -198,13 +231,8 @@
     if (heroImg && t.hero && t.hero.screenshotAlt) heroImg.alt = t.hero.screenshotAlt;
     applyStoreLinks();
     applyDocumentDirection(lang);
-    if (t.meta) {
-      document.title = t.meta.title || document.title;
-      document.documentElement.lang = t.meta.lang || lang;
-      var desc = document.querySelector('meta[name="description"]');
-      if (desc && t.meta.description) desc.setAttribute("content", t.meta.description);
-      updateLangPicker(lang);
-    }
+    updateLangPicker(lang);
+    updatePageSeo(lang, t, historyMode);
   }
 
   function load(lang) {
@@ -216,15 +244,16 @@
     });
   }
 
-  function setLang(lang) {
+  function setLang(lang, historyMode) {
     var resolved = resolveLang(lang);
+    var history = historyMode !== undefined ? historyMode : "push";
     return load(resolved).then(function (t) {
-      apply(t, resolved);
+      apply(t, resolved, history);
       closeLangMenu();
       try { localStorage.setItem(STORAGE_KEY, resolved); } catch (e) {}
     }).catch(function (err) {
       console.error(err);
-      if (resolved !== FALLBACK) return setLang(FALLBACK);
+      if (resolved !== FALLBACK) return setLang(FALLBACK, history);
     });
   }
 
@@ -256,13 +285,19 @@
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape") closeLangMenu();
     });
+
+    window.addEventListener("popstate", function () {
+      var urlLang = getLangFromUrl();
+      if (urlLang) setLang(urlLang, null);
+    });
   }
 
   document.addEventListener("DOMContentLoaded", function () {
     initLangPicker();
     applyStoreLinks();
+    var urlLang = getLangFromUrl();
     var saved = null;
     try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
-    setLang(saved);
+    setLang(urlLang || saved, "replace");
   });
 })();

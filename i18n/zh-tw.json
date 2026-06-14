@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "開發：Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "支援 — MyQuickPaste",
+    "title": "支援",
+    "faqTitle": "常見問題",
+    "faq1Q": "免費版與 Pro 版有何差異？",
+    "faq1A": "免費版最多支援 10 個槽位。Pro（Store 附加元件，一次性購買）可解鎖更多槽位、剪貼簿歷史、匯入/匯出等。可免費試用 Pro 全部功能 14 天。",
+    "faq2Q": "如何購買 Pro？",
+    "faq2A": "在應用程式內點選「升級至 Pro 版」即可開啟 Microsoft Store 購買頁面。",
+    "contactTitle": "聯絡我們",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "版本資訊 — MyQuickPaste",
+    "title": "版本資訊",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "改進 Pro 附加元件購買判定",
+      "整理購買狀態診斷畫面"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "修正附加元件購買後仍顯示試用的問題"
+    ],
+    "latestPrefix": "最新版本請從",
+    "latestSuffix": "取得。",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "隱私權 — MyQuickPaste",
+    "title": "隱私權",
+    "updated": "最後更新：2026年6月",
+    "overviewTitle": "概述",
+    "overviewText": "MyQuickPaste 是由 Good Rabbit inc. 提供的 Windows 應用程式。",
+    "dataTitle": "資料儲存",
+    "dataText": "常用文字、設定和歷史記錄均保存在您的 PC 本機（如 %AppData%\\MyQuickPaste）。資料不會傳送到 PC 以外。",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Pro 購買與授權驗證由 Microsoft Store 處理。"
   }
 }

@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "تطوير: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "الدعم — MyQuickPaste",
+    "title": "الدعم",
+    "faqTitle": "الأسئلة الشائعة",
+    "faq1Q": "ما الفرق بين النسخة المجانية وPro؟",
+    "faq1A": "النسخة المجانية تدعم حتى 10 فتحات. Pro (إضافة Store لمرة واحدة) تفتح المزيد من الفتحات وسجل الحافظة والاستيراد/التصدير وغيرها. جرّب Pro مجانًا 14 يومًا.",
+    "faq2Q": "كيف أشتري Pro؟",
+    "faq2A": "استخدم «الترقية إلى Pro» في التطبيق لفتح صفحة الشراء في Microsoft Store.",
+    "contactTitle": "اتصل بنا",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "ملاحظات الإصدار — MyQuickPaste",
+    "title": "ملاحظات الإصدار",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "تحسين اكتشاف شراء إضافة Pro",
+      "تبسيط شاشة تشخيص الترخيص"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "إصلاح عرض الفترة التجريبية بعد شراء الإضافة"
+    ],
+    "latestPrefix": "احصل على أحدث إصدار من ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "الخصوصية — MyQuickPaste",
+    "title": "الخصوصية",
+    "updated": "آخر تحديث: يونيو 2026",
+    "overviewTitle": "نظرة عامة",
+    "overviewText": "MyQuickPaste تطبيق Windows من Good Rabbit inc.",
+    "dataTitle": "تخزين البيانات",
+    "dataText": "يتم تخزين النصوص والإعدادات والسجل محليًا على جهازك (مثل %AppData%\\MyQuickPaste). لا تُرسل بياناتك خارج جهازك.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "تتم معالجة مشتريات Pro والتحقق من الترخيص عبر Microsoft Store."
   }
 }

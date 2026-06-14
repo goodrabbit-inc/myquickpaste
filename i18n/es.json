@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Desarrollo: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Soporte — MyQuickPaste",
+    "title": "Soporte",
+    "faqTitle": "Preguntas frecuentes",
+    "faq1Q": "¿Cuál es la diferencia entre la versión gratuita y Pro?",
+    "faq1A": "La versión gratuita incluye hasta 10 ranuras. Pro (complemento del Store, pago único) desbloquea más ranuras, historial del portapapeles, importar/exportar, etc. Prueba Pro gratis durante 14 días.",
+    "faq2Q": "¿Cómo compro Pro?",
+    "faq2A": "Use «Actualizar a Pro» en la app para abrir la página de compra de Microsoft Store.",
+    "contactTitle": "Contacto",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Notas de la versión — MyQuickPaste",
+    "title": "Notas de la versión",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Mejora en la detección de compra del complemento Pro",
+      "Pantalla de diagnóstico de licencia simplificada"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Corregido error de visualización de prueba tras comprar el complemento"
+    ],
+    "latestPrefix": "Obtenga la última versión en ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Política de privacidad — MyQuickPaste",
+    "title": "Política de privacidad",
+    "updated": "Última actualización: junio de 2026",
+    "overviewTitle": "Resumen",
+    "overviewText": "MyQuickPaste es una aplicación de Windows de Good Rabbit inc.",
+    "dataTitle": "Almacenamiento de datos",
+    "dataText": "Textos, ajustes e historial se guardan localmente en su PC (p. ej. %AppData%\\MyQuickPaste). Sus datos nunca se envían fuera de su equipo.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Las compras Pro y la verificación de licencia las gestiona Microsoft Store."
   }
 }

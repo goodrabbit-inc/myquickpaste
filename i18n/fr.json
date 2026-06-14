@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Développement : Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Assistance — MyQuickPaste",
+    "title": "Assistance",
+    "faqTitle": "Questions fréquentes",
+    "faq1Q": "Quelle est la différence entre la version gratuite et Pro ?",
+    "faq1A": "La version gratuite inclut jusqu'à 10 emplacements. Pro (module complémentaire Store, achat unique) débloque plus d'emplacements, l'historique du presse-papiers, l'import/export, etc. Essai Pro gratuit pendant 14 jours.",
+    "faq2Q": "Comment acheter Pro ?",
+    "faq2A": "Utilisez « Passer à Pro » dans l'application pour ouvrir la page d'achat Microsoft Store.",
+    "contactTitle": "Contact",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Notes de version — MyQuickPaste",
+    "title": "Notes de version",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Amélioration de la détection d'achat du module Pro",
+      "Écran de diagnostic de licence simplifié"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Correction de l'affichage d'essai après achat du module"
+    ],
+    "latestPrefix": "Obtenez la dernière version sur ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Politique de confidentialité — MyQuickPaste",
+    "title": "Politique de confidentialité",
+    "updated": "Dernière mise à jour : juin 2026",
+    "overviewTitle": "Aperçu",
+    "overviewText": "MyQuickPaste est une application Windows fournie par Good Rabbit inc.",
+    "dataTitle": "Stockage des données",
+    "dataText": "Textes, paramètres et historique sont stockés localement sur votre PC (p. ex. %AppData%\\MyQuickPaste). Vos données ne quittent jamais votre ordinateur.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Les achats Pro et la vérification de licence sont gérés par Microsoft Store."
   }
 }

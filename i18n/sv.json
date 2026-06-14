@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Utveckling: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Support — MyQuickPaste",
+    "title": "Support",
+    "faqTitle": "Vanliga frågor",
+    "faq1Q": "Vad är skillnaden mellan gratisversionen och Pro?",
+    "faq1A": "Gratisversionen har upp till 10 platser. Pro (engångsköp i Store) låser upp fler platser, urklippshistorik, import/export m.m. Prova Pro gratis i 14 dagar.",
+    "faq2Q": "Hur köper jag Pro?",
+    "faq2A": "Använd «Uppgradera till Pro» i appen för att öppna Microsoft Store-köpsidan.",
+    "contactTitle": "Kontakt",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Versionsinformation — MyQuickPaste",
+    "title": "Versionsinformation",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Förbättrad köpigenkänning av Pro-tillägg",
+      "Förenklad licensdiagnostik"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Åtgärdat provvisningsfel efter tilläggsköp"
+    ],
+    "latestPrefix": "Hämta senaste versionen från ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Integritetspolicy — MyQuickPaste",
+    "title": "Integritetspolicy",
+    "updated": "Senast uppdaterad: juni 2026",
+    "overviewTitle": "Översikt",
+    "overviewText": "MyQuickPaste är ett Windows-program från Good Rabbit inc.",
+    "dataTitle": "Datalagring",
+    "dataText": "Texter, inställningar och historik lagras lokalt på datorn (t.ex. %AppData%\\MyQuickPaste). Dina data skickas aldrig utanför datorn.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Pro-köp och licensverifiering hanteras av Microsoft Store."
   }
 }

@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "การพัฒนา: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "การสนับสนุน — MyQuickPaste",
+    "title": "การสนับสนุน",
+    "faqTitle": "คำถามที่พบบ่อย",
+    "faq1Q": "เวอร์ชันฟรีกับ Pro ต่างกันอย่างไร?",
+    "faq1A": "เวอร์ชันฟรีรองรับสล็อตได้ 10 ช่อง Pro (ส่วนเสริม Store ซื้อครั้งเดียว) ปลดล็อกสล็อตเพิ่ม ประวัติคลิปบอร์ด นำเข้า/ส่งออก ฯลฯ ทดลอง Pro ฟรี 14 วัน",
+    "faq2Q": "ซื้อ Pro ได้อย่างไร?",
+    "faq2A": "ใช้ «อัปเกรดเป็น Pro» ในแอปเพื่อเปิดหน้าซื้อ Microsoft Store",
+    "contactTitle": "ติดต่อ",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "บันทึกการเผยแพร่ — MyQuickPaste",
+    "title": "บันทึกการเผยแพร่",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "ปรับปรุงการตรวจจับการซื้อส่วนเสริม Pro",
+      "ปรับหน้าจอวินิจฉัยใบอนุญาตให้เรียบง่าย"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "แก้ไขการแสดงช่วงทดลองหลังซื้อส่วนเสริม"
+    ],
+    "latestPrefix": "รับเวอร์ชันล่าสุดจาก ",
+    "latestSuffix": "",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "นโยบายความเป็นส่วนตัว — MyQuickPaste",
+    "title": "นโยบายความเป็นส่วนตัว",
+    "updated": "อัปเดตล่าสุด: มิถุนายน 2026",
+    "overviewTitle": "ภาพรวม",
+    "overviewText": "MyQuickPaste เป็นแอปพลิเคชัน Windows จาก Good Rabbit inc.",
+    "dataTitle": "การจัดเก็บข้อมูล",
+    "dataText": "ข้อความ การตั้งค่า และประวัติจัดเก็บใน PC ของคุณ (เช่น %AppData%\\MyQuickPaste) ข้อมูลจะไม่ถูกส่งออกนอกเครื่อง",
+    "storeTitle": "Microsoft Store",
+    "storeText": "การซื้อ Pro และการตรวจสอบใบอนุญาตดำเนินการโดย Microsoft Store"
   }
 }

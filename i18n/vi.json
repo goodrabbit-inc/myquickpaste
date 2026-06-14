@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Phát triển: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Hỗ trợ — MyQuickPaste",
+    "title": "Hỗ trợ",
+    "faqTitle": "Câu hỏi thường gặp",
+    "faq1Q": "Phiên bản miễn phí và Pro khác nhau thế nào?",
+    "faq1A": "Phiên bản miễn phí hỗ trợ tối đa 10 ô. Pro (tiện ích bổ sung Store, mua một lần) mở khóa thêm ô, lịch sử clipboard, nhập/xuất, v.v. Dùng thử Pro miễn phí 14 ngày.",
+    "faq2Q": "Làm sao để mua Pro?",
+    "faq2A": "Dùng «Nâng cấp lên Pro» trong ứng dụng để mở trang mua hàng Microsoft Store.",
+    "contactTitle": "Liên hệ",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Ghi chú phiên bản — MyQuickPaste",
+    "title": "Ghi chú phiên bản",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Cải thiện phát hiện mua tiện ích Pro",
+      "Tối giản màn hình chẩn đoán giấy phép"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Sửa lỗi hiển thị dùng thử sau khi mua tiện ích"
+    ],
+    "latestPrefix": "Tải phiên bản mới nhất từ ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Quyền riêng tư — MyQuickPaste",
+    "title": "Quyền riêng tư",
+    "updated": "Cập nhật lần cuối: tháng 6 năm 2026",
+    "overviewTitle": "Tổng quan",
+    "overviewText": "MyQuickPaste là ứng dụng Windows của Good Rabbit inc.",
+    "dataTitle": "Lưu trữ dữ liệu",
+    "dataText": "Văn bản, cài đặt và lịch sử được lưu cục bộ trên PC (ví dụ %AppData%\\MyQuickPaste). Dữ liệu không bao giờ được gửi ra ngoài máy tính.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Mua Pro và xác minh giấy phép do Microsoft Store xử lý."
   }
 }

@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Разработка: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Поддержка — MyQuickPaste",
+    "title": "Поддержка",
+    "faqTitle": "Часто задаваемые вопросы",
+    "faq1Q": "Чем отличается бесплатная версия от Pro?",
+    "faq1A": "Бесплатная версия — до 10 слотов. Pro (разовая покупка в Store) открывает больше слотов, историю буфера обмена, импорт/экспорт и др. 14 дней бесплатного пробного периода Pro.",
+    "faq2Q": "Как купить Pro?",
+    "faq2A": "Выберите «Обновить до Pro» в приложении, чтобы открыть страницу покупки в Microsoft Store.",
+    "contactTitle": "Контакты",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Примечания к выпуску — MyQuickPaste",
+    "title": "Примечания к выпуску",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Улучшено определение покупки дополнения Pro",
+      "Упрощён экран диагностики лицензии"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Исправлено отображение пробного периода после покупки дополнения"
+    ],
+    "latestPrefix": "Последнюю версию можно получить в ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Политика конфиденциальности — MyQuickPaste",
+    "title": "Политика конфиденциальности",
+    "updated": "Последнее обновление: июнь 2026",
+    "overviewTitle": "Обзор",
+    "overviewText": "MyQuickPaste — приложение для Windows от Good Rabbit inc.",
+    "dataTitle": "Хранение данных",
+    "dataText": "Тексты, настройки и история хранятся локально на ПК (например, %AppData%\\MyQuickPaste). Данные не передаются за пределы компьютера.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Покупки Pro и проверка лицензии обрабатываются Microsoft Store."
   }
 }

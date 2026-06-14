@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "विकास: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "सहायता — MyQuickPaste",
+    "title": "सहायता",
+    "faqTitle": "अक्सर पूछे जाने वाले प्रश्न",
+    "faq1Q": "मुफ़्त और Pro संस्करण में क्या अंतर है?",
+    "faq1A": "मुफ़्त संस्करण में 10 स्लॉट तक। Pro (Store ऐड-ऑन, एक बार की खरीद) अधिक स्लॉट, क्लिपबोर्ड इतिहास, आयात/निर्यात आदि unlock करता है। 14 दिन Pro मुफ़्त आज़माएँ।",
+    "faq2Q": "Pro कैसे खरीदें?",
+    "faq2A": "Microsoft Store खरीद पृष्ठ खोलने के लिए ऐप में «Pro में अपग्रेड करें» का उपयोग करें।",
+    "contactTitle": "संपर्क",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "रिलीज़ नोट्स — MyQuickPaste",
+    "title": "रिलीज़ नोट्स",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Pro ऐड-ऑन खरीद पहचान में सुधार",
+      "लाइसेंस निदान स्क्रीन सरल"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "ऐड-ऑन खरीद के बाद ट्रायल प्रदर्शन त्रुटि ठीक"
+    ],
+    "latestPrefix": "नवीनतम संस्करण ",
+    "latestSuffix": " से प्राप्त करें।",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "गोपनीयता — MyQuickPaste",
+    "title": "गोपनीयता",
+    "updated": "अंतिम अपडेट: जून 2026",
+    "overviewTitle": "अवलोकन",
+    "overviewText": "MyQuickPaste Good Rabbit inc. द्वारा प्रदान किया गया Windows एप्लिकेशन है।",
+    "dataTitle": "डेटा संग्रहण",
+    "dataText": "पाठ, सेटिंग और इतिहास आपके PC पर स्थानीय रूप से (%AppData%\\MyQuickPaste आदि) संग्रहीत होते हैं। डेटा कभी PC के बाहर नहीं भेजा जाता।",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Pro खरीद और लाइसेंस सत्यापन Microsoft Store द्वारा संभाला जाता है।"
   }
 }

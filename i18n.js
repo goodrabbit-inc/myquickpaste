@@ -189,12 +189,28 @@
     });
   }
 
+  function getPageSectionKey() {
+    var page = document.body && document.body.getAttribute("data-page");
+    if (page === "support") return "supportPage";
+    if (page === "release-notes") return "releaseNotesPage";
+    if (page === "privacy") return "privacyPage";
+    return null;
+  }
+
   function updatePageSeo(langCode, t, historyMode) {
-    if (t && t.meta) {
-      document.documentElement.lang = t.meta.lang || langCode;
-      if (t.meta.title) document.title = t.meta.title;
+    if (t) {
+      document.documentElement.lang = (t.meta && t.meta.lang) || langCode;
+      var pageKey = getPageSectionKey();
+      var pageSection = pageKey ? t[pageKey] : null;
+      if (pageSection && pageSection.metaTitle) {
+        document.title = pageSection.metaTitle;
+      } else if (t.meta && t.meta.title) {
+        document.title = t.meta.title;
+      }
       var desc = document.querySelector('meta[name="description"]');
-      if (desc && t.meta.description) desc.setAttribute("content", t.meta.description);
+      if (desc && t.meta && t.meta.description && !pageKey) {
+        desc.setAttribute("content", t.meta.description);
+      }
     }
 
     if (!historyMode) return;
@@ -229,6 +245,10 @@
     fillCards("usecases-grid", t.usecases && t.usecases.items);
     fillList("pricing-free-list", t.pricing && t.pricing.freeItems);
     fillList("pricing-pro-list", t.pricing && t.pricing.proItems);
+    if (t.releaseNotesPage) {
+      fillList("rn-3030-list", t.releaseNotesPage.v3030Items);
+      fillList("rn-3029-list", t.releaseNotesPage.v3029Items);
+    }
     var heroImg = document.getElementById("hero-screenshot");
     if (heroImg && t.hero && t.hero.screenshotAlt) heroImg.alt = t.hero.screenshotAlt;
     applyStoreLinks();

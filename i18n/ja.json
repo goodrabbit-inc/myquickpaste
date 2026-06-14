@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "開発：Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "サポート — MyQuickPaste",
+    "title": "サポート",
+    "faqTitle": "よくある質問",
+    "faq1Q": "無料版と Pro 版の違いは？",
+    "faq1A": "無料版はスロット10個まで。Pro（Store アドオン・買い切り）でスロット拡張、クリップボード履歴、インポート/エクスポートなどが利用できます。14日間は全機能を試用できます。",
+    "faq2Q": "Pro の購入方法は？",
+    "faq2A": "アプリ内の「Pro版へアップグレード」から Microsoft Store の購入画面が開きます。",
+    "contactTitle": "お問い合わせ",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "リリースノート — MyQuickPaste",
+    "title": "リリースノート",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Pro アドオン購入判定の改善",
+      "購入状態診断画面の整理"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "アドオン購入後の試用表示不具合を修正"
+    ],
+    "latestPrefix": "最新版は ",
+    "latestSuffix": " から入手できます。",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "プライバシーポリシー — MyQuickPaste",
+    "title": "プライバシーポリシー",
+    "updated": "最終更新: 2026年6月",
+    "overviewTitle": "概要",
+    "overviewText": "MyQuickPaste は Good Rabbit inc. が提供する Windows 用アプリケーションです。",
+    "dataTitle": "データの保存",
+    "dataText": "定型文・設定・履歴などはお使いの PC 内（%AppData%\\MyQuickPaste など）に保存されます。これらのデータをお使いの PC 以外へ送信することはありません。",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Pro 購入・ライセンス確認は Microsoft Store が処理します。"
   }
 }

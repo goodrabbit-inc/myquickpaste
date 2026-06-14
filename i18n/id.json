@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Pengembangan: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Dukungan — MyQuickPaste",
+    "title": "Dukungan",
+    "faqTitle": "Pertanyaan umum",
+    "faq1Q": "Apa bedanya versi gratis dan Pro?",
+    "faq1A": "Versi gratis mendukung hingga 10 slot. Pro (add-on Store, beli sekali) membuka slot lebih banyak, riwayat clipboard, impor/ekspor, dll. Coba Pro gratis 14 hari.",
+    "faq2Q": "Bagaimana cara membeli Pro?",
+    "faq2A": "Gunakan «Upgrade ke Pro» di aplikasi untuk membuka halaman pembelian Microsoft Store.",
+    "contactTitle": "Kontak",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Catatan Rilis — MyQuickPaste",
+    "title": "Catatan Rilis",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Deteksi pembelian add-on Pro ditingkatkan",
+      "Layar diagnostik lisensi disederhanakan"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Perbaikan tampilan uji coba setelah pembelian add-on"
+    ],
+    "latestPrefix": "Dapatkan versi terbaru dari ",
+    "latestSuffix": ".",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Privasi — MyQuickPaste",
+    "title": "Privasi",
+    "updated": "Terakhir diperbarui: Juni 2026",
+    "overviewTitle": "Ringkasan",
+    "overviewText": "MyQuickPaste adalah aplikasi Windows dari Good Rabbit inc.",
+    "dataTitle": "Penyimpanan data",
+    "dataText": "Teks, pengaturan, dan riwayat disimpan secara lokal di PC Anda (mis. %AppData%\\MyQuickPaste). Data tidak pernah dikirim keluar dari komputer.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Pembelian Pro dan verifikasi lisensi ditangani oleh Microsoft Store."
   }
 }

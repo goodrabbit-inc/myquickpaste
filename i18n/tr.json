@@ -137,5 +137,43 @@
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "Geliştirici: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "metaTitle": "Destek — MyQuickPaste",
+    "title": "Destek",
+    "faqTitle": "Sık sorulan sorular",
+    "faq1Q": "Ücretsiz ve Pro sürüm arasındaki fark nedir?",
+    "faq1A": "Ücretsiz sürüm 10 yuvaya kadar destekler. Pro (tek seferlik Store eklentisi) daha fazla yuva, pano geçmişi, içe/dışa aktarma vb. sunar. Pro'yu 14 gün ücretsiz deneyin.",
+    "faq2Q": "Pro'yu nasıl satın alırım?",
+    "faq2A": "Microsoft Store satın alma sayfasını açmak için uygulamadaki «Pro'ya Yükselt» seçeneğini kullanın.",
+    "contactTitle": "İletişim",
+    "contactLink": "Microsoft Store — MyQuickPaste"
+  },
+  "releaseNotesPage": {
+    "metaTitle": "Sürüm notları — MyQuickPaste",
+    "title": "Sürüm notları",
+    "v3030": "3.0.30.0",
+    "v3030Items": [
+      "Pro eklenti satın alma algılaması iyileştirildi",
+      "Lisans tanılama ekranı sadeleştirildi"
+    ],
+    "v3029": "3.0.29.0",
+    "v3029Items": [
+      "Eklenti satın alımından sonra deneme görüntüleme hatası düzeltildi"
+    ],
+    "latestPrefix": "En son sürümü ",
+    "latestSuffix": " üzerinden edinebilirsiniz.",
+    "storeLink": "Microsoft Store"
+  },
+  "privacyPage": {
+    "metaTitle": "Gizlilik — MyQuickPaste",
+    "title": "Gizlilik",
+    "updated": "Son güncelleme: Haziran 2026",
+    "overviewTitle": "Genel bakış",
+    "overviewText": "MyQuickPaste, Good Rabbit inc. tarafından sunulan bir Windows uygulamasıdır.",
+    "dataTitle": "Veri depolama",
+    "dataText": "Metinler, ayarlar ve geçmiş PC'nizde yerel olarak saklanır (ör. %AppData%\\MyQuickPaste). Verileriniz bilgisayarınızın dışına gönderilmez.",
+    "storeTitle": "Microsoft Store",
+    "storeText": "Pro satın alımları ve lisans doğrulama Microsoft Store tarafından işlenir."
   }
 }

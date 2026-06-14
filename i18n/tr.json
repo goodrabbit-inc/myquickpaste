@@ -15,7 +15,7 @@
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Hâlâ her gün aynı metni tekrar tekrar kopyalayıp yapıştırıyor musunuz?",
+    "catch": "Sık kullandığınız metni kaydedin. Tek tıkla yapıştırın.",
     "headline": "MyQuickPaste (MQP) — ekran köşesinde tek tıkla hızlı yapıştırma için ince, her zaman üstte Windows yardımcısı",
     "features": [
       {

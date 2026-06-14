@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "en",
-    "title": "MyQuickPaste - One Click. Paste the Full Text.",
-    "description": "Still copy-pasting the same text every day? MyQuickPaste is a slim, always-on-top Windows sidekick. Free on Microsoft Store."
+    "title": "MyQuickPaste - One-Click Paste for Your Saved Text",
+    "description": "Tired of copy-pasting the same text over and over? MyQuickPaste sits in the corner of your screen for instant one-click pasting. Lightweight and free on the Microsoft Store."
   },
   "lang": {
     "label": "Language"
@@ -15,97 +15,97 @@
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Save frequently used text. Paste with one click.",
+    "catch": "Save your frequent texts. Paste with a single click.",
     "features": [
       {
-        "label": "Instant access",
-        "text": "Pull up AI prompts, code snippets, and email templates in seconds."
+        "label": "1-Click Paste",
+        "text": "Drop your AI prompts or email templates instantly into any app without switching your screens."
       },
       {
-        "label": "Simple setup",
-        "text": "Register copied text instantly with a straightforward workflow."
+        "label": "Instant Register",
+        "text": "Copy any text from anywhere and register it into your slots immediately with zero friction."
       },
       {
-        "label": "100% local storage",
-        "text": "Encrypted on your PC. Complete privacy—nothing sent to the cloud."
+        "label": "100% Local Storage",
+        "text": "Perfect for sensitive login IDs. Your data is encrypted locally on your PC and never touches the cloud."
       },
       {
-        "label": "Ready in seconds",
-        "text": "Easy from day one: ~200px wide, always on top, zero learning curve."
+        "label": "Ultra-Slim UI",
+        "text": "Completely fixed at 200px wide. A clean, compact design with zero learning curve for first-time users."
       }
     ],
     "ctaPrimary": "Download free on Microsoft Store",
     "ctaSecondary": "Try all Pro features free for 14 days",
     "trust": "Microsoft Store certified · Data encrypted locally on your PC",
     "screenshotAlt": "MyQuickPaste: click a slot to paste the full saved text. Setup once in Edit.",
-    "headline1": "A slim, always-on-top Windows sidekick for faster copy-paste",
-    "headline2": "Ready in the corner of your screen with one-click paste"
+    "headline1": "Sits quietly in the corner of your screen, ready for instant typing.",
+    "headline2": "Pure productivity. A dead-simple, ultra-focused desktop companion."
   },
   "problem": {
     "title": "Sound familiar?",
     "items": [
-      "Searching for the same ChatGPT prompt every time you need it",
-      "Retyping the same greetings and replies in email and chat",
-      "Hunting through Notepad for Excel formulas or IDs you use daily"
+      "Constantly hunting for the same AI prompts (ChatGPT, etc.) every single day",
+      "Retyping the same standard greetings and canned replies in emails or chats over and over",
+      "Wasting time copying multiple login IDs or Excel formulas from messy Notepad files"
     ],
-    "solution": "With MyQuickPaste, save it once. Paste from a compact always-on-top window anytime, anywhere."
+    "solution": "With MyQuickPaste (MQP), you only register it once. Paste your texts instantly from a slim window nestled in the corner of your screen."
   },
   "benefits": {
-    "title": "Three reasons users love it",
+    "title": "Three Reasons Users Love It",
     "items": [
       {
-        "title": "One-click paste",
-        "text": "Paste saved text into any app instantly without breaking your flow."
+        "title": "Dead-Simple UI",
+        "text": "No manual needed. We stripped away the bloat to create a straightforward layout that anyone can master in seconds."
       },
       {
-        "title": "Always within reach",
-        "text": "Compact, always-on-top window. No more alt-tabbing just to copy and paste."
+        "title": "Always Within Reach",
+        "text": "Stays perfectly on top without blocking your work. No more tedious alt-tabbing just to copy and paste."
       },
       {
-        "title": "Private by design",
-        "text": "Your snippets stay on your PC, encrypted locally. Nothing sent to the cloud."
+        "title": "Seamless Registration",
+        "text": "Save your freshly copied text into a slot right away. We minimized the effort needed to organize your snippets."
       }
     ]
   },
   "features": {
-    "title": "Key features",
+    "title": "Key Features",
     "items": [
       {
-        "title": "Text slots",
-        "text": "Organize across tabs A–E. Free: 10 slots. Pro unlocks more."
+        "title": "Text Slots",
+        "text": "Organize everything across tabs A–E. Free version includes 10 slots, expandable with Pro."
       },
       {
-        "title": "Clipboard history",
-        "text": "Auto-save your last 20 copies (Pro). Recall past clips in seconds."
+        "title": "Clipboard History",
+        "text": "Automatically logs your last 20 copies (Pro). Recall your past clips in a flash."
       },
       {
-        "title": "Quick transforms",
-        "text": "Insert date, time, or change case before you paste with one tap."
+        "title": "Quick Transforms",
+        "text": "Insert current dates, timestamps, or change text cases with a single tap before pasting."
       },
       {
-        "title": "21-language UI",
-        "text": "Interface available in 21 languages including English and Japanese."
+        "title": "22-Language Support",
+        "text": "Full interface support for 22 languages, including English and Japanese."
       }
     ]
   },
   "usecases": {
-    "title": "Perfect for",
+    "title": "Perfect For Every Workflow",
     "items": [
       {
-        "title": "Business professionals",
-        "text": "Email templates, signatures, and canned replies—one click away."
+        "title": "Account & Multiple ID Management",
+        "text": "Keep your work and personal login IDs organized and paste them instantly without manual typing."
       },
       {
-        "title": "Creators & developers",
-        "text": "AI prompts, code snippets, and templates pasted instantly."
+        "title": "Online Game Chats",
+        "text": "Drop standard greetings or team callouts instantly without losing your focus during intense gameplay."
       },
       {
-        "title": "Support & admin",
-        "text": "Drop FAQ answers and standard greetings into chat in one click."
+        "title": "Business & Admin Work",
+        "text": "Eliminate the time spent searching for email templates, signatures, and long AI instructions."
       },
       {
-        "title": "Anyone who types daily",
-        "text": "Eliminate repetitive typing starting today."
+        "title": "Anyone Who Types Daily",
+        "text": "Free yourself from the daily chore of repetitive typing starting today."
       }
     ]
   },
@@ -115,23 +115,23 @@
     "freePrice": "$0",
     "freeItems": [
       "Up to 10 text slots",
-      "Resizable window",
-      "21-language UI",
-      "14-day full Pro trial"
+      "Resizable window functionality",
+      "22-language UI support",
+      "14-day full Pro trial included"
     ],
-    "proTitle": "Pro (one-time)",
-    "proPrice": "See Store for price",
+    "proTitle": "Pro (One-Time Purchase)",
+    "proPrice": "See Store for regional pricing",
     "proItems": [
-      "Expanded slot limit",
-      "Clipboard history (20 items)",
-      "Import / export",
-      "One-time purchase, no subscription"
+      "Expanded slot limit (up to 100)",
+      "20-item clipboard history",
+      "Data import / export options",
+      "One-time purchase, absolutely no subscriptions"
     ],
-    "note": "The base app is free. Pro is available as a Microsoft Store add-on."
+    "note": "The base app is entirely free. The Pro version is available as a secure Microsoft Store add-on."
   },
   "cta": {
-    "title": "Stop wasting time on repetitive typing",
-    "lead": "Install in minutes. Start free and experience every Pro feature for 14 days.",
+    "title": "Stop Wasting Time on Repetitive Typing",
+    "lead": "Installs in just a few minutes. Start for free and unlock the full potential of your daily workflow.",
     "button": "Download free on Microsoft Store"
   },
   "footer": {

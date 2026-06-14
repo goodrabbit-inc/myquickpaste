@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "MyQuickPaste - Tek tıkla tam metni yapıştır",
-    "description": "Her gün aynı metni kopyalayıp yapıştırıyor musunuz? Sık kullandığınız metinleri kaydedin, tek tıkla yapıştırın. Windows için hafif bir araç. Microsoft Store'da ücretsiz."
+    "title": "MyQuickPaste - Tek tıkla tüm metni yapıştır",
+    "description": "Her gün aynı metni kopyalıyor musunuz? MyQuickPaste ince, her zaman üstte bir Windows yardımcısı. Microsoft Store'da ücretsiz."
   },
   "lang": {
     "label": "Dil"
@@ -16,53 +16,53 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Sık kullandığınız metni kaydedin. Tek tıkla yapıştırın.",
-    "headline": "MyQuickPaste — ekranın köşesinde durur. Windows'ta kayıtlı metni tek tıkla yapıştırın.",
+    "headline": "MyQuickPaste — ekran köşesinde tek tıkla hızlı yapıştırma için ince, her zaman üstte Windows yardımcısı",
     "features": [
       {
-        "label": "Tek tıkla yapıştır",
-        "text": "Yapay zeka istemleri, kod parçaları ve e-posta şablonları — çalıştığınız yere doğrudan."
+        "label": "Anında erişim",
+        "text": "YZ istemleri, kod parçaları ve e-posta şablonları saniyeler içinde."
       },
       {
-        "label": "Kolay kurulum",
-        "text": "Metni kopyalayın, slota kaydedin. Hepsi bu."
+        "label": "Basit kayıt",
+        "text": "Kopyalanan metni hemen, kolay bir akışla kaydedin."
       },
       {
-        "label": "Bilgisayarınızda kalır",
-        "text": "Şifreli yerel depolama. Buluta hiçbir şey yüklenmez."
+        "label": "%100 yerel",
+        "text": "PC'de şifreli. Tam gizlilik, buluta gönderim yok."
       },
       {
-        "label": "Basit ve anlaşılır",
-        "text": "Kompakt görünüm, her zaman üstte, ilk günden kolay."
+        "label": "Hemen hazır",
+        "text": "İlk günden kolay: ~200 px, her zaman üstte."
       }
     ],
     "ctaPrimary": "Microsoft Store'dan ücretsiz indir",
-    "ctaSecondary": "14 gün boyunca tüm Pro özelliklerini ücretsiz deneyin",
-    "trust": "Microsoft Store onaylı · Veriler bilgisayarınızda yerel olarak şifrelenir",
-    "screenshotAlt": "MyQuickPaste: slota tıklayın, kayıtlı metnin tamamı yapışsın. Düzenle'de bir kez ayarlayın."
+    "ctaSecondary": "14 gün Pro'yu ücretsiz dene",
+    "trust": "Microsoft Store onaylı · Veriler PC'de yerel olarak şifrelenir",
+    "screenshotAlt": "MyQuickPaste: yuvaya tıklayın, kayıtlı metnin tamamı yapıştırılsın. Düzenle'de bir kez ayarlayın."
   },
   "problem": {
-    "title": "Tanıdık geldi mi?",
+    "title": "Tanıdık geliyor mu?",
     "items": [
-      "Her seferinde aynı ChatGPT istemini yeniden aramak",
-      "E-posta ve sohbette aynı selamları ve yanıtları tekrar tekrar yazmak",
-      "Her gün kullandığınız Excel formüllerini veya kimlikleri Not Defteri'nde aramak"
+      "Her seferinde aynı ChatGPT istemini aramak",
+      "E-posta ve sohbette aynı selamları yeniden yazmak",
+      "Not Defteri'nde Excel formülü veya ID aramak"
     ],
-    "solution": "MyQuickPaste'e bir kez kaydedin. Her zaman üstte duran kompakt pencereden istediğiniz zaman yapıştırın."
+    "solution": "MyQuickPaste ile bir kez kaydedin. Her zaman üstte kompakt pencereden istediğiniz zaman yapıştırın."
   },
   "benefits": {
-    "title": "Tercih edilmesinin üç nedeni",
+    "title": "Seçmek için üç neden",
     "items": [
       {
         "title": "Tek tıkla yapıştır",
-        "text": "Kayıtlı metni iş akışınızı bozmadan yapıştırın."
+        "text": "İş akışını bozmadan kayıtlı metni anında yapıştırın."
       },
       {
         "title": "Her zaman elinizin altında",
-        "text": "Kompakt ve her zaman üstte — kopyalayıp yapıştırmak için uygulama değiştirmeye gerek yok."
+        "text": "Kompakt, her zaman üstte pencere. Kopyalamak için uygulama değiştirmeyin."
       },
       {
-        "title": "Gizlilik öncelikli",
-        "text": "Metinleriniz bilgisayarınızda şifreli kalır. Buluta hiçbir şey gönderilmez."
+        "title": "Gizlilik",
+        "text": "Veriler PC'nizde şifreli kalır. Buluta hiçbir şey gitmez."
       }
     ]
   },
@@ -70,67 +70,67 @@
     "title": "Temel özellikler",
     "items": [
       {
-        "title": "Metin slotları",
-        "text": "A–E sekmeleriyle düzenleyin. Ücretsiz 10 slot; Pro daha fazlasını ekler."
+        "title": "Metin yuvaları",
+        "text": "A–E sekmeleriyle düzenleyin. Ücretsiz: 10 yuva. Pro: daha fazla."
       },
       {
         "title": "Pano geçmişi",
-        "text": "Son 20 kopyayı otomatik kaydet (Pro). Daha önce kopyaladığınızı tek tıkla yapıştırın."
+        "text": "Son 20 kopyayı otomatik kaydet (Pro)."
       },
       {
         "title": "Hızlı dönüşümler",
-        "text": "Tarih veya saat ekleyin, yapıştırmadan önce büyük/küçük harf değiştirin."
+        "text": "Tarih, saat ve büyük/küçük harf tek dokunuşla."
       },
       {
-        "title": "21 dil",
-        "text": "Türkçe ve İngilizce dahil 21 dilde kullanın."
+        "title": "21 dilde arayüz",
+        "text": "Türkçe dahil 21 dilde kullanılabilir."
       }
     ]
   },
   "usecases": {
-    "title": "Kimler için ideal",
+    "title": "Kimler için",
     "items": [
       {
-        "title": "Ofis çalışmaları",
-        "text": "E-posta şablonları, imzalar ve hazır yanıtlar — tek tıkla."
+        "title": "Profesyoneller",
+        "text": "E-posta şablonları, imzalar ve hazır yanıtlar tek tıkla."
       },
       {
-        "title": "İçerik üreticileri ve geliştiriciler",
-        "text": "Yapay zeka istemleri, kod parçaları ve şablonlar anında yapışır."
+        "title": "Yaratıcılar ve geliştiriciler",
+        "text": "YZ istemleri, kod ve şablonlar anında."
       },
       {
-        "title": "Destek ve idari işler",
-        "text": "SSS yanıtları ve standart selamlar sohbete tek tıkla."
+        "title": "Destek",
+        "text": "SSS yanıtları ve standart selamlar sohbete."
       },
       {
-        "title": "Gün boyu yazan herkes",
-        "text": "Tekrarlayan yazmayı bugünden azaltın."
+        "title": "Her gün yazanlar",
+        "text": "Tekrarlı yazmayı bugünden bitirin."
       }
     ]
   },
   "pricing": {
     "title": "Fiyatlandırma",
     "freeTitle": "Ücretsiz",
-    "freePrice": "₺0",
+    "freePrice": "0 ₺",
     "freeItems": [
-      "En fazla 10 metin slotu",
+      "10 metin yuvasına kadar",
       "Yeniden boyutlandırılabilir pencere",
-      "21 dil",
-      "14 günlük tam Pro denemesi"
+      "21 dilde arayüz",
+      "14 gün tam Pro denemesi"
     ],
-    "proTitle": "Pro (tek seferlik satın alma)",
-    "proPrice": "Fiyat için Microsoft Store'a bakın",
+    "proTitle": "Pro (tek seferlik)",
+    "proPrice": "Fiyatı Store'da görün",
     "proItems": [
-      "Daha fazla metin slotu",
-      "Pano geçmişi (20 öğe)",
-      "İçe / dışa aktarma",
-      "Tek seferlik satın alma, abonelik yok"
+      "Daha fazla yuva",
+      "Pano geçmişi (20)",
+      "İçe aktar / dışa aktar",
+      "Tek seferlik, abonelik yok"
     ],
-    "note": "Temel uygulama ücretsizdir. Pro, Microsoft Store eklentisi olarak sunulur."
+    "note": "Temel uygulama ücretsiz. Pro, Microsoft Store eklentisi olarak mevcut."
   },
   "cta": {
-    "title": "Tekrarlayan yazmaya zaman harcamayın",
-    "lead": "Dakikalar içinde kurun. Ücretsiz başlayın ve 14 gün boyunca tüm Pro özelliklerini deneyin.",
+    "title": "Tekrarlı yazmaya zaman harcamayı bırakın",
+    "lead": "Dakikalar içinde kurun. Ücretsiz başlayın ve 14 gün tüm Pro özelliklerini deneyin.",
     "button": "Microsoft Store'dan ücretsiz indir"
   },
   "footer": {

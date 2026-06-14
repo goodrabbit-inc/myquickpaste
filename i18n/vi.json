@@ -2,7 +2,7 @@
   "meta": {
     "lang": "vi",
     "title": "MyQuickPaste - Dán toàn bộ văn bản bằng một cú nhấp",
-    "description": "Mỗi ngày copy-paste cùng một đoạn văn? Lưu văn bản thường dùng và dán bằng một cú nhấp. Công cụ nhẹ cho Windows. Miễn phí trên Microsoft Store."
+    "description": "Vẫn sao chép cùng một đoạn văn mỗi ngày? MyQuickPaste là trợ lý Windows mỏng, luôn hiển thị trên cùng. Miễn phí trên Microsoft Store."
   },
   "lang": {
     "label": "Ngôn ngữ"
@@ -15,54 +15,54 @@
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Lưu văn bản thường dùng. Dán bằng một cú nhấp.",
-    "headline": "MyQuickPaste — nằm ở góc màn hình. Dán văn bản đã lưu bằng một cú nhấp trên Windows.",
+    "catch": "Lưu văn bản hay dùng. Dán chỉ với một cú nhấp.",
+    "headline": "MyQuickPaste — trợ lý Windows mỏng, luôn hiển thị trên cùng, dán nhanh hơn bằng một cú nhấp từ góc màn hình",
     "features": [
       {
-        "label": "Dán một cú nhấp",
-        "text": "Prompt AI, đoạn mã và mẫu email, dán ngay nơi bạn đang làm việc."
+        "label": "Truy cập tức thì",
+        "text": "Gọi prompt AI, đoạn mã và mẫu email trong vài giây."
       },
       {
-        "label": "Thiết lập dễ dàng",
-        "text": "Sao chép văn bản, lưu vào slot. Xong."
+        "label": "Đăng ký đơn giản",
+        "text": "Lưu văn bản đã sao chép ngay lập tức với quy trình dễ hiểu."
       },
       {
-        "label": "Chỉ lưu trên PC",
-        "text": "Lưu trữ cục bộ được mã hóa. Không tải lên đám mây."
+        "label": "100% cục bộ",
+        "text": "Mã hóa trên PC. Riêng tư hoàn toàn, không gửi lên cloud."
       },
       {
-        "label": "Đơn giản, rõ ràng",
-        "text": "Hiển thị gọn, luôn nổi trên cùng, dễ dùng ngay từ ngày đầu."
+        "label": "Sẵn sàng ngay",
+        "text": "Dễ dùng từ ngày đầu: ~200px, luôn hiển thị trên cùng."
       }
     ],
     "ctaPrimary": "Tải miễn phí trên Microsoft Store",
-    "ctaSecondary": "Dùng thử đầy đủ tính năng Pro miễn phí 14 ngày",
+    "ctaSecondary": "Dùng thử Pro miễn phí 14 ngày",
     "trust": "Chứng nhận Microsoft Store · Dữ liệu mã hóa cục bộ trên PC",
-    "screenshotAlt": "MyQuickPaste: nhấp slot để dán toàn bộ văn bản đã lưu. Thiết lập một lần trong Chỉnh sửa."
+    "screenshotAlt": "MyQuickPaste: nhấp vào ô để dán toàn bộ văn bản. Cài đặt một lần trong Chỉnh sửa."
   },
   "problem": {
-    "title": "Quen thuộc chứ?",
+    "title": "Có quen không?",
     "items": [
-      "Mỗi lần lại tìm cùng một prompt ChatGPT",
-      "Gõ đi gõ lại lời chào và câu trả lời trong email và chat",
-      "Tìm công thức Excel hoặc ID trong Notepad dùng hàng ngày"
+      "Tìm cùng một prompt ChatGPT mỗi lần",
+      "Gõ lại lời chào trong email và chat",
+      "Tìm công thức Excel hoặc ID trong Notepad"
     ],
-    "solution": "Lưu một lần trong MyQuickPaste. Dán bất cứ lúc nào từ cửa sổ gọn luôn nổi trên cùng."
+    "solution": "Với MyQuickPaste lưu một lần. Dán từ cửa sổ nhỏ luôn hiển thị trên cùng, bất cứ lúc nào."
   },
   "benefits": {
-    "title": "Ba lý do chọn dùng",
+    "title": "Ba lý do người dùng yêu thích",
     "items": [
       {
         "title": "Dán một cú nhấp",
-        "text": "Dán văn bản đã lưu mà không gián đoạn công việc."
+        "text": "Dán văn bản đã lưu ngay lập tức không gián đoạn công việc."
       },
       {
         "title": "Luôn trong tầm tay",
-        "text": "Gọn và luôn nổi trên cùng — không cần chuyển app chỉ để copy-paste."
+        "text": "Cửa sổ nhỏ, luôn hiển thị trên cùng. Không cần chuyển app để sao chép."
       },
       {
-        "title": "Ưu tiên quyền riêng tư",
-        "text": "Văn bản ở trên PC, được mã hóa. Không gửi lên đám mây."
+        "title": "Riêng tư",
+        "text": "Dữ liệu ở trên PC, mã hóa cục bộ. Không gửi lên cloud."
       }
     ]
   },
@@ -70,41 +70,41 @@
     "title": "Tính năng chính",
     "items": [
       {
-        "title": "Slot văn bản",
-        "text": "Sắp xếp bằng tab A–E. Bản miễn phí 10 slot; Pro thêm nhiều hơn."
+        "title": "Ô văn bản",
+        "text": "Sắp xếp theo tab A–E. Miễn phí: 10 ô. Pro: thêm."
       },
       {
         "title": "Lịch sử clipboard",
-        "text": "Tự lưu 20 bản sao gần nhất (Pro). Dán nội dung đã copy trước đó bằng một cú nhấp."
+        "text": "Tự động lưu 20 bản sao gần nhất (Pro)."
       },
       {
         "title": "Biến đổi nhanh",
-        "text": "Chèn ngày hoặc giờ, hoặc đổi chữ hoa/thường trước khi dán."
+        "text": "Ngày, giờ và chữ hoa/thường một chạm."
       },
       {
-        "title": "21 ngôn ngữ",
-        "text": "Dùng app bằng 21 ngôn ngữ, gồm tiếng Việt và tiếng Anh."
+        "title": "Giao diện 21 ngôn ngữ",
+        "text": "Hỗ trợ 21 ngôn ngữ bao gồm tiếng Việt."
       }
     ]
   },
   "usecases": {
-    "title": "Phù hợp với",
+    "title": "Phù hợp cho",
     "items": [
       {
-        "title": "Công việc văn phòng",
-        "text": "Mẫu email, chữ ký và câu trả lời sẵn — một cú nhấp."
+        "title": "Chuyên nghiệp",
+        "text": "Mẫu email, chữ ký và trả lời sẵn sàng một cú nhấp."
       },
       {
-        "title": "Người sáng tạo & lập trình viên",
-        "text": "Prompt AI, đoạn mã và mẫu dán ngay lập tức."
+        "title": "Sáng tạo & lập trình",
+        "text": "Prompt AI, mã và mẫu dán ngay."
       },
       {
-        "title": "Hỗ trợ & hành chính",
-        "text": "Câu trả lời FAQ và lời chào chuẩn vào chat, một cú nhấp."
+        "title": "Hỗ trợ",
+        "text": "Trả lời FAQ và lời chào chuẩn vào chat."
       },
       {
-        "title": "Ai gõ phím cả ngày",
-        "text": "Giảm gõ lặp lại từ hôm nay."
+        "title": "Ai gõ máy hàng ngày",
+        "text": "Hết gõ lặp lại từ hôm nay."
       }
     ]
   },
@@ -113,24 +113,24 @@
     "freeTitle": "Miễn phí",
     "freePrice": "0 ₫",
     "freeItems": [
-      "Tối đa 10 slot văn bản",
-      "Cửa sổ thay đổi kích thước",
-      "21 ngôn ngữ",
+      "Tối đa 10 ô văn bản",
+      "Thay đổi kích thước cửa sổ",
+      "UI 21 ngôn ngữ",
       "Dùng thử Pro đầy đủ 14 ngày"
     ],
     "proTitle": "Pro (mua một lần)",
-    "proPrice": "Xem giá trên Microsoft Store",
+    "proPrice": "Xem giá trên Store",
     "proItems": [
-      "Thêm slot văn bản",
-      "Lịch sử clipboard (20 mục)",
+      "Thêm ô",
+      "Lịch sử clipboard (20)",
       "Nhập / xuất",
       "Mua một lần, không đăng ký"
     ],
-    "note": "App cơ bản miễn phí. Pro có trên Microsoft Store dưới dạng add-on."
+    "note": "Ứng dụng cơ bản miễn phí. Pro là add-on trên Microsoft Store."
   },
   "cta": {
     "title": "Đừng lãng phí thời gian gõ lặp lại",
-    "lead": "Cài trong vài phút. Bắt đầu miễn phí và dùng thử mọi tính năng Pro 14 ngày.",
+    "lead": "Cài đặt trong vài phút. Bắt đầu miễn phí và trải nghiệm mọi tính năng Pro trong 14 ngày.",
     "button": "Tải miễn phí trên Microsoft Store"
   },
   "footer": {

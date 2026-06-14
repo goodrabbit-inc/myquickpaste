@@ -2,7 +2,7 @@
   "meta": {
     "lang": "id",
     "title": "MyQuickPaste - Tempel teks lengkap dengan satu klik",
-    "description": "Setiap hari copy-paste teks yang sama? Simpan teks favorit dan tempel dengan satu klik. Alat ringan untuk Windows. Gratis di Microsoft Store."
+    "description": "Masih menyalin teks yang sama setiap hari? MyQuickPaste adalah asisten Windows ringan, selalu di atas. Gratis di Microsoft Store."
   },
   "lang": {
     "label": "Bahasa"
@@ -10,44 +10,44 @@
   "nav": {
     "home": "Beranda",
     "support": "Dukungan",
-    "releaseNotes": "Catatan rilis",
+    "releaseNotes": "Catatan Rilis",
     "privacy": "Privasi"
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Simpan teks yang sering dipakai. Tempel dengan satu klik.",
-    "headline": "MyQuickPaste — tinggal di sudut layar. Tempel teks tersimpan dengan satu klik di Windows.",
+    "catch": "Simpan teks yang sering digunakan. Tempel dengan satu klik.",
+    "headline": "MyQuickPaste — asisten Windows ringan dan selalu di atas untuk menempel lebih cepat dengan satu klik dari sudut layar",
     "features": [
       {
-        "label": "Tempel satu klik",
-        "text": "Prompt AI, cuplikan kode, dan templat email, langsung di tempat Anda bekerja."
+        "label": "Akses instan",
+        "text": "Prompt AI, cuplikan kode, dan templat email dalam hitungan detik."
       },
       {
-        "label": "Mudah disetel",
-        "text": "Salin teks, simpan di slot. Selesai."
+        "label": "Pendaftaran sederhana",
+        "text": "Daftarkan teks yang disalin segera dengan alur yang mudah."
       },
       {
-        "label": "Tetap di PC Anda",
-        "text": "Penyimpanan lokal terenkripsi. Tidak ada yang diunggah ke cloud."
+        "label": "100% lokal",
+        "text": "Terenkripsi di PC. Privasi penuh, tanpa cloud."
       },
       {
-        "label": "Sederhana dan jelas",
-        "text": "Tampilan ringkas, selalu di depan, mudah dipakai sejak hari pertama."
+        "label": "Siap dalam sekejap",
+        "text": "Mudah sejak hari pertama: ~200 px, selalu di atas."
       }
     ],
     "ctaPrimary": "Unduh gratis di Microsoft Store",
-    "ctaSecondary": "Coba semua fitur Pro gratis selama 14 hari",
-    "trust": "Bersertifikat Microsoft Store · Data dienkripsi lokal di PC Anda",
+    "ctaSecondary": "Coba Pro gratis 14 hari",
+    "trust": "Bersertifikat Microsoft Store · Data terenkripsi secara lokal di PC",
     "screenshotAlt": "MyQuickPaste: klik slot untuk menempel teks lengkap. Atur sekali di Edit."
   },
   "problem": {
-    "title": "Pernah mengalami ini?",
+    "title": "Terkesan familiar?",
     "items": [
       "Mencari prompt ChatGPT yang sama setiap kali",
-      "Mengetik sapaan dan balasan yang sama di email dan chat",
-      "Mencari rumus Excel atau ID di Notepad yang dipakai setiap hari"
+      "Mengetik ulang sapaan yang sama di email dan chat",
+      "Mencari rumus Excel atau ID di Notepad"
     ],
-    "solution": "Simpan sekali di MyQuickPaste. Tempel kapan saja dari jendela ringkas yang selalu di depan."
+    "solution": "Dengan MyQuickPaste simpan sekali. Tempel dari jendela ringkas selalu di atas, kapan saja."
   },
   "benefits": {
     "title": "Tiga alasan memilihnya",
@@ -58,11 +58,11 @@
       },
       {
         "title": "Selalu dekat",
-        "text": "Ringkas dan selalu di depan — tidak perlu ganti aplikasi hanya untuk copy-paste."
+        "text": "Jendela ringkas dan selalu di atas. Tanpa alt-tab hanya untuk menyalin."
       },
       {
-        "title": "Privasi diutamakan",
-        "text": "Teks Anda tetap di PC, terenkripsi. Tidak ada yang dikirim ke cloud."
+        "title": "Privasi",
+        "text": "Data tetap di PC, terenkripsi lokal. Tanpa cloud."
       }
     ]
   },
@@ -71,19 +71,19 @@
     "items": [
       {
         "title": "Slot teks",
-        "text": "Atur dengan tab A–E. Gratis 10 slot; Pro menambah lebih banyak."
+        "text": "Atur dengan tab A–E. Gratis: 10 slot. Pro: lebih banyak."
       },
       {
         "title": "Riwayat clipboard",
-        "text": "Simpan otomatis 20 salinan terakhir (Pro). Tempel sesuatu yang disalin sebelumnya dengan satu klik."
+        "text": "Simpan otomatis 20 salinan terakhir (Pro)."
       },
       {
         "title": "Transformasi cepat",
-        "text": "Sisipkan tanggal atau waktu, atau ubah huruf besar/kecil sebelum menempel."
+        "text": "Tanggal, waktu, dan huruf besar/kecil sekali ketuk."
       },
       {
-        "title": "21 bahasa",
-        "text": "Gunakan aplikasi dalam 21 bahasa, termasuk Indonesia dan Inggris."
+        "title": "UI 21 bahasa",
+        "text": "Tersedia dalam 21 bahasa termasuk Indonesia."
       }
     ]
   },
@@ -91,46 +91,46 @@
     "title": "Cocok untuk",
     "items": [
       {
-        "title": "Pekerjaan kantor",
-        "text": "Templat email, tanda tangan, dan balasan standar — satu klik."
+        "title": "Profesional",
+        "text": "Templat email, tanda tangan, dan balasan siap satu klik."
       },
       {
         "title": "Kreator & pengembang",
-        "text": "Prompt AI, cuplikan kode, dan templat ditempel seketika."
+        "text": "Prompt AI, kode, dan templat langsung ditempel."
       },
       {
-        "title": "Dukungan & administrasi",
-        "text": "Jawaban FAQ dan sapaan standar ke chat, satu klik."
+        "title": "Dukungan",
+        "text": "Jawaban FAQ dan sapaan standar ke chat."
       },
       {
-        "title": "Siapa pun yang mengetik sepanjang hari",
-        "text": "Kurangi pengetikan berulang mulai hari ini."
+        "title": "Pengguna PC harian",
+        "text": "Hilangkan pengetikan berulang mulai hari ini."
       }
     ]
   },
   "pricing": {
     "title": "Harga",
     "freeTitle": "Gratis",
-    "freePrice": "Rp0",
+    "freePrice": "Rp 0",
     "freeItems": [
       "Hingga 10 slot teks",
-      "Jendela dapat diubah ukurannya",
-      "21 bahasa",
+      "Jendela dapat diubah ukuran",
+      "UI 21 bahasa",
       "Uji coba Pro penuh 14 hari"
     ],
-    "proTitle": "Pro (pembelian sekali)",
-    "proPrice": "Lihat harga di Microsoft Store",
+    "proTitle": "Pro (beli sekali)",
+    "proPrice": "Lihat harga di Store",
     "proItems": [
-      "Lebih banyak slot teks",
-      "Riwayat clipboard (20 item)",
+      "Lebih banyak slot",
+      "Riwayat clipboard (20)",
       "Impor / ekspor",
-      "Pembelian sekali, tanpa langganan"
+      "Beli sekali, tanpa langganan"
     ],
-    "note": "Aplikasi dasar gratis. Pro tersedia sebagai add-on di Microsoft Store."
+    "note": "Aplikasi dasar gratis. Pro tersedia sebagai add-on Microsoft Store."
   },
   "cta": {
-    "title": "Berhenti buang waktu mengetik hal yang sama",
-    "lead": "Instal dalam hitungan menit. Mulai gratis dan coba semua fitur Pro selama 14 hari.",
+    "title": "Berhenti membuang waktu mengetik berulang",
+    "lead": "Pasang dalam hitungan menit. Mulai gratis dan coba semua fitur Pro selama 14 hari.",
     "button": "Unduh gratis di Microsoft Store"
   },
   "footer": {

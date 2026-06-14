@@ -2,7 +2,7 @@
   "meta": {
     "lang": "es",
     "title": "MyQuickPaste - Pega el texto completo con un clic",
-    "description": "¿Copias y pegas el mismo texto cada día? Guarda tus frases habituales y péguelas con un clic. Herramienta ligera para Windows. Gratis en Microsoft Store."
+    "description": "Sigues copiando el mismo texto cada dia? MyQuickPaste es un asistente Windows ligero, siempre visible. Gratis en Microsoft Store."
   },
   "lang": {
     "label": "Idioma"
@@ -10,80 +10,80 @@
   "nav": {
     "home": "Inicio",
     "support": "Soporte",
-    "releaseNotes": "Notas de la versión",
+    "releaseNotes": "Notas de la version",
     "privacy": "Privacidad"
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Guarda textos que usas a menudo. Pega con un clic.",
-    "headline": "MyQuickPaste — vive en la esquina de la pantalla. Pega textos guardados con un clic en Windows.",
+    "catch": "Guarda textos frecuentes. Pega con un clic.",
+    "headline": "MyQuickPaste — asistente Windows ligero y siempre visible para pegar mas rapido con un clic desde la esquina de la pantalla",
     "features": [
       {
-        "label": "Pegar con un clic",
-        "text": "Prompts de IA, fragmentos de código y plantillas de correo, justo donde estás trabajando."
+        "label": "Acceso instantaneo",
+        "text": "Prompts de IA, fragmentos de codigo y plantillas de correo en segundos."
       },
       {
-        "label": "Fácil de configurar",
-        "text": "Copia el texto, guárdalo en un slot. Eso es todo."
+        "label": "Registro sencillo",
+        "text": "Registra el texto copiado al instante con un flujo simple."
       },
       {
-        "label": "Se queda en tu PC",
-        "text": "Almacenamiento local cifrado. Nada se sube a la nube."
+        "label": "100% local",
+        "text": "Cifrado en tu PC. Privacidad total, sin nube."
       },
       {
-        "label": "Simple y claro",
-        "text": "Vista compacta, siempre visible, fácil de usar desde el primer día."
+        "label": "Listo al momento",
+        "text": "Facil desde el primer dia: ~200 px, siempre visible."
       }
     ],
     "ctaPrimary": "Descargar gratis en Microsoft Store",
-    "ctaSecondary": "Prueba todas las funciones Pro gratis durante 14 días",
+    "ctaSecondary": "Prueba Pro gratis 14 dias",
     "trust": "Certificado por Microsoft Store · Datos cifrados localmente en tu PC",
-    "screenshotAlt": "MyQuickPaste: haz clic en un slot para pegar el texto completo. Configúralo una vez en Editar."
+    "screenshotAlt": "MyQuickPaste: haz clic en un espacio para pegar el texto completo. Configuralo una vez en Editar."
   },
   "problem": {
-    "title": "¿Te suena?",
+    "title": "Te suena familiar?",
     "items": [
-      "Buscar el mismo prompt de ChatGPT cada vez que lo necesitas",
-      "Escribir una y otra vez los mismos saludos y respuestas en correo y chat",
-      "Buscar en el Bloc de notas fórmulas de Excel o IDs que usas a diario"
+      "Buscar el mismo prompt de ChatGPT cada vez",
+      "Volver a escribir los mismos saludos en correo y chat",
+      "Buscar formulas de Excel o ID en el Bloc de notas"
     ],
-    "solution": "Guárdalo una vez en MyQuickPaste. Pega en cualquier momento desde una ventana compacta siempre visible."
+    "solution": "Con MyQuickPaste guardas una vez. Pega desde una ventana compacta siempre visible, en cualquier momento."
   },
   "benefits": {
     "title": "Tres razones para elegirlo",
     "items": [
       {
         "title": "Pegar con un clic",
-        "text": "Pega textos guardados sin interrumpir tu flujo de trabajo."
+        "text": "Pega el texto guardado sin interrumpir tu flujo de trabajo."
       },
       {
         "title": "Siempre a mano",
-        "text": "Compacto y siempre visible — sin cambiar de app solo para copiar y pegar."
+        "text": "Ventana compacta y siempre visible. Sin cambiar de app solo para copiar."
       },
       {
-        "title": "Privacidad primero",
-        "text": "Tus textos se quedan en tu PC, cifrados. Nada se envía a la nube."
+        "title": "Privacidad",
+        "text": "Tus datos permanecen en el PC, cifrados localmente. Sin nube."
       }
     ]
   },
   "features": {
-    "title": "Funciones principales",
+    "title": "Funciones clave",
     "items": [
       {
-        "title": "Slots de texto",
-        "text": "Organiza con las pestañas A–E. La versión gratuita incluye 10 slots; Pro añade más."
+        "title": "Espacios de texto",
+        "text": "Organiza con pestanas A–E. Gratis: 10 espacios. Pro: mas."
       },
       {
         "title": "Historial del portapapeles",
-        "text": "Guardado automático de las últimas 20 copias (Pro). Pega con un clic algo que copiaste antes."
+        "text": "Guarda automaticamente las ultimas 20 copias (Pro)."
       },
       {
-        "title": "Transformaciones rápidas",
-        "text": "Inserta fecha u hora, o cambia mayúsculas/minúsculas antes de pegar."
+        "title": "Transformaciones rapidas",
+        "text": "Fecha, hora y mayusculas/minusculas con un toque."
       },
       {
-        "title": "21 idiomas",
-        "text": "Usa la app en 21 idiomas, incluidos español e inglés."
+        "title": "Interfaz en 21 idiomas",
+        "text": "Disponible en 21 idiomas, incluido el espanol."
       }
     ]
   },
@@ -91,19 +91,19 @@
     "title": "Ideal para",
     "items": [
       {
-        "title": "Trabajo de oficina",
-        "text": "Plantillas de correo, firmas y respuestas habituales — con un clic."
+        "title": "Profesionales",
+        "text": "Plantillas de correo, firmas y respuestas con un clic."
       },
       {
         "title": "Creadores y desarrolladores",
-        "text": "Prompts de IA, fragmentos de código y plantillas pegados al instante."
+        "text": "Prompts de IA, codigo y plantillas al instante."
       },
       {
-        "title": "Soporte y administración",
-        "text": "Respuestas de FAQ y saludos estándar en el chat, con un clic."
+        "title": "Soporte",
+        "text": "Respuestas FAQ y saludos estandar en el chat con un clic."
       },
       {
-        "title": "Quien escribe todo el día",
+        "title": "Quien escribe a diario",
         "text": "Elimina la escritura repetitiva desde hoy."
       }
     ]
@@ -113,24 +113,24 @@
     "freeTitle": "Gratis",
     "freePrice": "0 €",
     "freeItems": [
-      "Hasta 10 slots de texto",
+      "Hasta 10 espacios de texto",
       "Ventana redimensionable",
-      "21 idiomas",
-      "Prueba Pro completa de 14 días"
+      "UI en 21 idiomas",
+      "Pro completo 14 dias"
     ],
-    "proTitle": "Pro (compra única)",
-    "proPrice": "Consulta el precio en Microsoft Store",
+    "proTitle": "Pro (pago unico)",
+    "proPrice": "Ver precio en Store",
     "proItems": [
-      "Más slots de texto",
-      "Historial del portapapeles (20 elementos)",
+      "Mas espacios",
+      "Historial (20)",
       "Importar / exportar",
-      "Compra única, sin suscripción"
+      "Compra unica, sin suscripcion"
     ],
-    "note": "La app base es gratuita. Pro está disponible como complemento en Microsoft Store."
+    "note": "La app base es gratuita. Pro esta disponible como complemento en Microsoft Store."
   },
   "cta": {
     "title": "Deja de perder tiempo escribiendo lo mismo",
-    "lead": "Instálala en minutos. Empieza gratis y prueba todas las funciones Pro durante 14 días.",
+    "lead": "Instalacion en minutos. Empieza gratis y prueba todas las funciones Pro durante 14 dias.",
     "button": "Descargar gratis en Microsoft Store"
   },
   "footer": {

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lang": "zh-tw",
+    "lang": "zh-TW",
     "title": "MyQuickPaste - 一鍵貼上全文",
-    "description": "每天都在重複複製貼上同樣的文字？儲存常用文字，一鍵貼上。輕量 Windows 常駐工具，Microsoft Store 免費下載。"
+    "description": "還在每天重複複製貼上相同文字？MyQuickPaste 是常駐螢幕角落的輕量 Windows 工具。Microsoft Store 免費下載。"
   },
   "lang": {
     "label": "語言"
@@ -10,59 +10,59 @@
   "nav": {
     "home": "首頁",
     "support": "支援",
-    "releaseNotes": "更新紀錄",
+    "releaseNotes": "版本資訊",
     "privacy": "隱私權"
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "儲存常用文字，一鍵貼上。",
-    "headline": "MyQuickPaste — 常駐螢幕角落，在 Windows 上一鍵貼上已儲存的文字。",
+    "catch": "儲存常用文字。一鍵貼上。",
+    "headline": "MyQuickPaste — 放在螢幕角落、一鍵快速貼上的 Windows 複製貼上效率常駐輕量工具",
     "features": [
       {
-        "label": "一鍵貼上",
-        "text": "AI 提示詞、程式碼片段、郵件範本，直接貼到目前工作位置。"
+        "label": "即時呼叫",
+        "text": "快速叫出 AI 提示詞、程式碼片段和郵件範本。"
       },
       {
-        "label": "輕鬆設定",
-        "text": "複製文字，儲存為槽位，就是這麼簡單。"
+        "label": "簡單註冊",
+        "text": "複製的內容可立即儲存，操作非常簡單。"
       },
       {
-        "label": "只保存在本機",
-        "text": "資料加密儲存在本機，不會上傳到雲端。"
+        "label": "100% 本機儲存",
+        "text": "資料加密，完整保護隱私，不上傳雲端。"
       },
       {
-        "label": "簡潔清楚",
-        "text": "緊湊顯示、始終置頂，上手即用。"
+        "label": "立刻上手",
+        "text": "新手也能秒懂：寬約 200px，始終置頂顯示。"
       }
     ],
     "ctaPrimary": "在 Microsoft Store 免費下載",
-    "ctaSecondary": "14 天免費試用全部 Pro 功能",
-    "trust": "Microsoft Store 認證 · 資料在本機加密儲存",
-    "screenshotAlt": "MyQuickPaste：點選槽位即可貼上完整文字。在編輯中一次性設定。"
+    "ctaSecondary": "14 天免費試用 Pro 全部功能",
+    "trust": "Microsoft Store 認證 · 資料在 PC 本機加密保存",
+    "screenshotAlt": "MyQuickPaste：點擊槽位即可貼上完整文字。在編輯中一次性設定。"
   },
   "problem": {
-    "title": "你是否也有這樣的經驗？",
+    "title": "是否有同感？",
     "items": [
-      "每次都要重新找同一個 ChatGPT 提示詞",
-      "在郵件和聊天中反覆輸入相同的問候和回覆",
-      "在記事本裡翻找每天用的 Excel 公式或 ID"
+      "每次都要找相同的 ChatGPT 提示詞",
+      "在郵件和聊天中重複輸入相同問候語",
+      "在記事本裡找 Excel 公式或 ID"
     ],
-    "solution": "在 MyQuickPaste 中儲存一次，隨時從緊湊的置頂視窗一鍵貼上。"
+    "solution": "MyQuickPaste 一次儲存，隨時從置頂小視窗貼上。"
   },
   "benefits": {
-    "title": "三個選擇它的理由",
+    "title": "使用者喜愛的三大理由",
     "items": [
       {
         "title": "一鍵貼上",
-        "text": "貼上已儲存的文字，不打斷工作流程。"
+        "text": "不中斷工作流程，立即貼上。"
       },
       {
-        "title": "始終觸手可及",
-        "text": "緊湊顯示、始終置頂，無需切換應用程式來複製貼上。"
+        "title": "触手可及",
+        "text": "小巧置頂，無需切換視窗。"
       },
       {
-        "title": "注重隱私",
-        "text": "文字片段加密儲存在本機，不會傳送到雲端。"
+        "title": "隱私優先",
+        "text": "資料本機加密，不上傳雲端。"
       }
     ]
   },
@@ -71,66 +71,66 @@
     "items": [
       {
         "title": "文字槽位",
-        "text": "用 A–E 五個分頁整理。免費版 10 個槽位，Pro 可擴充更多。"
+        "text": "A–E 五個標籤頁整理。免費 10 個槽位。"
       },
       {
         "title": "剪貼簿歷史",
-        "text": "自動儲存最近 20 筆複製紀錄（Pro）。一鍵貼上之前複製的內容。"
+        "text": "自動保存最近 20 條（Pro）。"
       },
       {
         "title": "快速轉換",
-        "text": "插入日期或時間，或在貼上前切換大小寫。"
+        "text": "插入日期、時間或變更大小寫。"
       },
       {
         "title": "21 種語言",
-        "text": "支援包含繁體中文和日語在內的 21 種介面語言。"
+        "text": "介面支援 21 種語言。"
       }
     ]
   },
   "usecases": {
-    "title": "適合這些使用者",
+    "title": "適合對象",
     "items": [
       {
-        "title": "辦公人士",
-        "text": "郵件範本、簽名、常用回覆，一鍵貼上。"
+        "title": "商務人士",
+        "text": "郵件範本和簽名一鍵貼上。"
       },
       {
         "title": "創作者與開發者",
-        "text": "AI 提示詞、程式碼片段、範本，即刻貼上。"
+        "text": "AI 提示詞和程式碼即時貼上。"
       },
       {
-        "title": "客服與行政",
-        "text": "FAQ 回答和標準問候語，一鍵傳送到聊天。"
+        "title": "客服支援",
+        "text": "FAQ 和標準回覆快速傳送。"
       },
       {
-        "title": "每天大量輸入的使用者",
-        "text": "從今天起，告別重複輸入。"
+        "title": "日常 PC 使用者",
+        "text": "告別重複輸入。"
       }
     ]
   },
   "pricing": {
     "title": "價格",
-    "freeTitle": "免費版",
+    "freeTitle": "免費",
     "freePrice": "NT$0",
     "freeItems": [
-      "最多 10 個文字槽位",
-      "可調整視窗大小",
+      "最多 10 個槽位",
+      "可調視窗大小",
       "21 種語言",
-      "14 天 Pro 全功能試用"
+      "14 天 Pro 試用"
     ],
-    "proTitle": "Pro 版（一次性購買）",
-    "proPrice": "價格請見 Microsoft Store",
+    "proTitle": "Pro（一次性購買）",
+    "proPrice": "請在 Store 查看價格",
     "proItems": [
-      "擴充槽位數量",
-      "剪貼簿歷史（20 筆）",
-      "匯入 / 匯出",
+      "擴展槽位",
+      "剪貼簿歷史（20 條）",
+      "匯入/匯出",
       "一次性購買，無訂閱"
     ],
-    "note": "基礎應用程式免費。Pro 版可在 Microsoft Store 以附加元件形式購買。"
+    "note": "基本應用程式免費。Pro 為 Microsoft Store 附加元件。"
   },
   "cta": {
     "title": "別再浪費時間重複輸入",
-    "lead": "幾分鐘即可安裝。免費開始，14 天內體驗全部 Pro 功能。",
+    "lead": "幾分鐘即可安裝。",
     "button": "在 Microsoft Store 免費下載"
   },
   "footer": {

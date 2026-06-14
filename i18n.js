@@ -83,10 +83,12 @@
   function getBasePath() {
     var path = location.pathname || "/";
     if (/\.html$/i.test(path)) {
-      return path.slice(0, path.lastIndexOf("/") + 1);
+      path = path.slice(0, path.lastIndexOf("/") + 1);
+    } else if (!path.endsWith("/")) {
+      path = path + "/";
     }
-    if (!path.endsWith("/")) {
-      return path + "/";
+    if (/\/(privacy|support|release-notes)\/$/.test(path)) {
+      return path.replace(/\/(privacy|support|release-notes)\/$/, "/");
     }
     return path;
   }

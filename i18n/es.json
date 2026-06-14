@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "es",
-    "title": "MyQuickPaste - Pega el texto completo con un clic",
-    "description": "Sigues copiando el mismo texto cada dia? MyQuickPaste es un asistente Windows ligero, siempre visible. Gratis en Microsoft Store."
+    "title": "MyQuickPaste - Pega tu texto guardado con un solo clic",
+    "description": "¿Estás cansado de copiar y pegar el mismo texto una y otra vez todos los días? MyQuickPaste se sitúa en la esquina de tu pantalla para ofrecerte un pegado instantáneo con un solo clic. Ligero y gratuito en Microsoft Store."
   },
   "lang": {
     "label": "Idioma"
@@ -10,60 +10,60 @@
   "nav": {
     "home": "Inicio",
     "support": "Soporte",
-    "releaseNotes": "Notas de la version",
+    "releaseNotes": "Notas de la versión",
     "privacy": "Privacidad"
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Guarda textos frecuentes. Pega con un clic.",
+    "catch": "Guarda tus textos frecuentes. Pega con un solo clic.",
     "features": [
       {
-        "label": "Acceso instantaneo",
-        "text": "Prompts de IA, fragmentos de codigo y plantillas de correo en segundos."
+        "label": "Pegado con 1 clic",
+        "text": "Introduce tus prompts de IA o plantillas de correo al instante en cualquier aplicación sin cambiar de pantalla."
       },
       {
-        "label": "Registro sencillo",
-        "text": "Registra el texto copiado al instante con un flujo simple."
+        "label": "Registro instantáneo",
+        "text": "Copia cualquier texto desde cualquier lugar y guárdalo en tus espacios inmediatamente, sin pasos complicados."
       },
       {
-        "label": "100% local",
-        "text": "Cifrado en tu PC. Privacidad total, sin nube."
+        "label": "Almacenamiento 100% local",
+        "text": "Perfecto para ID de inicio de sesión sensibles. Tus datos se cifran localmente en tu PC y nunca se envían a la nube."
       },
       {
-        "label": "Listo al momento",
-        "text": "Facil desde el primer dia: ~200 px, siempre visible."
+        "label": "Interfaz ultraesbelta",
+        "text": "Completamente fijo en 200 px de ancho. Un diseño limpio y compacto sin curva de aprendizaje para nuevos usuarios."
       }
     ],
     "ctaPrimary": "Descargar gratis en Microsoft Store",
-    "ctaSecondary": "Prueba Pro gratis 14 dias",
+    "ctaSecondary": "Prueba todas las funciones Pro gratis durante 14 días",
     "trust": "Certificado por Microsoft Store · Datos cifrados localmente en tu PC",
-    "screenshotAlt": "MyQuickPaste: haz clic en un espacio para pegar el texto completo. Configuralo una vez en Editar.",
-    "headline1": "Asistente Windows ligero y siempre visible",
-    "headline2": "Para pegar más rápido con un clic desde la esquina de la pantalla"
+    "screenshotAlt": "MyQuickPaste: haz clic en un espacio para pegar el texto completo guardado. Configúralo una vez en Editar.",
+    "headline1": "Se apoya discretamente en la esquina de tu pantalla, listo para escribir al instante.",
+    "headline2": "Eficiencia pura. Un compañero de escritorio ultraenfocado y sumamente sencillo."
   },
   "problem": {
-    "title": "Te suena familiar?",
+    "title": "¿Te suena familiar?",
     "items": [
-      "Buscar el mismo prompt de ChatGPT cada vez",
-      "Volver a escribir los mismos saludos en correo y chat",
-      "Buscar formulas de Excel o ID en el Bloc de notas"
+      "Buscar constantemente el mismo prompt de IA (ChatGPT, etc.) cada vez que lo necesitas",
+      "Volver a escribir los mismos saludos estándar y respuestas predefinidas en correos o chats una y otra vez",
+      "Perder el tiempo copiando múltiples ID de inicio de sesión o fórmulas de Excel desde archivos desordenados de Bloc de notas"
     ],
-    "solution": "Con MyQuickPaste guardas una vez. Pega desde una ventana compacta siempre visible, en cualquier momento."
+    "solution": "Con MyQuickPaste (MQP), solo lo registras una vez. Pega tus textos al instante desde una ventana esbelta y cómoda acomodada en la esquina de tu pantalla."
   },
   "benefits": {
-    "title": "Tres razones para elegirlo",
+    "title": "Tres razones por las que a los usuarios les encanta",
     "items": [
       {
-        "title": "Pegar con un clic",
-        "text": "Pega el texto guardado sin interrumpir tu flujo de trabajo."
+        "title": "Interfaz sumamente sencilla",
+        "text": "No se necesita manual. Eliminamos todo lo innecesario para crear un diseño directo que cualquiera puede dominar en segundos."
       },
       {
-        "title": "Siempre a mano",
-        "text": "Ventana compacta y siempre visible. Sin cambiar de app solo para copiar."
+        "title": "Siempre a tu alcance",
+        "text": "Permanece en primer plano sin bloquear tu trabajo. Se acabó el tedioso cambio con Alt-Tab solo para copiar y pegar."
       },
       {
-        "title": "Privacidad",
-        "text": "Tus datos permanecen en el PC, cifrados localmente. Sin nube."
+        "title": "Guardado sin interrupciones",
+        "text": "Guarda tu texto recién copiado en un espacio de inmediato. Minimizamos el esfuerzo necesario para organizar tus fragmentos."
       }
     ]
   },
@@ -72,40 +72,40 @@
     "items": [
       {
         "title": "Espacios de texto",
-        "text": "Organiza con pestanas A–E. Gratis: 10 espacios. Pro: mas."
+        "text": "Organiza todo a través de las pestañas A–E. La versión gratuita incluye 10 espacios, ampliable con Pro."
       },
       {
         "title": "Historial del portapapeles",
-        "text": "Guarda automaticamente las ultimas 20 copias (Pro)."
+        "text": "Registra automáticamente tus últimas 20 copias (Pro). Recupera tus fragmentos pasados en un abrir y cerrar de ojos."
       },
       {
-        "title": "Transformaciones rapidas",
-        "text": "Fecha, hora y mayusculas/minusculas con un toque."
+        "title": "Transformaciones rápidas",
+        "text": "Inserta la fecha actual, marcas de tiempo o cambia mayúsculas y minúsculas con un solo toque antes de pegar."
       },
       {
-        "title": "Interfaz en 21 idiomas",
-        "text": "Disponible en 21 idiomas, incluido el espanol."
+        "title": "Soporte para 22 idiomas",
+        "text": "Interfaz de usuario con soporte completo para 22 idiomas, incluidos el español y el japonés."
       }
     ]
   },
   "usecases": {
-    "title": "Ideal para",
+    "title": "Perfecto para cada flujo de trabajo",
     "items": [
       {
-        "title": "Profesionales",
-        "text": "Plantillas de correo, firmas y respuestas con un clic."
+        "title": "Gestión de cuentas y múltiples ID",
+        "text": "Mantén organizados tus ID de inicio de sesión del trabajo y personales y pégalos al instante sin tener que escribir a mano."
       },
       {
-        "title": "Creadores y desarrolladores",
-        "text": "Prompts de IA, codigo y plantillas al instante."
+        "title": "Chats de juegos en línea",
+        "text": "Envía saludos estándar o avisos rápidos al equipo al instante sin perder el enfoque durante partidas intensas."
       },
       {
-        "title": "Soporte",
-        "text": "Respuestas FAQ y saludos estandar en el chat con un clic."
+        "title": "Trabajo comercial y administrativo",
+        "text": "Elimina el tiempo dedicado a buscar plantillas de correo electrónico, firmas y largas instrucciones de IA."
       },
       {
-        "title": "Quien escribe a diario",
-        "text": "Elimina la escritura repetitiva desde hoy."
+        "title": "Para quienes escriben a diario",
+        "text": "Libérate de la tediosa rutina diaria de escribir las mismas palabras repetidamente a partir de hoy."
       }
     ]
   },
@@ -115,27 +115,27 @@
     "freePrice": "0 €",
     "freeItems": [
       "Hasta 10 espacios de texto",
-      "Ventana redimensionable",
-      "UI en 21 idiomas",
-      "Pro completo 14 dias"
+      "Funcionalidad de ventana redimensionable",
+      "Soporte de interfaz en 22 idiomas",
+      "Prueba Pro completa de 14 días incluida"
     ],
-    "proTitle": "Pro (pago unico)",
-    "proPrice": "Ver precio en Store",
+    "proTitle": "Pro (Pago único)",
+    "proPrice": "Consulta la tienda para ver el precio regional",
     "proItems": [
-      "Mas espacios",
-      "Historial (20)",
-      "Importar / exportar",
-      "Compra unica, sin suscripcion"
+      "Límite de espacios ampliado (hasta 100)",
+      "Historial de portapapeles de 20 elementos",
+      "Opciones de importación y exportación de datos",
+      "Compra única, absolutamente sin suscripciones"
     ],
-    "note": "La app base es gratuita. Pro esta disponible como complemento en Microsoft Store."
+    "note": "La aplicación base es completamente gratuita. La versión Pro está disponible como un complemento seguro de Microsoft Store."
   },
   "cta": {
     "title": "Deja de perder tiempo escribiendo lo mismo",
-    "lead": "Instalacion en minutos. Empieza gratis y prueba todas las funciones Pro durante 14 dias.",
+    "lead": "Se instala en solo unos minutos. Empieza gratis y libera todo el potencial de tu flujo de trabajo diario.",
     "button": "Descargar gratis en Microsoft Store"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-    "developer": "Developed by Kazuhiro Suda"
+    "developer": "Desarrollo: Kazuhiro Suda"
   }
 }

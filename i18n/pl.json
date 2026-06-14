@@ -1,69 +1,69 @@
 {
   "meta": {
     "lang": "pl",
-    "title": "MyQuickPaste - Wklej caly tekst jednym kliknieciem",
-    "description": "Nadal kopiujesz ten sam tekst kazdego dnia? MyQuickPaste to smukly, zawsze na wierzchu asystent Windows. Za darmo w Microsoft Store."
+    "title": "MyQuickPaste - Wklej zapisany tekst jednym kliknięciem",
+    "description": "Masz dość codzienne kopiowania i wklejania tych samych tekstów? MyQuickPaste siedzi wygodnie w rogu ekranu, oferując natychmiastowe wklejanie jednym kliknięciem. Lekki i darmowy w Microsoft Store."
   },
   "lang": {
-    "label": "Jezyk"
+    "label": "Język"
   },
   "nav": {
-    "home": "Strona glowna",
-    "support": "Pomoc",
+    "home": "Strona główna",
+    "support": "Wsparcie",
     "releaseNotes": "Informacje o wydaniu",
-    "privacy": "Prywatnosc"
+    "privacy": "Prywatność"
   },
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Zapisuj często używany tekst. Wklejaj jednym kliknięciem.",
     "features": [
       {
-        "label": "Natychmiastowy dostep",
-        "text": "Prompty AI, fragmenty kodu i szablony e-mail w kilka sekund."
+        "label": "Wklejanie 1 kliknięciem",
+        "text": "Wstawiaj swoje prompty AI lub szablony e-mail natychmiast do dowolnej aplikacji bez konieczności przełączania ekranów."
       },
       {
-        "label": "Prosta rejestracja",
-        "text": "Zarejestruj skopiowany tekst od razu prostym przeplywem pracy."
+        "label": "Błyskawiczny zapis",
+        "text": "Skopiuj dowolny tekst z dowolnego miejsca i od razu zapisz go w swoim slocie, bez żadnych skomplikowanych kroków."
       },
       {
-        "label": "100% lokalnie",
-        "text": "Szyfrowane na PC. Pelna prywatnosc, bez chmury."
+        "label": "W 100% lokalny zapis",
+        "text": "Idealne rozwiązanie dla poufnych danych logowania. Twoje dane są szyfrowane lokalnie na Twoim komputerze i nigdy nie trafiają do chmury."
       },
       {
-        "label": "Gotowe od razu",
-        "text": "Latwe od pierwszego dnia: ~200 px, zawsze na wierzchu."
+        "label": "Ultrasmukłe UI",
+        "text": "Szerokość na stałe zablokowana na 200 px. Przejrzysty i kompaktowy design, który nowi użytkownicy opanują intuicyjnie w kilka sekund."
       }
     ],
     "ctaPrimary": "Pobierz za darmo w Microsoft Store",
-    "ctaSecondary": "Wyprobuj Pro za darmo przez 14 dni",
-    "trust": "Certyfikat Microsoft Store · Dane szyfrowane lokalnie na PC",
-    "screenshotAlt": "MyQuickPaste: kliknij slot, aby wkleic caly zapisany tekst. Skonfiguruj raz w Edycji.",
-    "headline1": "Smukły, zawsze na wierzchu asystent Windows",
-    "headline2": "Do szybszego wklejania jednym kliknięciem z rogu ekranu"
+    "ctaSecondary": "Wypróbuj wszystkie funkcje Pro za darmo przez 14 dni",
+    "trust": "Certyfikat Microsoft Store · Dane szyfrowane lokalnie na Twoim PC",
+    "screenshotAlt": "MyQuickPaste: kliknij slot, aby wkleić cały zapisany tekst. Skonfiguruj raz w zakładce Edycja.",
+    "headline1": "Siedzi dyskretnie w rogu ekranu, zawsze gotowy do natychmiastowego wpisania.",
+    "headline2": "Czysta wydajność. Minimalistyczny, wysoce skoncentrowany asystent na pulpicie, bez zbędnych komplikacji."
   },
   "problem": {
     "title": "Brzmi znajomo?",
     "items": [
-      "Za kazdym razem szukac tego samego promptu ChatGPT",
-      "Ponownie pisac te same pozdrowienia w e-mailu i czacie",
-      "Szukac formul Excela lub ID w Notatniku"
+      "Ciągłe szukanie tego samego promptu AI (np. ChatGPT) za każdym razem, gdy jest Ci potrzebny",
+      "Wpisywanie w kółko tych samych standardowych powitań i gotowych odpowiedzi w mailach lub na czatach",
+      "Marnowanie cennego czasu na szukanie i kopiowanie wielu identyfikatorów logowania lub formuł Excela z nieuporządkowanych plików Notatnika"
     ],
-    "solution": "Z MyQuickPaste zapisz raz. Wklejaj z kompaktowego okna zawsze na wierzchu, kiedy chcesz."
+    "solution": "Z MyQuickPaste (MQP) zapisujesz dany tekst tylko raz. Wklejaj swoje teksty natychmiast ze smukłego i wygodnego okna, ulokowanego w rogu ekranu."
   },
   "benefits": {
-    "title": "Trzy powody, by wybrac",
+    "title": "Trzy powody, dla których użytkownicy go uwielbiają",
     "items": [
       {
-        "title": "Wklejanie jednym kliknieciem",
-        "text": "Wklej zapisany tekst natychmiast, nie przerywajac pracy."
+        "title": "Genialnie proste UI",
+        "text": "Instrukcja jest zbędna. Usunęliśmy wszelkie zbędne elementy, aby stworzyć przejrzysty układ, który każdy opanuje w kilka sekund."
       },
       {
-        "title": "Zawsze pod reka",
-        "text": "Kompaktowe okno zawsze na wierzchu. Bez przelaczania aplikacji tylko po to, by kopiowac."
+        "title": "Zawsze pod ręką",
+        "text": "Pozostaje idealnie na wierzchu, nie blokując Twojej pracy. Koniec z męczącym przełączaniem aplikacji za pomocą Alt-Tab tylko po to, by coś skopiować."
       },
       {
-        "title": "Prywatnosc",
-        "text": "Dane zostaja na PC, szyfrowane lokalnie. Nic do chmury."
+        "title": "Zapisywanie bez zakłóceń",
+        "text": "Zapisz świeżo skopiowany tekst bezpośrednio w slocie. Zredukowaliśmy do minimum wysiłek potrzebny do organizowania Twoich szablonów tekstowych."
       }
     ]
   },
@@ -72,70 +72,70 @@
     "items": [
       {
         "title": "Sloty tekstowe",
-        "text": "Organizuj w zakladkach A–E. Za darmo: 10 slotow. Pro: wiecej."
+        "text": "Organizuj wszystko w zakładkach A–E. Darmowa wersja zawiera 10 slotów, możliwość rozszerzenia do 100 w wersji Pro."
       },
       {
         "title": "Historia schowka",
-        "text": "Automatycznie zapisz ostatnie 20 kopii (Pro)."
+        "text": "Automatycznie zapisuje Twoje ostatnie 20 kopii (Pro). Odzyskaj starsze skopiowane treści w mgnieniu oka."
       },
       {
         "title": "Szybkie transformacje",
-        "text": "Data, godzina i wielkosc liter jednym dotknieciem."
+        "text": "Wstawiaj aktualną datę, znaczniki czasu lub zmieniaj wielkość liter tekstu jednym dotknięciem tuż przed wklejeniem."
       },
       {
-        "title": "Interfejs w 21 jezykach",
-        "text": "Dostepny w 21 jezykach, rowniez po polsku."
+        "title": "Wsparcie dla 22 języków",
+        "text": "Interfejs użytkownika w pełni obsługuje 22 różne języki, w tym polski i japoński."
       }
     ]
   },
   "usecases": {
-    "title": "Idealny dla",
+    "title": "Idealny dla każdego przepływu pracy",
     "items": [
       {
-        "title": "Profesjonalisci",
-        "text": "Szablony e-mail, podpisy i gotowe odpowiedzi jednym kliknieciem."
+        "title": "Zarządzanie kontami i wieloma ID",
+        "text": "Trzymaj swoje służbowe i prywatne identyfikatory logowania w porządku i wklejaj je natychmiast bez ręcznego wpisywania."
       },
       {
-        "title": "Tworcy i deweloperzy",
-        "text": "Prompty AI, kod i szablony natychmiast."
+        "title": "Czaty w grach online",
+        "text": "Wysyłaj standardowe powitania lub szybkie instrukcje drużynie natychmiast, bez utraty koncentracji podczas intensywnej rozgrywki."
       },
       {
-        "title": "Wsparcie",
-        "text": "Odpowiedzi FAQ i standardowe pozdrowienia na czacie."
+        "title": "Praca biznesowa i administracyjna",
+        "text": "Zakończ raz na zawsze marnowanie czasu na szukanie szablonów e-mail, podpisów oraz długich instrukcji dla AI."
       },
       {
-        "title": "Kazdy, kto pisze codziennie",
-        "text": "Koniec z powtarzalnym pisaniem od dzis."
+        "title": "Dla każdego, kto pisze codziennie",
+        "text": "Uwolnij się od dzisiaj od codziennej, nużącej rutyny wielokrotnego wpisywania dokładnie tych samych słów."
       }
     ]
   },
   "pricing": {
     "title": "Cennik",
-    "freeTitle": "Za darmo",
-    "freePrice": "0 zl",
+    "freeTitle": "Wersja darmowa",
+    "freePrice": "0 zł",
     "freeItems": [
-      "Do 10 slotow tekstowych",
-      "Zmienny rozmiar okna",
-      "UI w 21 jezykach",
-      "14 dni pelnego Pro"
+      "Do 10 slotów tekstowych",
+      "Funkcja zmiany rozmiaru okna",
+      "Wsparcie UI w 22 językach",
+      "W cenie pełny 14-dniowy okres próbny Pro"
     ],
-    "proTitle": "Pro (jednorazowy zakup)",
-    "proPrice": "Cene sprawdz w Store",
+    "proTitle": "Pro (Zakup jednorazowy)",
+    "proPrice": "Sprawdź cenę lokalną w Store",
     "proItems": [
-      "Wiecej slotow",
-      "Historia schowka (20)",
-      "Import / eksport",
-      "Jednorazowy zakup, bez subskrypcji"
+      "Rozszerzony limit slotów (do 100)",
+      "Historia schowka obejmująca 20 elementów",
+      "Opcje importu i eksportu danych",
+      "Jednorazowy zakup, absolutnie żadnych subskrypcji"
     ],
-    "note": "Aplikacja podstawowa jest darmowa. Pro dostepne jako dodatek w Microsoft Store."
+    "note": "Podstawowa aplikacja jest całkowicie darmowa. Wersja Pro jest dostępna jako bezpieczny dodatek w Microsoft Store."
   },
   "cta": {
-    "title": "Przestan tracic czas na powtarzalne pisanie",
-    "lead": "Zainstaluj w kilka minut. Zacznij za darmo i wyprobuj wszystkie funkcje Pro przez 14 dni.",
+    "title": "Przestań tracić czas na powtarzalne pisanie",
+    "lead": "Instalacja zajmuje zaledwie kilka minut. Zacznij za darmo i odblokuj pełny potencjał swojej codziennej pracy.",
     "button": "Pobierz za darmo w Microsoft Store"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-    "developer": "Developed by Kazuhiro Suda"
+    "developer": "Rozwój: Kazuhiro Suda"
   }
 }

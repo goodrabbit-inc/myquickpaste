@@ -2,7 +2,7 @@
   "meta": {
     "lang": "de",
     "title": "MyQuickPaste – Mit einem Klick einfügen",
-    "description": "Kopieren Sie täglich denselben Text? Schlankes Windows-Tool, immer im Vordergrund. Kostenlos im Microsoft Store."
+    "description": "Sind Sie es leid, täglich dieselben Texte kopieren und einfügen zu müssen? MyQuickPaste sitzt unaufdringlich in Ihrer Bildschirmecke für das sofortige Einfügen per Klick. Leichtgewichtig und kostenlos im Microsoft Store."
   },
   "lang": {
     "label": "Sprache"
@@ -15,55 +15,55 @@
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "catch": "Häufig genutzten Text speichern. Mit einem Klick einfügen.",
+    "catch": "Häufig genutzte Texte speichern. Mit einem Klick einfügen.",
     "features": [
       {
-        "label": "Sofort abrufen",
-        "text": "KI-Prompts, Code-Snippets und E-Mail-Vorlagen blitzschnell nutzen."
+        "label": "1-Klick-Einfügen",
+        "text": "Fügen Sie Ihre KI-Prompts oder E-Mail-Vorlagen sofort in jede beliebige App ein, ohne die Fenster wechseln zu müssen."
       },
       {
-        "label": "Einfach speichern",
-        "text": "Kopierte Texte sofort registrieren – ganz unkompliziert."
+        "label": "Sofort registrieren",
+        "text": "Kopieren Sie Text aus einer beliebigen Quelle und speichern Sie ihn ohne umständliche Zwischenschritte sofort in Ihren Slots."
       },
       {
-        "label": "100 % lokal",
-        "text": "Verschlüsselt auf dem PC. Volle Privatsphäre, kein Cloud-Upload."
+        "label": "100 % lokaler Schutz",
+        "text": "Perfekt für sensible Login-IDs. Ihre Daten werden lokal auf Ihrem PC verschlüsselt und niemals in die Cloud übertragen."
       },
       {
-        "label": "Sofort verständlich",
-        "text": "Schmal (~200 px), immer im Vordergrund, sofort einsatzbereit."
+        "label": "Ultraschlanke UI",
+        "text": "Fest fixiert auf eine Breite von 200 px. Ein klares, kompaktes Design, das auch Erstnutzer in Sekundenschnelle intuitiv verstehen."
       }
     ],
     "ctaPrimary": "Kostenlos im Microsoft Store herunterladen",
-    "ctaSecondary": "14 Tage Pro kostenlos testen",
-    "trust": "Microsoft Store-zertifiziert · Lokal verschlüsselt auf Ihrem PC",
-    "screenshotAlt": "MyQuickPaste: Slot anklicken, vollständigen Text einfügen. Einmal in Bearbeiten einrichten.",
-    "headline1": "Schlankes, immer sichtbares Windows-Tool für schnelles Einfügen per Klick",
-    "headline2": "In der Bildschirmecke"
+    "ctaSecondary": "14 Tage alle Pro-Funktionen kostenlos testen",
+    "trust": "Microsoft Store-zertifiziert · Daten lokal auf Ihrem PC verschlüsselt",
+    "screenshotAlt": "MyQuickPaste: Slot anklicken, um den vollständigen gespeicherten Text einzufügen. Einmalig in Bearbeiten einrichten.",
+    "headline1": "Sitzt unaufdringlich in Ihrer Bildschirmecke, bereit für die sofortige Eingabe.",
+    "headline2": "Pure Effizienz. Ein absolut schnörkelloser, fokussierter Desktop-Begleiter."
   },
   "problem": {
-    "title": "Kommt Ihnen bekannt vor?",
+    "title": "Kommt Ihnen das bekannt vor?",
     "items": [
-      "Immer wieder denselben ChatGPT-Prompt suchen",
-      "Gleiche E-Mail-Grüße neu tippen",
-      "Excel-Formeln im Editor suchen"
+      "Ständiges Suchen nach denselben KI-Prompts (ChatGPT etc.), jedes Mal, wenn Sie sie brauchen",
+      "Immer wieder dieselben Standard-Grüße und vorgefertigten Antworten in E-Mails oder Chats abtippen müssen",
+      "Kostbare Zeit damit verschwenden, mehrere Login-IDs oder Excel-Formeln aus unübersichtlichen Notepad-Dateien zu suchen"
     ],
-    "solution": "Mit MyQuickPaste einmal speichern. Jederzeit aus dem kompakten Fenster einfügen."
+    "solution": "Mit MyQuickPaste (MQP) registrieren Sie den Text nur ein einziges Mal. Fügen Sie Ihre Texte künftig sofort aus einem schlanken Fenster ein, das sich perfekt in Ihre Bildschirmecke schmiegt."
   },
   "benefits": {
-    "title": "Drei Gründe für MyQuickPaste",
+    "title": "Drei Gründe, warum Nutzer es lieben",
     "items": [
       {
-        "title": "Einfügen mit einem Klick",
-        "text": "Ohne Workflow-Unterbrechung."
+        "title": "Genial einfache UI",
+        "text": "Keine Anleitung nötig. Wir haben auf jeglichen Ballast verzichtet, um ein klares Layout zu schaffen, das jeder in Sekunden beherrscht."
       },
       {
         "title": "Immer griffbereit",
-        "text": "Kompakt und immer im Vordergrund."
+        "text": "Bleibt perfekt im Vordergrund, ohne Ihre Arbeit zu blockieren. Kein lästiges Alt-Tab-Wechseln mehr, nur um etwas zu kopieren."
       },
       {
-        "title": "Privatsphäre",
-        "text": "Verschlüsselt lokal auf dem PC."
+        "title": "Nahtloses Speichern",
+        "text": "Sichern Sie frisch kopierte Texte sofort in einem Slot. Der Aufwand zum Organisieren Ihrer Textbausteine wurde auf ein Minimum reduziert."
       }
     ]
   },
@@ -72,40 +72,40 @@
     "items": [
       {
         "title": "Text-Slots",
-        "text": "Tabs A–E. Gratis: 10 Slots."
+        "text": "Organisieren Sie alles über die Tabs A–E. Die Gratis-Version enthält 10 Slots, mit Pro auf bis zu 100 erweiterbar."
       },
       {
         "title": "Zwischenablage-Verlauf",
-        "text": "20 Einträge (Pro)."
+        "text": "Speichert automatisch Ihre letzten 20 Kopien (Pro). Rufen Sie ältere Clips blitzschnell wieder ab."
       },
       {
-        "title": "Schnellfunktionen",
-        "text": "Datum, Uhrzeit, Groß/Klein."
+        "title": "Schnellkonvertierung",
+        "text": "Fügen Sie das aktuelle Datum, Zeitstempel oder geänderte Groß-/Kleinschreibung mit einem einzigen Tippen vor dem Einfügen ein."
       },
       {
-        "title": "21 Sprachen",
-        "text": "Mehrsprachige Oberfläche."
+        "title": "Unterstützung für 22 Sprachen",
+        "text": "Die Benutzeroberfläche unterstützt vollständig 22 Sprachen, einschließlich Deutsch und Japanisch."
       }
     ]
   },
   "usecases": {
-    "title": "Perfekt für",
+    "title": "Perfekt für jeden Workflow",
     "items": [
       {
-        "title": "Business",
-        "text": "E-Mail-Vorlagen per Klick."
+        "title": "Konto- & Login-ID-Verwaltung",
+        "text": "Halten Sie Ihre geschäftlichen und privaten Login-IDs übersichtlich bereit und fügen Sie sie ohne manuelles Tippen ein."
       },
       {
-        "title": "Entwickler",
-        "text": "Code und Prompts sofort einfügen."
+        "title": "Online-Game-Chats",
+        "text": "Senden Sie Standard-Grüße oder schnelle Team-Anweisungen sofort ab, ohne in hitzigen Spielmomenten den Fokus zu verlieren."
       },
       {
-        "title": "Support",
-        "text": "FAQ-Antworten bereithalten."
+        "title": "Business- & Admin-Aufgaben",
+        "text": "Machen Sie Schluss mit der Zeitverschwendung durch das Suchen nach E-Mail-Vorlagen, Signaturen und langen KI-Anweisungen."
       },
       {
-        "title": "Tägliche PC-Nutzer",
-        "text": "Wiederholtes Tippen eliminieren."
+        "title": "Für alle, die täglich tippen",
+        "text": "Befreien Sie sich ab heute von der täglichen, lästigen Routine des wiederholten Tippens derselben Wörter."
       }
     ]
   },
@@ -114,28 +114,28 @@
     "freeTitle": "Kostenlos",
     "freePrice": "0 €",
     "freeItems": [
-      "10 Slots",
-      "Größe änderbar",
-      "21 Sprachen",
-      "14 Tage Pro-Test"
+      "Bis zu 10 Text-Slots",
+      "Flexibel anpassbare Fenstergröße",
+      "Unterstützung für 22 Sprachen",
+      "Inklusive 14 Tage vollwertiger Pro-Testversion"
     ],
     "proTitle": "Pro (Einmalkauf)",
-    "proPrice": "Preis im Store",
+    "proPrice": "Siehe Store für regionale Preise",
     "proItems": [
-      "Mehr Slots",
-      "Verlauf (20)",
-      "Import/Export",
-      "Kein Abo"
+      "Erweitertes Slot-Limit (bis zu 100)",
+      "Automatischer Verlauf der letzten 20 Einträge",
+      "Optionen zum Daten-Import und -Export",
+      "Einmaliger Kauf, absolut keine Abonnements"
     ],
-    "note": "Basis-App kostenlos. Pro als Store-Add-on."
+    "note": "Die Basis-App ist vollkommen kostenlos. Die Pro-Version ist als sicheres Microsoft Store-Add-on erhältlich."
   },
   "cta": {
     "title": "Schluss mit repetitivem Tippen",
-    "lead": "In Minuten installiert.",
+    "lead": "In wenigen Minuten installiert. Starten Sie kostenlos und entfesseln Sie das volle Potenzial Ihres täglichen Workflows.",
     "button": "Kostenlos im Microsoft Store herunterladen"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-    "developer": "Developed by Kazuhiro Suda"
+    "developer": "Entwicklung: Kazuhiro Suda"
   }
 }

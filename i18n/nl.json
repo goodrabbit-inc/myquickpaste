@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "nl",
-    "title": "MyQuickPaste - Plak de volledige tekst met een klik",
-    "description": "Kopieer je nog steeds elke dag dezelfde tekst? MyQuickPaste is een slank, altijd-bovenop Windows-hulpje. Gratis in Microsoft Store."
+    "title": "MyQuickPaste - Plak je opgeslagen tekst met één enkele klik",
+    "description": "Ben je het zat om elke dag keer op keer dezelfde tekst te moeten kopiëren en plakken? MyQuickPaste nestelt zich handig in de hoek van je scherm voor direct plakken met één klik. Lichtgewicht en gratis in de Microsoft Store."
   },
   "lang": {
     "label": "Taal"
@@ -18,52 +18,52 @@
     "catch": "Bewaar veelgebruikte tekst. Plak met één klik.",
     "features": [
       {
-        "label": "Direct toegang",
-        "text": "AI-prompts, codefragmenten en e-mailsjablonen in seconden."
+        "label": "Plakken met 1 klik",
+        "text": "Voeg je AI-prompts of e-mailsjablonen direct in elke app in, zonder van scherm te hoeven wisselen."
       },
       {
-        "label": "Eenvoudig registreren",
-        "text": "Registreer gekopieerde tekst direct met een simpele workflow."
+        "label": "Direct registreren",
+        "text": "Kopieer tekst van waar dan ook en sla het meteen op in je slots, zonder ingewikkelde tussenstappen."
       },
       {
-        "label": "100% lokaal",
-        "text": "Versleuteld op je PC. Volledige privacy, geen cloud."
+        "label": "100% Lokale opslag",
+        "text": "Volkomen veilig voor gevoelige inlog-ID's. Je gegevens worden lokaal op je pc versleuteld en worden nooit naar de cloud verzonden."
       },
       {
-        "label": "Direct klaar",
-        "text": "Makkelijk vanaf dag een: ~200 px, altijd bovenop."
+        "label": "Ultraslanke UI",
+        "text": "Volledig gefixeerd op een breedte van 200px. Een strak en compact ontwerp dat nieuwe gebruikers in een paar seconden intuïtief begrijpen."
       }
     ],
     "ctaPrimary": "Gratis downloaden in Microsoft Store",
-    "ctaSecondary": "14 dagen Pro gratis proberen",
-    "trust": "Microsoft Store-gecertificeerd · Gegevens lokaal versleuteld op je PC",
-    "screenshotAlt": "MyQuickPaste: klik op een slot om de volledige tekst te plakken. Eenmalig instellen in Bewerken.",
-    "headline1": "Een slank, altijd-bovenop Windows-hulpje",
-    "headline2": "Voor sneller plakken met een klik vanuit de hoek van je scherm"
+    "ctaSecondary": "Probeer alle Pro-functies 14 dagen gratis",
+    "trust": "Microsoft Store-gecertificeerd · Gegevens lokaal versleuteld op je pc",
+    "screenshotAlt": "MyQuickPaste: klik op een slot om de volledige opgeslagen tekst te plakken. Eenmalig instellen in het scherm Bewerken.",
+    "headline1": "Sierlijk genesteld in de hoek van je scherm, klaar voor directe invoer op elk moment.",
+    "headline2": "Pure efficiëntie. Een minimalistische en gefocuste bureaublad-metgezel, zonder gedoe."
   },
   "problem": {
-    "title": "Herkenbaar?",
+    "title": "Klinkt dit herkenbaar?",
     "items": [
-      "Elke keer dezelfde ChatGPT-prompt zoeken",
-      "Dezelfde begroetingen opnieuw typen in e-mail en chat",
-      "Excel-formules of ID's zoeken in Kladblok"
+      "Voortdurend moeten zoeken naar dezelfde AI-prompt (zoals ChatGPT), elke keer dat je deze nodig hebt",
+      "Keer op keer dezelfde standaardbegroetingen en sjabloonantwoorden moeten typen in e-mails of chats",
+      "Kostbare tijd verspillen met het zoeken en kopiëren van meerdere inlog-ID's of Excel-formules uit onoverzichtelijke Kladblok-bestanden"
     ],
-    "solution": "Met MyQuickPaste sla je eenmaal op. Plak vanuit een compact, altijd-bovenop venster, altijd en overal."
+    "solution": "Met MyQuickPaste (MQP) registreer je de tekst slechts één enkele keer. Plak je teksten voortaan direct vanuit een slank en comfortabel venster dat perfect in de hoek van je scherm past."
   },
   "benefits": {
-    "title": "Drie redenen om te kiezen",
+    "title": "Drie redenen waarom gebruikers er dol op zijn",
     "items": [
       {
-        "title": "Plakken met een klik",
-        "text": "Plak opgeslagen tekst direct zonder je flow te onderbreken."
+        "title": "Geniaal eenvoudige UI",
+        "text": "Geen handleiding nodig. We hebben alle overbodige ballast verwijderd om een lay-out te creëren die iedereen in een paar seconden beheerst."
       },
       {
-        "title": "Altijd binnen bereik",
-        "text": "Compact venster, altijd bovenop. Geen app-wissel meer alleen om te kopiëren."
+        "title": "Altijd binnen handbereik",
+        "text": "Blijft perfect op de voorgrond zonder je werk te blokkeren. Geen vermoeiend gewissel met Alt-Tab meer, alleen om iets te kopiëren en te plakken."
       },
       {
-        "title": "Privacy",
-        "text": "Je gegevens blijven op je PC, lokaal versleuteld. Niets naar de cloud."
+        "title": "Naadloos opslaan",
+        "text": "Sla vers gekopieerde tekst direct op in een slot. We hebben de moeite die nodig is om je tekstfragmenten te organiseren tot een minimum beperkt."
       }
     ]
   },
@@ -72,70 +72,70 @@
     "items": [
       {
         "title": "Tekstslots",
-        "text": "Organiseer met tabbladen A–E. Gratis: 10 slots. Pro: meer."
+        "text": "Organiseer alles via de tabbladen A–E. De gratis versie bevat 10 slots, uitbreidbaar tot 100 met Pro."
       },
       {
         "title": "Klembordgeschiedenis",
-        "text": "Sla automatisch je laatste 20 kopieën op (Pro)."
+        "text": "Slaat automatisch je laatste 20 kopieën op (Pro). Roep je oude klemborditems in een oogwenk weer op."
       },
       {
         "title": "Snelle transformaties",
-        "text": "Datum, tijd en hoofd/kleine letters met een tik."
+        "text": "Voeg met één enkele tik de huidige datum of tijdstempels toe, of verander de hoofdletters van de tekst voordat je plakt."
       },
       {
-        "title": "UI in 21 talen",
-        "text": "Beschikbaar in 21 talen, inclusief Nederlands."
+        "title": "Ondersteuning voor 22 talen",
+        "text": "De gebruikersinterface biedt volledige ondersteuning voor 22 verschillende talen, waaronder Nederlands en Japans."
       }
     ]
   },
   "usecases": {
-    "title": "Perfect voor",
+    "title": "Perfect voor elke workflow",
     "items": [
       {
-        "title": "Zakelijke gebruikers",
-        "text": "E-mailsjablonen, handtekeningen en standaardantwoorden met een klik."
+        "title": "Account- & inlog-ID-beheer",
+        "text": "Houd je inlog-ID's voor werk en privé overzichtelijk bij elkaar en plak ze direct zonder handmatig typen."
       },
       {
-        "title": "Makers en ontwikkelaars",
-        "text": "AI-prompts, code en sjablonen direct plakken."
+        "title": "Online game-chats",
+        "text": "Stuur direct standaardbegroetingen of snelle tactische instructies naar je team zonder je focus te verliezen tijdens intense gameplay."
       },
       {
-        "title": "Support",
-        "text": "FAQ-antwoorden en standaardbegroetingen in de chat."
+        "title": "Zakelijk & administratief werk",
+        "text": "Maak definitief een einde aan de tijd die verloren gaat met het zoeken naar e-mailsjablonen, handtekeningen en lange AI-instructies."
       },
       {
-        "title": "Iedereen die dagelijks typt",
-        "text": "Stop met herhaaldelijk typen vanaf vandaag."
+        "title": "Voor iedereen die dagelijks typt",
+        "text": "Bevrijd jezelf vanaf vandaag van de dagelijkse, vermoeiende routine van het herhaaldelijk moeten typen van exact dezelfde woorden."
       }
     ]
   },
   "pricing": {
     "title": "Prijzen",
-    "freeTitle": "Gratis",
+    "freeTitle": "Gratis versie",
     "freePrice": "€ 0",
     "freeItems": [
       "Tot 10 tekstslots",
-      "Formaat wijzigbaar venster",
-      "UI in 21 talen",
-      "14 dagen volledige Pro-proef"
+      "Formaat van het venster is aanpasbaar",
+      "Volledige UI-ondersteuning in 22 talen",
+      "Inclusief 14 dagen volledige Pro-proefversie"
     ],
-    "proTitle": "Pro (eenmalig)",
-    "proPrice": "Prijs in Store",
+    "proTitle": "Pro (Eenmalige aankoop)",
+    "proPrice": "Zie de Store voor regionale prijzen",
     "proItems": [
-      "Meer slots",
-      "Klembordgeschiedenis (20)",
-      "Importeren / exporteren",
-      "Eenmalige aankoop, geen abonnement"
+      "Uitgebreide slotlimiet (tot 100 slots)",
+      "Klembordgeschiedenis van 20 items",
+      "Opties voor het importeren en exporteren van gegevens",
+      "Eenmalige aankoop, absoluut geen maandelijkse abonnementen"
     ],
-    "note": "De basis-app is gratis. Pro is beschikbaar als add-on in Microsoft Store."
+    "note": "De basis-app is volkomen gratis. De Pro-versie is beschikbaar als een veilige add-on in de Microsoft Store."
   },
   "cta": {
     "title": "Stop met tijd verspillen aan herhaaldelijk typen",
-    "lead": "Installeer in minuten. Start gratis en ervaar alle Pro-functies 14 dagen.",
+    "lead": "Binnen een paar minuten geïnstalleerd. Start gratis en ontgrendel het volledige potentieel van je dagelijkse workflow.",
     "button": "Gratis downloaden in Microsoft Store"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-    "developer": "Developed by Kazuhiro Suda"
+    "developer": "Ontwikkeling: Kazuhiro Suda"
   }
 }

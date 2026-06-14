@@ -1,11 +1,11 @@
 {
   "meta": {
     "lang": "sv",
-    "title": "MyQuickPaste - Klistra in hela texten med ett klick",
-    "description": "Kopierar du fortfarande samma text varje dag? MyQuickPaste ar en smal, alltid-ovanpa Windows-assistent. Gratis pa Microsoft Store."
+    "title": "MyQuickPaste - Klistra in din sparade text med ett enda klick",
+    "description": "Är du trött på att kopiera och klistra in samma text om och om igen varje dag? MyQuickPaste sitter smidigt i hörnet av din skärm för omedelbar inklistring med ett klick. Lättviktigt och gratis på Microsoft Store."
   },
   "lang": {
-    "label": "Sprak"
+    "label": "Språk"
   },
   "nav": {
     "home": "Hem",
@@ -18,52 +18,52 @@
     "catch": "Spara ofta använd text. Klistra in med ett klick.",
     "features": [
       {
-        "label": "Omedelbar atkomst",
-        "text": "AI-prompter, kodsnuttar och e-postmallar pa nagra sekunder."
+        "label": "1-klicks inklistring",
+        "text": "Infoga dina AI-prompter eller e-postmallar omedelbart i valfritt program utan att behöva byta skärm."
       },
       {
-        "label": "Enkel registrering",
-        "text": "Registrera kopierad text direkt med ett enkelt flode."
+        "label": "Snabb registrering",
+        "text": "Kopiera text var som helst ifrån och spara den i dina slots direkt, helt utan krångliga mellansteg."
       },
       {
-        "label": "100% lokalt",
-        "text": "Krypterat pa din PC. Fullstandig integritet, inget moln."
+        "label": "100% lokal lagring",
+        "text": "Perfekt för känsliga inloggnings-ID:n. Dina data krypteras lokalt på din dator och skickas aldrig till molnet."
       },
       {
-        "label": "Redo pa sekunder",
-        "text": "Latt fran dag ett: ~200 px, alltid ovanpa."
+        "label": "Ultrasmal UI",
+        "text": "Helt fixerad vid 200 px bredd. En ren och kompakt design som nya användare förstår intuitivt på några sekunder."
       }
     ],
-    "ctaPrimary": "Ladda ner gratis pa Microsoft Store",
-    "ctaSecondary": "Prova Pro gratis i 14 dagar",
-    "trust": "Microsoft Store-certifierad · Data krypteras lokalt pa din PC",
-    "screenshotAlt": "MyQuickPaste: klicka pa en plats for att klistra in hela texten. Ställ in en gang i Redigera.",
-    "headline1": "En smal, alltid-ovanpå Windows-assistent",
-    "headline2": "För snabbare inklistring med ett klick från skärmens hörn"
+    "ctaPrimary": "Ladda ner gratis på Microsoft Store",
+    "ctaSecondary": "Prova alla Pro-funktioner gratis i 14 dagar",
+    "trust": "Microsoft Store-certifierad · Data krypteras lokalt på din PC",
+    "screenshotAlt": "MyQuickPaste: klicka på en plats för att klistra in hela den sparade texten. Ställ in en gång i fliken Redigera.",
+    "headline1": "Sitter diskret i hörnet av din skärm, alltid redo för omedelbar inmatning.",
+    "headline2": "Ren effektivitet. En minimalistisk och fokuserad skrivbordskamrat, helt utan krångel."
   },
   "problem": {
-    "title": "Kanner du igen det?",
+    "title": "Känner du igen dig?",
     "items": [
-      "Soka samma ChatGPT-prompt varje gang",
-      "Skriva samma halsningar i e-post och chatt igen",
-      "Soka Excel-formler eller ID i Anteckningar"
+      "Ständigt behöva leta efter samma AI-prompt (som ChatGPT) varje gång du behöver den",
+      "Skriva samma standardhälsningar och mallsvar i e-post eller chattar om och om igen",
+      "Slösa värdefull tid på att leta och kopiera flera inloggnings-ID:n eller Excel-formler från röriga Anteckningar-filer"
     ],
-    "solution": "Med MyQuickPaste sparar du en gang. Klistra in fran ett kompakt, alltid-ovanpa fonster nar som helst."
+    "solution": "Med MyQuickPaste (MQP) registrerar du texten endast en enda gång. Klistra in dina texter direkt från ett smalt och bekvämt fönster som passar perfekt i hörnet av din skärm."
   },
   "benefits": {
-    "title": "Tre skal att valja det",
+    "title": "Tre anledningar till varför användare älskar det",
     "items": [
       {
-        "title": "Klistra in med ett klick",
-        "text": "Klistra in sparad text direkt utan att avbryta flodet."
+        "title": "Geniellt enkelt UI",
+        "text": "Ingen manual behövs. Vi har tagit bort all överflödig ballast för att skapa en rak layout som vem som helst kan bemästra på några sekunder."
       },
       {
-        "title": "Alltid inom rackhall",
-        "text": "Kompakt fonster, alltid ovanpa. Inget app-byte bara for att kopiera."
+        "title": "Alltid inom räckhåll",
+        "text": "Ligger perfekt i förgrunden utan att blockera ditt arbete. Inget mer tröttsamt växlande med Alt-Tab bara för att kopiera och klistra in."
       },
       {
-        "title": "Integritet",
-        "text": "Dina data stannar pa din PC, lokalt krypterade. Inget till molnet."
+        "title": "Smidigt sparande",
+        "text": "Spara nyligen kopierad text direkt i en slot. Vi har minimerat ansträngningen som krävs för att organisera dina textklipp."
       }
     ]
   },
@@ -72,70 +72,70 @@
     "items": [
       {
         "title": "Textplatser",
-        "text": "Organisera med flikar A–E. Gratis: 10 platser. Pro: fler."
+        "text": "Organisera allt via flikarna A–E. Gratisversionen innehåller 10 slots, utökas till 100 med Pro."
       },
       {
         "title": "Urklippshistorik",
-        "text": "Spara automatiskt dina senaste 20 kopior (Pro)."
+        "text": "Sparar automatiskt dina senaste 20 kopior (Pro). Återkalla äldre urklipp på ett ögonblick."
       },
       {
-        "title": "Snabba transformationer",
-        "text": "Datum, tid och versaler/gemener med ett tryck."
+        "title": "Snabba omvandlingar",
+        "text": "Infoga aktuellt datum, tidsstämplar eller ändra skiftläge på texten med ett enda tryck innan du klistrar in."
       },
       {
-        "title": "UI pa 21 sprak",
-        "text": "Tillganglig pa 21 sprak, inklusive svenska."
+        "title": "Stöd för 22 språk",
+        "text": "Användargränssnittet har fullt stöd för 22 olika språk, inklusive svenska och japanska."
       }
     ]
   },
   "usecases": {
-    "title": "Perfekt for",
+    "title": "Perfekt för varje arbetsflöde",
     "items": [
       {
-        "title": "Affarsanvandare",
-        "text": "E-postmallar, signaturer och standardsvar med ett klick."
+        "title": "Konto- & inloggnings-ID hantering",
+        "text": "Håll ordning på dina inloggnings-ID:n för jobb och privatliv, och klistra in dem direkt utan manuellt skrivande."
       },
       {
-        "title": "Skapare och utvecklare",
-        "text": "AI-prompter, kod och mallar direkt."
+        "title": "Chattar i onlinespel",
+        "text": "Skicka standardhälsningar eller snabba taktiska instruktioner till laget direkt, utan att tappa fokus under intensiva spelsessioner."
       },
       {
-        "title": "Support",
-        "text": "FAQ-svar och standardhalsningar i chatten."
+        "title": "Affärs- & administrativt arbete",
+        "text": "Gör slut på tiden som slösas bort på att leta efter e-postmallar, signaturer och långa instruktioner för AI."
       },
       {
-        "title": "Alla som skriver dagligen",
-        "text": "Sluta med repetitivt skrivande fran idag."
+        "title": "För alla som skriver dagligen",
+        "text": "Befria dig själv från den dagliga, tröttsamma rutinen att behöva skriva exakt samma ord upprepade gånger från och med idag."
       }
     ]
   },
   "pricing": {
     "title": "Priser",
-    "freeTitle": "Gratis",
+    "freeTitle": "Gratisversion",
     "freePrice": "0 kr",
     "freeItems": [
       "Upp till 10 textplatser",
-      "Storleksandrat fonster",
-      "UI pa 21 sprak",
-      "14 dagars full Pro-provperiod"
+      "Flexibelt justerbar fönsterstorlek",
+      "Fullt UI-stöd på 22 språk",
+      "Inkluderar 14 dagars full Pro-provperiod"
     ],
-    "proTitle": "Pro (engangskop)",
-    "proPrice": "Se pris i Store",
+    "proTitle": "Pro (Engångsköp)",
+    "proPrice": "Se butiken för regionala priser",
     "proItems": [
-      "Fler platser",
-      "Urklippshistorik (20)",
-      "Importera / exportera",
-      "Engangskop, inget abonnemang"
+      "Utökad slotgräns (upp till 100 slots)",
+      "Urklippshistorik på 20 objekt",
+      "Alternativ för import och export av data",
+      "Engångsköp, absolut inga månatliga abonnemang"
     ],
-    "note": "Grundappen ar gratis. Pro finns som tillagg i Microsoft Store."
+    "note": "Grundappen är helt gratis. Pro-versionen finns tillgänglig som ett säkert tillägg i Microsoft Store."
   },
   "cta": {
-    "title": "Sluta slosa tid pa repetitivt skrivande",
-    "lead": "Installera pa nagra minuter. Borja gratis och prova alla Pro-funktioner i 14 dagar.",
-    "button": "Ladda ner gratis pa Microsoft Store"
+    "title": "Sluta slösa tid på repetitivt skrivande",
+    "lead": "Installeras på bara några minuter. Starta gratis och lås upp den fulla potentialen i ditt dagliga arbetsflöde.",
+    "button": "Ladda ner gratis på Microsoft Store"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-    "developer": "Developed by Kazuhiro Suda"
+    "developer": "Utveckling: Kazuhiro Suda"
   }
 }

@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Guarde textos usados com frequência. Cole com um clique.",
-    "headline": "MyQuickPaste — assistente Windows leve e sempre visivel para colar mais rapido com um clique no canto da tela",
     "features": [
       {
         "label": "Acesso instantaneo",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Baixar gratis na Microsoft Store",
     "ctaSecondary": "Teste Pro gratis por 14 dias",
     "trust": "Certificado Microsoft Store · Dados criptografados localmente no PC",
-    "screenshotAlt": "MyQuickPaste: clique em um slot para colar o texto completo. Configure uma vez em Editar."
+    "screenshotAlt": "MyQuickPaste: clique em um slot para colar o texto completo. Configure uma vez em Editar.",
+    "headline1": "Assistente Windows leve e sempre visível",
+    "headline2": "Para colar mais rápido com um clique no canto da tela"
   },
   "problem": {
     "title": "Parece familiar?",

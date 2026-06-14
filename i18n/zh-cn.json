@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "保存常用文本。一键粘贴。",
-    "headline": "MyQuickPaste — 放在屏幕角落、一键快速粘贴的 Windows 复制粘贴效率常驻轻量工具",
     "features": [
       {
         "label": "即时调用",
@@ -38,7 +37,9 @@
     "ctaPrimary": "在 Microsoft Store 免费下载",
     "ctaSecondary": "14 天免费试用 Pro 全部功能",
     "trust": "Microsoft Store 认证 · 数据在 PC 本地加密保存",
-    "screenshotAlt": "MyQuickPaste：点击槽位即可粘贴完整文本。在编辑中一次性设置。"
+    "screenshotAlt": "MyQuickPaste：点击槽位即可粘贴完整文本。在编辑中一次性设置。",
+    "headline1": "放在屏幕角落、一键快速粘贴",
+    "headline2": "Windows 复制粘贴效率常驻轻量工具"
   },
   "problem": {
     "title": "是否有同感？",

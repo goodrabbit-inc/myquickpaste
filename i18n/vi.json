@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Lưu văn bản hay dùng. Dán chỉ với một cú nhấp.",
-    "headline": "MyQuickPaste — trợ lý Windows mỏng, luôn hiển thị trên cùng, dán nhanh hơn bằng một cú nhấp từ góc màn hình",
     "features": [
       {
         "label": "Truy cập tức thì",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Tải miễn phí trên Microsoft Store",
     "ctaSecondary": "Dùng thử Pro miễn phí 14 ngày",
     "trust": "Chứng nhận Microsoft Store · Dữ liệu mã hóa cục bộ trên PC",
-    "screenshotAlt": "MyQuickPaste: nhấp vào ô để dán toàn bộ văn bản. Cài đặt một lần trong Chỉnh sửa."
+    "screenshotAlt": "MyQuickPaste: nhấp vào ô để dán toàn bộ văn bản. Cài đặt một lần trong Chỉnh sửa.",
+    "headline1": "Trợ lý Windows mỏng, luôn hiển thị trên cùng",
+    "headline2": "Dán nhanh hơn bằng một cú nhấp từ góc màn hình"
   },
   "problem": {
     "title": "Có quen không?",

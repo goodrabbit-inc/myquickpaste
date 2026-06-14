@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "자주 쓰는 텍스트를 저장하세요. 원클릭으로 붙여넣기.",
-    "headline": "MyQuickPaste — 화면 구석에 두고 원클릭으로 빠르게 붙여넣는 Windows 복사·붙여넣기 효율화 상주형 경량 도구",
     "features": [
       {
         "label": "즉시 호출",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Microsoft Store에서 무료 다운로드",
     "ctaSecondary": "14일 Pro 무료 체험",
     "trust": "Microsoft Store 인증 · PC 로컬 암호화 저장",
-    "screenshotAlt": "MyQuickPaste: 슬롯 클릭으로 전체 텍스트 붙여넣기. 편집에서 한 번만 설정."
+    "screenshotAlt": "MyQuickPaste: 슬롯 클릭으로 전체 텍스트 붙여넣기. 편집에서 한 번만 설정.",
+    "headline1": "화면 구석에 두고 원클릭으로 빠르게 붙여넣는",
+    "headline2": "Windows 복사·붙여넣기 효율화 상주형 경량 도구"
   },
   "problem": {
     "title": "이런 경험 있으신가요?",

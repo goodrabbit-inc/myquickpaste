@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Enregistrez vos textes fréquents. Collez en un clic.",
-    "headline": "MyQuickPaste — un outil Windows léger et toujours visible pour coller vos textes en un clic, depuis le coin de l'écran",
     "features": [
       {
         "label": "Accès instantané",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Télécharger gratuitement sur Microsoft Store",
     "ctaSecondary": "Essai Pro gratuit pendant 14 jours",
     "trust": "Certifié Microsoft Store · Données chiffrées localement sur votre PC",
-    "screenshotAlt": "MyQuickPaste : cliquez sur un slot pour coller le texte complet. Configurez une fois dans Modifier."
+    "screenshotAlt": "MyQuickPaste : cliquez sur un slot pour coller le texte complet. Configurez une fois dans Modifier.",
+    "headline1": "Un outil Windows léger et toujours visible pour coller vos textes en un clic",
+    "headline2": "Depuis le coin de l'écran"
   },
   "problem": {
     "title": "Ça vous parle ?",

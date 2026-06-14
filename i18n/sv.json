@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Spara ofta använd text. Klistra in med ett klick.",
-    "headline": "MyQuickPaste — en smal, alltid-ovanpa Windows-assistent for snabbare inklistring med ett klick fran skarmens horn",
     "features": [
       {
         "label": "Omedelbar atkomst",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Ladda ner gratis pa Microsoft Store",
     "ctaSecondary": "Prova Pro gratis i 14 dagar",
     "trust": "Microsoft Store-certifierad · Data krypteras lokalt pa din PC",
-    "screenshotAlt": "MyQuickPaste: klicka pa en plats for att klistra in hela texten. Ställ in en gang i Redigera."
+    "screenshotAlt": "MyQuickPaste: klicka pa en plats for att klistra in hela texten. Ställ in en gang i Redigera.",
+    "headline1": "En smal, alltid-ovanpå Windows-assistent",
+    "headline2": "För snabbare inklistring med ett klick från skärmens hörn"
   },
   "problem": {
     "title": "Kanner du igen det?",

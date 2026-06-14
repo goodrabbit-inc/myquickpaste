@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Save frequently used text. Paste with one click.",
-    "headline": "MyQuickPaste — a slim, always-on-top Windows sidekick for faster copy-paste, ready in the corner of your screen with one-click paste",
     "features": [
       {
         "label": "Instant access",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Download free on Microsoft Store",
     "ctaSecondary": "Try all Pro features free for 14 days",
     "trust": "Microsoft Store certified · Data encrypted locally on your PC",
-    "screenshotAlt": "MyQuickPaste: click a slot to paste the full saved text. Setup once in Edit."
+    "screenshotAlt": "MyQuickPaste: click a slot to paste the full saved text. Setup once in Edit.",
+    "headline1": "A slim, always-on-top Windows sidekick for faster copy-paste",
+    "headline2": "Ready in the corner of your screen with one-click paste"
   },
   "problem": {
     "title": "Sound familiar?",

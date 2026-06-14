@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Bewaar veelgebruikte tekst. Plak met één klik.",
-    "headline": "MyQuickPaste — een slank, altijd-bovenop Windows-hulpje voor sneller plakken met een klik vanuit de hoek van je scherm",
     "features": [
       {
         "label": "Direct toegang",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Gratis downloaden in Microsoft Store",
     "ctaSecondary": "14 dagen Pro gratis proberen",
     "trust": "Microsoft Store-gecertificeerd · Gegevens lokaal versleuteld op je PC",
-    "screenshotAlt": "MyQuickPaste: klik op een slot om de volledige tekst te plakken. Eenmalig instellen in Bewerken."
+    "screenshotAlt": "MyQuickPaste: klik op een slot om de volledige tekst te plakken. Eenmalig instellen in Bewerken.",
+    "headline1": "Een slank, altijd-bovenop Windows-hulpje",
+    "headline2": "Voor sneller plakken met een klik vanuit de hoek van je scherm"
   },
   "problem": {
     "title": "Herkenbaar?",

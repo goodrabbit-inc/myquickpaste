@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Sık kullandığınız metni kaydedin. Tek tıkla yapıştırın.",
-    "headline": "MyQuickPaste — ekran köşesinde tek tıkla hızlı yapıştırma için ince, her zaman üstte Windows yardımcısı",
     "features": [
       {
         "label": "Anında erişim",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Microsoft Store'dan ücretsiz indir",
     "ctaSecondary": "14 gün Pro'yu ücretsiz dene",
     "trust": "Microsoft Store onaylı · Veriler PC'de yerel olarak şifrelenir",
-    "screenshotAlt": "MyQuickPaste: yuvaya tıklayın, kayıtlı metnin tamamı yapıştırılsın. Düzenle'de bir kez ayarlayın."
+    "screenshotAlt": "MyQuickPaste: yuvaya tıklayın, kayıtlı metnin tamamı yapıştırılsın. Düzenle'de bir kez ayarlayın.",
+    "headline1": "Ekran köşesinde tek tıkla hızlı yapıştırma için",
+    "headline2": "İnce, her zaman üstte Windows yardımcısı"
   },
   "problem": {
     "title": "Tanıdık geliyor mu?",

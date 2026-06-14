@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Zapisuj często używany tekst. Wklejaj jednym kliknięciem.",
-    "headline": "MyQuickPaste — smukly, zawsze na wierzchu asystent Windows do szybszego wklejania jednym kliknieciem z rogu ekranu",
     "features": [
       {
         "label": "Natychmiastowy dostep",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Pobierz za darmo w Microsoft Store",
     "ctaSecondary": "Wyprobuj Pro za darmo przez 14 dni",
     "trust": "Certyfikat Microsoft Store · Dane szyfrowane lokalnie na PC",
-    "screenshotAlt": "MyQuickPaste: kliknij slot, aby wkleic caly zapisany tekst. Skonfiguruj raz w Edycji."
+    "screenshotAlt": "MyQuickPaste: kliknij slot, aby wkleic caly zapisany tekst. Skonfiguruj raz w Edycji.",
+    "headline1": "Smukły, zawsze na wierzchu asystent Windows",
+    "headline2": "Do szybszego wklejania jednym kliknięciem z rogu ekranu"
   },
   "problem": {
     "title": "Brzmi znajomo?",

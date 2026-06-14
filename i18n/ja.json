@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "よく使う文章を保存。ワンクリックで貼り付け。",
-    "headline": "MyQuickPaste — 画面の隅に置いてワンクリックで素早く貼り付けできる、Windows用コピペ作業効率化・常駐型軽量ツール",
     "features": [
       {
         "label": "すぐ呼び出し",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Microsoft Store で無料ダウンロード",
     "ctaSecondary": "14日間、Pro全機能を無料でお試し",
     "trust": "Microsoft Store 認定 · データはPC内で暗号化保存",
-    "screenshotAlt": "MyQuickPaste：一覧をクリックすると登録した全文が貼り付け。Editで一度だけ登録。"
+    "screenshotAlt": "MyQuickPaste：一覧をクリックすると登録した全文が貼り付け。Editで一度だけ登録。",
+    "headline1": "画面の隅に置いてワンクリックで素早く貼り付けできる",
+    "headline2": "Windows用コピペ作業効率化・常駐型軽量ツール"
   },
   "problem": {
     "title": "こんな経験、ありませんか？",

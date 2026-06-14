@@ -215,7 +215,10 @@ a:hover {
 }
 
 .hero-brand {
-  margin-bottom: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem;
 }
 
 .hero-logo {
@@ -223,6 +226,20 @@ a:hover {
   height: 72px;
   border-radius: 16px;
   box-shadow: 0 6px 20px rgba(37, 99, 235, 0.12);
+}
+
+.hero-wordmark {
+  margin: 0.7rem 0 0;
+  font-size: clamp(1.35rem, 3.5vw, 1.65rem);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  line-height: 1.15;
+  background: linear-gradient(120deg, #1d4ed8 0%, #2563eb 42%, #6366f1 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: none;
+  filter: drop-shadow(0 1px 0 rgba(255, 255, 255, 0.35));
 }
 
 .hero-copy {
@@ -246,12 +263,19 @@ html:lang(ja) .hero-catch {
 }
 
 .hero-title {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
   margin: 0;
   font-size: 1.02rem;
   font-weight: 400;
-  line-height: 1.65;
+  line-height: 1.55;
   letter-spacing: 0;
   color: var(--muted);
+}
+
+.hero-title-line {
+  display: block;
 }
 
 .tagline {
@@ -660,5 +684,10 @@ html.is-rtl .nav {
   .lang-picker-btn[aria-expanded="true"] {
     border-color: #475569;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+  }
+
+  .hero-wordmark {
+    background: linear-gradient(120deg, #60a5fa 0%, #93c5fd 48%, #a5b4fc 100%);
+    filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.25));
   }
 }

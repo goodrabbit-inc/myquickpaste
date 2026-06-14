@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "บันทึกข้อความที่ใช้บ่ອย วางด้วยคลิกเดียว",
-    "headline": "MyQuickPaste — ผู้ช่วย Windows บางเบา อยู่บนสุดเสมอ วางข้อความเร็วขึ้นด้วยคลิกเดียวจากมุมหน้าจอ",
     "features": [
       {
         "label": "เข้าถึงทันที",
@@ -38,7 +37,9 @@
     "ctaPrimary": "ดาวน์โหลดฟรีบน Microsoft Store",
     "ctaSecondary": "ทดลอง Pro ฟรี 14 วัน",
     "trust": "รับรอง Microsoft Store · ข้อมูลเข้ารหัสในเครื่องบน PC",
-    "screenshotAlt": "MyQuickPaste: คลิกช่องเพื่อวางข้อความเต็ม ตั้งค่าครั้งเดียวในแก้ไข"
+    "screenshotAlt": "MyQuickPaste: คลิกช่องเพื่อวางข้อความเต็ม ตั้งค่าครั้งเดียวในแก้ไข",
+    "headline1": "ผู้ช่วย Windows บางเบา อยู่บนสุดเสมอ",
+    "headline2": "วางข้อความเร็วขึ้นด้วยคลิกเดียวจากมุมหน้าจอ"
   },
   "problem": {
     "title": "เคยเจอแบบนี้ไหม?",

@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Häufig genutzten Text speichern. Mit einem Klick einfügen.",
-    "headline": "MyQuickPaste – schlankes, immer sichtbares Windows-Tool für schnelles Einfügen per Klick in der Bildschirmecke",
     "features": [
       {
         "label": "Sofort abrufen",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Kostenlos im Microsoft Store herunterladen",
     "ctaSecondary": "14 Tage Pro kostenlos testen",
     "trust": "Microsoft Store-zertifiziert · Lokal verschlüsselt auf Ihrem PC",
-    "screenshotAlt": "MyQuickPaste: Slot anklicken, vollständigen Text einfügen. Einmal in Bearbeiten einrichten."
+    "screenshotAlt": "MyQuickPaste: Slot anklicken, vollständigen Text einfügen. Einmal in Bearbeiten einrichten.",
+    "headline1": "Schlankes, immer sichtbares Windows-Tool für schnelles Einfügen per Klick",
+    "headline2": "In der Bildschirmecke"
   },
   "problem": {
     "title": "Kommt Ihnen bekannt vor?",

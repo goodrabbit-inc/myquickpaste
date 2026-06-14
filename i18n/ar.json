@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "احفظ النصوص التي تستخدمها كثيرًا. الصق بنقرة واحدة.",
-    "headline": "MyQuickPaste — مساعد Windows خفيف ودائم الظهور للصق أسرع بنقرة واحدة من زاوية الشاشة",
     "features": [
       {
         "label": "وصول فوري",
@@ -38,7 +37,9 @@
     "ctaPrimary": "تنزيل مجاني من Microsoft Store",
     "ctaSecondary": "جرّب Pro مجانًا لمدة 14 يومًا",
     "trust": "معتمد من Microsoft Store · البيانات مشفّرة محليًا على جهازك",
-    "screenshotAlt": "MyQuickPaste: انقر على خانة للصق النص الكامل. اضبط مرة واحدة في تحرير."
+    "screenshotAlt": "MyQuickPaste: انقر على خانة للصق النص الكامل. اضبط مرة واحدة في تحرير.",
+    "headline1": "مساعد Windows خفيف ودائم الظهور",
+    "headline2": "للصق أسرع بنقرة واحدة من زاوية الشاشة"
   },
   "problem": {
     "title": "هل يبدو مألوفًا؟",

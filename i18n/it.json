@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Salva i testi che usi spesso. Incolla con un clic.",
-    "headline": "MyQuickPaste — assistente Windows leggero e sempre in primo piano per incollare piu velocemente con un clic dall'angolo dello schermo",
     "features": [
       {
         "label": "Accesso immediato",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Scarica gratis su Microsoft Store",
     "ctaSecondary": "Pro gratis per 14 giorni",
     "trust": "Certificato Microsoft Store · Dati crittografati localmente sul PC",
-    "screenshotAlt": "MyQuickPaste: clicca uno slot per incollare tutto il testo salvato. Configura una volta in Modifica."
+    "screenshotAlt": "MyQuickPaste: clicca uno slot per incollare tutto il testo salvato. Configura una volta in Modifica.",
+    "headline1": "Assistente Windows leggero e sempre in primo piano",
+    "headline2": "Per incollare più velocemente con un clic dall'angolo dello schermo"
   },
   "problem": {
     "title": "Ti suona familiare?",

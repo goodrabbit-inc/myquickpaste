@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Guarda textos frecuentes. Pega con un clic.",
-    "headline": "MyQuickPaste — asistente Windows ligero y siempre visible para pegar mas rapido con un clic desde la esquina de la pantalla",
     "features": [
       {
         "label": "Acceso instantaneo",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Descargar gratis en Microsoft Store",
     "ctaSecondary": "Prueba Pro gratis 14 dias",
     "trust": "Certificado por Microsoft Store · Datos cifrados localmente en tu PC",
-    "screenshotAlt": "MyQuickPaste: haz clic en un espacio para pegar el texto completo. Configuralo una vez en Editar."
+    "screenshotAlt": "MyQuickPaste: haz clic en un espacio para pegar el texto completo. Configuralo una vez en Editar.",
+    "headline1": "Asistente Windows ligero y siempre visible",
+    "headline2": "Para pegar más rápido con un clic desde la esquina de la pantalla"
   },
   "problem": {
     "title": "Te suena familiar?",

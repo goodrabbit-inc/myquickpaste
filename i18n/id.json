@@ -16,7 +16,6 @@
   "hero": {
     "kicker": "MyQuickPaste",
     "catch": "Simpan teks yang sering digunakan. Tempel dengan satu klik.",
-    "headline": "MyQuickPaste — asisten Windows ringan dan selalu di atas untuk menempel lebih cepat dengan satu klik dari sudut layar",
     "features": [
       {
         "label": "Akses instan",
@@ -38,7 +37,9 @@
     "ctaPrimary": "Unduh gratis di Microsoft Store",
     "ctaSecondary": "Coba Pro gratis 14 hari",
     "trust": "Bersertifikat Microsoft Store · Data terenkripsi secara lokal di PC",
-    "screenshotAlt": "MyQuickPaste: klik slot untuk menempel teks lengkap. Atur sekali di Edit."
+    "screenshotAlt": "MyQuickPaste: klik slot untuk menempel teks lengkap. Atur sekali di Edit.",
+    "headline1": "Asisten Windows ringan dan selalu di atas",
+    "headline2": "Untuk menempel lebih cepat dengan satu klik dari sudut layar"
   },
   "problem": {
     "title": "Terkesan familiar?",

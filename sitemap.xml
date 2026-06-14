@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <!-- メインのトップURL。ここにすべての多言語の通り道をまとめます -->
+    <loc>https://goodrabbit-inc.github.io/myquickpaste/</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://goodrabbit-inc.github.io/myquickpaste/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=ja" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=fr" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=de" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=es" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=pt" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=nl" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=pl" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=sv" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=ru" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=uk" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=tr" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=th" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=vi" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=id" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=ko" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=hi" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=ar" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=zh-cn" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=zh-tw" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>

@@ -81,6 +81,14 @@
   }
 
   function getBasePath() {
+    var script = document.querySelector('script[src*="i18n.js"]');
+    if (script) {
+      var src = script.getAttribute("src");
+      if (src) {
+        var scriptUrl = new URL(src, window.location.href);
+        return scriptUrl.pathname.replace(/i18n\.js(\?.*)?$/, "");
+      }
+    }
     var path = location.pathname || "/";
     if (/\.html$/i.test(path)) {
       path = path.slice(0, path.lastIndexOf("/") + 1);
@@ -91,6 +99,156 @@
       return path.replace(/\/(privacy|support|release-notes)\/$/, "/");
     }
     return path;
+  }
+
+  function i18nUrl(langFile) {
+    var path = getBasePath() + "i18n/" + langFile + ".json";
+    return new URL(path, window.location.origin).href;
+  }
+
+  function applyNavLinks(lang) {
+    document.querySelectorAll(".nav a[href], .brand[href]").forEach(function (a) {
+      var href = a.getAttribute("href");
+      if (!href || /^https?:\/\//i.test(href) || href.charAt(0) === "#") return;
+      try {
+        var u = new URL(href, window.location.href);
+        u.searchParams.set("lang", lang);
+        a.setAttribute("href", u.pathname + u.search + u.hash);
+      } catch (e) {}
+    });
+  }
+
+  function applySupportPage(t) {
+    if (!t.supportPage) return;
+    var s = t.supportPage;
+    document.querySelectorAll('[data-i18n^="supportPage."]').forEach(function (el) {
+      var val = get(t, el.getAttribute("data-i18n"));
+      if (val != null) el.textContent = val;
+    });
+    var h1 = document.querySelector("h1.page-title");
+    if (h1) h1.textContent = s.title;
+    var sections = document.querySelectorAll("main.content > section");
+    if (sections[0]) {
+      var faqH2 = sections[0].querySelector("h2");
+      if (faqH2) faqH2.textContent = s.faqTitle;
+      var faqPs = sections[0].querySelectorAll("p");
+      if (faqPs[0]) {
+        var q1 = faqPs[0].querySelector("strong");
+        if (q1) q1.textContent = s.faq1Q;
+        var a1 = faqPs[0].querySelector("[data-i18n='supportPage.faq1A']") || faqPs[0].querySelector("span") || faqPs[0];
+        if (a1 && a1 !== q1) a1.textContent = s.faq1A;
+      }
+      if (faqPs[1]) {
+        var q2 = faqPs[1].querySelector("strong");
+        if (q2) q2.textContent = s.faq2Q;
+        var a2 = faqPs[1].querySelector("[data-i18n='supportPage.faq2A']") || faqPs[1].querySelector("span") || faqPs[1];
+        if (a2 && a2 !== q2) a2.textContent = s.faq2A;
+      }
+    }
+    if (sections[1]) {
+      var contactH2 = sections[1].querySelector("h2");
+      if (contactH2) contactH2.textContent = s.contactTitle;
+      var link = sections[1].querySelector("a");
+      if (link) link.textContent = s.contactLink;
+    }
+  }
+
+  function applyReleaseNotesPage(t) {
+    if (!t.releaseNotesPage) return;
+    var r = t.releaseNotesPage;
+    document.querySelectorAll('[data-i18n^="releaseNotesPage."]').forEach(function (el) {
+      var val = get(t, el.getAttribute("data-i18n"));
+      if (val != null) el.textContent = val;
+    });
+    var h1 = document.querySelector("h1.page-title");
+    if (h1) h1.textContent = r.title;
+    var sections = document.querySelectorAll("main.content > section");
+    if (sections[0]) {
+      var h3030 = sections[0].querySelector("h2");
+      if (h3030) h3030.textContent = r.v3030;
+      fillList("rn-3030-list", r.v3030Items);
+      if (!document.getElementById("rn-3030-list")) {
+        var ul0 = sections[0].querySelector("ul");
+        if (ul0 && r.v3030Items) {
+          ul0.innerHTML = r.v3030Items.map(function (item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("");
+        }
+      }
+    }
+    if (sections[1]) {
+      var h3029 = sections[1].querySelector("h2");
+      if (h3029) h3029.textContent = r.v3029;
+      fillList("rn-3029-list", r.v3029Items);
+      if (!document.getElementById("rn-3029-list")) {
+        var ul1 = sections[1].querySelector("ul");
+        if (ul1 && r.v3029Items) {
+          ul1.innerHTML = r.v3029Items.map(function (item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("");
+        }
+      }
+    }
+    var latest = document.querySelector("main.content > p");
+    if (latest) {
+      var prefix = latest.querySelector("[data-i18n='releaseNotesPage.latestPrefix']");
+      var suffix = latest.querySelector("[data-i18n='releaseNotesPage.latestSuffix']");
+      var store = latest.querySelector("a");
+      if (prefix) prefix.textContent = r.latestPrefix;
+      if (suffix) suffix.textContent = r.latestSuffix;
+      if (store) store.textContent = r.storeLink;
+      if (!prefix && !suffix && store) {
+        latest.innerHTML =
+          escapeHtml(r.latestPrefix) +
+          '<a href="' + STORE_URL + '" data-store="true">' + escapeHtml(r.storeLink) + "</a>" +
+          escapeHtml(r.latestSuffix);
+      }
+    }
+  }
+
+  function applyPrivacyPage(t) {
+    if (!t.privacyPage) return;
+    var p = t.privacyPage;
+    document.querySelectorAll('[data-i18n^="privacyPage."]').forEach(function (el) {
+      var val = get(t, el.getAttribute("data-i18n"));
+      if (val != null) el.textContent = val;
+    });
+    var h1 = document.querySelector("h1.page-title");
+    if (h1) h1.textContent = p.title;
+    var updated = document.querySelector("main.content > p");
+    if (updated && !updated.closest("section")) updated.textContent = p.updated;
+    var sections = document.querySelectorAll("main.content > section");
+    if (sections[0]) {
+      var h = sections[0].querySelector("h2");
+      var body = sections[0].querySelector("p");
+      if (h) h.textContent = p.overviewTitle;
+      if (body) body.textContent = p.overviewText;
+    }
+    if (sections[1]) {
+      var h = sections[1].querySelector("h2");
+      var body = sections[1].querySelector("p");
+      if (h) h.textContent = p.dataTitle;
+      if (body) body.textContent = p.dataText;
+    }
+    if (sections[2]) {
+      var h = sections[2].querySelector("h2");
+      var body = sections[2].querySelector("p");
+      if (h) h.textContent = p.storeTitle;
+      if (body) body.textContent = p.storeText;
+    }
+  }
+
+  function detectPage() {
+    var page = document.body && document.body.getAttribute("data-page");
+    if (page) return page;
+    var p = location.pathname || "";
+    if (/support\.html$/i.test(p)) return "support";
+    if (/release-notes\.html$/i.test(p)) return "release-notes";
+    if (/\/privacy(\/index\.html)?\/?$/i.test(p)) return "privacy";
+    return null;
+  }
+
+  function applySubpages(t) {
+    var page = detectPage();
+    if (page === "support") applySupportPage(t);
+    else if (page === "release-notes") applyReleaseNotesPage(t);
+    else if (page === "privacy") applyPrivacyPage(t);
   }
 
   function get(obj, path) {
@@ -190,7 +348,7 @@
   }
 
   function getPageSectionKey() {
-    var page = document.body && document.body.getAttribute("data-page");
+    var page = detectPage();
     if (page === "support") return "supportPage";
     if (page === "release-notes") return "releaseNotesPage";
     if (page === "privacy") return "privacyPage";
@@ -245,13 +403,11 @@
     fillCards("usecases-grid", t.usecases && t.usecases.items);
     fillList("pricing-free-list", t.pricing && t.pricing.freeItems);
     fillList("pricing-pro-list", t.pricing && t.pricing.proItems);
-    if (t.releaseNotesPage) {
-      fillList("rn-3030-list", t.releaseNotesPage.v3030Items);
-      fillList("rn-3029-list", t.releaseNotesPage.v3029Items);
-    }
+    applySubpages(t);
     var heroImg = document.getElementById("hero-screenshot");
     if (heroImg && t.hero && t.hero.screenshotAlt) heroImg.alt = t.hero.screenshotAlt;
     applyStoreLinks();
+    applyNavLinks(lang);
     applyDocumentDirection(lang);
     updateLangPicker(lang);
     updatePageSeo(lang, t, historyMode);
@@ -259,8 +415,8 @@
 
   function load(lang) {
     var entry = LANG_BY_CODE[lang] || LANG_BY_CODE[FALLBACK];
-    var url = getBasePath() + "i18n/" + entry.file + ".json";
-    return fetch(url).then(function (res) {
+    var url = i18nUrl(entry.file);
+    return fetch(url, { cache: "no-cache" }).then(function (res) {
       if (!res.ok) throw new Error("Failed to load " + url);
       return res.json();
     });

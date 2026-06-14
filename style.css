@@ -144,12 +144,13 @@ a:hover {
 }
 
 .lang-picker-menu {
+  --lang-item-row: 2.375rem;
   position: absolute;
   top: calc(100% + 0.35rem);
   right: 0;
   min-width: 13.5rem;
   max-width: min(18rem, 92vw);
-  max-height: min(22rem, 60vh);
+  max-height: min(calc(0.7rem + var(--lang-item-row) * 15), 85vh);
   margin: 0;
   padding: 0.35rem;
   list-style: none;
@@ -170,11 +171,13 @@ a:hover {
   display: flex;
   align-items: center;
   gap: 0.6rem;
+  min-height: var(--lang-item-row, 2.375rem);
   padding: 0.5rem 0.65rem;
   border-radius: 7px;
   font-size: 0.875rem;
   cursor: pointer;
   color: var(--fg);
+  box-sizing: border-box;
 }
 
 .lang-picker-menu li:hover {
@@ -224,7 +227,7 @@ a:hover {
 
 .hero-copy {
   max-width: 34rem;
-  margin: 1.35rem auto 1.35rem;
+  margin: 0 auto 1.15rem;
 }
 
 .hero-catch {
@@ -304,7 +307,7 @@ a:hover {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin: 0 auto 0.25rem;
+  margin: 0 auto 1.35rem;
   padding: 0;
 }
 

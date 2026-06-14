@@ -207,43 +207,42 @@ a:hover {
 .hero {
   max-width: var(--max);
   margin: 0 auto;
-  padding: 2.5rem 1rem 2rem;
+  padding: 2rem 1.25rem 2rem;
   text-align: center;
 }
 
-.hero-logo {
-  border-radius: 18px;
-  box-shadow: var(--shadow);
+.hero-brand {
+  margin-bottom: 1.1rem;
 }
 
-.hero-kicker {
-  margin: 1.25rem 0 0.35rem;
-  font-size: 0.95rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-  color: var(--pro);
+.hero-logo {
+  width: 72px;
+  height: 72px;
+  border-radius: 16px;
+  box-shadow: 0 6px 20px rgba(37, 99, 235, 0.12);
+}
+
+.hero-copy {
+  max-width: 34rem;
+  margin: 0 auto 1.35rem;
 }
 
 .hero-catch {
   margin: 0 0 0.75rem;
-  font-size: 1.08rem;
-  font-weight: 600;
-  color: var(--pro);
-  max-width: 40em;
-  margin-left: auto;
-  margin-right: auto;
+  font-size: clamp(1.45rem, 3.8vw, 1.95rem);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  line-height: 1.3;
+  color: var(--fg);
 }
 
 .hero-title {
   margin: 0;
-  font-size: 1.85rem;
-  font-weight: 800;
-  letter-spacing: -0.02em;
-  line-height: 1.28;
-  max-width: 42em;
-  margin-left: auto;
-  margin-right: auto;
+  font-size: 1.02rem;
+  font-weight: 400;
+  line-height: 1.65;
+  letter-spacing: 0;
+  color: var(--muted);
 }
 
 .tagline {
@@ -266,9 +265,13 @@ a:hover {
 .hero-features {
   list-style: none;
   margin: 0 auto 1.5rem;
-  padding: 0;
-  max-width: 40em;
+  padding: 1rem 1.15rem;
+  max-width: 34rem;
   text-align: left;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
 }
 
 .hero-features li {
@@ -563,12 +566,16 @@ footer p {
     flex: none;
   }
 
-  .hero-title {
-    font-size: 1.45rem;
+  .hero-catch {
+    font-size: 1.35rem;
   }
 
-  .hero-catch {
-    font-size: 1rem;
+  .hero-title {
+    font-size: 0.98rem;
+  }
+
+  .hero-features {
+    padding: 0.85rem 1rem;
   }
 
   .tagline {
@@ -593,6 +600,11 @@ html.is-rtl .lang-picker {
 html.is-rtl .lang-picker-menu {
   right: auto;
   left: 0;
+}
+
+html.is-rtl .hero-copy,
+html.is-rtl .hero-features {
+  text-align: right;
 }
 
 html.is-rtl .hero-features {

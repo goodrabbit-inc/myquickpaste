@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "fr",
+    "title": "MyQuickPaste - Collez tout le texte en un clic",
+    "description": "Vous copiez-collez les mêmes textes chaque jour ? MyQuickPaste, l'assistant Windows toujours au premier plan. Gratuit sur Microsoft Store."
+  },
+  "lang": {
+    "label": "Langue"
+  },
+  "nav": {
+    "home": "Accueil",
+    "support": "Assistance",
+    "releaseNotes": "Notes de version",
+    "privacy": "Confidentialité"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Vous copiez-collez encore les mêmes textes chaque jour ?",
+    "headline": "MyQuickPaste (MQP) — un outil Windows léger et toujours visible pour coller vos textes en un clic, depuis le coin de l'écran",
+    "features": [
+      {
+        "label": "Accès instantané",
+        "text": "Récupérez prompts IA, extraits de code et modèles d'e-mails en un instant."
+      },
+      {
+        "label": "Enregistrement simple",
+        "text": "Enregistrez un texte copié immédiatement, sans prise de tête."
+      },
+      {
+        "label": "100 % local",
+        "text": "Données chiffrées sur votre PC. Confidentialité totale, sans cloud."
+      },
+      {
+        "label": "Prêt en un clin d'œil",
+        "text": "Interface simple : ~200 px de large, toujours au premier plan."
+      }
+    ],
+    "ctaPrimary": "Télécharger gratuitement sur Microsoft Store",
+    "ctaSecondary": "Essai Pro gratuit pendant 14 jours",
+    "trust": "Certifié Microsoft Store · Données chiffrées localement sur votre PC",
+    "screenshotAlt": "MyQuickPaste : cliquez sur un slot pour coller le texte complet. Configurez une fois dans Modifier."
+  },
+  "problem": {
+    "title": "Ça vous parle ?",
+    "items": [
+      "Retrouver le même prompt ChatGPT à chaque fois",
+      "Retaper les mêmes salutations dans vos e-mails",
+      "Chercher une formule Excel dans le Bloc-notes"
+    ],
+    "solution": "Avec MyQuickPaste, enregistrez une fois. Collez depuis une fenêtre compacte toujours visible."
+  },
+  "benefits": {
+    "title": "Trois raisons de l'adopter",
+    "items": [
+      {
+        "title": "Collage en un clic",
+        "text": "Collez vos textes sans interrompre votre flux de travail."
+      },
+      {
+        "title": "Toujours à portée de main",
+        "text": "Fenêtre compacte et toujours au premier plan."
+      },
+      {
+        "title": "Confidentialité",
+        "text": "Vos données restent sur votre PC, chiffrées localement."
+      }
+    ]
+  },
+  "features": {
+    "title": "Fonctionnalités clés",
+    "items": [
+      {
+        "title": "Slots de texte",
+        "text": "Organisez par onglets A–E. Gratuit : 10 slots. Pro : plus."
+      },
+      {
+        "title": "Historique du presse-papiers",
+        "text": "20 derniers copies (Pro)."
+      },
+      {
+        "title": "Transformations rapides",
+        "text": "Date, heure, casse en un tap."
+      },
+      {
+        "title": "Interface 21 langues",
+        "text": "Disponible en 21 langues."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Idéal pour",
+    "items": [
+      {
+        "title": "Professionnels",
+        "text": "Modèles d'e-mails et réponses types en un clic."
+      },
+      {
+        "title": "Créateurs & devs",
+        "text": "Prompts IA, code et modèles instantanément."
+      },
+      {
+        "title": "Support",
+        "text": "FAQ et salutations prêtes à coller."
+      },
+      {
+        "title": "Utilisateurs quotidiens",
+        "text": "Fini la saisie répétitive."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Tarifs",
+    "freeTitle": "Gratuit",
+    "freePrice": "0 €",
+    "freeItems": [
+      "10 slots",
+      "Fenêtre redimensionnable",
+      "21 langues",
+      "Essai Pro 14 jours"
+    ],
+    "proTitle": "Pro (achat unique)",
+    "proPrice": "Voir le Store",
+    "proItems": [
+      "Plus de slots",
+      "Historique (20)",
+      "Import / export",
+      "Sans abonnement"
+    ],
+    "note": "L'application de base est gratuite. Pro disponible en add-on Store."
+  },
+  "cta": {
+    "title": "Arrêtez de perdre du temps à retaper",
+    "lead": "Installez en quelques minutes.",
+    "button": "Télécharger gratuitement sur Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

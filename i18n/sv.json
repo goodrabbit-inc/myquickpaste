@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "sv",
+    "title": "MyQuickPaste - Klistra in hela texten med ett klick",
+    "description": "Kopierar du fortfarande samma text varje dag? MyQuickPaste ar en smal, alltid-ovanpa Windows-assistent. Gratis pa Microsoft Store."
+  },
+  "lang": {
+    "label": "Sprak"
+  },
+  "nav": {
+    "home": "Hem",
+    "support": "Support",
+    "releaseNotes": "Versionsinformation",
+    "privacy": "Integritet"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Kopierar och klistrar du fortfarande in samma text om och om igen varje dag?",
+    "headline": "MyQuickPaste (MQP) — en smal, alltid-ovanpa Windows-assistent for snabbare inklistring med ett klick fran skarmens horn",
+    "features": [
+      {
+        "label": "Omedelbar atkomst",
+        "text": "AI-prompter, kodsnuttar och e-postmallar pa nagra sekunder."
+      },
+      {
+        "label": "Enkel registrering",
+        "text": "Registrera kopierad text direkt med ett enkelt flode."
+      },
+      {
+        "label": "100% lokalt",
+        "text": "Krypterat pa din PC. Fullstandig integritet, inget moln."
+      },
+      {
+        "label": "Redo pa sekunder",
+        "text": "Latt fran dag ett: ~200 px, alltid ovanpa."
+      }
+    ],
+    "ctaPrimary": "Ladda ner gratis pa Microsoft Store",
+    "ctaSecondary": "Prova Pro gratis i 14 dagar",
+    "trust": "Microsoft Store-certifierad · Data krypteras lokalt pa din PC",
+    "screenshotAlt": "MyQuickPaste: klicka pa en plats for att klistra in hela texten. Ställ in en gang i Redigera."
+  },
+  "problem": {
+    "title": "Kanner du igen det?",
+    "items": [
+      "Soka samma ChatGPT-prompt varje gang",
+      "Skriva samma halsningar i e-post och chatt igen",
+      "Soka Excel-formler eller ID i Anteckningar"
+    ],
+    "solution": "Med MyQuickPaste sparar du en gang. Klistra in fran ett kompakt, alltid-ovanpa fonster nar som helst."
+  },
+  "benefits": {
+    "title": "Tre skal att valja det",
+    "items": [
+      {
+        "title": "Klistra in med ett klick",
+        "text": "Klistra in sparad text direkt utan att avbryta flodet."
+      },
+      {
+        "title": "Alltid inom rackhall",
+        "text": "Kompakt fonster, alltid ovanpa. Inget app-byte bara for att kopiera."
+      },
+      {
+        "title": "Integritet",
+        "text": "Dina data stannar pa din PC, lokalt krypterade. Inget till molnet."
+      }
+    ]
+  },
+  "features": {
+    "title": "Viktiga funktioner",
+    "items": [
+      {
+        "title": "Textplatser",
+        "text": "Organisera med flikar A–E. Gratis: 10 platser. Pro: fler."
+      },
+      {
+        "title": "Urklippshistorik",
+        "text": "Spara automatiskt dina senaste 20 kopior (Pro)."
+      },
+      {
+        "title": "Snabba transformationer",
+        "text": "Datum, tid och versaler/gemener med ett tryck."
+      },
+      {
+        "title": "UI pa 21 sprak",
+        "text": "Tillganglig pa 21 sprak, inklusive svenska."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Perfekt for",
+    "items": [
+      {
+        "title": "Affarsanvandare",
+        "text": "E-postmallar, signaturer och standardsvar med ett klick."
+      },
+      {
+        "title": "Skapare och utvecklare",
+        "text": "AI-prompter, kod och mallar direkt."
+      },
+      {
+        "title": "Support",
+        "text": "FAQ-svar och standardhalsningar i chatten."
+      },
+      {
+        "title": "Alla som skriver dagligen",
+        "text": "Sluta med repetitivt skrivande fran idag."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Priser",
+    "freeTitle": "Gratis",
+    "freePrice": "0 kr",
+    "freeItems": [
+      "Upp till 10 textplatser",
+      "Storleksandrat fonster",
+      "UI pa 21 sprak",
+      "14 dagars full Pro-provperiod"
+    ],
+    "proTitle": "Pro (engangskop)",
+    "proPrice": "Se pris i Store",
+    "proItems": [
+      "Fler platser",
+      "Urklippshistorik (20)",
+      "Importera / exportera",
+      "Engangskop, inget abonnemang"
+    ],
+    "note": "Grundappen ar gratis. Pro finns som tillagg i Microsoft Store."
+  },
+  "cta": {
+    "title": "Sluta slosa tid pa repetitivt skrivande",
+    "lead": "Installera pa nagra minuter. Borja gratis och prova alla Pro-funktioner i 14 dagar.",
+    "button": "Ladda ner gratis pa Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

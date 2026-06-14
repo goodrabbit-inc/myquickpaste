@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "de",
+    "title": "MyQuickPaste – Mit einem Klick einfügen",
+    "description": "Kopieren Sie täglich denselben Text? Schlankes Windows-Tool, immer im Vordergrund. Kostenlos im Microsoft Store."
+  },
+  "lang": {
+    "label": "Sprache"
+  },
+  "nav": {
+    "home": "Start",
+    "support": "Support",
+    "releaseNotes": "Versionshinweise",
+    "privacy": "Datenschutz"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Kopieren und einfügen Sie noch immer jeden Tag denselben Text?",
+    "headline": "MyQuickPaste (MQP) – schlankes, immer sichtbares Windows-Tool für schnelles Einfügen per Klick in der Bildschirmecke",
+    "features": [
+      {
+        "label": "Sofort abrufen",
+        "text": "KI-Prompts, Code-Snippets und E-Mail-Vorlagen blitzschnell nutzen."
+      },
+      {
+        "label": "Einfach speichern",
+        "text": "Kopierte Texte sofort registrieren – ganz unkompliziert."
+      },
+      {
+        "label": "100 % lokal",
+        "text": "Verschlüsselt auf dem PC. Volle Privatsphäre, kein Cloud-Upload."
+      },
+      {
+        "label": "Sofort verständlich",
+        "text": "Schmal (~200 px), immer im Vordergrund, sofort einsatzbereit."
+      }
+    ],
+    "ctaPrimary": "Kostenlos im Microsoft Store herunterladen",
+    "ctaSecondary": "14 Tage Pro kostenlos testen",
+    "trust": "Microsoft Store-zertifiziert · Lokal verschlüsselt auf Ihrem PC",
+    "screenshotAlt": "MyQuickPaste: Slot anklicken, vollständigen Text einfügen. Einmal in Bearbeiten einrichten."
+  },
+  "problem": {
+    "title": "Kommt Ihnen bekannt vor?",
+    "items": [
+      "Immer wieder denselben ChatGPT-Prompt suchen",
+      "Gleiche E-Mail-Grüße neu tippen",
+      "Excel-Formeln im Editor suchen"
+    ],
+    "solution": "Mit MyQuickPaste einmal speichern. Jederzeit aus dem kompakten Fenster einfügen."
+  },
+  "benefits": {
+    "title": "Drei Gründe für MyQuickPaste",
+    "items": [
+      {
+        "title": "Einfügen mit einem Klick",
+        "text": "Ohne Workflow-Unterbrechung."
+      },
+      {
+        "title": "Immer griffbereit",
+        "text": "Kompakt und immer im Vordergrund."
+      },
+      {
+        "title": "Privatsphäre",
+        "text": "Verschlüsselt lokal auf dem PC."
+      }
+    ]
+  },
+  "features": {
+    "title": "Hauptfunktionen",
+    "items": [
+      {
+        "title": "Text-Slots",
+        "text": "Tabs A–E. Gratis: 10 Slots."
+      },
+      {
+        "title": "Zwischenablage-Verlauf",
+        "text": "20 Einträge (Pro)."
+      },
+      {
+        "title": "Schnellfunktionen",
+        "text": "Datum, Uhrzeit, Groß/Klein."
+      },
+      {
+        "title": "21 Sprachen",
+        "text": "Mehrsprachige Oberfläche."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Perfekt für",
+    "items": [
+      {
+        "title": "Business",
+        "text": "E-Mail-Vorlagen per Klick."
+      },
+      {
+        "title": "Entwickler",
+        "text": "Code und Prompts sofort einfügen."
+      },
+      {
+        "title": "Support",
+        "text": "FAQ-Antworten bereithalten."
+      },
+      {
+        "title": "Tägliche PC-Nutzer",
+        "text": "Wiederholtes Tippen eliminieren."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Preise",
+    "freeTitle": "Kostenlos",
+    "freePrice": "0 €",
+    "freeItems": [
+      "10 Slots",
+      "Größe änderbar",
+      "21 Sprachen",
+      "14 Tage Pro-Test"
+    ],
+    "proTitle": "Pro (Einmalkauf)",
+    "proPrice": "Preis im Store",
+    "proItems": [
+      "Mehr Slots",
+      "Verlauf (20)",
+      "Import/Export",
+      "Kein Abo"
+    ],
+    "note": "Basis-App kostenlos. Pro als Store-Add-on."
+  },
+  "cta": {
+    "title": "Schluss mit repetitivem Tippen",
+    "lead": "In Minuten installiert.",
+    "button": "Kostenlos im Microsoft Store herunterladen"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

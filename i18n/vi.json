@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "vi",
+    "title": "MyQuickPaste - Dán toàn bộ văn bản bằng một cú nhấp",
+    "description": "Vẫn sao chép cùng một đoạn văn mỗi ngày? MyQuickPaste là trợ lý Windows mỏng, luôn hiển thị trên cùng. Miễn phí trên Microsoft Store."
+  },
+  "lang": {
+    "label": "Ngôn ngữ"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "support": "Hỗ trợ",
+    "releaseNotes": "Ghi chú phiên bản",
+    "privacy": "Quyền riêng tư"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Bạn vẫn sao chép và dán đi dán lại cùng một văn bản mỗi ngày?",
+    "headline": "MyQuickPaste (MQP) — trợ lý Windows mỏng, luôn hiển thị trên cùng, dán nhanh hơn bằng một cú nhấp từ góc màn hình",
+    "features": [
+      {
+        "label": "Truy cập tức thì",
+        "text": "Gọi prompt AI, đoạn mã và mẫu email trong vài giây."
+      },
+      {
+        "label": "Đăng ký đơn giản",
+        "text": "Lưu văn bản đã sao chép ngay lập tức với quy trình dễ hiểu."
+      },
+      {
+        "label": "100% cục bộ",
+        "text": "Mã hóa trên PC. Riêng tư hoàn toàn, không gửi lên cloud."
+      },
+      {
+        "label": "Sẵn sàng ngay",
+        "text": "Dễ dùng từ ngày đầu: ~200px, luôn hiển thị trên cùng."
+      }
+    ],
+    "ctaPrimary": "Tải miễn phí trên Microsoft Store",
+    "ctaSecondary": "Dùng thử Pro miễn phí 14 ngày",
+    "trust": "Chứng nhận Microsoft Store · Dữ liệu mã hóa cục bộ trên PC",
+    "screenshotAlt": "MyQuickPaste: nhấp vào ô để dán toàn bộ văn bản. Cài đặt một lần trong Chỉnh sửa."
+  },
+  "problem": {
+    "title": "Có quen không?",
+    "items": [
+      "Tìm cùng một prompt ChatGPT mỗi lần",
+      "Gõ lại lời chào trong email và chat",
+      "Tìm công thức Excel hoặc ID trong Notepad"
+    ],
+    "solution": "Với MyQuickPaste lưu một lần. Dán từ cửa sổ nhỏ luôn hiển thị trên cùng, bất cứ lúc nào."
+  },
+  "benefits": {
+    "title": "Ba lý do người dùng yêu thích",
+    "items": [
+      {
+        "title": "Dán một cú nhấp",
+        "text": "Dán văn bản đã lưu ngay lập tức không gián đoạn công việc."
+      },
+      {
+        "title": "Luôn trong tầm tay",
+        "text": "Cửa sổ nhỏ, luôn hiển thị trên cùng. Không cần chuyển app để sao chép."
+      },
+      {
+        "title": "Riêng tư",
+        "text": "Dữ liệu ở trên PC, mã hóa cục bộ. Không gửi lên cloud."
+      }
+    ]
+  },
+  "features": {
+    "title": "Tính năng chính",
+    "items": [
+      {
+        "title": "Ô văn bản",
+        "text": "Sắp xếp theo tab A–E. Miễn phí: 10 ô. Pro: thêm."
+      },
+      {
+        "title": "Lịch sử clipboard",
+        "text": "Tự động lưu 20 bản sao gần nhất (Pro)."
+      },
+      {
+        "title": "Biến đổi nhanh",
+        "text": "Ngày, giờ và chữ hoa/thường một chạm."
+      },
+      {
+        "title": "Giao diện 21 ngôn ngữ",
+        "text": "Hỗ trợ 21 ngôn ngữ bao gồm tiếng Việt."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Phù hợp cho",
+    "items": [
+      {
+        "title": "Chuyên nghiệp",
+        "text": "Mẫu email, chữ ký và trả lời sẵn sàng một cú nhấp."
+      },
+      {
+        "title": "Sáng tạo & lập trình",
+        "text": "Prompt AI, mã và mẫu dán ngay."
+      },
+      {
+        "title": "Hỗ trợ",
+        "text": "Trả lời FAQ và lời chào chuẩn vào chat."
+      },
+      {
+        "title": "Ai gõ máy hàng ngày",
+        "text": "Hết gõ lặp lại từ hôm nay."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Giá",
+    "freeTitle": "Miễn phí",
+    "freePrice": "0 ₫",
+    "freeItems": [
+      "Tối đa 10 ô văn bản",
+      "Thay đổi kích thước cửa sổ",
+      "UI 21 ngôn ngữ",
+      "Dùng thử Pro đầy đủ 14 ngày"
+    ],
+    "proTitle": "Pro (mua một lần)",
+    "proPrice": "Xem giá trên Store",
+    "proItems": [
+      "Thêm ô",
+      "Lịch sử clipboard (20)",
+      "Nhập / xuất",
+      "Mua một lần, không đăng ký"
+    ],
+    "note": "Ứng dụng cơ bản miễn phí. Pro là add-on trên Microsoft Store."
+  },
+  "cta": {
+    "title": "Đừng lãng phí thời gian gõ lặp lại",
+    "lead": "Cài đặt trong vài phút. Bắt đầu miễn phí và trải nghiệm mọi tính năng Pro trong 14 ngày.",
+    "button": "Tải miễn phí trên Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "id",
+    "title": "MyQuickPaste - Tempel teks lengkap dengan satu klik",
+    "description": "Masih menyalin teks yang sama setiap hari? MyQuickPaste adalah asisten Windows ringan, selalu di atas. Gratis di Microsoft Store."
+  },
+  "lang": {
+    "label": "Bahasa"
+  },
+  "nav": {
+    "home": "Beranda",
+    "support": "Dukungan",
+    "releaseNotes": "Catatan Rilis",
+    "privacy": "Privasi"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Masih menyalin dan menempel teks yang sama berulang-ulang setiap hari?",
+    "headline": "MyQuickPaste (MQP) — asisten Windows ringan dan selalu di atas untuk menempel lebih cepat dengan satu klik dari sudut layar",
+    "features": [
+      {
+        "label": "Akses instan",
+        "text": "Prompt AI, cuplikan kode, dan templat email dalam hitungan detik."
+      },
+      {
+        "label": "Pendaftaran sederhana",
+        "text": "Daftarkan teks yang disalin segera dengan alur yang mudah."
+      },
+      {
+        "label": "100% lokal",
+        "text": "Terenkripsi di PC. Privasi penuh, tanpa cloud."
+      },
+      {
+        "label": "Siap dalam sekejap",
+        "text": "Mudah sejak hari pertama: ~200 px, selalu di atas."
+      }
+    ],
+    "ctaPrimary": "Unduh gratis di Microsoft Store",
+    "ctaSecondary": "Coba Pro gratis 14 hari",
+    "trust": "Bersertifikat Microsoft Store · Data terenkripsi secara lokal di PC",
+    "screenshotAlt": "MyQuickPaste: klik slot untuk menempel teks lengkap. Atur sekali di Edit."
+  },
+  "problem": {
+    "title": "Terkesan familiar?",
+    "items": [
+      "Mencari prompt ChatGPT yang sama setiap kali",
+      "Mengetik ulang sapaan yang sama di email dan chat",
+      "Mencari rumus Excel atau ID di Notepad"
+    ],
+    "solution": "Dengan MyQuickPaste simpan sekali. Tempel dari jendela ringkas selalu di atas, kapan saja."
+  },
+  "benefits": {
+    "title": "Tiga alasan memilihnya",
+    "items": [
+      {
+        "title": "Tempel satu klik",
+        "text": "Tempel teks tersimpan tanpa mengganggu alur kerja."
+      },
+      {
+        "title": "Selalu dekat",
+        "text": "Jendela ringkas dan selalu di atas. Tanpa alt-tab hanya untuk menyalin."
+      },
+      {
+        "title": "Privasi",
+        "text": "Data tetap di PC, terenkripsi lokal. Tanpa cloud."
+      }
+    ]
+  },
+  "features": {
+    "title": "Fitur utama",
+    "items": [
+      {
+        "title": "Slot teks",
+        "text": "Atur dengan tab A–E. Gratis: 10 slot. Pro: lebih banyak."
+      },
+      {
+        "title": "Riwayat clipboard",
+        "text": "Simpan otomatis 20 salinan terakhir (Pro)."
+      },
+      {
+        "title": "Transformasi cepat",
+        "text": "Tanggal, waktu, dan huruf besar/kecil sekali ketuk."
+      },
+      {
+        "title": "UI 21 bahasa",
+        "text": "Tersedia dalam 21 bahasa termasuk Indonesia."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Cocok untuk",
+    "items": [
+      {
+        "title": "Profesional",
+        "text": "Templat email, tanda tangan, dan balasan siap satu klik."
+      },
+      {
+        "title": "Kreator & pengembang",
+        "text": "Prompt AI, kode, dan templat langsung ditempel."
+      },
+      {
+        "title": "Dukungan",
+        "text": "Jawaban FAQ dan sapaan standar ke chat."
+      },
+      {
+        "title": "Pengguna PC harian",
+        "text": "Hilangkan pengetikan berulang mulai hari ini."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Harga",
+    "freeTitle": "Gratis",
+    "freePrice": "Rp 0",
+    "freeItems": [
+      "Hingga 10 slot teks",
+      "Jendela dapat diubah ukuran",
+      "UI 21 bahasa",
+      "Uji coba Pro penuh 14 hari"
+    ],
+    "proTitle": "Pro (beli sekali)",
+    "proPrice": "Lihat harga di Store",
+    "proItems": [
+      "Lebih banyak slot",
+      "Riwayat clipboard (20)",
+      "Impor / ekspor",
+      "Beli sekali, tanpa langganan"
+    ],
+    "note": "Aplikasi dasar gratis. Pro tersedia sebagai add-on Microsoft Store."
+  },
+  "cta": {
+    "title": "Berhenti membuang waktu mengetik berulang",
+    "lead": "Pasang dalam hitungan menit. Mulai gratis dan coba semua fitur Pro selama 14 hari.",
+    "button": "Unduh gratis di Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

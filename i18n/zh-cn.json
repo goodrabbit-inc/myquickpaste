@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "zh-CN",
+    "title": "MyQuickPaste - 一键粘贴全文",
+    "description": "还在每天重复复制粘贴相同文字？MyQuickPaste 是常驻屏幕角落的轻量 Windows 工具。Microsoft Store 免费下载。"
+  },
+  "lang": {
+    "label": "语言"
+  },
+  "nav": {
+    "home": "首页",
+    "support": "支持",
+    "releaseNotes": "发行说明",
+    "privacy": "隐私"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "是否还在每天反复复制粘贴同样的文字？",
+    "headline": "MyQuickPaste (MQP) — 放在屏幕角落、一键快速粘贴的 Windows 复制粘贴效率常驻轻量工具",
+    "features": [
+      {
+        "label": "即时调用",
+        "text": "快速调出 AI 提示词、代码片段和邮件模板。"
+      },
+      {
+        "label": "简单注册",
+        "text": "复制的内容可立即保存，操作非常简单。"
+      },
+      {
+        "label": "100% 本地存储",
+        "text": "数据加密，完全保护隐私，不上传云端。"
+      },
+      {
+        "label": "上手即用",
+        "text": "新手也能秒懂：宽约 200px，始终置顶显示。"
+      }
+    ],
+    "ctaPrimary": "在 Microsoft Store 免费下载",
+    "ctaSecondary": "14 天免费试用 Pro 全部功能",
+    "trust": "Microsoft Store 认证 · 数据在 PC 本地加密保存",
+    "screenshotAlt": "MyQuickPaste：点击槽位即可粘贴完整文本。在编辑中一次性设置。"
+  },
+  "problem": {
+    "title": "是否有同感？",
+    "items": [
+      "每次都要找相同的 ChatGPT 提示词",
+      "在邮件和聊天中重复输入相同问候语",
+      "在记事本里找 Excel 公式或 ID"
+    ],
+    "solution": "MyQuickPaste 一次保存，随时从置顶小窗粘贴。"
+  },
+  "benefits": {
+    "title": "用户喜爱的三大理由",
+    "items": [
+      {
+        "title": "一键粘贴",
+        "text": "不中断工作流程，立即粘贴。"
+      },
+      {
+        "title": "触手可及",
+        "text": "小巧置顶，无需切换窗口。"
+      },
+      {
+        "title": "隐私优先",
+        "text": "数据本地加密，不上传云端。"
+      }
+    ]
+  },
+  "features": {
+    "title": "主要功能",
+    "items": [
+      {
+        "title": "文本槽位",
+        "text": "A–E 五个标签页整理。免费 10 个槽位。"
+      },
+      {
+        "title": "剪贴板历史",
+        "text": "自动保存最近 20 条（Pro）。"
+      },
+      {
+        "title": "快速转换",
+        "text": "插入日期、时间或更改大小写。"
+      },
+      {
+        "title": "21 种语言",
+        "text": "界面支持 21 种语言。"
+      }
+    ]
+  },
+  "usecases": {
+    "title": "适合人群",
+    "items": [
+      {
+        "title": "商务人士",
+        "text": "邮件模板和签名一键粘贴。"
+      },
+      {
+        "title": "创作者与开发者",
+        "text": "AI 提示词和代码即时粘贴。"
+      },
+      {
+        "title": "客服支持",
+        "text": "FAQ 和标准回复快速发送。"
+      },
+      {
+        "title": "日常 PC 用户",
+        "text": "告别重复输入。"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "价格",
+    "freeTitle": "免费",
+    "freePrice": "¥0",
+    "freeItems": [
+      "最多 10 个槽位",
+      "可调窗口大小",
+      "21 种语言",
+      "14 天 Pro 试用"
+    ],
+    "proTitle": "Pro（一次性购买）",
+    "proPrice": "请在 Store 查看价格",
+    "proItems": [
+      "扩展槽位",
+      "剪贴板历史（20 条）",
+      "导入/导出",
+      "一次性购买，无订阅"
+    ],
+    "note": "基础应用免费。Pro 为 Microsoft Store 附加组件。"
+  },
+  "cta": {
+    "title": "别再浪费时间重复输入",
+    "lead": "几分钟即可安装。",
+    "button": "在 Microsoft Store 免费下载"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

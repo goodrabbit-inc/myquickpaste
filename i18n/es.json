@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "es",
+    "title": "MyQuickPaste - Pega el texto completo con un clic",
+    "description": "Sigues copiando el mismo texto cada dia? MyQuickPaste es un asistente Windows ligero, siempre visible. Gratis en Microsoft Store."
+  },
+  "lang": {
+    "label": "Idioma"
+  },
+  "nav": {
+    "home": "Inicio",
+    "support": "Soporte",
+    "releaseNotes": "Notas de la version",
+    "privacy": "Privacidad"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Sigues copiando y pegando el mismo texto una y otra vez cada dia?",
+    "headline": "MyQuickPaste (MQP) — asistente Windows ligero y siempre visible para pegar mas rapido con un clic desde la esquina de la pantalla",
+    "features": [
+      {
+        "label": "Acceso instantaneo",
+        "text": "Prompts de IA, fragmentos de codigo y plantillas de correo en segundos."
+      },
+      {
+        "label": "Registro sencillo",
+        "text": "Registra el texto copiado al instante con un flujo simple."
+      },
+      {
+        "label": "100% local",
+        "text": "Cifrado en tu PC. Privacidad total, sin nube."
+      },
+      {
+        "label": "Listo al momento",
+        "text": "Facil desde el primer dia: ~200 px, siempre visible."
+      }
+    ],
+    "ctaPrimary": "Descargar gratis en Microsoft Store",
+    "ctaSecondary": "Prueba Pro gratis 14 dias",
+    "trust": "Certificado por Microsoft Store · Datos cifrados localmente en tu PC",
+    "screenshotAlt": "MyQuickPaste: haz clic en un espacio para pegar el texto completo. Configuralo una vez en Editar."
+  },
+  "problem": {
+    "title": "Te suena familiar?",
+    "items": [
+      "Buscar el mismo prompt de ChatGPT cada vez",
+      "Volver a escribir los mismos saludos en correo y chat",
+      "Buscar formulas de Excel o ID en el Bloc de notas"
+    ],
+    "solution": "Con MyQuickPaste guardas una vez. Pega desde una ventana compacta siempre visible, en cualquier momento."
+  },
+  "benefits": {
+    "title": "Tres razones para elegirlo",
+    "items": [
+      {
+        "title": "Pegar con un clic",
+        "text": "Pega el texto guardado sin interrumpir tu flujo de trabajo."
+      },
+      {
+        "title": "Siempre a mano",
+        "text": "Ventana compacta y siempre visible. Sin cambiar de app solo para copiar."
+      },
+      {
+        "title": "Privacidad",
+        "text": "Tus datos permanecen en el PC, cifrados localmente. Sin nube."
+      }
+    ]
+  },
+  "features": {
+    "title": "Funciones clave",
+    "items": [
+      {
+        "title": "Espacios de texto",
+        "text": "Organiza con pestanas A–E. Gratis: 10 espacios. Pro: mas."
+      },
+      {
+        "title": "Historial del portapapeles",
+        "text": "Guarda automaticamente las ultimas 20 copias (Pro)."
+      },
+      {
+        "title": "Transformaciones rapidas",
+        "text": "Fecha, hora y mayusculas/minusculas con un toque."
+      },
+      {
+        "title": "Interfaz en 21 idiomas",
+        "text": "Disponible en 21 idiomas, incluido el espanol."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Ideal para",
+    "items": [
+      {
+        "title": "Profesionales",
+        "text": "Plantillas de correo, firmas y respuestas con un clic."
+      },
+      {
+        "title": "Creadores y desarrolladores",
+        "text": "Prompts de IA, codigo y plantillas al instante."
+      },
+      {
+        "title": "Soporte",
+        "text": "Respuestas FAQ y saludos estandar en el chat con un clic."
+      },
+      {
+        "title": "Quien escribe a diario",
+        "text": "Elimina la escritura repetitiva desde hoy."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Precios",
+    "freeTitle": "Gratis",
+    "freePrice": "0 €",
+    "freeItems": [
+      "Hasta 10 espacios de texto",
+      "Ventana redimensionable",
+      "UI en 21 idiomas",
+      "Pro completo 14 dias"
+    ],
+    "proTitle": "Pro (pago unico)",
+    "proPrice": "Ver precio en Store",
+    "proItems": [
+      "Mas espacios",
+      "Historial (20)",
+      "Importar / exportar",
+      "Compra unica, sin suscripcion"
+    ],
+    "note": "La app base es gratuita. Pro esta disponible como complemento en Microsoft Store."
+  },
+  "cta": {
+    "title": "Deja de perder tiempo escribiendo lo mismo",
+    "lead": "Instalacion en minutos. Empieza gratis y prueba todas las funciones Pro durante 14 dias.",
+    "button": "Descargar gratis en Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

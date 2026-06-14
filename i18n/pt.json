@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "pt",
+    "title": "MyQuickPaste - Cole o texto completo com um clique",
+    "description": "Ainda copia o mesmo texto todos os dias? MyQuickPaste e um assistente Windows leve, sempre visivel. Gratis na Microsoft Store."
+  },
+  "lang": {
+    "label": "Idioma"
+  },
+  "nav": {
+    "home": "Inicio",
+    "support": "Suporte",
+    "releaseNotes": "Notas de versao",
+    "privacy": "Privacidade"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Ainda copia e cola o mesmo texto repetidamente todos os dias?",
+    "headline": "MyQuickPaste (MQP) — assistente Windows leve e sempre visivel para colar mais rapido com um clique no canto da tela",
+    "features": [
+      {
+        "label": "Acesso instantaneo",
+        "text": "Prompts de IA, trechos de codigo e modelos de e-mail em segundos."
+      },
+      {
+        "label": "Registro simples",
+        "text": "Registre o texto copiado na hora com um fluxo direto."
+      },
+      {
+        "label": "100% local",
+        "text": "Criptografado no PC. Privacidade total, sem nuvem."
+      },
+      {
+        "label": "Pronto em segundos",
+        "text": "Facil desde o primeiro dia: ~200 px, sempre visivel."
+      }
+    ],
+    "ctaPrimary": "Baixar gratis na Microsoft Store",
+    "ctaSecondary": "Teste Pro gratis por 14 dias",
+    "trust": "Certificado Microsoft Store · Dados criptografados localmente no PC",
+    "screenshotAlt": "MyQuickPaste: clique em um slot para colar o texto completo. Configure uma vez em Editar."
+  },
+  "problem": {
+    "title": "Parece familiar?",
+    "items": [
+      "Procurar o mesmo prompt do ChatGPT toda vez",
+      "Redigitar as mesmas saudacoes em e-mail e chat",
+      "Buscar formulas do Excel ou IDs no Bloco de notas"
+    ],
+    "solution": "Com MyQuickPaste salve uma vez. Cole de uma janela compacta sempre visivel, a qualquer momento."
+  },
+  "benefits": {
+    "title": "Tres motivos para escolher",
+    "items": [
+      {
+        "title": "Colar com um clique",
+        "text": "Cole o texto salvo sem interromper o fluxo de trabalho."
+      },
+      {
+        "title": "Sempre por perto",
+        "text": "Janela compacta e sempre visivel. Sem alternar apps so para copiar."
+      },
+      {
+        "title": "Privacidade",
+        "text": "Seus dados ficam no PC, criptografados localmente. Sem nuvem."
+      }
+    ]
+  },
+  "features": {
+    "title": "Recursos principais",
+    "items": [
+      {
+        "title": "Slots de texto",
+        "text": "Organize nas abas A–E. Gratis: 10 slots. Pro: mais."
+      },
+      {
+        "title": "Historico da area de transferencia",
+        "text": "Salva automaticamente as ultimas 20 copias (Pro)."
+      },
+      {
+        "title": "Transformacoes rapidas",
+        "text": "Data, hora e maiusculas/minusculas com um toque."
+      },
+      {
+        "title": "Interface em 21 idiomas",
+        "text": "Disponivel em 21 idiomas, incluindo portugues."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Perfeito para",
+    "items": [
+      {
+        "title": "Profissionais",
+        "text": "Modelos de e-mail, assinaturas e respostas com um clique."
+      },
+      {
+        "title": "Criadores e desenvolvedores",
+        "text": "Prompts de IA, codigo e modelos colados na hora."
+      },
+      {
+        "title": "Suporte",
+        "text": "Respostas de FAQ e saudacoes padrao no chat com um clique."
+      },
+      {
+        "title": "Quem digita todo dia",
+        "text": "Elimine a digitacao repetitiva a partir de hoje."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Precos",
+    "freeTitle": "Gratis",
+    "freePrice": "R$ 0",
+    "freeItems": [
+      "Ate 10 slots de texto",
+      "Janela redimensionavel",
+      "UI em 21 idiomas",
+      "Pro completo por 14 dias"
+    ],
+    "proTitle": "Pro (compra unica)",
+    "proPrice": "Ver preco na Store",
+    "proItems": [
+      "Mais slots",
+      "Historico (20)",
+      "Importar / exportar",
+      "Compra unica, sem assinatura"
+    ],
+    "note": "O app base e gratuito. Pro esta disponivel como complemento na Microsoft Store."
+  },
+  "cta": {
+    "title": "Pare de perder tempo digitando o mesmo texto",
+    "lead": "Instale em minutos. Comece gratis e experimente todos os recursos Pro por 14 dias.",
+    "button": "Baixar gratis na Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

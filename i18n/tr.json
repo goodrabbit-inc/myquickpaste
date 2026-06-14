@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "tr",
+    "title": "MyQuickPaste - Tek tıkla tüm metni yapıştır",
+    "description": "Her gün aynı metni kopyalıyor musunuz? MyQuickPaste ince, her zaman üstte bir Windows yardımcısı. Microsoft Store'da ücretsiz."
+  },
+  "lang": {
+    "label": "Dil"
+  },
+  "nav": {
+    "home": "Ana sayfa",
+    "support": "Destek",
+    "releaseNotes": "Sürüm notları",
+    "privacy": "Gizlilik"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Hâlâ her gün aynı metni tekrar tekrar kopyalayıp yapıştırıyor musunuz?",
+    "headline": "MyQuickPaste (MQP) — ekran köşesinde tek tıkla hızlı yapıştırma için ince, her zaman üstte Windows yardımcısı",
+    "features": [
+      {
+        "label": "Anında erişim",
+        "text": "YZ istemleri, kod parçaları ve e-posta şablonları saniyeler içinde."
+      },
+      {
+        "label": "Basit kayıt",
+        "text": "Kopyalanan metni hemen, kolay bir akışla kaydedin."
+      },
+      {
+        "label": "%100 yerel",
+        "text": "PC'de şifreli. Tam gizlilik, buluta gönderim yok."
+      },
+      {
+        "label": "Hemen hazır",
+        "text": "İlk günden kolay: ~200 px, her zaman üstte."
+      }
+    ],
+    "ctaPrimary": "Microsoft Store'dan ücretsiz indir",
+    "ctaSecondary": "14 gün Pro'yu ücretsiz dene",
+    "trust": "Microsoft Store onaylı · Veriler PC'de yerel olarak şifrelenir",
+    "screenshotAlt": "MyQuickPaste: yuvaya tıklayın, kayıtlı metnin tamamı yapıştırılsın. Düzenle'de bir kez ayarlayın."
+  },
+  "problem": {
+    "title": "Tanıdık geliyor mu?",
+    "items": [
+      "Her seferinde aynı ChatGPT istemini aramak",
+      "E-posta ve sohbette aynı selamları yeniden yazmak",
+      "Not Defteri'nde Excel formülü veya ID aramak"
+    ],
+    "solution": "MyQuickPaste ile bir kez kaydedin. Her zaman üstte kompakt pencereden istediğiniz zaman yapıştırın."
+  },
+  "benefits": {
+    "title": "Seçmek için üç neden",
+    "items": [
+      {
+        "title": "Tek tıkla yapıştır",
+        "text": "İş akışını bozmadan kayıtlı metni anında yapıştırın."
+      },
+      {
+        "title": "Her zaman elinizin altında",
+        "text": "Kompakt, her zaman üstte pencere. Kopyalamak için uygulama değiştirmeyin."
+      },
+      {
+        "title": "Gizlilik",
+        "text": "Veriler PC'nizde şifreli kalır. Buluta hiçbir şey gitmez."
+      }
+    ]
+  },
+  "features": {
+    "title": "Temel özellikler",
+    "items": [
+      {
+        "title": "Metin yuvaları",
+        "text": "A–E sekmeleriyle düzenleyin. Ücretsiz: 10 yuva. Pro: daha fazla."
+      },
+      {
+        "title": "Pano geçmişi",
+        "text": "Son 20 kopyayı otomatik kaydet (Pro)."
+      },
+      {
+        "title": "Hızlı dönüşümler",
+        "text": "Tarih, saat ve büyük/küçük harf tek dokunuşla."
+      },
+      {
+        "title": "21 dilde arayüz",
+        "text": "Türkçe dahil 21 dilde kullanılabilir."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Kimler için",
+    "items": [
+      {
+        "title": "Profesyoneller",
+        "text": "E-posta şablonları, imzalar ve hazır yanıtlar tek tıkla."
+      },
+      {
+        "title": "Yaratıcılar ve geliştiriciler",
+        "text": "YZ istemleri, kod ve şablonlar anında."
+      },
+      {
+        "title": "Destek",
+        "text": "SSS yanıtları ve standart selamlar sohbete."
+      },
+      {
+        "title": "Her gün yazanlar",
+        "text": "Tekrarlı yazmayı bugünden bitirin."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Fiyatlandırma",
+    "freeTitle": "Ücretsiz",
+    "freePrice": "0 ₺",
+    "freeItems": [
+      "10 metin yuvasına kadar",
+      "Yeniden boyutlandırılabilir pencere",
+      "21 dilde arayüz",
+      "14 gün tam Pro denemesi"
+    ],
+    "proTitle": "Pro (tek seferlik)",
+    "proPrice": "Fiyatı Store'da görün",
+    "proItems": [
+      "Daha fazla yuva",
+      "Pano geçmişi (20)",
+      "İçe aktar / dışa aktar",
+      "Tek seferlik, abonelik yok"
+    ],
+    "note": "Temel uygulama ücretsiz. Pro, Microsoft Store eklentisi olarak mevcut."
+  },
+  "cta": {
+    "title": "Tekrarlı yazmaya zaman harcamayı bırakın",
+    "lead": "Dakikalar içinde kurun. Ücretsiz başlayın ve 14 gün tüm Pro özelliklerini deneyin.",
+    "button": "Microsoft Store'dan ücretsiz indir"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

@@ -2,9 +2,11 @@
   "meta": {
     "lang": "en",
     "title": "MyQuickPaste - One Click. Paste the Full Text.",
-    "description": "Stop copy-pasting the same text every day. MyQuickPaste is an ultra-slim, always-on-top Windows sidekick that pastes your snippets with one click. Local, encrypted, free on Microsoft Store."
+    "description": "Still copy-pasting the same text every day? MyQuickPaste is a slim, always-on-top Windows sidekick. Free on Microsoft Store."
   },
-  "lang": { "label": "Language" },
+  "lang": {
+    "label": "Language"
+  },
   "nav": {
     "home": "Home",
     "support": "Support",
@@ -13,15 +15,27 @@
   },
   "hero": {
     "kicker": "MyQuickPaste",
-    "headline": "Stop Copy-Pasting the Same Text Every Single Day.",
-    "lead1": "MyQuickPaste is the ultra-slim, always-on-top clipboard sidekick that instantly pastes your frequently used text with just one click.",
-    "lead2": "Set up your snippets once—from email greetings, template signatures, to complex code and AI prompts—and access them immediately without ever losing your focus or disrupting your workflow.",
+    "catch": "Still copying and pasting the same text over and over every day?",
+    "headline": "MyQuickPaste (MQP) — a slim, always-on-top Windows sidekick for faster copy-paste, ready in the corner of your screen with one-click paste",
     "features": [
-      { "label": "Zero-Interrupt Workflow", "text": "Constantly on top, completely focus-free." },
-      { "label": "Local & Encrypted", "text": "Your data stays safely on your PC. No cloud, no leaks." },
-      { "label": "Boost Daily Speed", "text": "Reduce repetitive typing to absolute zero." }
+      {
+        "label": "Instant access",
+        "text": "Pull up AI prompts, code snippets, and email templates in seconds."
+      },
+      {
+        "label": "Simple setup",
+        "text": "Register copied text instantly with a straightforward workflow."
+      },
+      {
+        "label": "100% local storage",
+        "text": "Encrypted on your PC. Complete privacy—nothing sent to the cloud."
+      },
+      {
+        "label": "Ready in seconds",
+        "text": "Easy from day one: ~200px wide, always on top, zero learning curve."
+      }
     ],
-    "ctaPrimary": "Get it free on Microsoft Store",
+    "ctaPrimary": "Download free on Microsoft Store",
     "ctaSecondary": "Try all Pro features free for 14 days",
     "trust": "Microsoft Store certified · Data encrypted locally on your PC",
     "screenshotAlt": "MyQuickPaste: click a slot to paste the full saved text. Setup once in Edit."
@@ -38,27 +52,60 @@
   "benefits": {
     "title": "Three reasons users love it",
     "items": [
-      { "title": "One-click paste", "text": "Paste saved text into any app instantly without breaking your flow." },
-      { "title": "Always within reach", "text": "Compact, always-on-top window. No more alt-tabbing just to copy and paste." },
-      { "title": "Private by design", "text": "Your snippets stay on your PC, encrypted locally. Nothing sent to the cloud." }
+      {
+        "title": "One-click paste",
+        "text": "Paste saved text into any app instantly without breaking your flow."
+      },
+      {
+        "title": "Always within reach",
+        "text": "Compact, always-on-top window. No more alt-tabbing just to copy and paste."
+      },
+      {
+        "title": "Private by design",
+        "text": "Your snippets stay on your PC, encrypted locally. Nothing sent to the cloud."
+      }
     ]
   },
   "features": {
     "title": "Key features",
     "items": [
-      { "title": "Text slots", "text": "Organize across tabs A–E. Free: 10 slots. Pro unlocks more." },
-      { "title": "Clipboard history", "text": "Auto-save your last 20 copies (Pro). Recall past clips in seconds." },
-      { "title": "Quick transforms", "text": "Insert date, time, or change case before you paste with one tap." },
-      { "title": "21-language UI", "text": "Interface available in 21 languages including English and Japanese." }
+      {
+        "title": "Text slots",
+        "text": "Organize across tabs A–E. Free: 10 slots. Pro unlocks more."
+      },
+      {
+        "title": "Clipboard history",
+        "text": "Auto-save your last 20 copies (Pro). Recall past clips in seconds."
+      },
+      {
+        "title": "Quick transforms",
+        "text": "Insert date, time, or change case before you paste with one tap."
+      },
+      {
+        "title": "21-language UI",
+        "text": "Interface available in 21 languages including English and Japanese."
+      }
     ]
   },
   "usecases": {
     "title": "Perfect for",
     "items": [
-      { "title": "AI and prompts", "text": "Save long ChatGPT and Claude prompts and reuse them with consistent quality." },
-      { "title": "Office and email", "text": "Store signatures, canned replies, and phrases by category." },
-      { "title": "Dev and Excel", "text": "Keep code snippets, formulas, paths, and IDs ready to insert." },
-      { "title": "Support and social", "text": "Drop FAQ answers and standard greetings into chat with one click." }
+      {
+        "title": "Business professionals",
+        "text": "Email templates, signatures, and canned replies—one click away."
+      },
+      {
+        "title": "Creators & developers",
+        "text": "AI prompts, code snippets, and templates pasted instantly."
+      },
+      {
+        "title": "Support & admin",
+        "text": "Drop FAQ answers and standard greetings into chat in one click."
+      },
+      {
+        "title": "Anyone who types daily",
+        "text": "Eliminate repetitive typing starting today."
+      }
     ]
   },
   "pricing": {
@@ -84,7 +131,7 @@
   "cta": {
     "title": "Stop wasting time on repetitive typing",
     "lead": "Install in minutes. Start free and experience every Pro feature for 14 days.",
-    "button": "Get MyQuickPaste on Microsoft Store"
+    "button": "Download free on Microsoft Store"
   },
   "footer": {
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",

@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "it",
+    "title": "MyQuickPaste - Incolla tutto il testo con un clic",
+    "description": "Copi ancora ogni giorno lo stesso testo? MyQuickPaste e un assistente Windows leggero, sempre in primo piano. Gratis su Microsoft Store."
+  },
+  "lang": {
+    "label": "Lingua"
+  },
+  "nav": {
+    "home": "Home",
+    "support": "Supporto",
+    "releaseNotes": "Note di rilascio",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "Copi ancora ogni giorno lo stesso testo, sempre uguale?",
+    "headline": "MyQuickPaste (MQP) — assistente Windows leggero e sempre in primo piano per incollare piu velocemente con un clic dall'angolo dello schermo",
+    "features": [
+      {
+        "label": "Accesso immediato",
+        "text": "Prompt IA, snippet di codice e modelli email in pochi secondi."
+      },
+      {
+        "label": "Registrazione semplice",
+        "text": "Registra subito il testo copiato con un flusso intuitivo."
+      },
+      {
+        "label": "100% locale",
+        "text": "Crittografato sul PC. Privacy totale, niente cloud."
+      },
+      {
+        "label": "Pronto in un attimo",
+        "text": "Facile dal primo giorno: ~200 px, sempre in primo piano."
+      }
+    ],
+    "ctaPrimary": "Scarica gratis su Microsoft Store",
+    "ctaSecondary": "Pro gratis per 14 giorni",
+    "trust": "Certificato Microsoft Store · Dati crittografati localmente sul PC",
+    "screenshotAlt": "MyQuickPaste: clicca uno slot per incollare tutto il testo salvato. Configura una volta in Modifica."
+  },
+  "problem": {
+    "title": "Ti suona familiare?",
+    "items": [
+      "Cerchi ogni volta lo stesso prompt ChatGPT",
+      "Riscrivi gli stessi saluti nelle email e nelle chat",
+      "Cerchi formule Excel o ID nel Blocco note"
+    ],
+    "solution": "Con MyQuickPaste salvi una volta. Incolli da una finestra compatta sempre in primo piano, ovunque."
+  },
+  "benefits": {
+    "title": "Tre motivi per sceglierlo",
+    "items": [
+      {
+        "title": "Incolla con un clic",
+        "text": "Incolla il testo salvato senza interrompere il flusso di lavoro."
+      },
+      {
+        "title": "Sempre a portata di mano",
+        "text": "Finestra compatta e sempre in primo piano. Niente alt-tab solo per copiare."
+      },
+      {
+        "title": "Privacy",
+        "text": "I tuoi dati restano sul PC, crittografati localmente. Niente cloud."
+      }
+    ]
+  },
+  "features": {
+    "title": "Funzioni principali",
+    "items": [
+      {
+        "title": "Slot di testo",
+        "text": "Organizza con le schede A–E. Gratis: 10 slot. Pro: di piu."
+      },
+      {
+        "title": "Cronologia appunti",
+        "text": "Salva automaticamente le ultime 20 copie (Pro)."
+      },
+      {
+        "title": "Trasformazioni rapide",
+        "text": "Data, ora e maiuscole/minuscole con un tap."
+      },
+      {
+        "title": "Interfaccia in 21 lingue",
+        "text": "Disponibile in 21 lingue, incluso italiano."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "Perfetto per",
+    "items": [
+      {
+        "title": "Professionisti",
+        "text": "Modelli email, firme e risposte pronte con un clic."
+      },
+      {
+        "title": "Creatori e sviluppatori",
+        "text": "Prompt IA, codice e modelli incollati all'istante."
+      },
+      {
+        "title": "Supporto",
+        "text": "Risposte FAQ e saluti standard nel chat in un clic."
+      },
+      {
+        "title": "Chi usa il PC ogni giorno",
+        "text": "Elimina la digitazione ripetitiva da oggi."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Prezzi",
+    "freeTitle": "Gratis",
+    "freePrice": "0 €",
+    "freeItems": [
+      "Fino a 10 slot di testo",
+      "Finestra ridimensionabile",
+      "UI in 21 lingue",
+      "Pro completo per 14 giorni"
+    ],
+    "proTitle": "Pro (acquisto unico)",
+    "proPrice": "Prezzo su Store",
+    "proItems": [
+      "Piu slot",
+      "Cronologia appunti (20)",
+      "Importa / esporta",
+      "Acquisto unico, senza abbonamento"
+    ],
+    "note": "L'app base e gratuita. Pro e disponibile come add-on su Microsoft Store."
+  },
+  "cta": {
+    "title": "Smetti di perdere tempo a riscrivere",
+    "lead": "Installazione in pochi minuti. Inizia gratis e prova tutte le funzioni Pro per 14 giorni.",
+    "button": "Scarica gratis su Microsoft Store"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

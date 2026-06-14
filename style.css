@@ -147,7 +147,9 @@ a:hover {
   position: absolute;
   top: calc(100% + 0.35rem);
   right: 0;
-  min-width: 10.5rem;
+  min-width: 13.5rem;
+  max-width: min(18rem, 92vw);
+  max-height: min(22rem, 60vh);
   margin: 0;
   padding: 0.35rem;
   list-style: none;
@@ -156,6 +158,8 @@ a:hover {
   border-radius: 10px;
   box-shadow: var(--shadow);
   z-index: 20;
+  overflow-y: auto;
+  overscroll-behavior: contain;
 }
 
 .lang-picker-menu[hidden] {
@@ -221,13 +225,23 @@ a:hover {
   color: var(--pro);
 }
 
+.hero-catch {
+  margin: 0 0 0.75rem;
+  font-size: 1.08rem;
+  font-weight: 600;
+  color: var(--pro);
+  max-width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .hero-title {
   margin: 0;
-  font-size: 2.25rem;
+  font-size: 1.85rem;
   font-weight: 800;
   letter-spacing: -0.02em;
-  line-height: 1.2;
-  max-width: 18em;
+  line-height: 1.28;
+  max-width: 42em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -550,10 +564,75 @@ footer p {
   }
 
   .hero-title {
-    font-size: 1.65rem;
+    font-size: 1.45rem;
+  }
+
+  .hero-catch {
+    font-size: 1rem;
   }
 
   .tagline {
     font-size: 1.02rem;
+  }
+}
+
+/* RTL foundation (Arabic) */
+html.is-rtl body {
+  direction: rtl;
+}
+
+html.is-rtl .header-inner {
+  direction: rtl;
+}
+
+html.is-rtl .lang-picker {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+html.is-rtl .lang-picker-menu {
+  right: auto;
+  left: 0;
+}
+
+html.is-rtl .hero-features {
+  text-align: right;
+}
+
+html.is-rtl .hero-features li {
+  padding-left: 0;
+  padding-right: 1.35rem;
+}
+
+html.is-rtl .hero-features li::before {
+  left: auto;
+  right: 0;
+}
+
+html.is-rtl .problem-list {
+  padding-left: 0;
+  padding-right: 1.25rem;
+}
+
+html.is-rtl .nav {
+  direction: rtl;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f172a;
+    --fg: #f1f5f9;
+    --muted: #94a3b8;
+    --card-bg: #1e293b;
+    --border: #334155;
+    --accent-soft: #1e3a5f;
+    --pro-soft: #3b2667;
+    --shadow: 0 4px 24px rgba(0, 0, 0, 0.35);
+  }
+
+  .lang-picker-btn:hover,
+  .lang-picker-btn[aria-expanded="true"] {
+    border-color: #475569;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
   }
 }

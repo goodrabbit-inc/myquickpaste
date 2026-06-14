@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "lang": "ko",
+    "title": "MyQuickPaste - 원클릭으로 전체 텍스트 붙여넣기",
+    "description": "매일 같은 텍스트를 반복 복사하시나요? MyQuickPaste는 항상 위에 표시되는 Windows 경량 도구. Microsoft Store에서 무료."
+  },
+  "lang": {
+    "label": "언어"
+  },
+  "nav": {
+    "home": "홈",
+    "support": "지원",
+    "releaseNotes": "릴리스 정보",
+    "privacy": "개인정보"
+  },
+  "hero": {
+    "kicker": "MyQuickPaste",
+    "catch": "매일 같은 문장을 반복해서 복사·붙여넣기하고 계신가요?",
+    "headline": "MyQuickPaste (MQP) — 화면 구석에 두고 원클릭으로 빠르게 붙여넣는 Windows 복사·붙여넣기 효율화 상주형 경량 도구",
+    "features": [
+      {
+        "label": "즉시 호출",
+        "text": "AI 프롬프트, 코드 스니펫, 이메일 템플릿을 빠르게 불러옵니다."
+      },
+      {
+        "label": "간편 등록",
+        "text": "복사한 문장을 즉시 등록하는 단순한 방식."
+      },
+      {
+        "label": "100% 로컬 저장",
+        "text": "데이터 암호화·완전한 프라이버시. 클라우드 전송 없음."
+      },
+      {
+        "label": "바로 사용",
+        "text": "처음에도 한눈에: 너비 200px, 항상 최상단."
+      }
+    ],
+    "ctaPrimary": "Microsoft Store에서 무료 다운로드",
+    "ctaSecondary": "14일 Pro 무료 체험",
+    "trust": "Microsoft Store 인증 · PC 로컬 암호화 저장",
+    "screenshotAlt": "MyQuickPaste: 슬롯 클릭으로 전체 텍스트 붙여넣기. 편집에서 한 번만 설정."
+  },
+  "problem": {
+    "title": "이런 경험 있으신가요?",
+    "items": [
+      "매번 같은 ChatGPT 프롬프트를 찾고 있음",
+      "이메일·채팅에서 같은 인사말을 반복 입력",
+      "메모장에서 Excel 수식이나 ID를 찾고 있음"
+    ],
+    "solution": "MyQuickPaste는 한 번 저장하면, 항상 위에 있는 작은 창에서 언제든 붙여넣을 수 있습니다."
+  },
+  "benefits": {
+    "title": "사용자가 사랑하는 3가지 이유",
+    "items": [
+      {
+        "title": "원클릭 붙여넣기",
+        "text": "작업 흐름을 끊지 않고 저장한 텍스트를 즉시 붙여넣기."
+      },
+      {
+        "title": "항상 가까이",
+        "text": "컴팩트하고 항상 최상단. 복사만 하려고 앱을 전환할 필요 없음."
+      },
+      {
+        "title": "프라이버시",
+        "text": "데이터는 PC에 암호화 저장. 클라우드로 전송하지 않습니다."
+      }
+    ]
+  },
+  "features": {
+    "title": "주요 기능",
+    "items": [
+      {
+        "title": "텍스트 슬롯",
+        "text": "A–E 탭으로 정리. 무료 10개, Pro로 확장."
+      },
+      {
+        "title": "클립보드 기록",
+        "text": "최근 20개 자동 저장(Pro). 과거 복사 내용을 즉시 호출."
+      },
+      {
+        "title": "빠른 변환",
+        "text": "날짜·시간 삽입, 대소문자 변환을 한 번에."
+      },
+      {
+        "title": "21개 언어 UI",
+        "text": "한국어·영어를 포함한 21개 언어 인터페이스."
+      }
+    ]
+  },
+  "usecases": {
+    "title": "추천 대상",
+    "items": [
+      {
+        "title": "비즈니스",
+        "text": "이메일 템플릿, 서명, 자주 쓰는 답변을 원클릭으로."
+      },
+      {
+        "title": "크리에이터·개발자",
+        "text": "AI 프롬프트, 코드, 템플릿을 즉시 붙여넣기."
+      },
+      {
+        "title": "지원팀",
+        "text": "FAQ 답변과 표준 인사말을 채팅에 바로 전송."
+      },
+      {
+        "title": "매일 PC 사용자",
+        "text": "반복 입력을 오늘부터 제로로."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "요금",
+    "freeTitle": "무료",
+    "freePrice": "₩0",
+    "freeItems": [
+      "텍스트 슬롯 최대 10개",
+      "창 크기 조절",
+      "21개 언어 UI",
+      "14일 Pro 전체 체험"
+    ],
+    "proTitle": "Pro(일회성)",
+    "proPrice": "Store에서 가격 확인",
+    "proItems": [
+      "슬롯 수 확장",
+      "클립보드 기록(20개)",
+      "가져오기/보내기",
+      "일회 구매, 구독 없음"
+    ],
+    "note": "기본 앱은 무료입니다. Pro는 Microsoft Store 애드온으로 구매할 수 있습니다."
+  },
+  "cta": {
+    "title": "반복 입력에 시간 낭비하지 마세요",
+    "lead": "몇 분이면 설치. 무료로 시작하고 14일간 모든 Pro 기능을 체험하세요.",
+    "button": "Microsoft Store에서 무료 다운로드"
+  },
+  "footer": {
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developed by Kazuhiro Suda"
+  }
+}

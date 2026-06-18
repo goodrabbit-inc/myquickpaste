@@ -351,6 +351,26 @@ html:lang(ja) .hero-catch {
   box-shadow: var(--shadow);
 }
 
+.hero-video-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto 1.35rem;
+  padding: 0;
+}
+
+.hero-video {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  background: #000;
+}
+
 .hero-cta {
   margin-bottom: 0.75rem;
 }

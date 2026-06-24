@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="456" height="456" viewBox="0 0 456 456" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="456" y2="456" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2BB892"/>
+      <stop offset="0.32" stop-color="#22A07E"/>
+      <stop offset="0.62" stop-color="#1B8A6B"/>
+      <stop offset="1" stop-color="#0F6B52"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="120" cy="88" r="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5FD4A4" stop-opacity="0.42"/>
+      <stop offset="0.55" stop-color="#1B8A6B" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0F6B52" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="456" height="456" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="456" height="456" fill="url(#bgGlow)"/>
+</svg>

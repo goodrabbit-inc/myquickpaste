@@ -283,5 +283,31 @@
                                                            ]
                                              }
                                          ]
-                         }
+                         },
+    "screenshots":  {
+                        "title":  "See the app in action",
+                        "subtitle":  "Real screens from MyQuickPaste for Business on Android.",
+                        "freetextAlt":  "Free text list with saved phrases and one-tap copy",
+                        "snippetsAlt":  "Snippets category with email templates",
+                        "profileAlt":  "Profile cards for Home and Work contacts",
+                        "profileEditAlt":  "Edit profile screen with address and contact fields",
+                        "cateAlt":  "Six category tabs: Free text, Snippets, Mail, Phone, Address, Profile",
+                        "items":  [
+                                      {
+                                          "caption":  "Free text - signatures, URLs, and account details at a glance"
+                                      },
+                                      {
+                                          "caption":  "Snippets - ready-made replies for email and chat"
+                                      },
+                                      {
+                                          "caption":  "Profile - copy address, phone, or everything with one tap"
+                                      },
+                                      {
+                                          "caption":  "Edit profile - separate Home, Work, and client cards"
+                                      },
+                                      {
+                                          "caption":  "Category tabs - switch between six lists instantly"
+                                      }
+                                  ]
+                    }
 }

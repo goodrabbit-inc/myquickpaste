@@ -55,23 +55,25 @@
                     "solution":  "Save it once in MyQuickPaste for Business. Open the app, tap, and paste—wherever you are."
                 },
     "clipboardCompare":  {
-                             "title":  "Not the same as your clipboard",
-                             "subtitle":  "Different jobs—use both, not either/or.",
-                             "clipboardTitle":  "System clipboard",
-                             "clipboardTag":  "Carries what you just copied",
+                             "title":  "How this differs from Gboard clipboard",
+                             "subtitle":  "Gboard is faster for something you copied recently. Both still have a place.",
+                             "clipboardTitle":  "Gboard clipboard",
+                             "clipboardTag":  "Recent copies from the keyboard",
                              "clipboardItems":  [
-                                                    "Paste the last copy instantly",
-                                                    "Easy to overwrite or lose in history",
-                                                    "Best for one-off tasks"
+                                                    "Pick from the keyboard and paste—fastest path",
+                                                    "Automatically saves strings you copied lately",
+                                                    "History gets mixed; older clips are pushed out",
+                                                    "Not built for categories or profile-style blocks"
                                                 ],
                              "appTitle":  "MyQuickPaste for Business",
-                             "appTag":  "Your saved favorites on tap",
+                             "appTag":  "A shelf for text you keep reusing",
                              "appItems":  [
-                                              "Store addresses and replies by category",
-                                              "One tap copies the full text",
-                                              "Built for text you reuse every day"
+                                              "Register addresses, signatures, and replies by name",
+                                              "Six categories: freeword, snippets, mail, phone, address, profile",
+                                              "Stays until you delete it—no history push-out",
+                                              "Opening the app takes a step—built for favorites, not last hour"
                                           ],
-                             "footer":  "Just copied something? The clipboard is enough. Typing the same text again and again? That is what this app is for."
+                             "footer":  "Copied it a few hours ago? Gboard wins on speed. Same text every week? Register it here and skip the search."
                          },
     "steps":  {
                   "title":  "How it works",

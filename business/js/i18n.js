@@ -41,7 +41,7 @@
   }
 
   function loadMessages(lang) {
-    return fetch("i18n/" + lang + ".json?v=4")
+    return fetch("i18n/" + lang + ".json?v=5")
       .then(function (res) {
         if (!res.ok) {
           throw new Error("i18n load failed");

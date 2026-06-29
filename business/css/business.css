@@ -29,6 +29,7 @@
 html {
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  color-scheme: light only;
 }
 
 body {
@@ -480,6 +481,15 @@ main {
   border-radius: var(--radius);
   padding: 1rem 1.1rem;
   box-shadow: var(--shadow);
+}
+
+.compare-logo {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  margin-bottom: 0.75rem;
+  box-shadow: 0 4px 16px var(--accent-glow);
+  flex-shrink: 0;
 }
 
 .compare-card h3 {
@@ -976,45 +986,6 @@ main {
   main,
   .content {
     padding-bottom: 2.5rem;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0b1210;
-    --bg-soft: #101a16;
-    --fg: #ecfdf5;
-    --muted: #94a3b8;
-    --muted-light: #64748b;
-    --card-bg: #14201b;
-    --border: #243830;
-    --accent-soft: #163328;
-    --shadow: 0 10px 40px rgba(0, 0, 0, 0.35);
-    --pro-soft: #241a33;
-  }
-
-  .site-header,
-  .sticky-cta {
-    background: rgba(20, 32, 27, 0.92);
-  }
-
-  .platform-badge,
-  .trial-banner {
-    background: rgba(20, 32, 27, 0.92);
-  }
-
-  .phone-frame {
-    background: linear-gradient(145deg, #1a2923, #101815);
-    border-color: #2d453a;
-  }
-
-  .compare-card.is-current {
-    background: linear-gradient(180deg, #12241c 0%, #14201b 100%);
-    border-color: #2f6b52;
-  }
-
-  .store-btn-soon {
-    background: #14201b;
   }
 }
 

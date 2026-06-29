@@ -23,8 +23,8 @@
                  "lead":  "MyQuickPaste for Business is a lightweight smartphone app built for people who repeat the same text—replies, addresses, phone numbers, and profile details. Organize by category, tap a row, and paste anywhere.",
                  "platformLine":  "Available on Android · iPhone \u0026 iPad coming soon",
                  "trialTitle":  "30-day full-feature trial",
-                 "trialText":  "Try every Pro feature free for 30 days after install. No credit card required in the app.",
-                 "trust":  "On-device storage · No cloud upload · 21-language UI"
+                 "trialText":  "Try every Pro feature free for 30 days after install.",
+                 "trust":  "On-device storage · 21-language UI"
              },
     "stores":  {
                    "googlePlay":  "Get it on Google Play",
@@ -42,8 +42,8 @@
                     "pcText":  "Windows app for always-on-top paste from the corner of your screen.",
                     "pcLink":  "View PC edition",
                     "mobileTitle":  "MyQuickPaste for Business (Smartphone)",
-                    "mobileText":  "This page. Tap-to-copy lists, profile cards, and mobile backup.",
-                    "note":  "These are separate apps. Purchases and data are not shared between PC and smartphone editions."
+                    "mobileText":  "Category lists, profile cards, and JSON backup (Pro).",
+                    "note":  "PC and smartphone editions are separate apps. Purchases and data are not shared."
                 },
     "problem":  {
                     "title":  "Sound familiar on mobile?",
@@ -56,24 +56,24 @@
                 },
     "clipboardCompare":  {
                              "title":  "How this differs from Gboard clipboard",
-                             "subtitle":  "Gboard is faster for something you copied recently. Both still have a place.",
+                             "subtitle":  "Gboard is faster for a recent copy. This app is for text you reuse every day.",
                              "clipboardTitle":  "Gboard clipboard",
-                             "clipboardTag":  "Recent copies from the keyboard",
+                             "clipboardTag":  "Recent copy history",
                              "clipboardItems":  [
-                                                    "Pick from the keyboard and paste—fastest path",
-                                                    "Automatically saves strings you copied lately",
-                                                    "History gets mixed; older clips are pushed out",
-                                                    "Not built for categories or profile-style blocks"
+                                                    "Pick from the keyboard and paste",
+                                                    "Automatically saves recent copies",
+                                                    "Unpinned clips: about 5 items, ~1 hour",
+                                                    "Mixed history—not built for organized favorites"
                                                 ],
                              "appTitle":  "MyQuickPaste for Business",
-                             "appTag":  "A shelf for text you keep reusing",
+                             "appTag":  "A shelf for your go-to text",
                              "appItems":  [
-                                              "Register addresses, signatures, and replies by name",
-                                              "Six categories: freeword, snippets, mail, phone, address, profile",
-                                              "Stays until you delete it—no history push-out",
-                                              "Opening the app takes a step—built for favorites, not last hour"
+                                              "Save addresses, signatures, and replies by name",
+                                              "Six categories in one place",
+                                              "Entries stay until you delete them",
+                                              "For finding and copying your regular text"
                                           ],
-                             "footer":  "Copied it a few hours ago? Gboard wins on speed. Same text every week? Register it here and skip the search."
+                             "footer":  "Recent copies: Gboard. Addresses, signatures, and canned replies you use every week: MyQuickPaste for Business."
                          },
     "steps":  {
                   "title":  "How it works",
@@ -107,8 +107,8 @@
                                        "icon":  "🗂️"
                                    },
                                    {
-                                       "title":  "Private by design",
-                                       "text":  "Your data stays on your device. Nothing is sent to our servers.",
+                                       "title":  "Stored on your device",
+                                       "text":  "Data stays on your device only. No cloud sync.",
                                        "icon":  "🔒"
                                    }
                                ]
@@ -213,7 +213,7 @@
                        },
     "cta":  {
                 "title":  "Stop retyping the same text on your phone",
-                "lead":  "Download free, try every Pro feature for 30 days, and keep what works on the free plan.",
+                "lead":  "Download free and try every Pro feature for 30 days.",
                 "button":  "Get it on Google Play"
             },
     "footer":  {
@@ -240,7 +240,7 @@
                                       },
                                       {
                                           "q":  "Where is my data stored?",
-                                          "a":  "All data is stored locally on your device. It is not uploaded to our servers."
+                                          "a":  "Saved text, profile cards, and settings are stored only on your device."
                                       },
                                       {
                                           "q":  "How do I back up or move my data?",

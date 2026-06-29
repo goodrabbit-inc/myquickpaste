@@ -29,7 +29,11 @@
     "stores":  {
                    "googlePlay":  "Get it on Google Play",
                    "appStore":  "App Store",
-                   "comingSoon":  "Coming soon"
+                   "comingSoon":  "Coming soon",
+                   "googlePlayBadgeAlt":  "Get it on Google Play",
+                   "appStoreBadgeAlt":  "Download on the App Store",
+                   "microsoftBadgeAlt":  "Get it from Microsoft (MyQuickPaste for PC)",
+                   "pcNote":  "The Microsoft Store badge links to MyQuickPaste for Windows."
                },
     "compare":  {
                     "title":  "Part of the MyQuickPaste family",
@@ -50,6 +54,25 @@
                               ],
                     "solution":  "Save it once in MyQuickPaste for Business. Open the app, tap, and paste—wherever you are."
                 },
+    "clipboardCompare":  {
+                             "title":  "Not the same as your clipboard",
+                             "subtitle":  "Different jobs—use both, not either/or.",
+                             "clipboardTitle":  "System clipboard",
+                             "clipboardTag":  "Carries what you just copied",
+                             "clipboardItems":  [
+                                                    "Paste the last copy instantly",
+                                                    "Easy to overwrite or lose in history",
+                                                    "Best for one-off tasks"
+                                                ],
+                             "appTitle":  "MyQuickPaste for Business",
+                             "appTag":  "Your saved favorites on tap",
+                             "appItems":  [
+                                              "Store addresses and replies by category",
+                                              "One tap copies the full text",
+                                              "Built for text you reuse every day"
+                                          ],
+                             "footer":  "Just copied something? The clipboard is enough. Typing the same text again and again? That is what this app is for."
+                         },
     "steps":  {
                   "title":  "How it works",
                   "subtitle":  "Three taps from save to paste.",

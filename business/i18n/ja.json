@@ -29,7 +29,11 @@
   "stores": {
     "googlePlay": "Google Play で入手",
     "appStore": "App Store",
-    "comingSoon": "近日公開"
+    "comingSoon": "近日公開",
+    "googlePlayBadgeAlt": "Google Play で手に入れよう",
+    "appStoreBadgeAlt": "App Store からダウンロード",
+    "microsoftBadgeAlt": "Microsoft Store から入手（PC版 MyQuickPaste）",
+    "pcNote": "Microsoft Store バッジは Windows PC版 MyQuickPaste へのリンクです。"
   },
   "compare": {
     "title": "MyQuickPaste ファミリー",
@@ -49,6 +53,25 @@
       "1行コピーするだけなのに、アプリを行ったり来たりしている"
     ],
     "solution": "MyQuickPaste for Business に一度保存すれば、アプリを開いてタップするだけ。どこからでも貼り付けできます。"
+  },
+  "clipboardCompare": {
+    "title": "標準クリップボードとの違い",
+    "subtitle": "役割が違います。どちらか一方ではなく、使い分け。",
+    "clipboardTitle": "標準クリップボード",
+    "clipboardTag": "今コピーしたものを運ぶ",
+    "clipboardItems": [
+      "その場のコピーをすぐ貼り付け",
+      "別のコピーで上書き・消えやすい",
+      "一度きりの作業向き"
+    ],
+    "appTitle": "MyQuickPaste for Business",
+    "appTag": "定番を登録して取り出す",
+    "appItems": [
+      "住所・定型文をカテゴリ別に保存",
+      "タップ1回で全文コピー",
+      "何度も使う文面向き"
+    ],
+    "footer": "「さっきコピーしたやつ」なら標準で十分。「毎回同じ文面」ならこちら。"
   },
   "steps": {
     "title": "使い方",

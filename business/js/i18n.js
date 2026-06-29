@@ -41,7 +41,7 @@
   }
 
   function loadMessages(lang) {
-    return fetch("i18n/" + lang + ".json?v=3")
+    return fetch("i18n/" + lang + ".json?v=4")
       .then(function (res) {
         if (!res.ok) {
           throw new Error("i18n load failed");
@@ -426,6 +426,9 @@
         renderDynamicLists(document, messages);
         updateLangPicker(lang, messages);
         markActiveNav();
+        if (typeof window.mqpApplyStoreBadges === "function") {
+          window.mqpApplyStoreBadges(lang, messages);
+        }
         document.dispatchEvent(
           new CustomEvent("mqp:i18n-ready", { detail: { lang: lang, messages: messages } })
         );

@@ -2,7 +2,7 @@
     "meta":  {
                  "lang":  "en",
                  "title":  "MyQuickPaste for Business — Smartphone Edition",
-                 "description":  "Save frequently used text on your phone and copy it with one tap. MyQuickPaste for Business is a lightweight smartphone app for snippets, contacts, and templates. Free download with a 30-day Pro trial."
+                 "description":  "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, addresses, contacts, and profile cards by category."
              },
     "lang":  {
                  "label":  "Language"
@@ -20,11 +20,11 @@
     "hero":  {
                  "badge":  "For Android \u0026 iPhone",
                  "catch":  "Save what you use every day. Copy with one tap.",
-                 "lead":  "MyQuickPaste for Business is a lightweight smartphone app built for people who repeat the same text—replies, addresses, phone numbers, and profile details. Organize by category, tap a row, and paste anywhere.",
+                 "lead":  "Built for people who type the same replies, addresses, phone numbers, and profile details over and over. Organize them by category, tap a row, and paste into mail, chat, or anywhere else.",
                  "platformLine":  "Available on Android · iPhone \u0026 iPad coming soon",
                  "trialTitle":  "30-day full-feature trial",
-                 "trialText":  "Try every Pro feature free for 30 days after install.",
-                 "trust":  "On-device storage · 21-language UI"
+                 "trialText":  "For 30 days after install, you can try every Pro feature for free.",
+                 "trust":  "Stored on your device · 21 languages"
              },
     "stores":  {
                    "googlePlay":  "Get it on Google Play",
@@ -37,13 +37,13 @@
                },
     "compare":  {
                     "title":  "Part of the MyQuickPaste family",
-                    "subtitle":  "Same idea—optimized for each device.",
+                    "subtitle":  "The same idea—paste what you use often—tailored for PC and smartphone.",
                     "pcTitle":  "MyQuickPaste (PC)",
-                    "pcText":  "Windows app for always-on-top paste from the corner of your screen.",
+                    "pcText":  "A Windows app that lives at the edge of your screen and pastes with one click.",
                     "pcLink":  "View PC edition",
                     "mobileTitle":  "MyQuickPaste for Business (Smartphone)",
-                    "mobileText":  "Category lists, profile cards, and JSON backup (Pro).",
-                    "note":  "PC and smartphone editions are separate apps. Purchases and data are not shared."
+                    "mobileText":  "Category lists and profile cards for your go-to text. Pro adds JSON backup.",
+                    "note":  "The PC and smartphone editions are separate apps. Purchases and saved data are not shared between them."
                 },
     "problem":  {
                     "title":  "Sound familiar on mobile?",
@@ -52,70 +52,70 @@
                                   "Retyping email signatures and canned replies on a small keyboard",
                                   "Switching between apps just to copy one line of text again"
                               ],
-                    "solution":  "Save it once in MyQuickPaste for Business. Open the app, tap, and paste—wherever you are."
+                    "solution":  "Save it once in MyQuickPaste for Business, then open the app and tap. Paste into mail, chat, maps—wherever you need it."
                 },
     "clipboardCompare":  {
                              "title":  "How this differs from Gboard clipboard",
-                             "subtitle":  "Gboard is faster for a recent copy. This app is for text you reuse every day.",
+                             "subtitle":  "Gboard is quicker for something you copied a moment ago. This app is for the text you reach for every day or every week.",
                              "clipboardTitle":  "Gboard clipboard",
                              "clipboardTag":  "Recent copy history",
                              "clipboardItems":  [
-                                                    "Pick from the keyboard and paste",
-                                                    "Automatically saves recent copies",
-                                                    "Unpinned clips: about 5 items, ~1 hour",
-                                                    "Mixed history—not built for organized favorites"
+                                                    "Pick from the keyboard and paste—the fastest route",
+                                                    "Automatically saves strings you copied recently",
+                                                    "Unpinned clips: about 5 items, then gone in ~1 hour",
+                                                    "Mixed history—not great for keeping favorites organized"
                                                 ],
                              "appTitle":  "MyQuickPaste for Business",
                              "appTag":  "A shelf for your go-to text",
                              "appItems":  [
-                                              "Save addresses, signatures, and replies by name",
-                                              "Six categories in one place",
-                                              "Entries stay until you delete them",
-                                              "For finding and copying your regular text"
+                                              "Save addresses, signatures, and replies with a name",
+                                              "Six categories: freeword, snippets, mail, phone, address, profile",
+                                              "Entries stay until you delete them—no history push-out",
+                                              "Built for finding and copying the text you use again and again"
                                           ],
-                             "footer":  "Recent copies: Gboard. Addresses, signatures, and canned replies you use every week: MyQuickPaste for Business."
+                             "footer":  "Copied it a few hours ago? Gboard is handy. Addresses, signatures, and canned replies you use every week? Register them here and skip the search."
                          },
     "steps":  {
                   "title":  "How it works",
-                  "subtitle":  "Three taps from save to paste.",
+                  "subtitle":  "Save, tap, paste—just three steps.",
                   "items":  [
                                 {
                                     "title":  "Save by category",
-                                    "text":  "Freeword, snippets, email, phone, address, and profile cards—each in its own tab."
+                                    "text":  "Freeword, snippets, email, phone, address, and profile cards—each in its own tab so things stay easy to find."
                                 },
                                 {
                                     "title":  "Tap to copy",
-                                    "text":  "Tap any row to copy the full text. Long-press for a quick preview before copying."
+                                    "text":  "Tap any row to copy the full text. Long-press if you want a quick preview before copying."
                                 },
                                 {
                                     "title":  "Paste anywhere",
-                                    "text":  "Switch to mail, chat, maps, or any app and paste instantly."
+                                    "text":  "Switch to mail, chat, maps, or any app—and paste right away."
                                 }
                             ]
               },
     "benefits":  {
-                     "title":  "Why users choose it",
+                     "title":  "Why people like it",
                      "items":  [
                                    {
-                                       "title":  "Built for thumbs",
-                                       "text":  "Large rows, category tabs, and a portrait layout designed for one-handed use on the go.",
+                                       "title":  "Easy one-handed use",
+                                       "text":  "Large rows, category tabs, and a portrait layout—designed so you can pick what you need on the go.",
                                        "icon":  "📱"
                                    },
                                    {
-                                       "title":  "Structured, not messy",
-                                       "text":  "Separate lists for snippets, contacts, and profile cards instead of one endless note.",
+                                       "title":  "Easy to browse",
+                                       "text":  "Instead of one endless note, keep snippets, contacts, and profile cards in separate lists.",
                                        "icon":  "🗂️"
                                    },
                                    {
                                        "title":  "Stored on your device",
-                                       "text":  "Data stays on your device only. No cloud sync.",
+                                       "text":  "Your snippets and contacts stay on your phone. We do not offer cloud sync.",
                                        "icon":  "🔒"
                                    }
                                ]
                  },
     "features":  {
                      "title":  "Key features",
-                     "subtitle":  "Everything you need for mobile copy-and-paste workflows.",
+                     "subtitle":  "Features that make everyday copy-and-paste on your phone a little easier.",
                      "items":  [
                                    {
                                        "title":  "Category tabs",
@@ -213,7 +213,7 @@
                        },
     "cta":  {
                 "title":  "Stop retyping the same text on your phone",
-                "lead":  "Download free and try every Pro feature for 30 days.",
+                "lead":  "Download free and try every Pro feature for 30 days—see what fits your routine.",
                 "button":  "Get it on Google Play"
             },
     "footer":  {

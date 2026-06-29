@@ -351,7 +351,17 @@
     });
   }
 
-  function initLangPicker(currentLang, applyFn) {
+  function updateUrlLang(lang) {
+    try {
+      var url = new URL(window.location.href);
+      url.searchParams.set("lang", lang);
+      window.history.replaceState({}, "", url.pathname + url.search + url.hash);
+    } catch (e) {
+      /* ignore */
+    }
+  }
+
+  function initLangPicker(langState, applyFn) {
     var btn = document.getElementById("lang-picker-btn");
     var menu = document.getElementById("lang-picker-menu");
     if (!btn || !menu) {
@@ -362,22 +372,29 @@
       var hidden = menu.hasAttribute("hidden");
       if (hidden) {
         menu.removeAttribute("hidden");
+        btn.setAttribute("aria-expanded", "true");
       } else {
         menu.setAttribute("hidden", "");
+        btn.setAttribute("aria-expanded", "false");
       }
     });
     menu.querySelectorAll("li").forEach(function (li) {
-      li.addEventListener("click", function () {
+      li.addEventListener("click", function (e) {
+        e.stopPropagation();
         var lang = li.getAttribute("data-lang");
-        if (lang && lang !== currentLang) {
+        if (lang && lang !== langState.lang) {
+          langState.lang = lang;
           setLang(lang);
+          updateUrlLang(lang);
           applyFn(lang);
         }
         menu.setAttribute("hidden", "");
+        btn.setAttribute("aria-expanded", "false");
       });
     });
     document.addEventListener("click", function () {
       menu.setAttribute("hidden", "");
+      btn.setAttribute("aria-expanded", "false");
     });
   }
 
@@ -419,12 +436,12 @@
   function initSite() {
     initNavToggle();
     markActiveNav();
-    var lang = detectLang();
-    initLangPicker(lang, function (newLang) {
-      lang = newLang;
+    var langState = { lang: detectLang() };
+    initLangPicker(langState, function (newLang) {
       applyMessages(newLang);
     });
-    applyMessages(lang);
+    updateUrlLang(langState.lang);
+    applyMessages(langState.lang);
   }
 
   if (document.readyState === "loading") {

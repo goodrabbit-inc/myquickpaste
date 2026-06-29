@@ -31,9 +31,7 @@
                    "appStore":  "App Store",
                    "comingSoon":  "Coming soon",
                    "googlePlayBadgeAlt":  "Get it on Google Play",
-                   "appStoreBadgeAlt":  "Download on the App Store",
-                   "microsoftBadgeAlt":  "Get it from Microsoft (MyQuickPaste for PC)",
-                   "pcNote":  "The Microsoft Store badge links to MyQuickPaste for Windows."
+                   "appStoreBadgeAlt":  "Download on the App Store"
                },
     "compare":  {
                     "title":  "Part of the MyQuickPaste family",

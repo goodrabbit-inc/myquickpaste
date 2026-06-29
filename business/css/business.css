@@ -403,13 +403,6 @@ a:hover {
   margin-top: 0.35rem;
 }
 
-.store-badges-note {
-  margin: 0 0 0.85rem;
-  font-size: 0.78rem;
-  line-height: 1.45;
-  color: var(--muted-light);
-}
-
 .store-badge {
   display: inline-flex;
   line-height: 0;
@@ -428,10 +421,6 @@ a:hover {
   max-height: 44px;
 }
 
-.store-badge-ms img {
-  max-height: 40px;
-}
-
 .store-badge.is-soon {
   position: relative;
   opacity: 0.72;
@@ -444,10 +433,6 @@ a:hover {
   right: -0.25rem;
   margin: 0;
   font-size: 0.65rem;
-}
-
-.store-badge-inline {
-  margin-top: 0.65rem;
 }
 
 .store-badge-sticky img {

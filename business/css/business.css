@@ -421,6 +421,10 @@ a:hover {
   max-height: 44px;
 }
 
+.store-badge-ms img {
+  max-height: 40px;
+}
+
 .store-badge.is-soon {
   position: relative;
   opacity: 0.72;
@@ -433,6 +437,10 @@ a:hover {
   right: -0.25rem;
   margin: 0;
   font-size: 0.65rem;
+}
+
+.store-badge-inline {
+  margin-top: 0.65rem;
 }
 
 .store-badge-sticky img {

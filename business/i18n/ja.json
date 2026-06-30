@@ -31,7 +31,8 @@
     "appStore": "App Store",
     "comingSoon": "近日公開",
     "googlePlayBadgeAlt": "Google Play で手に入れよう",
-    "appStoreBadgeAlt": "App Store からダウンロード"
+    "appStoreBadgeAlt": "App Store からダウンロード",
+    "microsoftBadgeAlt": "Microsoft Store から入手（PC版 MyQuickPaste）"
   },
   "compare": {
     "title": "MyQuickPaste ファミリー",

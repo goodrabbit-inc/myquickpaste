@@ -5,7 +5,9 @@
     "description": "よく使う文章をスマホに保存して、ワンタップでコピー。定型文・住所・連絡先・プロフィールをカテゴリ別に整理できる MyQuickPaste for Business です。"
   },
   "lang": {
-    "label": "言語"
+    "label": "言語",
+    "ja": "日本語",
+    "en": "English"
   },
   "nav": {
     "home": "ホーム",

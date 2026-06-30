@@ -59,7 +59,7 @@
   }
 
   function loadMessages(lang) {
-    return fetch("i18n/" + lang + ".json?v=8")
+    return fetch("i18n/" + lang + ".json?v=9")
       .then(function (res) {
         if (!res.ok) {
           throw new Error("i18n load failed");
@@ -336,11 +336,17 @@
     if (!btn || !menu) {
       return;
     }
-    var labels = { ja: "日本語", en: "English" };
+    var labels = {
+      ja: getNested(messages, "lang.ja") || "\u65e5\u672c\u8a9e",
+      en: getNested(messages, "lang.en") || "English",
+    };
     btn.setAttribute("aria-label", getNested(messages, "lang.label") || "Language");
     btn.querySelector(".lang-current").textContent = labels[lang] || lang;
     menu.querySelectorAll("li").forEach(function (li) {
       var liLang = li.getAttribute("data-lang");
+      if (labels[liLang]) {
+        li.textContent = labels[liLang];
+      }
       li.setAttribute("aria-selected", liLang === lang ? "true" : "false");
     });
   }

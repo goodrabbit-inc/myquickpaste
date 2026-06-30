@@ -5,7 +5,9 @@
                  "description":  "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, addresses, contacts, and profile cards by category."
              },
     "lang":  {
-                 "label":  "Language"
+                 "label":  "Language",
+                 "ja":  "日本語",
+                 "en":  "English"
              },
     "nav":  {
                 "home":  "Home",

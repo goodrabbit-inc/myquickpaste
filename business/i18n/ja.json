@@ -32,14 +32,14 @@
     "comingSoon": "近日公開",
     "googlePlayBadgeAlt": "Google Play で手に入れよう",
     "appStoreBadgeAlt": "App Store からダウンロード",
-    "microsoftBadgeAlt": "Microsoft Store から入手（PC版 MyQuickPaste）"
+    "microsoftBadgeAlt": "Microsoft Store から入手（Windows版 MyQuickPaste）"
   },
   "compare": {
     "title": "MyQuickPaste ファミリー",
     "subtitle": "同じ「よく使う文章をすぐ貼る」という考え方を、PC とスマホそれぞれに合わせて作っています。",
-    "pcTitle": "MyQuickPaste（PC版）",
+    "pcTitle": "MyQuickPaste（Windows版）",
     "pcText": "画面端に常駐して、ワンクリックで貼り付けできる Windows アプリです。",
-    "pcLink": "PC版を見る",
+    "pcLink": "Windows版ホームページ",
     "mobileTitle": "MyQuickPaste for Business（スマートフォン版）",
     "mobileText": "カテゴリ別のリストやプロフィールカードで定番文を管理。Pro なら JSON でバックアップもできます。",
     "note": "PC版とスマートフォン版は別アプリです。ストアでの購入や保存データは、それぞれ独立しています。"

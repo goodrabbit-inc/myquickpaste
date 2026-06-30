@@ -32,14 +32,14 @@
                    "comingSoon":  "Coming soon",
                    "googlePlayBadgeAlt":  "Get it on Google Play",
                    "appStoreBadgeAlt":  "Download on the App Store",
-                   "microsoftBadgeAlt":  "Get it from Microsoft (MyQuickPaste for PC)"
+                   "microsoftBadgeAlt":  "Get it from Microsoft (MyQuickPaste for Windows)"
                },
     "compare":  {
                     "title":  "Part of the MyQuickPaste family",
                     "subtitle":  "The same idea—paste what you use often—tailored for PC and smartphone.",
-                    "pcTitle":  "MyQuickPaste (PC)",
+                    "pcTitle":  "MyQuickPaste (Windows)",
                     "pcText":  "A Windows app that lives at the edge of your screen and pastes with one click.",
-                    "pcLink":  "View PC edition",
+                    "pcLink":  "Windows edition homepage",
                     "mobileTitle":  "MyQuickPaste for Business (Smartphone)",
                     "mobileText":  "Category lists and profile cards for your go-to text. Pro adds JSON backup.",
                     "note":  "The PC and smartphone editions are separate apps. Purchases and saved data are not shared between them."

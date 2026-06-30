@@ -4,6 +4,18 @@
   var SUPPORTED = ["ja", "en"];
   var DEFAULT_LANG = "ja";
   var STORAGE_KEY = "mqp-business-lang";
+  var MAIN_STORAGE_KEY = "mqp-lang";
+
+  function mapMainSiteLang(raw) {
+    if (!raw) {
+      return null;
+    }
+    var normalized = String(raw).trim().toLowerCase().replace(/_/g, "-");
+    if (normalized === "ja" || normalized.indexOf("ja-") === 0) {
+      return "ja";
+    }
+    return "en";
+  }
 
   function getNested(obj, path) {
     return path.split(".").reduce(function (o, key) {
@@ -18,6 +30,11 @@
       return fromQuery;
     }
     try {
+      var mainStored = localStorage.getItem(MAIN_STORAGE_KEY);
+      var mappedMain = mapMainSiteLang(mainStored);
+      if (mappedMain && SUPPORTED.indexOf(mappedMain) !== -1) {
+        return mappedMain;
+      }
       var stored = localStorage.getItem(STORAGE_KEY);
       if (stored && SUPPORTED.indexOf(stored) !== -1) {
         return stored;
@@ -35,13 +52,14 @@
   function setLang(lang) {
     try {
       localStorage.setItem(STORAGE_KEY, lang);
+      localStorage.setItem(MAIN_STORAGE_KEY, lang);
     } catch (e) {
       /* ignore */
     }
   }
 
   function loadMessages(lang) {
-    return fetch("i18n/" + lang + ".json?v=7")
+    return fetch("i18n/" + lang + ".json?v=8")
       .then(function (res) {
         if (!res.ok) {
           throw new Error("i18n load failed");

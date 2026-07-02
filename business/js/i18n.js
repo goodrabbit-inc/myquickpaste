@@ -407,8 +407,10 @@
     if (!btn || !menu) {
       return;
     }
-    btn.setAttribute("aria-label", getNested(messages, "lang.label") || "Language");
-    btn.querySelector(".lang-current").textContent = LANG_NAMES[lang] || lang;
+    var langLabel = getNested(messages, "lang.label") || "Language";
+    var langName = LANG_NAMES[lang] || lang;
+    btn.setAttribute("aria-label", langLabel + ": " + langName);
+    btn.querySelector(".lang-current").textContent = langName;
     menu.querySelectorAll("li").forEach(function (li) {
       var liLang = li.getAttribute("data-lang");
       if (LANG_NAMES[liLang]) {

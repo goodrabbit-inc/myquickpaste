@@ -1,20 +1,91 @@
 (function () {
   "use strict";
 
-  var SUPPORTED = ["ja", "en"];
+  var SUPPORTED = [
+    "ja", "en", "fr", "de", "zh", "zh_TW", "ko", "ru", "it", "es",
+    "pt", "hi", "ar", "id", "th", "vi", "tr", "uk", "nl", "pl", "sv"
+  ];
   var DEFAULT_LANG = "ja";
   var STORAGE_KEY = "mqp-business-lang";
   var MAIN_STORAGE_KEY = "mqp-lang";
+  var RTL_LANGS = ["ar"];
+
+  var LANG_NAMES = {
+    ja: "\u65e5\u672c\u8a9e",
+    en: "English",
+    fr: "Fran\u00e7ais",
+    de: "Deutsch",
+    zh: "\u4e2d\u6587\uff08\u7b80\u4f53\uff09",
+    zh_TW: "\u4e2d\u6587\uff08\u7e41\u9ad4\uff09",
+    ko: "\ud55c\uad6d\uc5b4",
+    ru: "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    it: "Italiano",
+    es: "Espa\u00f1ol",
+    pt: "Portugu\u00eas",
+    hi: "\u0939\u093f\u0928\u094d\u0926\u0940",
+    ar: "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    id: "Bahasa Indonesia",
+    th: "\u0e44\u0e17\u0e22",
+    vi: "Ti\u1ebfng Vi\u1ec7t",
+    tr: "T\u00fcrk\u00e7e",
+    uk: "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+    nl: "Nederlands",
+    pl: "Polski",
+    sv: "Svenska"
+  };
+
+  var LANG_ALIASES = {
+    "zh-cn": "zh",
+    "zh-hans": "zh",
+    "zh-sg": "zh",
+    "zh-my": "zh",
+    "zh-tw": "zh_TW",
+    "zh-hant": "zh_TW",
+    "zh-hk": "zh_TW",
+    "zh-mo": "zh_TW",
+    "pt-br": "pt",
+    "pt-pt": "pt",
+    "en-us": "en",
+    "en-gb": "en"
+  };
+
+  function normalizeLangCode(raw) {
+    if (!raw) {
+      return "";
+    }
+    var normalized = String(raw).trim().toLowerCase().replace(/_/g, "-");
+    if (LANG_ALIASES[normalized]) {
+      return LANG_ALIASES[normalized];
+    }
+    if (normalized.indexOf("-") !== -1) {
+      var base = normalized.split("-")[0];
+      if (LANG_ALIASES[base]) {
+        return LANG_ALIASES[base];
+      }
+      return base;
+    }
+    return normalized;
+  }
+
+  function resolveSupported(rawCode) {
+    var normalized = normalizeLangCode(rawCode);
+    if (SUPPORTED.indexOf(normalized) !== -1) {
+      return normalized;
+    }
+    var lower = normalized.toLowerCase();
+    for (var i = 0; i < SUPPORTED.length; i++) {
+      if (SUPPORTED[i].toLowerCase() === lower) {
+        return SUPPORTED[i];
+      }
+    }
+    return null;
+  }
 
   function mapMainSiteLang(raw) {
     if (!raw) {
       return null;
     }
-    var normalized = String(raw).trim().toLowerCase().replace(/_/g, "-");
-    if (normalized === "ja" || normalized.indexOf("ja-") === 0) {
-      return "ja";
-    }
-    return "en";
+    return resolveSupported(raw);
   }
 
   function getNested(obj, path) {
@@ -25,25 +96,25 @@
 
   function detectLang() {
     var params = new URLSearchParams(window.location.search);
-    var fromQuery = params.get("lang");
-    if (fromQuery && SUPPORTED.indexOf(fromQuery) !== -1) {
+    var fromQuery = resolveSupported(params.get("lang"));
+    if (fromQuery) {
       return fromQuery;
     }
     try {
       var mainStored = localStorage.getItem(MAIN_STORAGE_KEY);
       var mappedMain = mapMainSiteLang(mainStored);
-      if (mappedMain && SUPPORTED.indexOf(mappedMain) !== -1) {
+      if (mappedMain) {
         return mappedMain;
       }
-      var stored = localStorage.getItem(STORAGE_KEY);
-      if (stored && SUPPORTED.indexOf(stored) !== -1) {
+      var stored = resolveSupported(localStorage.getItem(STORAGE_KEY));
+      if (stored) {
         return stored;
       }
     } catch (e) {
       /* ignore */
     }
-    var browser = (navigator.language || navigator.userLanguage || "").slice(0, 2).toLowerCase();
-    if (SUPPORTED.indexOf(browser) !== -1) {
+    var browser = resolveSupported(navigator.language || navigator.userLanguage || "");
+    if (browser) {
       return browser;
     }
     return DEFAULT_LANG;
@@ -59,7 +130,7 @@
   }
 
   function loadMessages(lang) {
-    return fetch("i18n/" + lang + ".json?v=9")
+    return fetch("i18n/" + lang + ".json?v=10")
       .then(function (res) {
         if (!res.ok) {
           throw new Error("i18n load failed");
@@ -336,16 +407,12 @@
     if (!btn || !menu) {
       return;
     }
-    var labels = {
-      ja: getNested(messages, "lang.ja") || "\u65e5\u672c\u8a9e",
-      en: getNested(messages, "lang.en") || "English",
-    };
     btn.setAttribute("aria-label", getNested(messages, "lang.label") || "Language");
-    btn.querySelector(".lang-current").textContent = labels[lang] || lang;
+    btn.querySelector(".lang-current").textContent = LANG_NAMES[lang] || lang;
     menu.querySelectorAll("li").forEach(function (li) {
       var liLang = li.getAttribute("data-lang");
-      if (labels[liLang]) {
-        li.textContent = labels[liLang];
+      if (LANG_NAMES[liLang]) {
+        li.textContent = LANG_NAMES[liLang];
       }
       li.setAttribute("aria-selected", liLang === lang ? "true" : "false");
     });
@@ -442,6 +509,7 @@
       })
       .then(function (messages) {
         document.documentElement.lang = messages.meta && messages.meta.lang ? messages.meta.lang : lang;
+        document.documentElement.dir = RTL_LANGS.indexOf(lang) !== -1 ? "rtl" : "ltr";
         if (messages.meta && messages.meta.title) {
           document.title = messages.meta.title;
         }
@@ -452,6 +520,9 @@
         markActiveNav();
         if (typeof window.mqpApplyStoreBadges === "function") {
           window.mqpApplyStoreBadges(lang, messages);
+        }
+        if (typeof window.mqpApplyScreenshots === "function") {
+          window.mqpApplyScreenshots(lang, messages);
         }
         document.dispatchEvent(
           new CustomEvent("mqp:i18n-ready", { detail: { lang: lang, messages: messages } })

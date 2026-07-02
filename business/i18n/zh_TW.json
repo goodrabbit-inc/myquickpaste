@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "lang": "zh-TW",
+    "title": "MyQuickPaste for Business — 手機版",
+    "description": "把常用的文字保存在手機裡，一鍵複製。MyQuickPaste for Business 依分類整理常用語、地址、聯絡方式與個人資料卡。"
+  },
+  "lang": {
+    "label": "語言"
+  },
+  "nav": {
+    "home": "首頁",
+    "support": "支援",
+    "releaseNotes": "更新紀錄",
+    "privacy": "隱私權"
+  },
+  "brand": {
+    "name": "MyQuickPaste for Business",
+    "edition": "手機版"
+  },
+  "hero": {
+    "badge": "支援 Android 與 iPhone",
+    "catch": "把常用的文字先存起來，一鍵就能複製。",
+    "lead": "專為那些不斷輸入相同回覆、地址、電話號碼或個人資料的人所設計。依分類整理好之後，點一下就能複製，隨時貼到郵件、聊天或任何地方。",
+    "platformLine": "已支援 Android · iPhone 與 iPad 即將推出",
+    "trialTitle": "30 天完整功能試用",
+    "trialText": "安裝後的 30 天內，可免費試用所有 Pro 功能。",
+    "trust": "資料保存在裝置內 · 支援 21 種語言"
+  },
+  "stores": {
+    "googlePlay": "在 Google Play 上取得",
+    "appStore": "App Store",
+    "comingSoon": "即將推出",
+    "googlePlayBadgeAlt": "在 Google Play 上取得",
+    "appStoreBadgeAlt": "在 App Store 下載",
+    "microsoftBadgeAlt": "在 Microsoft Store 取得（Windows 版 MyQuickPaste）"
+  },
+  "compare": {
+    "title": "MyQuickPaste 系列",
+    "subtitle": "相同的理念——把常用內容一鍵貼上——分別為電腦與手機打造。",
+    "pcTitle": "MyQuickPaste（Windows 版）",
+    "pcText": "常駐在螢幕邊緣的 Windows 應用程式，一鍵即可直接貼上。",
+    "pcLink": "Windows 版官方網站",
+    "mobileTitle": "MyQuickPaste for Business（手機版）",
+    "mobileText": "依分類整理清單與個人資料卡，隨時叫出常用文字，Pro 版還支援 JSON 備份。",
+    "note": "電腦版與手機版是兩款獨立的應用程式，購買紀錄與保存的資料並不互通。"
+  },
+  "problem": {
+    "title": "在手機上，你是不是也這樣？",
+    "items": [
+      "每次需要相同的地址或電話號碼，都要重新翻找之前的對話或備忘錄",
+      "在手機的小鍵盤上，一再重打相同的簽名或固定回覆",
+      "只是想複製一行常用文字，卻要來回切換應用程式尋找"
+    ],
+    "solution": "在 MyQuickPaste for Business 保存一次，之後打開應用程式點一下即可。可以直接貼到郵件、聊天、地圖等任何需要的地方。"
+  },
+  "clipboardCompare": {
+    "title": "與 Gboard 剪貼簿有什麼不同",
+    "subtitle": "如果是剛剛才複製的內容，用 Gboard 更快；但如果是每天、每週都會用到的固定文字，這款應用程式更適合。",
+    "clipboardTitle": "Gboard 剪貼簿",
+    "clipboardTag": "最近複製紀錄",
+    "clipboardItems": [
+      "直接從鍵盤選取並貼上——最快的方式",
+      "會自動保存最近複製過的內容",
+      "未釘選的內容大約 5 筆或 1 小時後就會消失",
+      "紀錄混雜在一起，不利於整理常用文字"
+    ],
+    "appTitle": "MyQuickPaste for Business",
+    "appTag": "常用文字的固定收納處",
+    "appItems": [
+      "可為地址、簽名、固定回覆分別命名保存",
+      "分為自由文字、常用語、郵件、電話、地址、資料六個分類",
+      "內容會一直保留，直到你自己刪除，不會像紀錄一樣自動消失",
+      "專為反覆尋找並複製常用文字而設計"
+    ],
+    "footer": "幾小時前才複製的內容？用 Gboard 很方便。但每週都要用的地址、簽名或固定回覆？把它保存在這裡，從此不用再費心尋找。"
+  },
+  "steps": {
+    "title": "使用方式",
+    "subtitle": "保存、點一下、貼上——只要 3 個步驟。",
+    "items": [
+      {
+        "title": "依分類保存",
+        "text": "自由文字、常用語、郵件、電話、地址與個人資料卡——各自獨立分類，方便隨時尋找。"
+      },
+      {
+        "title": "點一下即可複製",
+        "text": "點一下該列即可複製全部內容。長按則可在複製前先預覽。"
+      },
+      {
+        "title": "隨處都能貼上",
+        "text": "切換到郵件、聊天、地圖或任何應用程式，直接貼上即可。"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "深受喜愛的特點",
+    "items": [
+      {
+        "title": "單手也能輕鬆操作",
+        "text": "大尺寸清單、分類頁籤與直向版面，即使移動中也能快速選取。",
+        "icon": "📱"
+      },
+      {
+        "title": "分類清楚，容易尋找",
+        "text": "不用把所有內容塞進一則備忘錄，常用語、聯絡方式與個人資料卡都能分開管理。",
+        "icon": "🗂️"
+      },
+      {
+        "title": "資料保存在裝置內",
+        "text": "常用語與聯絡方式只保存在你的手機上，我們不提供任何雲端同步服務。",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "主要功能",
+    "subtitle": "讓手機上日常的複製貼上更輕鬆的各項功能。",
+    "items": [
+      {
+        "title": "分類頁籤",
+        "text": "自由文字、常用語、郵件、電話、地址、資料——切換頁籤即可立即找到需要的清單。",
+        "icon": "🏷️"
+      },
+      {
+        "title": "一鍵複製",
+        "text": "輕點一下即可複製全部內容，複製成功時還能開啟震動回饋提示。",
+        "icon": "👆"
+      },
+      {
+        "title": "長按預覽",
+        "text": "內容較長時，可先長按預覽標題與內文，再決定是否複製。",
+        "icon": "👁️"
+      },
+      {
+        "title": "個人資料卡",
+        "text": "以卡片形式保存住家、公司等聯絡方式，點一下就能複製單一欄位。",
+        "icon": "🪪"
+      },
+      {
+        "title": "排序模式",
+        "text": "在分類內自由調整順序，把常用項目放到最上面。",
+        "icon": "↕️"
+      },
+      {
+        "title": "備份（Pro）",
+        "text": "可將保存的內容匯出/匯入為 JSON 檔案，方便換機或資料留存。",
+        "icon": "💾"
+      },
+      {
+        "title": "支援 21 種語言介面",
+        "text": "支援繁體中文、日文等共 21 種語言介面。",
+        "icon": "🌐"
+      },
+      {
+        "title": "淺色／深色主題",
+        "text": "可跟隨系統設定，也能在設定中自由選擇淺色、深色或跟隨系統。",
+        "icon": "🌓"
+      }
+    ],
+    "categoriesLabel": "6 個分類",
+    "categories": [
+      "自由文字",
+      "常用語",
+      "郵件",
+      "電話",
+      "地址",
+      "資料"
+    ]
+  },
+  "usecases": {
+    "title": "適合這樣的你",
+    "items": [
+      {
+        "title": "業務與外勤人員",
+        "text": "在拜訪客戶現場，就能立即複製地址、電話號碼與常用回覆。"
+      },
+      {
+        "title": "行政與客服人員",
+        "text": "把固定回覆與聯絡方式整理在手機裡，外出時也能隨時應對。"
+      },
+      {
+        "title": "個人日常使用",
+        "text": "保存住家地址、郵件簽名與常用短句——把生活中的「固定內容」隨身帶著走。"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "價格方案",
+    "subtitle": "先用免費版試試看，等保存數量或備份不夠用時，再升級為 Pro。",
+    "freeTitle": "免費版",
+    "freePrice": "0",
+    "freeItems": [
+      "每個分類最多可保存 5 筆",
+      "最多 2 張個人資料卡",
+      "一鍵複製、分類頁籤",
+      "30 天 Pro 功能試用"
+    ],
+    "proTitle": "Pro（一次性購買）",
+    "proPrice": "價格請以商店頁面為準",
+    "proItems": [
+      "每個分類最多可保存 200 筆",
+      "最多 30 張個人資料卡",
+      "支援 JSON 匯出／匯入",
+      "透過 Google Play / App Store 一次性購買"
+    ],
+    "note": "應用程式本體可免費下載。Pro 是透過應用程式商店購買的一次性付費附加項目，價格可能因地區而異。"
+  },
+  "privacySection": {
+    "title": "資料只保存在裝置內",
+    "text": "已保存的文字、個人資料卡與設定都只儲存在你的裝置上。我們不提供任何雲端同步服務，也不會收集你保存的常用語內容。",
+    "link": "閱讀隱私權政策"
+  },
+  "cta": {
+    "title": "今天就開始告別重複輸入同樣的文字吧",
+    "lead": "免費下載，30 天內即可試用所有 Pro 功能，找到最適合自己的用法。",
+    "button": "在 Google Play 上取得"
+  },
+  "footer": {
+    "pcEdition": "MyQuickPaste（電腦版）",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "開發者：Kazuhiro Suda"
+  },
+  "supportPage": {
+    "title": "支援",
+    "lead": "MyQuickPaste for Business（手機版）說明中心。",
+    "faqTitle": "常見問題",
+    "items": [
+      {
+        "q": "這和 Windows 版 MyQuickPaste 是同一款應用程式嗎？",
+        "a": "不是。MyQuickPaste for Business 是獨立的手機版應用程式，理念相同，但資料與商店購買紀錄並不與電腦版共用。"
+      },
+      {
+        "q": "免費版和 Pro 版有什麼差異？",
+        "a": "免費版每個分類最多可保存 5 筆、最多 2 張個人資料卡。Pro 版提升了保存數量上限，並解鎖 JSON 匯出／匯入功能。新安裝的使用者可享有 30 天 Pro 功能試用。"
+      },
+      {
+        "q": "30 天試用是如何運作的？",
+        "a": "首次啟動後的 30 天內，可使用所有 Pro 功能。試用期結束後，可以繼續使用免費版，或在商店購買 Pro 版。"
+      },
+      {
+        "q": "資料會保存在哪裡？",
+        "a": "已保存的文字、個人資料卡與設定都只儲存在你的裝置上。"
+      },
+      {
+        "q": "如何備份或轉移資料？",
+        "a": "Pro 使用者可在設定中匯出 JSON 備份檔，並在其他裝置上匯入使用。"
+      },
+      {
+        "q": "iPhone 版何時推出？",
+        "a": "iOS 版正在準備中，一旦於 App Store 上架，會立即更新本頁面。"
+      },
+      {
+        "q": "如何購買 Pro 版？",
+        "a": "可在應用程式內的升級畫面，或商店的 Pro 附加項目頁面完成購買，付款將完全由 Google Play 或 App Store 處理。"
+      }
+    ],
+    "contactTitle": "聯絡我們",
+    "contactText": "如需回報問題或提出功能建議，請寄信至：",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "隱私權政策",
+    "lead": "MyQuickPaste for Business（手機版）",
+    "updated": "最後更新：2026 年 6 月",
+    "sections": [
+      {
+        "h": "概述",
+        "p": "MyQuickPaste for Business 是由 Good Rabbit inc.（以下稱「我們」）提供的手機應用程式。本政策說明應用程式如何處理你裝置上的資訊。"
+      },
+      {
+        "h": "我們不會收集的資訊",
+        "p": "我們不會在伺服器上收集、傳輸或儲存你保存的常用語、個人資料卡或剪貼簿內容。應用程式的設計理念，就是讓資料只留在你的裝置上。"
+      },
+      {
+        "h": "本機儲存",
+        "p": "你輸入的內容、分類、個人資料卡與應用程式設定，都保存在手機上應用程式專屬的儲存空間中。備份（Pro 匯出）與裝置安全性由你自行負責。"
+      },
+      {
+        "h": "應用程式商店與購買",
+        "p": "下載、試用及 Pro 版購買皆由 Google Play 或 Apple App Store 處理，付款與授權驗證則依循各商店的隱私權政策與使用條款。"
+      },
+      {
+        "h": "聯絡方式",
+        "p": "若對本政策有任何疑問，請透過 myquickpaste@hotmail.com 與我們聯絡。"
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "更新紀錄",
+    "lead": "MyQuickPaste for Business 的版本歷史。",
+    "latestPrefix": "最新版本：",
+    "storeNote": "更新將透過 Google Play 推送（App Store 上架後也會同步推送）。",
+    "entries": [
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "首次發布（Android）",
+        "items": [
+          "分類清單：自由文字、常用語、郵件、電話、地址、資料",
+          "一鍵複製、長按預覽",
+          "支援逐欄複製的個人資料卡",
+          "支援清單與資料的排序",
+          "免費版 + 30 天 Pro 功能試用",
+          "JSON 匯出／匯入（Pro）",
+          "支援 21 種語言介面，淺色／深色主題",
+          "複製回饋、啟動分類、備份等設定項目"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "應用程式畫面預覽",
+    "subtitle": "以下為 MyQuickPaste for Business（Android 版）的實際畫面截圖。",
+    "freetextAlt": "自由文字清單，簽名、網址等內容可一鍵複製",
+    "snippetsAlt": "常用語分類，包含郵件回覆範本",
+    "profileAlt": "個人資料卡（住家、公司等）",
+    "profileEditAlt": "個人資料編輯畫面",
+    "cateAlt": "6 個分類頁籤（自由文字、常用語、郵件、電話、地址、資料）",
+    "items": [
+      {
+        "caption": "自由文字——一覽顯示簽名、網址、帳戶資訊"
+      },
+      {
+        "caption": "常用語——用於郵件或聊天的回覆範本"
+      },
+      {
+        "caption": "資料——地址、電話等資訊可一併複製"
+      },
+      {
+        "caption": "資料編輯——分別管理住家、公司與客戶資訊"
+      },
+      {
+        "caption": "分類頁籤——快速切換 6 種清單"
+      }
+    ]
+  }
+}

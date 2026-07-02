@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "lang": "id",
+    "title": "MyQuickPaste for Business — Edisi Smartphone",
+    "description": "Simpan teks yang sering Anda gunakan di smartphone dan salin hanya dengan satu ketukan. MyQuickPaste for Business mengatur kalimat template, alamat, kontak, dan kartu profil berdasarkan kategori."
+  },
+  "lang": {
+    "label": "Bahasa"
+  },
+  "nav": {
+    "home": "Beranda",
+    "support": "Dukungan",
+    "releaseNotes": "Catatan Rilis",
+    "privacy": "Privasi"
+  },
+  "brand": {
+    "name": "MyQuickPaste for Business",
+    "edition": "Edisi Smartphone"
+  },
+  "hero": {
+    "badge": "Untuk Android & iPhone",
+    "catch": "Simpan yang sering Anda pakai. Salin dengan satu ketukan.",
+    "lead": "Dibuat untuk siapa saja yang terus-menerus mengetik ulang jawaban, alamat, nomor telepon, atau info profil yang sama. Atur berdasarkan kategori, ketuk barisnya, lalu tempel ke email, chat, atau di mana saja.",
+    "platformLine": "Tersedia di Android · Versi iPhone & iPad segera hadir",
+    "trialTitle": "Uji coba lengkap 30 hari",
+    "trialText": "Selama 30 hari setelah instalasi, Anda dapat mencoba semua fitur Pro secara gratis.",
+    "trust": "Data tetap di perangkat Anda · 21 bahasa"
+  },
+  "stores": {
+    "googlePlay": "Tersedia di Google Play",
+    "appStore": "App Store",
+    "comingSoon": "Segera Hadir",
+    "googlePlayBadgeAlt": "Tersedia di Google Play",
+    "appStoreBadgeAlt": "Unduh di App Store",
+    "microsoftBadgeAlt": "Dapatkan di Microsoft Store (MyQuickPaste untuk Windows)"
+  },
+  "compare": {
+    "title": "Keluarga Aplikasi MyQuickPaste",
+    "subtitle": "Gagasan yang sama — menempelkan hal yang sering dipakai secara instan — dirancang secara berbeda untuk PC dan smartphone.",
+    "pcTitle": "MyQuickPaste (Edisi Windows)",
+    "pcText": "Aplikasi Windows yang selalu siap di tepi layar dan menempelkan teks langsung dengan satu klik.",
+    "pcLink": "Situs edisi Windows",
+    "mobileTitle": "MyQuickPaste for Business (Edisi Smartphone)",
+    "mobileText": "Daftar berbasis kategori dan kartu profil untuk teks paling penting Anda, dengan backup JSON di edisi Pro.",
+    "note": "Edisi PC dan smartphone adalah dua aplikasi terpisah. Pembelian dan data yang tersimpan tidak dibagikan di antara keduanya."
+  },
+  "problem": {
+    "title": "Pernahkah Anda merasakan ini di ponsel?",
+    "items": [
+      "Mencari-cari di chat atau catatan lama setiap kali butuh alamat atau nomor telepon yang sama",
+      "Mengetik ulang tanda tangan atau balasan tetap berkali-kali di keyboard layar kecil",
+      "Harus berpindah aplikasi hanya untuk menyalin satu baris teks lagi"
+    ],
+    "solution": "Simpan sekali di MyQuickPaste for Business, lalu cukup buka aplikasi dan ketuk. Tempel ke email, chat, peta — di mana pun Anda membutuhkannya."
+  },
+  "clipboardCompare": {
+    "title": "Apa bedanya dengan clipboard Gboard?",
+    "subtitle": "Untuk teks yang baru saja Anda salin, Gboard tetap lebih cepat. Tapi untuk teks yang Anda butuhkan setiap hari atau setiap minggu, aplikasi ini lebih cocok.",
+    "clipboardTitle": "Clipboard Gboard",
+    "clipboardTag": "Riwayat salinan terbaru",
+    "clipboardItems": [
+      "Pilih dari keyboard dan langsung tempel — cara tercepat",
+      "Otomatis menyimpan apa yang baru saja Anda salin",
+      "Item yang tidak disematkan hilang setelah sekitar 5 item atau 1 jam",
+      "Riwayat yang bercampur membuat sulit menyimpan teks favorit secara rapi"
+    ],
+    "appTitle": "MyQuickPaste for Business",
+    "appTag": "Tempat permanen untuk teks penting Anda",
+    "appItems": [
+      "Simpan alamat, tanda tangan, dan balasan tetap dengan nama masing-masing",
+      "Enam kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+      "Item tetap tersimpan sampai Anda menghapusnya sendiri, tidak hilang otomatis seperti riwayat",
+      "Dirancang untuk menemukan dan menyalin teks yang paling sering Anda gunakan dengan cepat"
+    ],
+    "footer": "Menyalin sesuatu beberapa jam lalu? Gboard cocok untuk itu. Tapi alamat, tanda tangan, atau balasan tetap yang Anda pakai setiap minggu? Simpan sekali di sini, dan Anda tidak perlu mencarinya lagi."
+  },
+  "steps": {
+    "title": "Cara Penggunaan",
+    "subtitle": "Simpan, ketuk, tempel — hanya 3 langkah.",
+    "items": [
+      {
+        "title": "Simpan berdasarkan kategori",
+        "text": "Teks bebas, kalimat template, email, telepon, alamat, dan kartu profil — masing-masing memiliki tab sendiri agar mudah ditemukan."
+      },
+      {
+        "title": "Salin dengan satu ketukan",
+        "text": "Ketuk baris mana pun untuk menyalin seluruh teksnya. Tekan lama untuk melihat pratinjau isi sebelum menyalin."
+      },
+      {
+        "title": "Tempel di mana saja",
+        "text": "Buka email, chat, peta, atau aplikasi apa pun, lalu tempel langsung."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Yang Paling Disukai Pengguna",
+    "items": [
+      {
+        "title": "Mudah dioperasikan dengan satu tangan",
+        "text": "Baris besar, tab kategori, dan tata letak vertikal — semuanya dirancang untuk memilih dengan cepat bahkan saat bepergian.",
+        "icon": "📱"
+      },
+      {
+        "title": "Mudah ditemukan",
+        "text": "Alih-alih satu catatan yang tak berujung, simpan kalimat template, kontak, dan kartu profil dalam daftar terpisah.",
+        "icon": "🗂️"
+      },
+      {
+        "title": "Tetap di perangkat Anda",
+        "text": "Kalimat template dan kontak penting Anda hanya tersimpan di ponsel Anda. Kami tidak menyediakan layanan sinkronisasi cloud.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "Fitur Utama",
+    "subtitle": "Fitur yang membuat copy-paste sehari-hari di ponsel Anda lebih mudah.",
+    "items": [
+      {
+        "title": "Tab kategori",
+        "text": "Teks bebas, kalimat template, email, telepon, alamat, profil — beralih tab untuk langsung menuju daftar yang tepat.",
+        "icon": "🏷️"
+      },
+      {
+        "title": "Salin satu ketukan",
+        "text": "Satu ketukan menyalin seluruh konten. Getaran opsional dapat diaktifkan untuk konfirmasi penyalinan.",
+        "icon": "👆"
+      },
+      {
+        "title": "Pratinjau tekan lama",
+        "text": "Sebelum menyalin teks panjang, tekan lama untuk melihat pratinjau judul dan isinya.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Kartu profil",
+        "text": "Simpan kontak rumah dan kantor sebagai kartu; salin setiap bidang secara individual dengan satu ketukan.",
+        "icon": "🪪"
+      },
+      {
+        "title": "Mode urutkan ulang",
+        "text": "Tekan lama tab kategori untuk mengurutkan ulang item dan menempatkan favorit di atas.",
+        "icon": "↕️"
+      },
+      {
+        "title": "Backup (Pro)",
+        "text": "Ekspor dan impor data Anda sebagai JSON — berguna saat berganti ponsel atau untuk penyimpanan yang aman.",
+        "icon": "💾"
+      },
+      {
+        "title": "Antarmuka 21 bahasa",
+        "text": "Gunakan aplikasi dalam bahasa Indonesia, Jepang, dan 19 bahasa lainnya.",
+        "icon": "🌐"
+      },
+      {
+        "title": "Tema terang & gelap",
+        "text": "Ikuti tema sistem, atau pilih terang, gelap, atau otomatis di pengaturan.",
+        "icon": "🌓"
+      }
+    ],
+    "categoriesLabel": "6 Kategori",
+    "categories": [
+      "Teks Bebas",
+      "Kalimat Template",
+      "Email",
+      "Telepon",
+      "Alamat",
+      "Profil"
+    ]
+  },
+  "usecases": {
+    "title": "Cocok Untuk",
+    "items": [
+      {
+        "title": "Tim penjualan & pekerja lapangan",
+        "text": "Salin alamat, nomor telepon, dan balasan tetap secara instan saat mengunjungi klien."
+      },
+      {
+        "title": "Staf kantor & dukungan pelanggan",
+        "text": "Siapkan balasan tetap dan info kontak di ponsel Anda agar bisa merespons cepat bahkan saat di luar kantor."
+      },
+      {
+        "title": "Penggunaan pribadi",
+        "text": "Simpan alamat rumah, tanda tangan email, dan kalimat yang sering dipakai — hal-hal penting sehari-hari."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Harga",
+    "subtitle": "Mulai dengan edisi gratis, dan tingkatkan ke Pro saat Anda butuh lebih banyak slot dan backup.",
+    "freeTitle": "Gratis",
+    "freePrice": "0",
+    "freeItems": [
+      "Hingga 5 item tersimpan per kategori",
+      "Hingga 2 kartu profil",
+      "Salin satu ketukan, tab kategori",
+      "Uji coba 30 hari untuk semua fitur Pro"
+    ],
+    "proTitle": "Pro (pembelian sekali)",
+    "proPrice": "Lihat harga di toko",
+    "proItems": [
+      "Hingga 200 item per kategori",
+      "Hingga 30 kartu profil",
+      "Ekspor/impor JSON",
+      "Pembelian sekali melalui Google Play / App Store"
+    ],
+    "note": "Aplikasi ini sendiri dapat diunduh gratis. Pro adalah add-on pembelian sekali melalui toko aplikasi; harga dapat berbeda tergantung wilayah."
+  },
+  "privacySection": {
+    "title": "Data Anda tetap di ponsel Anda",
+    "text": "Teks tersimpan, kartu profil, dan pengaturan hanya disimpan di perangkat Anda. Kami tidak menyediakan layanan sinkronisasi cloud dan tidak mengumpulkan isi kalimat template Anda.",
+    "link": "Baca Kebijakan Privasi"
+  },
+  "cta": {
+    "title": "Waktunya berhenti mengetik ulang teks yang sama di ponsel Anda",
+    "lead": "Unduh gratis dan coba semua fitur Pro selama 30 hari — lihat mana yang cocok untuk Anda.",
+    "button": "Tersedia di Google Play"
+  },
+  "footer": {
+    "pcEdition": "MyQuickPaste (Edisi PC)",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Hak cipta dilindungi.",
+    "developer": "Pengembang: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "title": "Dukungan",
+    "lead": "Bantuan untuk MyQuickPaste for Business (Edisi Smartphone).",
+    "faqTitle": "Pertanyaan yang Sering Diajukan",
+    "items": [
+      {
+        "q": "Apakah ini aplikasi yang sama dengan MyQuickPaste untuk Windows?",
+        "a": "Tidak. MyQuickPaste for Business adalah edisi terpisah untuk smartphone. Konsepnya sama, tetapi ini aplikasi mandiri dengan data dan pembelian toko sendiri."
+      },
+      {
+        "q": "Apa bedanya edisi gratis dan Pro?",
+        "a": "Edisi gratis memungkinkan hingga 5 item per kategori dan hingga 2 kartu profil. Pro memperluas batas ini dan membuka ekspor/impor JSON. Setiap instalasi baru mendapat uji coba 30 hari untuk fitur Pro."
+      },
+      {
+        "q": "Bagaimana cara kerja uji coba 30 hari?",
+        "a": "Sejak pertama kali diluncurkan, semua fitur Pro tersedia selama 30 hari. Setelah itu, Anda dapat melanjutkan dengan edisi gratis atau membeli Pro dari toko."
+      },
+      {
+        "q": "Di mana data saya disimpan?",
+        "a": "Teks tersimpan, kartu profil, dan pengaturan hanya disimpan di perangkat Anda."
+      },
+      {
+        "q": "Bagaimana cara mencadangkan atau memindahkan data saya?",
+        "a": "Pengguna Pro dapat mengekspor backup JSON dari pengaturan dan mengimpornya ke MyQuickPaste for Business di perangkat lain."
+      },
+      {
+        "q": "Kapan versi iPhone akan tersedia?",
+        "a": "Versi iOS sedang dalam pengembangan. Halaman ini akan diperbarui setelah tersedia di App Store."
+      },
+      {
+        "q": "Bagaimana cara membeli Pro?",
+        "a": "Buka layar upgrade di dalam aplikasi, atau cari add-on Pro di toko. Pembayaran sepenuhnya ditangani oleh Google Play atau App Store."
+      }
+    ],
+    "contactTitle": "Hubungi Kami",
+    "contactText": "Untuk melaporkan masalah atau mengusulkan fitur, silakan email kami di:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "Kebijakan Privasi",
+    "lead": "MyQuickPaste for Business (Edisi Smartphone)",
+    "updated": "Terakhir diperbarui: Juni 2026",
+    "sections": [
+      {
+        "h": "Ringkasan",
+        "p": "MyQuickPaste for Business adalah aplikasi smartphone yang disediakan oleh Good Rabbit inc. (\"kami\"). Kebijakan ini menjelaskan cara aplikasi menangani informasi di perangkat Anda."
+      },
+      {
+        "h": "Informasi yang tidak kami kumpulkan",
+        "p": "Kami tidak mengumpulkan, mentransfer, atau menyimpan kalimat template, kartu profil, atau isi clipboard Anda di server mana pun. Aplikasi ini dirancang agar data Anda tetap berada di perangkat Anda."
+      },
+      {
+        "h": "Penyimpanan lokal",
+        "p": "Entri, kategori, kartu profil, dan pengaturan aplikasi Anda disimpan di area penyimpanan pribadi aplikasi pada smartphone Anda. Backup (ekspor Pro) dan keamanan perangkat menjadi tanggung jawab Anda."
+      },
+      {
+        "h": "Toko aplikasi & pembelian",
+        "p": "Unduhan, uji coba, dan pembelian Pro ditangani oleh Google Play atau Apple App Store. Pembayaran dan verifikasi lisensi tunduk pada kebijakan privasi dan ketentuan masing-masing toko."
+      },
+      {
+        "h": "Hubungi Kami",
+        "p": "Untuk pertanyaan tentang kebijakan ini, silakan hubungi myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "Catatan Rilis",
+    "lead": "Riwayat versi MyQuickPaste for Business.",
+    "latestPrefix": "Versi terbaru:",
+    "storeNote": "Pembaruan didistribusikan melalui Google Play (juga akan didistribusikan melalui App Store setelah tersedia).",
+    "entries": [
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "Rilis pertama (Android)",
+        "items": [
+          "Daftar berbasis kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+          "Salin satu ketukan, pratinjau tekan lama",
+          "Kartu profil dengan penyalinan per bidang",
+          "Mode urutkan ulang untuk daftar dan profil",
+          "Edisi gratis + uji coba Pro 30 hari",
+          "Ekspor/impor JSON (Pro)",
+          "Antarmuka 21 bahasa, tema terang/gelap",
+          "Pengaturan untuk konfirmasi salin, kategori awal, dan backup"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "Lihat Aplikasi Beraksi",
+    "subtitle": "Tangkapan layar asli dari MyQuickPaste for Business (Android).",
+    "freetextAlt": "Daftar teks bebas dengan tanda tangan tersimpan dan salin satu ketukan",
+    "snippetsAlt": "Kategori kalimat template dengan templat balasan email",
+    "profileAlt": "Kartu profil untuk kontak rumah, kantor, dan lainnya",
+    "profileEditAlt": "Layar edit profil dengan bidang alamat dan kontak",
+    "cateAlt": "Enam tab kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+    "items": [
+      {
+        "caption": "Teks bebas — tanda tangan, URL, dan info akun sekilas"
+      },
+      {
+        "caption": "Kalimat template — balasan siap pakai untuk email dan chat"
+      },
+      {
+        "caption": "Profil — salin alamat, telepon, atau semuanya sekaligus"
+      },
+      {
+        "caption": "Edit profil — kelola rumah, kantor, dan klien secara terpisah"
+      },
+      {
+        "caption": "Tab kategori — beralih instan di antara enam daftar"
+      }
+    ]
+  }
+}

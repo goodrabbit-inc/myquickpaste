@@ -12,26 +12,40 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Configure GitHub Pages
+      - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
+      - name: Prepare site bundle
+        run: |
+          mkdir _site
+          cp .nojekyll _site/ 2>/dev/null || true
+          cp index.html style.css i18n.js favicon.ico sitemap.xml _site/
+          cp support.html privacy.html release-notes.html _site/
+          cp -r images i18n business _site/
+          if [ -f robots.txt ]; then cp robots.txt _site/; fi
+          if [ -d videos ]; then cp -r videos _site/; fi
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

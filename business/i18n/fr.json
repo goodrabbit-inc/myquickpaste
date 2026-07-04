@@ -1,337 +1,338 @@
 {
-  "meta": {
-    "lang": "fr",
-    "title": "MyQuickPaste for Business — Édition smartphone",
-    "description": "Enregistrez les textes que vous utilisez souvent sur votre smartphone et copiez-les en un instant. MyQuickPaste for Business classe vos formules types, adresses, contacts et fiches de profil par catégorie."
-  },
-  "lang": {
-    "label": "Langue"
-  },
-  "nav": {
-    "home": "Accueil",
-    "support": "Assistance",
-    "releaseNotes": "Notes de version",
-    "privacy": "Confidentialité"
-  },
-  "brand": {
-    "name": "MyQuickPaste for Business",
-    "edition": "Édition smartphone"
-  },
-  "hero": {
-    "badge": "Pour Android et iPhone",
-    "catch": "Enregistrez vos textes du quotidien. Copiez-les en un instant.",
-    "lead": "Conçu pour celles et ceux qui retapent sans cesse les mêmes réponses, adresses, numéros de téléphone ou informations de profil. Classez-les par catégorie, appuyez sur une ligne, et collez-la dans un e-mail, une conversation ou n'importe où ailleurs.",
-    "platformLine": "Disponible sur Android · iPhone et iPad bientôt disponibles",
-    "trialTitle": "30 jours d'essai complet",
-    "trialText": "Pendant 30 jours après l'installation, testez gratuitement toutes les fonctionnalités Pro.",
-    "trust": "Conservé sur votre appareil · 21 langues"
-  },
-  "stores": {
-    "googlePlay": "Disponible sur Google Play",
-    "appStore": "App Store",
-    "comingSoon": "Bientôt disponible",
-    "googlePlayBadgeAlt": "Disponible sur Google Play",
-    "appStoreBadgeAlt": "Télécharger sur l'App Store",
-    "microsoftBadgeAlt": "Obtenir sur Microsoft Store (MyQuickPaste pour Windows)"
-  },
-  "compare": {
-    "title": "La famille MyQuickPaste",
-    "subtitle": "Une même idée — coller en un instant ce que vous utilisez souvent — pensée pour PC comme pour smartphone.",
-    "pcTitle": "MyQuickPaste (Windows)",
-    "pcText": "Une application Windows qui reste en bordure d'écran et colle en un seul clic.",
-    "pcLink": "Site de l'édition Windows",
-    "mobileTitle": "MyQuickPaste for Business (smartphone)",
-    "mobileText": "Des listes par catégorie et des fiches de profil pour vos textes essentiels. La version Pro ajoute la sauvegarde JSON.",
-    "note": "Les éditions PC et smartphone sont deux applications distinctes. Les achats et les données enregistrées ne sont pas partagés entre elles."
-  },
-  "problem": {
-    "title": "Ça vous parle, sur mobile ?",
-    "items": [
-      "Chercher dans d'anciennes conversations la même adresse ou le même numéro de téléphone",
-      "Retaper une signature ou une réponse type sur un petit clavier",
-      "Changer d'application juste pour recopier une seule ligne de texte"
-    ],
-    "solution": "Enregistrez-le une fois dans MyQuickPaste for Business, puis ouvrez l'application et appuyez. Collez-le dans un e-mail, une conversation, une carte — partout où vous en avez besoin."
-  },
-  "clipboardCompare": {
-    "title": "En quoi c'est différent du presse-papiers Gboard",
-    "subtitle": "Pour un texte copié il y a un instant, Gboard reste le plus rapide. Pour les textes que vous utilisez chaque jour ou chaque semaine, cette application est mieux adaptée.",
-    "clipboardTitle": "Presse-papiers Gboard",
-    "clipboardTag": "Historique de copie récent",
-    "clipboardItems": [
-      "Sélectionnez depuis le clavier et collez aussitôt — la méthode la plus rapide",
-      "Enregistre automatiquement ce que vous venez de copier",
-      "Les éléments non épinglés disparaissent après environ 5 entrées ou 1 heure",
-      "Un historique mélangé, peu pratique pour ranger ses textes favoris"
-    ],
-    "appTitle": "MyQuickPaste for Business",
-    "appTag": "Le rayon de vos textes essentiels",
-    "appItems": [
-      "Enregistrez adresses, signatures et réponses types, chacune avec un nom",
-      "Six catégories : mot libre, formules types, e-mail, téléphone, adresse, profil",
-      "Les entrées restent tant que vous ne les supprimez pas — aucun historique qui s'efface",
-      "Pensée pour retrouver et copier, encore et encore, les textes que vous utilisez le plus"
-    ],
-    "footer": "Copié il y a quelques heures ? Gboard fait très bien l'affaire. Une adresse, une signature ou une réponse type que vous utilisez chaque semaine ? Enregistrez-la ici, et vous n'aurez plus jamais à la chercher."
-  },
-  "steps": {
-    "title": "Comment ça marche",
-    "subtitle": "Enregistrer, appuyer, coller — en seulement 3 étapes.",
-    "items": [
-      {
-        "title": "Enregistrez par catégorie",
-        "text": "Mot libre, formules types, e-mail, téléphone, adresse et fiches de profil — chacun dans son propre onglet, pour tout retrouver facilement."
-      },
-      {
-        "title": "Copiez en un instant",
-        "text": "Appuyez sur une ligne pour copier le texte entier. Restez appuyé pour un aperçu avant de copier."
-      },
-      {
-        "title": "Collez partout",
-        "text": "Passez à votre e-mail, votre messagerie, vos cartes, ou n'importe quelle application — et collez aussitôt."
-      }
-    ]
-  },
-  "benefits": {
-    "title": "Ce qui plaît le plus",
-    "items": [
-      {
-        "title": "Facile à utiliser d'une seule main",
-        "text": "De grandes lignes, des onglets par catégorie et un affichage vertical — pensés pour choisir rapidement, même en déplacement.",
-        "icon": "📱"
-      },
-      {
-        "title": "Facile à parcourir",
-        "text": "Plutôt qu'une seule note interminable, gardez formules types, contacts et fiches de profil dans des listes séparées.",
-        "icon": "🗂️"
-      },
-      {
-        "title": "Conservé sur votre appareil",
-        "text": "Vos formules types et vos contacts restent sur votre téléphone. Nous ne proposons aucune synchronisation dans le cloud.",
-        "icon": "🔒"
-      }
-    ]
-  },
-  "features": {
-    "title": "Fonctionnalités clés",
-    "subtitle": "Des fonctionnalités qui simplifient le copier-coller au quotidien sur votre téléphone.",
-    "items": [
-      {
-        "title": "Onglets par catégorie",
-        "text": "Mot libre, formules types, e-mail, téléphone, adresse, profil — changez d'onglet pour accéder instantanément à la bonne liste.",
-        "icon": "🏷️"
-      },
-      {
-        "title": "Copie en un instant",
-        "text": "Un seul appui copie le texte entier. Un retour vibratoire optionnel confirme la copie.",
-        "icon": "👆"
-      },
-      {
-        "title": "Aperçu par appui long",
-        "text": "Avant de copier un texte long, prévisualisez le titre et le contenu par un simple appui long.",
-        "icon": "👁️"
-      },
-      {
-        "title": "Fiches de profil",
-        "text": "Enregistrez vos coordonnées personnelles et professionnelles par blocs ; copiez chaque champ d'un simple appui.",
-        "icon": "🪪"
-      },
-      {
-        "title": "Mode réorganisation",
-        "text": "Restez appuyé sur un onglet pour réorganiser vos éléments et garder vos favoris en haut.",
-        "icon": "↕️"
-      },
-      {
-        "title": "Sauvegarde (Pro)",
-        "text": "Exportez et importez vos données au format JSON pour changer d'appareil ou pour les conserver en lieu sûr.",
-        "icon": "💾"
-      },
-      {
-        "title": "Interface en 21 langues",
-        "text": "Utilisez l'application en français, en japonais, et dans 19 autres langues.",
-        "icon": "🌐"
-      },
-      {
-        "title": "Thème clair et sombre",
-        "text": "Suivez le thème du système, ou choisissez clair, sombre ou automatique dans les réglages.",
-        "icon": "🌓"
-      }
-    ],
-    "categoriesLabel": "Catégories",
-    "categories": [
-      "Mot libre",
-      "Formules types",
-      "E-mail",
-      "Téléphone",
-      "Adresse",
-      "Profil"
-    ]
-  },
-  "usecases": {
-    "title": "Idéal pour",
-    "items": [
-      {
-        "title": "Équipes commerciales et itinérantes",
-        "text": "Copiez adresses, numéros de téléphone et réponses types en un instant, directement chez vos clients."
-      },
-      {
-        "title": "Support et administratif",
-        "text": "Gardez vos réponses types et vos coordonnées toujours prêtes sur votre téléphone."
-      },
-      {
-        "title": "Un usage personnel",
-        "text": "Enregistrez votre adresse, votre signature e-mail et vos expressions favorites du quotidien."
-      }
-    ]
-  },
-  "pricing": {
-    "title": "Tarifs",
-    "subtitle": "Commencez gratuitement. Passez à la version Pro quand vous avez besoin de plus de capacité et de sauvegarde.",
-    "freeTitle": "Gratuite",
-    "freePrice": "0",
-    "freeItems": [
-      "Jusqu'à 5 éléments enregistrés par catégorie",
-      "Jusqu'à 2 fiches de profil",
-      "Copie en un instant et onglets par catégorie",
-      "Essai de 30 jours de toutes les fonctionnalités Pro"
-    ],
-    "proTitle": "Pro (achat unique)",
-    "proPrice": "Voir le prix sur la boutique",
-    "proItems": [
-      "Jusqu'à 200 éléments par catégorie",
-      "Jusqu'à 30 fiches de profil",
-      "Export et import JSON",
-      "Achat unique via Google Play / App Store"
-    ],
-    "note": "L'application est gratuite au téléchargement. Pro est un module complémentaire non consommable, acheté via votre boutique d'applications. Le prix peut varier selon les régions."
-  },
-  "privacySection": {
-    "title": "Vos données restent sur votre téléphone",
-    "text": "Les textes enregistrés, les fiches de profil et les réglages sont stockés uniquement sur votre appareil. Nous n'exploitons aucun service de synchronisation cloud et ne collectons pas le contenu de vos formules types.",
-    "link": "Lire la politique de confidentialité"
-  },
-  "cta": {
-    "title": "Et si vous arrêtiez de retaper le même texte sur votre téléphone ?",
-    "lead": "Téléchargez gratuitement et testez toutes les fonctionnalités Pro pendant 30 jours — voyez ce qui vous convient.",
-    "button": "Disponible sur Google Play"
-  },
-  "footer": {
-    "pcEdition": "MyQuickPaste (édition PC)",
-    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japon. Tous droits réservés.",
-    "developer": "Développeur : Kazuhiro Suda"
-  },
-  "supportPage": {
-    "title": "Assistance",
-    "lead": "Aide pour MyQuickPaste for Business (édition smartphone).",
-    "faqTitle": "Questions fréquentes",
-    "items": [
-      {
-        "q": "Est-ce la même application que MyQuickPaste pour Windows ?",
-        "a": "Non. MyQuickPaste for Business est l'édition smartphone. Elle partage la même philosophie, mais reste une application distincte, avec ses propres données et son propre achat en boutique."
-      },
-      {
-        "q": "Quelle est la différence entre la version Gratuite et la version Pro ?",
-        "a": "La version Gratuite permet jusqu'à 5 éléments par catégorie et 2 fiches de profil. Pro augmente ces capacités et débloque l'export et l'import JSON. Toute nouvelle installation bénéficie d'un essai de 30 jours de toutes les fonctionnalités Pro."
-      },
-      {
-        "q": "Comment fonctionne l'essai de 30 jours ?",
-        "a": "Toutes les fonctionnalités Pro sont disponibles pendant 30 jours à partir du premier lancement. Une fois l'essai terminé, vous pouvez continuer avec la version gratuite ou acheter Pro dans la boutique."
-      },
-      {
-        "q": "Où mes données sont-elles stockées ?",
-        "a": "Les textes enregistrés, les fiches de profil et les réglages sont stockés uniquement sur votre appareil."
-      },
-      {
-        "q": "Comment sauvegarder ou transférer mes données ?",
-        "a": "Les utilisateurs Pro peuvent exporter une sauvegarde JSON depuis les réglages, puis l'importer sur un autre appareil équipé de MyQuickPaste for Business."
-      },
-      {
-        "q": "Quand la version iPhone sera-t-elle disponible ?",
-        "a": "L'édition iOS est en préparation. Cette page sera mise à jour dès sa publication sur l'App Store."
-      },
-      {
-        "q": "Comment acheter Pro ?",
-        "a": "Ouvrez l'écran de mise à niveau dans l'application, ou la fiche du module Pro dans la boutique. La facturation est entièrement gérée par Google Play ou l'App Store."
-      }
-    ],
-    "contactTitle": "Contact",
-    "contactText": "Pour signaler un problème ou suggérer une fonctionnalité, écrivez-nous :",
-    "contactEmail": "myquickpaste@hotmail.com"
-  },
-  "privacyPage": {
-    "title": "Politique de confidentialité",
-    "lead": "MyQuickPaste for Business (édition smartphone)",
-    "updated": "Dernière mise à jour : juin 2026",
-    "sections": [
-      {
-        "h": "Présentation",
-        "p": "MyQuickPaste for Business est une application smartphone proposée par Good Rabbit inc. (« nous »). Cette politique décrit comment l'application traite les informations sur votre appareil."
-      },
-      {
-        "h": "Informations que nous ne collectons pas",
-        "p": "Nous ne collectons, ne transmettons ni ne stockons sur nos serveurs vos formules types, vos fiches de profil ou le contenu de votre presse-papiers. L'application est conçue pour conserver vos données sur votre appareil."
-      },
-      {
-        "h": "Stockage local",
-        "p": "Vos entrées, catégories, fiches de profil et réglages sont enregistrés dans l'espace privé de l'application sur votre smartphone. Les sauvegardes (export Pro) et la sécurité de l'appareil relèvent de votre responsabilité."
-      },
-      {
-        "h": "Boutiques d'applications et achats",
-        "p": "Les téléchargements, essais et achats Pro sont traités par Google Play ou l'App Store d'Apple. Le paiement et la vérification de licence sont soumis à la politique de confidentialité et aux conditions de chaque boutique."
-      },
-      {
-        "h": "Contact",
-        "p": "Pour toute question concernant cette politique, contactez-nous à myquickpaste@hotmail.com."
-      }
-    ]
-  },
-  "releaseNotesPage": {
-    "title": "Notes de version",
-    "lead": "Historique des versions de MyQuickPaste for Business.",
-    "latestPrefix": "Dernière version :",
-    "storeNote": "Les mises à jour sont diffusées via Google Play (et, à terme, via l'App Store).",
-    "entries": [
-      {
-        "version": "1.0.0",
-        "date": "2026",
-        "title": "Première publication (Android)",
-        "items": [
-          "Listes par catégorie : mot libre, formules types, e-mail, téléphone, adresse, profil",
-          "Copie en un instant et aperçu par appui long",
-          "Fiches de profil avec copie champ par champ",
-          "Mode réorganisation pour les listes et les profils",
-          "Version gratuite avec essai Pro de 30 jours",
-          "Export et import JSON (Pro)",
-          "Interface en 21 langues, thèmes clair et sombre",
-          "Réglages pour le retour de copie, la catégorie de démarrage et la sauvegarde des données"
-        ]
-      }
-    ]
-  },
-  "screenshots": {
-    "title": "L'application en images",
-    "subtitle": "Captures d'écran réelles de MyQuickPaste for Business sur Android.",
-    "freetextAlt": "Liste de mots libres avec phrases enregistrées et copie en un instant",
-    "snippetsAlt": "Catégorie des formules types avec modèles pour e-mails",
-    "profileAlt": "Fiches de profil pour les contacts Domicile et Travail",
-    "profileEditAlt": "Écran d'édition de profil avec champs d'adresse et de contact",
-    "cateAlt": "Six onglets de catégories : mot libre, formules types, e-mail, téléphone, adresse, profil",
-    "items": [
-      {
-        "caption": "Mot libre — signatures, URL et coordonnées bancaires en un coup d'œil"
-      },
-      {
-        "caption": "Formules types — réponses prêtes à l'emploi pour e-mails et messages"
-      },
-      {
-        "caption": "Profil — copiez l'adresse, le téléphone, ou tout en un seul appui"
-      },
-      {
-        "caption": "Édition de profil — séparez vos fiches Domicile, Travail et clients"
-      },
-      {
-        "caption": "Onglets de catégorie — passez instantanément d'une liste à l'autre"
-      }
-    ]
-  }
+    "meta":  {
+                 "lang":  "fr",
+                 "title":  "MyQuickPaste for Business — Édition smartphone",
+                 "description":  "Enregistrez les textes que vous utilisez souvent sur votre smartphone et copiez-les en un instant. MyQuickPaste for Business classe vos formules types, adresses, contacts et fiches de profil par catégorie."
+             },
+    "lang":  {
+                 "label":  "Langue"
+             },
+    "nav":  {
+                "home":  "Accueil",
+                "support":  "Assistance",
+                "releaseNotes":  "Notes de version",
+                "privacy":  "Confidentialité"
+            },
+    "brand":  {
+                  "name":  "MyQuickPaste for Business",
+                  "edition":  "Édition smartphone"
+              },
+    "hero":  {
+                 "badge":  "Pour Android et iPhone",
+                 "catch":  "Enregistrez vos textes du quotidien. Copiez-les en un instant.",
+                 "lead":  "Conçu pour celles et ceux qui retapent sans cesse les mêmes réponses, adresses, numéros de téléphone ou informations de profil. Classez-les par catégorie, appuyez sur une ligne, et collez-la dans un e-mail, une conversation ou n\u0027importe où ailleurs.",
+                 "platformLine":  "Disponible sur Android · iPhone et iPad bientôt disponibles",
+                 "trialTitle":  "30 jours d\u0027essai complet",
+                 "trialText":  "Pendant 30 jours après l\u0027installation, testez gratuitement toutes les fonctionnalités Pro.",
+                 "trust":  "Conservé sur votre appareil · 21 langues"
+             },
+    "stores":  {
+                   "googlePlay":  "Disponible sur Google Play",
+                   "appStore":  "App Store",
+                   "comingSoon":  "Bientôt disponible",
+                   "googlePlayBadgeAlt":  "Disponible sur Google Play",
+                   "appStoreBadgeAlt":  "Télécharger sur l\u0027App Store",
+                   "microsoftBadgeAlt":  "Obtenir sur Microsoft Store (MyQuickPaste pour Windows)"
+               },
+    "compare":  {
+                    "title":  "La famille MyQuickPaste",
+                    "subtitle":  "Une même idée — coller en un instant ce que vous utilisez souvent — pensée pour PC comme pour smartphone.",
+                    "pcTitle":  "MyQuickPaste (Windows)",
+                    "pcText":  "Une application Windows qui reste en bordure d\u0027écran et colle en un seul clic.",
+                    "pcLink":  "Site de l\u0027édition Windows",
+                    "mobileTitle":  "MyQuickPaste for Business (smartphone)",
+                    "mobileText":  "Des listes par catégorie et des fiches de profil pour vos textes essentiels. La version Pro ajoute la sauvegarde JSON.",
+                    "note":  "Les éditions PC et smartphone sont deux applications distinctes. Les achats et les données enregistrées ne sont pas partagés entre elles."
+                },
+    "problem":  {
+                    "title":  "Ça vous parle, sur mobile ?",
+                    "items":  [
+                                  "Chercher dans d\u0027anciennes conversations la même adresse ou le même numéro de téléphone",
+                                  "Retaper une signature ou une réponse type sur un petit clavier",
+                                  "Changer d\u0027application juste pour recopier une seule ligne de texte"
+                              ],
+                    "solution":  "Enregistrez-le une fois dans MyQuickPaste for Business, puis ouvrez l\u0027application et appuyez. Collez-le dans un e-mail, une conversation, une carte — partout où vous en avez besoin."
+                },
+    "clipboardCompare":  {
+                             "title":  "En quoi c\u0027est différent du presse-papiers Gboard",
+                             "subtitle":  "Pour un texte copié il y a un instant, Gboard reste le plus rapide. Pour les textes que vous utilisez chaque jour ou chaque semaine, cette application est mieux adaptée.",
+                             "clipboardTitle":  "Presse-papiers Gboard",
+                             "clipboardTag":  "Historique de copie récent",
+                             "clipboardItems":  [
+                                                    "Sélectionnez depuis le clavier et collez aussitôt — la méthode la plus rapide",
+                                                    "Enregistre automatiquement ce que vous venez de copier",
+                                                    "Les éléments non épinglés disparaissent après environ 5 entrées ou 1 heure",
+                                                    "Un historique mélangé, peu pratique pour ranger ses textes favoris"
+                                                ],
+                             "appTitle":  "MyQuickPaste for Business",
+                             "appTag":  "Le rayon de vos textes essentiels",
+                             "appItems":  [
+                                              "Enregistrez adresses, signatures et réponses types, chacune avec un nom",
+                                              "Six catégories : mot libre, formules types, e-mail, téléphone, adresse, profil",
+                                              "Les entrées restent tant que vous ne les supprimez pas — aucun historique qui s\u0027efface",
+                                              "Pensée pour retrouver et copier, encore et encore, les textes que vous utilisez le plus"
+                                          ],
+                             "footer":  "Copié il y a quelques heures ? Gboard fait très bien l\u0027affaire. Une adresse, une signature ou une réponse type que vous utilisez chaque semaine ? Enregistrez-la ici, et vous n\u0027aurez plus jamais à la chercher."
+                         },
+    "steps":  {
+                  "title":  "Comment ça marche",
+                  "subtitle":  "Enregistrer, appuyer, coller — en seulement 3 étapes.",
+                  "items":  [
+                                {
+                                    "title":  "Enregistrez par catégorie",
+                                    "text":  "Mot libre, formules types, e-mail, téléphone, adresse et fiches de profil — chacun dans son propre onglet, pour tout retrouver facilement."
+                                },
+                                {
+                                    "title":  "Copiez en un instant",
+                                    "text":  "Appuyez sur une ligne pour copier le texte entier. Restez appuyé pour un aperçu avant de copier."
+                                },
+                                {
+                                    "title":  "Collez partout",
+                                    "text":  "Passez à votre e-mail, votre messagerie, vos cartes, ou n\u0027importe quelle application — et collez aussitôt."
+                                }
+                            ]
+              },
+    "benefits":  {
+                     "title":  "Ce qui plaît le plus",
+                     "items":  [
+                                   {
+                                       "title":  "Facile à utiliser d\u0027une seule main",
+                                       "text":  "De grandes lignes, des onglets par catégorie et un affichage vertical — pensés pour choisir rapidement, même en déplacement.",
+                                       "icon":  "📱"
+                                   },
+                                   {
+                                       "title":  "Facile à parcourir",
+                                       "text":  "Plutôt qu\u0027une seule note interminable, gardez formules types, contacts et fiches de profil dans des listes séparées.",
+                                       "icon":  "🗂️"
+                                   },
+                                   {
+                                       "title":  "Conservé sur votre appareil",
+                                       "text":  "Vos formules types et vos contacts restent sur votre téléphone. Nous ne proposons aucune synchronisation dans le cloud.",
+                                       "icon":  "🔒"
+                                   }
+                               ]
+                 },
+    "features":  {
+                     "title":  "Fonctionnalités clés",
+                     "subtitle":  "Des fonctionnalités qui simplifient le copier-coller au quotidien sur votre téléphone.",
+                     "items":  [
+                                   {
+                                       "title":  "Onglets par catégorie",
+                                       "text":  "Mot libre, formules types, e-mail, téléphone, adresse, profil — changez d\u0027onglet pour accéder instantanément à la bonne liste.",
+                                       "icon":  "🏷️"
+                                   },
+                                   {
+                                       "title":  "Copie en un instant",
+                                       "text":  "Un seul appui copie le texte entier. Un retour vibratoire optionnel confirme la copie.",
+                                       "icon":  "👆"
+                                   },
+                                   {
+                                       "title":  "Aperçu par appui long",
+                                       "text":  "Avant de copier un texte long, prévisualisez le titre et le contenu par un simple appui long.",
+                                       "icon":  "👁️"
+                                   },
+                                   {
+                                       "title":  "Fiches de profil",
+                                       "text":  "Enregistrez vos coordonnées personnelles et professionnelles par blocs ; copiez chaque champ d\u0027un simple appui.",
+                                       "icon":  "🪪"
+                                   },
+                                   {
+                                       "title":  "Mode réorganisation",
+                                       "text":  "Restez appuyé sur un onglet pour réorganiser vos éléments et garder vos favoris en haut.",
+                                       "icon":  "↕️"
+                                   },
+                                   {
+                                       "title":  "Sauvegarde (Pro)",
+                                       "text":  "Exportez et importez vos données au format JSON pour changer d\u0027appareil ou pour les conserver en lieu sûr.",
+                                       "icon":  "💾"
+                                   },
+                                   {
+                                       "title":  "Interface en 21 langues",
+                                       "text":  "Utilisez l\u0027application en français, en japonais, et dans 19 autres langues.",
+                                       "icon":  "🌐"
+                                   },
+                                   {
+                                       "title":  "Thème clair et sombre",
+                                       "text":  "Suivez le thème du système, ou choisissez clair, sombre ou automatique dans les réglages.",
+                                       "icon":  "🌓"
+                                   }
+                               ],
+                     "categoriesLabel":  "Catégories",
+                     "categories":  [
+                                        "Mot libre",
+                                        "Formules types",
+                                        "E-mail",
+                                        "Téléphone",
+                                        "Adresse",
+                                        "Profil"
+                                    ]
+                 },
+    "usecases":  {
+                     "title":  "Idéal pour",
+                     "items":  [
+                                   {
+                                       "title":  "Équipes commerciales et itinérantes",
+                                       "text":  "Copiez adresses, numéros de téléphone et réponses types en un instant, directement chez vos clients."
+                                   },
+                                   {
+                                       "title":  "Support et administratif",
+                                       "text":  "Gardez vos réponses types et vos coordonnées toujours prêtes sur votre téléphone."
+                                   },
+                                   {
+                                       "title":  "Un usage personnel",
+                                       "text":  "Enregistrez votre adresse, votre signature e-mail et vos expressions favorites du quotidien."
+                                   }
+                               ]
+                 },
+    "pricing":  {
+                    "title":  "Tarifs",
+                    "subtitle":  "Commencez gratuitement. Passez à la version Pro quand vous avez besoin de plus de capacité et de sauvegarde.",
+                    "freeTitle":  "Gratuite",
+                    "freePrice":  "0",
+                    "freeItems":  [
+                                      "Jusqu\u0027à 5 éléments en texte libre",
+                                      "Jusqu\u0027à 1 fiche de profil",
+                                      "Formules types, e-mail, téléphone et adresse : consultation seule (utilisation avec Pro)",
+                                      "Copie en un tap, changement de catégorie",
+                                      "Essai de 30 jours de toutes les fonctionnalités Pro"
+                                  ],
+                    "proTitle":  "Pro (achat unique)",
+                    "proPrice":  "Voir le prix sur la boutique",
+                    "proItems":  [
+                                     "Jusqu\u0027à 200 éléments par catégorie",
+                                     "Jusqu\u0027à 30 fiches de profil",
+                                     "Export et import JSON",
+                                     "Achat unique via Google Play / App Store"
+                                 ],
+                    "note":  "L\u0027application est gratuite au téléchargement. Pro est un module complémentaire non consommable, acheté via votre boutique d\u0027applications. Le prix peut varier selon les régions."
+                },
+    "privacySection":  {
+                           "title":  "Vos données restent sur votre téléphone",
+                           "text":  "Les textes enregistrés, les fiches de profil et les réglages sont stockés uniquement sur votre appareil. Nous n\u0027exploitons aucun service de synchronisation cloud et ne collectons pas le contenu de vos formules types.",
+                           "link":  "Lire la politique de confidentialité"
+                       },
+    "cta":  {
+                "title":  "Et si vous arrêtiez de retaper le même texte sur votre téléphone ?",
+                "lead":  "Téléchargez gratuitement et testez toutes les fonctionnalités Pro pendant 30 jours — voyez ce qui vous convient.",
+                "button":  "Disponible sur Google Play"
+            },
+    "footer":  {
+                   "pcEdition":  "MyQuickPaste (édition PC)",
+                   "copyright":  "Copyright © 2025–2026 Good Rabbit inc., Japon. Tous droits réservés.",
+                   "developer":  "Développeur : Kazuhiro Suda"
+               },
+    "supportPage":  {
+                        "title":  "Assistance",
+                        "lead":  "Aide pour MyQuickPaste for Business (édition smartphone).",
+                        "faqTitle":  "Questions fréquentes",
+                        "items":  [
+                                      {
+                                          "q":  "Est-ce la même application que MyQuickPaste pour Windows ?",
+                                          "a":  "Non. MyQuickPaste for Business est l\u0027édition smartphone. Elle partage la même philosophie, mais reste une application distincte, avec ses propres données et son propre achat en boutique."
+                                      },
+                                      {
+                                          "q":  "Quelle est la différence entre la version Gratuite et la version Pro ?",
+                                          "a":  "La version Gratuite permet jusqu\u0027à 5 éléments en texte libre et 1 fiche de profil à copier et modifier. Vous pouvez consulter Formules types, E-mail, Téléphone et Adresse, mais leur utilisation nécessite Pro. Pro débloque toutes les catégories, augmente la capacité et ajoute l\u0027export/import JSON. Toute nouvelle installation bénéficie d\u0027un essai de 30 jours de toutes les fonctionnalités Pro."
+                                      },
+                                      {
+                                          "q":  "Comment fonctionne l\u0027essai de 30 jours ?",
+                                          "a":  "Toutes les fonctionnalités Pro sont disponibles pendant 30 jours à partir du premier lancement. Une fois l\u0027essai terminé, vous pouvez continuer avec la version gratuite ou acheter Pro dans la boutique."
+                                      },
+                                      {
+                                          "q":  "Où mes données sont-elles stockées ?",
+                                          "a":  "Les textes enregistrés, les fiches de profil et les réglages sont stockés uniquement sur votre appareil."
+                                      },
+                                      {
+                                          "q":  "Comment sauvegarder ou transférer mes données ?",
+                                          "a":  "Les utilisateurs Pro peuvent exporter une sauvegarde JSON depuis les réglages, puis l\u0027importer sur un autre appareil équipé de MyQuickPaste for Business."
+                                      },
+                                      {
+                                          "q":  "Quand la version iPhone sera-t-elle disponible ?",
+                                          "a":  "L\u0027édition iOS est en préparation. Cette page sera mise à jour dès sa publication sur l\u0027App Store."
+                                      },
+                                      {
+                                          "q":  "Comment acheter Pro ?",
+                                          "a":  "Ouvrez l\u0027écran de mise à niveau dans l\u0027application, ou la fiche du module Pro dans la boutique. La facturation est entièrement gérée par Google Play ou l\u0027App Store."
+                                      }
+                                  ],
+                        "contactTitle":  "Contact",
+                        "contactText":  "Pour signaler un problème ou suggérer une fonctionnalité, écrivez-nous :",
+                        "contactEmail":  "myquickpaste@hotmail.com"
+                    },
+    "privacyPage":  {
+                        "title":  "Politique de confidentialité",
+                        "lead":  "MyQuickPaste for Business (édition smartphone)",
+                        "updated":  "Dernière mise à jour : juin 2026",
+                        "sections":  [
+                                         {
+                                             "h":  "Présentation",
+                                             "p":  "MyQuickPaste for Business est une application smartphone proposée par Good Rabbit inc. (« nous »). Cette politique décrit comment l\u0027application traite les informations sur votre appareil."
+                                         },
+                                         {
+                                             "h":  "Informations que nous ne collectons pas",
+                                             "p":  "Nous ne collectons, ne transmettons ni ne stockons sur nos serveurs vos formules types, vos fiches de profil ou le contenu de votre presse-papiers. L\u0027application est conçue pour conserver vos données sur votre appareil."
+                                         },
+                                         {
+                                             "h":  "Stockage local",
+                                             "p":  "Vos entrées, catégories, fiches de profil et réglages sont enregistrés dans l\u0027espace privé de l\u0027application sur votre smartphone. Les sauvegardes (export Pro) et la sécurité de l\u0027appareil relèvent de votre responsabilité."
+                                         },
+                                         {
+                                             "h":  "Boutiques d\u0027applications et achats",
+                                             "p":  "Les téléchargements, essais et achats Pro sont traités par Google Play ou l\u0027App Store d\u0027Apple. Le paiement et la vérification de licence sont soumis à la politique de confidentialité et aux conditions de chaque boutique."
+                                         },
+                                         {
+                                             "h":  "Contact",
+                                             "p":  "Pour toute question concernant cette politique, contactez-nous à myquickpaste@hotmail.com."
+                                         }
+                                     ]
+                    },
+    "releaseNotesPage":  {
+                             "title":  "Notes de version",
+                             "lead":  "Historique des versions de MyQuickPaste for Business.",
+                             "latestPrefix":  "Dernière version :",
+                             "storeNote":  "Les mises à jour sont diffusées via Google Play (et, à terme, via l\u0027App Store).",
+                             "entries":  [
+                                             {
+                                                 "version":  "1.0.0",
+                                                 "date":  "2026",
+                                                 "title":  "Première publication (Android)",
+                                                 "items":  [
+                                                               "Listes par catégorie : mot libre, formules types, e-mail, téléphone, adresse, profil",
+                                                               "Copie en un instant et aperçu par appui long",
+                                                               "Fiches de profil avec copie champ par champ",
+                                                               "Mode réorganisation pour les listes et les profils",
+                                                               "Version gratuite avec essai Pro de 30 jours",
+                                                               "Export et import JSON (Pro)",
+                                                               "Interface en 21 langues, thèmes clair et sombre",
+                                                               "Réglages pour le retour de copie, la catégorie de démarrage et la sauvegarde des données"
+                                                           ]
+                                             }
+                                         ]
+                         },
+    "screenshots":  {
+                        "title":  "L\u0027application en images",
+                        "subtitle":  "Captures d\u0027écran réelles de MyQuickPaste for Business sur Android.",
+                        "freetextAlt":  "Liste de mots libres avec phrases enregistrées et copie en un instant",
+                        "snippetsAlt":  "Catégorie des formules types avec modèles pour e-mails",
+                        "profileAlt":  "Fiches de profil pour les contacts Domicile et Travail",
+                        "profileEditAlt":  "Écran d\u0027édition de profil avec champs d\u0027adresse et de contact",
+                        "cateAlt":  "Six onglets de catégories : mot libre, formules types, e-mail, téléphone, adresse, profil",
+                        "items":  [
+                                      {
+                                          "caption":  "Mot libre — signatures, URL et coordonnées bancaires en un coup d\u0027œil"
+                                      },
+                                      {
+                                          "caption":  "Formules types — réponses prêtes à l\u0027emploi pour e-mails et messages"
+                                      },
+                                      {
+                                          "caption":  "Profil — copiez l\u0027adresse, le téléphone, ou tout en un seul appui"
+                                      },
+                                      {
+                                          "caption":  "Édition de profil — séparez vos fiches Domicile, Travail et clients"
+                                      },
+                                      {
+                                          "caption":  "Onglets de catégorie — passez instantanément d\u0027une liste à l\u0027autre"
+                                      }
+                                  ]
+                    }
 }

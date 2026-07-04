@@ -1,337 +1,338 @@
 {
-  "meta": {
-    "lang": "nl",
-    "title": "MyQuickPaste for Business — Smartphone-editie",
-    "description": "Bewaar veelgebruikte tekst op je smartphone en kopieer die met één tik. MyQuickPaste for Business ordent standaardteksten, adressen, contacten en profielkaarten per categorie."
-  },
-  "lang": {
-    "label": "Taal"
-  },
-  "nav": {
-    "home": "Home",
-    "support": "Ondersteuning",
-    "releaseNotes": "Release-opmerkingen",
-    "privacy": "Privacy"
-  },
-  "brand": {
-    "name": "MyQuickPaste for Business",
-    "edition": "Smartphone-editie"
-  },
-  "hero": {
-    "badge": "Voor Android en iPhone",
-    "catch": "Bewaar wat je vaak gebruikt. Kopieer het met één tik.",
-    "lead": "Gemaakt voor iedereen die steeds dezelfde antwoorden, adressen, telefoonnummers of profielgegevens opnieuw intypt. Sorteer alles per categorie, tik op een regel en plak het in e-mail, chat of waar dan ook.",
-    "platformLine": "Beschikbaar voor Android · iPhone en iPad volgen binnenkort",
-    "trialTitle": "30 dagen alle functies uitproberen",
-    "trialText": "Gedurende 30 dagen na installatie kun je alle Pro-functies gratis uitproberen.",
-    "trust": "Blijft op je toestel · 21 talen"
-  },
-  "stores": {
-    "googlePlay": "Beschikbaar op Google Play",
-    "appStore": "App Store",
-    "comingSoon": "Binnenkort beschikbaar",
-    "googlePlayBadgeAlt": "Beschikbaar op Google Play",
-    "appStoreBadgeAlt": "Downloaden in de App Store",
-    "microsoftBadgeAlt": "Downloaden via Microsoft Store (MyQuickPaste voor Windows)"
-  },
-  "compare": {
-    "title": "De MyQuickPaste-familie",
-    "subtitle": "Hetzelfde idee — in een oogwenk plakken wat je vaak gebruikt — speciaal gemaakt voor zowel pc als smartphone.",
-    "pcTitle": "MyQuickPaste (Windows)",
-    "pcText": "Een Windows-app die altijd aan de rand van je scherm klaarstaat en met één klik plakt.",
-    "pcLink": "Website van de Windows-editie",
-    "mobileTitle": "MyQuickPaste for Business (smartphone)",
-    "mobileText": "Categorielijsten en profielkaarten voor je belangrijkste teksten. Pro voegt back-up in JSON toe.",
-    "note": "De pc- en smartphone-editie zijn twee aparte apps. Aankopen en opgeslagen gegevens worden niet tussen beide gedeeld."
-  },
-  "problem": {
-    "title": "Herkenbaar, op je telefoon?",
-    "items": [
-      "Telkens weer in oude chats of notities zoeken naar hetzelfde adres of telefoonnummer",
-      "Steeds opnieuw een handtekening of standaardantwoord intypen op het kleine schermtoetsenbord",
-      "Van app wisselen alleen om nog een keer één regel tekst te kopiëren"
-    ],
-    "solution": "Sla het één keer op in MyQuickPaste for Business en open daarna gewoon de app en tik. Plak het in e-mail, chat, kaarten — overal waar je het nodig hebt."
-  },
-  "clipboardCompare": {
-    "title": "Het verschil met het klembord van Gboard",
-    "subtitle": "Voor iets dat je net hebt gekopieerd, blijft Gboard sneller. Voor teksten die je elke dag of elke week nodig hebt, is deze app praktischer.",
-    "clipboardTitle": "Klembord van Gboard",
-    "clipboardTag": "Recente kopieergeschiedenis",
-    "clipboardItems": [
-      "Kies vanuit het toetsenbord en plak meteen — de snelste manier",
-      "Onthoudt automatisch wat je onlangs hebt gekopieerd",
-      "Niet-vastgezette items verdwijnen na ongeveer 5 stuks of na zo'n 1 uur",
-      "Een gemengde geschiedenis, minder geschikt om favoriete teksten netjes te bewaren"
-    ],
-    "appTitle": "MyQuickPaste for Business",
-    "appTag": "Een vaste plek voor je standaardteksten",
-    "appItems": [
-      "Bewaar adressen, handtekeningen en standaardantwoorden onder een eigen naam",
-      "Zes categorieën: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
-      "Items blijven bewaard tot je ze zelf verwijdert, zonder dat ze automatisch verdwijnen",
-      "Gemaakt om teksten die je vaak gebruikt steeds weer snel terug te vinden en te kopiëren"
-    ],
-    "footer": "Net een paar uur geleden gekopieerd? Dan is Gboard prima. Maar een adres, handtekening of standaardantwoord dat je elke week gebruikt? Sla het hier één keer op en je hoeft nooit meer te zoeken."
-  },
-  "steps": {
-    "title": "Zo werkt het",
-    "subtitle": "Opslaan, tikken, plakken — in slechts 3 stappen.",
-    "items": [
-      {
-        "title": "Sla op per categorie",
-        "text": "Vrije tekst, standaardteksten, e-mail, telefoon, adres en profielkaarten — elk in een eigen tabblad, zodat je alles makkelijk terugvindt."
-      },
-      {
-        "title": "Kopieer met één tik",
-        "text": "Tik op een regel om de hele tekst te kopiëren. Houd ingedrukt voor een voorbeeld voordat je kopieert."
-      },
-      {
-        "title": "Plak overal",
-        "text": "Schakel over naar e-mail, chat, kaarten of een andere app, en plak meteen."
-      }
-    ]
-  },
-  "benefits": {
-    "title": "Wat gebruikers vooral waarderen",
-    "items": [
-      {
-        "title": "Makkelijk met één hand",
-        "text": "Grote rijen, categorietabbladen en een verticale indeling — zo kies je ook onderweg snel wat je nodig hebt.",
-        "icon": "📱"
-      },
-      {
-        "title": "Alles makkelijk terugvinden",
-        "text": "In plaats van één eindeloze notitie houd je standaardteksten, contacten en profielkaarten in aparte lijsten.",
-        "icon": "🗂️"
-      },
-      {
-        "title": "Opgeslagen op je toestel",
-        "text": "Je standaardteksten en contacten blijven op je telefoon. Wij bieden geen cloudsynchronisatie aan.",
-        "icon": "🔒"
-      }
-    ]
-  },
-  "features": {
-    "title": "Belangrijkste functies",
-    "subtitle": "Functies die dagelijks kopiëren en plakken op je telefoon makkelijker maken.",
-    "items": [
-      {
-        "title": "Categorietabbladen",
-        "text": "Vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel — wissel van tabblad en je staat meteen bij de juiste lijst.",
-        "icon": "🏷️"
-      },
-      {
-        "title": "Kopiëren met één tik",
-        "text": "Eén tik kopieert de volledige inhoud. Optionele trilfeedback bevestigt dat er is gekopieerd.",
-        "icon": "👆"
-      },
-      {
-        "title": "Voorbeeld bij lang indrukken",
-        "text": "Bekijk voordat je een lange tekst kopieert eerst de titel en inhoud met een lange druk.",
-        "icon": "👁️"
-      },
-      {
-        "title": "Profielkaarten",
-        "text": "Bewaar privé- en werkcontacten als kaart; kopieer elk veld apart met één tik.",
-        "icon": "🪪"
-      },
-      {
-        "title": "Volgorde aanpassen",
-        "text": "Houd een categorietabblad ingedrukt om items opnieuw te ordenen en favorieten bovenaan te zetten.",
-        "icon": "↕️"
-      },
-      {
-        "title": "Back-up (Pro)",
-        "text": "Exporteer en importeer je gegevens als JSON, handig bij het overzetten naar een nieuw toestel of als extra bewaarkopie.",
-        "icon": "💾"
-      },
-      {
-        "title": "Interface in 21 talen",
-        "text": "Gebruik de app in het Nederlands, Japans en 19 andere talen.",
-        "icon": "🌐"
-      },
-      {
-        "title": "Licht en donker thema",
-        "text": "Volg het systeemthema of kies zelf voor licht, donker of automatisch in de instellingen.",
-        "icon": "🌓"
-      }
-    ],
-    "categoriesLabel": "6 categorieën",
-    "categories": [
-      "Vrije tekst",
-      "Standaardteksten",
-      "E-mail",
-      "Telefoon",
-      "Adres",
-      "Profiel"
-    ]
-  },
-  "usecases": {
-    "title": "Ideaal voor",
-    "items": [
-      {
-        "title": "Verkoop en buitendienst",
-        "text": "Kopieer adressen, telefoonnummers en standaardantwoorden meteen tijdens een klantbezoek."
-      },
-      {
-        "title": "Administratie en klantenservice",
-        "text": "Houd standaardantwoorden en contactgegevens altijd bij de hand op je telefoon."
-      },
-      {
-        "title": "Persoonlijk gebruik",
-        "text": "Bewaar je thuisadres, e-mailhandtekening en veelgebruikte zinnen voor dagelijks gebruik."
-      }
-    ]
-  },
-  "pricing": {
-    "title": "Prijzen",
-    "subtitle": "Begin gratis. Upgrade naar Pro zodra je meer ruimte en back-up nodig hebt.",
-    "freeTitle": "Gratis",
-    "freePrice": "0",
-    "freeItems": [
-      "Tot 5 opgeslagen items per categorie",
-      "Tot 2 profielkaarten",
-      "Kopiëren met één tik, categorietabbladen",
-      "30 dagen proberen van alle Pro-functies"
-    ],
-    "proTitle": "Pro (eenmalige aankoop)",
-    "proPrice": "Prijs zie je in de store",
-    "proItems": [
-      "Tot 200 items per categorie",
-      "Tot 30 profielkaarten",
-      "JSON-export en -import",
-      "Eenmalige aankoop via Google Play / App Store"
-    ],
-    "note": "De app is gratis te downloaden. Pro is een niet-verbruikbare add-on die je via de appstore aanschaft; de prijs kan per regio verschillen."
-  },
-  "privacySection": {
-    "title": "Je gegevens blijven op je telefoon",
-    "text": "Opgeslagen teksten, profielkaarten en instellingen worden alleen op je toestel bewaard. Wij bieden geen cloudsynchronisatie aan en verzamelen de inhoud van je standaardteksten niet.",
-    "link": "Lees het privacybeleid"
-  },
-  "cta": {
-    "title": "Tijd om te stoppen met steeds dezelfde tekst intypen op je telefoon?",
-    "lead": "Download gratis en probeer 30 dagen lang alle Pro-functies — ontdek wat het beste bij je past.",
-    "button": "Beschikbaar op Google Play"
-  },
-  "footer": {
-    "pcEdition": "MyQuickPaste (pc-editie)",
-    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Alle rechten voorbehouden.",
-    "developer": "Ontwikkelaar: Kazuhiro Suda"
-  },
-  "supportPage": {
-    "title": "Ondersteuning",
-    "lead": "Hulp bij MyQuickPaste for Business (smartphone-editie).",
-    "faqTitle": "Veelgestelde vragen",
-    "items": [
-      {
-        "q": "Is dit dezelfde app als MyQuickPaste voor Windows?",
-        "a": "Nee. MyQuickPaste for Business is de smartphone-editie. Ze delen dezelfde filosofie, maar het is een aparte app met eigen gegevens en een eigen aankoop in de store."
-      },
-      {
-        "q": "Wat is het verschil tussen de gratis versie en Pro?",
-        "a": "De gratis versie biedt tot 5 items per categorie en 2 profielkaarten. Pro verruimt deze limieten en ontgrendelt JSON-export en -import. Elke nieuwe installatie krijgt 30 dagen om alle Pro-functies uit te proberen."
-      },
-      {
-        "q": "Hoe werkt de proefperiode van 30 dagen?",
-        "a": "Vanaf de eerste keer opstarten zijn alle Pro-functies 30 dagen beschikbaar. Daarna kun je verder gaan met de gratis versie of Pro kopen in de store."
-      },
-      {
-        "q": "Waar worden mijn gegevens opgeslagen?",
-        "a": "Opgeslagen teksten, profielkaarten en instellingen worden alleen op je toestel bewaard."
-      },
-      {
-        "q": "Hoe maak ik een back-up of zet ik gegevens over?",
-        "a": "Pro-gebruikers kunnen vanuit de instellingen een JSON-back-up exporteren en die op een ander toestel met MyQuickPaste for Business importeren."
-      },
-      {
-        "q": "Wanneer komt de iPhone-versie beschikbaar?",
-        "a": "De iOS-editie wordt momenteel voorbereid. Deze pagina wordt bijgewerkt zodra deze in de App Store verschijnt."
-      },
-      {
-        "q": "Hoe koop ik Pro?",
-        "a": "Open het upgradescherm in de app of de Pro-add-on in de store. De betaling wordt volledig afgehandeld door Google Play of de App Store."
-      }
-    ],
-    "contactTitle": "Contact",
-    "contactText": "Voor bugmeldingen en functiesuggesties mail je naar:",
-    "contactEmail": "myquickpaste@hotmail.com"
-  },
-  "privacyPage": {
-    "title": "Privacybeleid",
-    "lead": "MyQuickPaste for Business (smartphone-editie)",
-    "updated": "Laatst bijgewerkt: juni 2026",
-    "sections": [
-      {
-        "h": "Overzicht",
-        "p": "MyQuickPaste for Business is een smartphone-app van Good Rabbit inc. (\"wij\"). Dit beleid beschrijft hoe de app informatie op je toestel verwerkt."
-      },
-      {
-        "h": "Informatie die wij niet verzamelen",
-        "p": "Wij verzamelen, verzenden of bewaren je opgeslagen standaardteksten, profielkaarten of klembordinhoud niet op onze servers. De app is ontworpen om je gegevens op je toestel te houden."
-      },
-      {
-        "h": "Lokale opslag",
-        "p": "Je items, categorieën, profielkaarten en app-instellingen worden bewaard in het privéopslaggebied van de app op je smartphone. Back-ups (Pro-export) en de beveiliging van het toestel zijn jouw eigen verantwoordelijkheid."
-      },
-      {
-        "h": "Appstores en aankopen",
-        "p": "Downloads, proefperiodes en Pro-aankopen worden verwerkt door Google Play of de Apple App Store. Betaling en licentiecontrole vallen onder het privacybeleid en de voorwaarden van de betreffende store."
-      },
-      {
-        "h": "Contact",
-        "p": "Voor vragen over dit beleid kun je mailen naar myquickpaste@hotmail.com."
-      }
-    ]
-  },
-  "releaseNotesPage": {
-    "title": "Release-opmerkingen",
-    "lead": "Versiegeschiedenis van MyQuickPaste for Business.",
-    "latestPrefix": "Nieuwste versie:",
-    "storeNote": "Updates worden verspreid via Google Play (en, zodra beschikbaar, ook via de App Store).",
-    "entries": [
-      {
-        "version": "1.0.0",
-        "date": "2026",
-        "title": "Eerste release (Android)",
-        "items": [
-          "Categorielijsten: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
-          "Kopiëren met één tik en voorbeeld bij lang indrukken",
-          "Profielkaarten met kopiëren per veld",
-          "Volgorde aanpassen voor lijsten en profielen",
-          "Gratis versie met 30 dagen Pro-proefperiode",
-          "JSON-export/-import (Pro)",
-          "Interface in 21 talen, licht en donker thema",
-          "Instellingen voor kopieerfeedback, startcategorie en gegevensback-up"
-        ]
-      }
-    ]
-  },
-  "screenshots": {
-    "title": "De app in beeld",
-    "subtitle": "Echte schermafbeeldingen van MyQuickPaste for Business op Android.",
-    "freetextAlt": "Lijst met vrije tekst met opgeslagen zinnen en kopiëren met één tik",
-    "snippetsAlt": "Categorie standaardteksten met sjablonen voor e-mail",
-    "profileAlt": "Profielkaarten voor thuis- en werkcontacten",
-    "profileEditAlt": "Scherm voor profiel bewerken met adres- en contactvelden",
-    "cateAlt": "Zes categorietabbladen: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
-    "items": [
-      {
-        "caption": "Vrije tekst — handtekeningen, URL's en accountgegevens in één oogopslag"
-      },
-      {
-        "caption": "Standaardteksten — kant-en-klare antwoorden voor e-mail en chat"
-      },
-      {
-        "caption": "Profiel — kopieer adres, telefoonnummer of alles met één tik"
-      },
-      {
-        "caption": "Profiel bewerken — aparte kaarten voor thuis, werk en klanten"
-      },
-      {
-        "caption": "Categorietabbladen — direct wisselen tussen zes lijsten"
-      }
-    ]
-  }
+    "meta":  {
+                 "lang":  "nl",
+                 "title":  "MyQuickPaste for Business — Smartphone-editie",
+                 "description":  "Bewaar veelgebruikte tekst op je smartphone en kopieer die met één tik. MyQuickPaste for Business ordent standaardteksten, adressen, contacten en profielkaarten per categorie."
+             },
+    "lang":  {
+                 "label":  "Taal"
+             },
+    "nav":  {
+                "home":  "Home",
+                "support":  "Ondersteuning",
+                "releaseNotes":  "Release-opmerkingen",
+                "privacy":  "Privacy"
+            },
+    "brand":  {
+                  "name":  "MyQuickPaste for Business",
+                  "edition":  "Smartphone-editie"
+              },
+    "hero":  {
+                 "badge":  "Voor Android en iPhone",
+                 "catch":  "Bewaar wat je vaak gebruikt. Kopieer het met één tik.",
+                 "lead":  "Gemaakt voor iedereen die steeds dezelfde antwoorden, adressen, telefoonnummers of profielgegevens opnieuw intypt. Sorteer alles per categorie, tik op een regel en plak het in e-mail, chat of waar dan ook.",
+                 "platformLine":  "Beschikbaar voor Android · iPhone en iPad volgen binnenkort",
+                 "trialTitle":  "30 dagen alle functies uitproberen",
+                 "trialText":  "Gedurende 30 dagen na installatie kun je alle Pro-functies gratis uitproberen.",
+                 "trust":  "Blijft op je toestel · 21 talen"
+             },
+    "stores":  {
+                   "googlePlay":  "Beschikbaar op Google Play",
+                   "appStore":  "App Store",
+                   "comingSoon":  "Binnenkort beschikbaar",
+                   "googlePlayBadgeAlt":  "Beschikbaar op Google Play",
+                   "appStoreBadgeAlt":  "Downloaden in de App Store",
+                   "microsoftBadgeAlt":  "Downloaden via Microsoft Store (MyQuickPaste voor Windows)"
+               },
+    "compare":  {
+                    "title":  "De MyQuickPaste-familie",
+                    "subtitle":  "Hetzelfde idee — in een oogwenk plakken wat je vaak gebruikt — speciaal gemaakt voor zowel pc als smartphone.",
+                    "pcTitle":  "MyQuickPaste (Windows)",
+                    "pcText":  "Een Windows-app die altijd aan de rand van je scherm klaarstaat en met één klik plakt.",
+                    "pcLink":  "Website van de Windows-editie",
+                    "mobileTitle":  "MyQuickPaste for Business (smartphone)",
+                    "mobileText":  "Categorielijsten en profielkaarten voor je belangrijkste teksten. Pro voegt back-up in JSON toe.",
+                    "note":  "De pc- en smartphone-editie zijn twee aparte apps. Aankopen en opgeslagen gegevens worden niet tussen beide gedeeld."
+                },
+    "problem":  {
+                    "title":  "Herkenbaar, op je telefoon?",
+                    "items":  [
+                                  "Telkens weer in oude chats of notities zoeken naar hetzelfde adres of telefoonnummer",
+                                  "Steeds opnieuw een handtekening of standaardantwoord intypen op het kleine schermtoetsenbord",
+                                  "Van app wisselen alleen om nog een keer één regel tekst te kopiëren"
+                              ],
+                    "solution":  "Sla het één keer op in MyQuickPaste for Business en open daarna gewoon de app en tik. Plak het in e-mail, chat, kaarten — overal waar je het nodig hebt."
+                },
+    "clipboardCompare":  {
+                             "title":  "Het verschil met het klembord van Gboard",
+                             "subtitle":  "Voor iets dat je net hebt gekopieerd, blijft Gboard sneller. Voor teksten die je elke dag of elke week nodig hebt, is deze app praktischer.",
+                             "clipboardTitle":  "Klembord van Gboard",
+                             "clipboardTag":  "Recente kopieergeschiedenis",
+                             "clipboardItems":  [
+                                                    "Kies vanuit het toetsenbord en plak meteen — de snelste manier",
+                                                    "Onthoudt automatisch wat je onlangs hebt gekopieerd",
+                                                    "Niet-vastgezette items verdwijnen na ongeveer 5 stuks of na zo\u0027n 1 uur",
+                                                    "Een gemengde geschiedenis, minder geschikt om favoriete teksten netjes te bewaren"
+                                                ],
+                             "appTitle":  "MyQuickPaste for Business",
+                             "appTag":  "Een vaste plek voor je standaardteksten",
+                             "appItems":  [
+                                              "Bewaar adressen, handtekeningen en standaardantwoorden onder een eigen naam",
+                                              "Zes categorieën: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+                                              "Items blijven bewaard tot je ze zelf verwijdert, zonder dat ze automatisch verdwijnen",
+                                              "Gemaakt om teksten die je vaak gebruikt steeds weer snel terug te vinden en te kopiëren"
+                                          ],
+                             "footer":  "Net een paar uur geleden gekopieerd? Dan is Gboard prima. Maar een adres, handtekening of standaardantwoord dat je elke week gebruikt? Sla het hier één keer op en je hoeft nooit meer te zoeken."
+                         },
+    "steps":  {
+                  "title":  "Zo werkt het",
+                  "subtitle":  "Opslaan, tikken, plakken — in slechts 3 stappen.",
+                  "items":  [
+                                {
+                                    "title":  "Sla op per categorie",
+                                    "text":  "Vrije tekst, standaardteksten, e-mail, telefoon, adres en profielkaarten — elk in een eigen tabblad, zodat je alles makkelijk terugvindt."
+                                },
+                                {
+                                    "title":  "Kopieer met één tik",
+                                    "text":  "Tik op een regel om de hele tekst te kopiëren. Houd ingedrukt voor een voorbeeld voordat je kopieert."
+                                },
+                                {
+                                    "title":  "Plak overal",
+                                    "text":  "Schakel over naar e-mail, chat, kaarten of een andere app, en plak meteen."
+                                }
+                            ]
+              },
+    "benefits":  {
+                     "title":  "Wat gebruikers vooral waarderen",
+                     "items":  [
+                                   {
+                                       "title":  "Makkelijk met één hand",
+                                       "text":  "Grote rijen, categorietabbladen en een verticale indeling — zo kies je ook onderweg snel wat je nodig hebt.",
+                                       "icon":  "📱"
+                                   },
+                                   {
+                                       "title":  "Alles makkelijk terugvinden",
+                                       "text":  "In plaats van één eindeloze notitie houd je standaardteksten, contacten en profielkaarten in aparte lijsten.",
+                                       "icon":  "🗂️"
+                                   },
+                                   {
+                                       "title":  "Opgeslagen op je toestel",
+                                       "text":  "Je standaardteksten en contacten blijven op je telefoon. Wij bieden geen cloudsynchronisatie aan.",
+                                       "icon":  "🔒"
+                                   }
+                               ]
+                 },
+    "features":  {
+                     "title":  "Belangrijkste functies",
+                     "subtitle":  "Functies die dagelijks kopiëren en plakken op je telefoon makkelijker maken.",
+                     "items":  [
+                                   {
+                                       "title":  "Categorietabbladen",
+                                       "text":  "Vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel — wissel van tabblad en je staat meteen bij de juiste lijst.",
+                                       "icon":  "🏷️"
+                                   },
+                                   {
+                                       "title":  "Kopiëren met één tik",
+                                       "text":  "Eén tik kopieert de volledige inhoud. Optionele trilfeedback bevestigt dat er is gekopieerd.",
+                                       "icon":  "👆"
+                                   },
+                                   {
+                                       "title":  "Voorbeeld bij lang indrukken",
+                                       "text":  "Bekijk voordat je een lange tekst kopieert eerst de titel en inhoud met een lange druk.",
+                                       "icon":  "👁️"
+                                   },
+                                   {
+                                       "title":  "Profielkaarten",
+                                       "text":  "Bewaar privé- en werkcontacten als kaart; kopieer elk veld apart met één tik.",
+                                       "icon":  "🪪"
+                                   },
+                                   {
+                                       "title":  "Volgorde aanpassen",
+                                       "text":  "Houd een categorietabblad ingedrukt om items opnieuw te ordenen en favorieten bovenaan te zetten.",
+                                       "icon":  "↕️"
+                                   },
+                                   {
+                                       "title":  "Back-up (Pro)",
+                                       "text":  "Exporteer en importeer je gegevens als JSON, handig bij het overzetten naar een nieuw toestel of als extra bewaarkopie.",
+                                       "icon":  "💾"
+                                   },
+                                   {
+                                       "title":  "Interface in 21 talen",
+                                       "text":  "Gebruik de app in het Nederlands, Japans en 19 andere talen.",
+                                       "icon":  "🌐"
+                                   },
+                                   {
+                                       "title":  "Licht en donker thema",
+                                       "text":  "Volg het systeemthema of kies zelf voor licht, donker of automatisch in de instellingen.",
+                                       "icon":  "🌓"
+                                   }
+                               ],
+                     "categoriesLabel":  "6 categorieën",
+                     "categories":  [
+                                        "Vrije tekst",
+                                        "Standaardteksten",
+                                        "E-mail",
+                                        "Telefoon",
+                                        "Adres",
+                                        "Profiel"
+                                    ]
+                 },
+    "usecases":  {
+                     "title":  "Ideaal voor",
+                     "items":  [
+                                   {
+                                       "title":  "Verkoop en buitendienst",
+                                       "text":  "Kopieer adressen, telefoonnummers en standaardantwoorden meteen tijdens een klantbezoek."
+                                   },
+                                   {
+                                       "title":  "Administratie en klantenservice",
+                                       "text":  "Houd standaardantwoorden en contactgegevens altijd bij de hand op je telefoon."
+                                   },
+                                   {
+                                       "title":  "Persoonlijk gebruik",
+                                       "text":  "Bewaar je thuisadres, e-mailhandtekening en veelgebruikte zinnen voor dagelijks gebruik."
+                                   }
+                               ]
+                 },
+    "pricing":  {
+                    "title":  "Prijzen",
+                    "subtitle":  "Begin gratis. Upgrade naar Pro zodra je meer ruimte en back-up nodig hebt.",
+                    "freeTitle":  "Gratis",
+                    "freePrice":  "0",
+                    "freeItems":  [
+                                      "Tot 5 vrije-tekstitems",
+                                      "Tot 1 profielkaart",
+                                      "Sjablonen, e-mail, telefoon en adres: alleen bekijken (gebruik met Pro)",
+                                      "Kopiëren met één tik, categorie wisselen",
+                                      "30 dagen proef van alle Pro-functies"
+                                  ],
+                    "proTitle":  "Pro (eenmalige aankoop)",
+                    "proPrice":  "Prijs zie je in de store",
+                    "proItems":  [
+                                     "Tot 200 items per categorie",
+                                     "Tot 30 profielkaarten",
+                                     "JSON-export en -import",
+                                     "Eenmalige aankoop via Google Play / App Store"
+                                 ],
+                    "note":  "De app is gratis te downloaden. Pro is een niet-verbruikbare add-on die je via de appstore aanschaft; de prijs kan per regio verschillen."
+                },
+    "privacySection":  {
+                           "title":  "Je gegevens blijven op je telefoon",
+                           "text":  "Opgeslagen teksten, profielkaarten en instellingen worden alleen op je toestel bewaard. Wij bieden geen cloudsynchronisatie aan en verzamelen de inhoud van je standaardteksten niet.",
+                           "link":  "Lees het privacybeleid"
+                       },
+    "cta":  {
+                "title":  "Tijd om te stoppen met steeds dezelfde tekst intypen op je telefoon?",
+                "lead":  "Download gratis en probeer 30 dagen lang alle Pro-functies — ontdek wat het beste bij je past.",
+                "button":  "Beschikbaar op Google Play"
+            },
+    "footer":  {
+                   "pcEdition":  "MyQuickPaste (pc-editie)",
+                   "copyright":  "Copyright © 2025–2026 Good Rabbit inc., Japan. Alle rechten voorbehouden.",
+                   "developer":  "Ontwikkelaar: Kazuhiro Suda"
+               },
+    "supportPage":  {
+                        "title":  "Ondersteuning",
+                        "lead":  "Hulp bij MyQuickPaste for Business (smartphone-editie).",
+                        "faqTitle":  "Veelgestelde vragen",
+                        "items":  [
+                                      {
+                                          "q":  "Is dit dezelfde app als MyQuickPaste voor Windows?",
+                                          "a":  "Nee. MyQuickPaste for Business is de smartphone-editie. Ze delen dezelfde filosofie, maar het is een aparte app met eigen gegevens en een eigen aankoop in de store."
+                                      },
+                                      {
+                                          "q":  "Wat is het verschil tussen de gratis versie en Pro?",
+                                          "a":  "Gratis omvat tot 5 vrije-tekstitems en 1 profielkaart om te kopiëren en bewerken. Sjablonen, E-mail, Telefoon en Adres zijn te bekijken, maar gebruik vereist Pro. Pro ontgrendelt alle categorieën, vergroot de capaciteit en voegt JSON-export en -import toe. Nieuwe installaties krijgen 30 dagen proef van alle Pro-functies."
+                                      },
+                                      {
+                                          "q":  "Hoe werkt de proefperiode van 30 dagen?",
+                                          "a":  "Vanaf de eerste keer opstarten zijn alle Pro-functies 30 dagen beschikbaar. Daarna kun je verder gaan met de gratis versie of Pro kopen in de store."
+                                      },
+                                      {
+                                          "q":  "Waar worden mijn gegevens opgeslagen?",
+                                          "a":  "Opgeslagen teksten, profielkaarten en instellingen worden alleen op je toestel bewaard."
+                                      },
+                                      {
+                                          "q":  "Hoe maak ik een back-up of zet ik gegevens over?",
+                                          "a":  "Pro-gebruikers kunnen vanuit de instellingen een JSON-back-up exporteren en die op een ander toestel met MyQuickPaste for Business importeren."
+                                      },
+                                      {
+                                          "q":  "Wanneer komt de iPhone-versie beschikbaar?",
+                                          "a":  "De iOS-editie wordt momenteel voorbereid. Deze pagina wordt bijgewerkt zodra deze in de App Store verschijnt."
+                                      },
+                                      {
+                                          "q":  "Hoe koop ik Pro?",
+                                          "a":  "Open het upgradescherm in de app of de Pro-add-on in de store. De betaling wordt volledig afgehandeld door Google Play of de App Store."
+                                      }
+                                  ],
+                        "contactTitle":  "Contact",
+                        "contactText":  "Voor bugmeldingen en functiesuggesties mail je naar:",
+                        "contactEmail":  "myquickpaste@hotmail.com"
+                    },
+    "privacyPage":  {
+                        "title":  "Privacybeleid",
+                        "lead":  "MyQuickPaste for Business (smartphone-editie)",
+                        "updated":  "Laatst bijgewerkt: juni 2026",
+                        "sections":  [
+                                         {
+                                             "h":  "Overzicht",
+                                             "p":  "MyQuickPaste for Business is een smartphone-app van Good Rabbit inc. (\"wij\"). Dit beleid beschrijft hoe de app informatie op je toestel verwerkt."
+                                         },
+                                         {
+                                             "h":  "Informatie die wij niet verzamelen",
+                                             "p":  "Wij verzamelen, verzenden of bewaren je opgeslagen standaardteksten, profielkaarten of klembordinhoud niet op onze servers. De app is ontworpen om je gegevens op je toestel te houden."
+                                         },
+                                         {
+                                             "h":  "Lokale opslag",
+                                             "p":  "Je items, categorieën, profielkaarten en app-instellingen worden bewaard in het privéopslaggebied van de app op je smartphone. Back-ups (Pro-export) en de beveiliging van het toestel zijn jouw eigen verantwoordelijkheid."
+                                         },
+                                         {
+                                             "h":  "Appstores en aankopen",
+                                             "p":  "Downloads, proefperiodes en Pro-aankopen worden verwerkt door Google Play of de Apple App Store. Betaling en licentiecontrole vallen onder het privacybeleid en de voorwaarden van de betreffende store."
+                                         },
+                                         {
+                                             "h":  "Contact",
+                                             "p":  "Voor vragen over dit beleid kun je mailen naar myquickpaste@hotmail.com."
+                                         }
+                                     ]
+                    },
+    "releaseNotesPage":  {
+                             "title":  "Release-opmerkingen",
+                             "lead":  "Versiegeschiedenis van MyQuickPaste for Business.",
+                             "latestPrefix":  "Nieuwste versie:",
+                             "storeNote":  "Updates worden verspreid via Google Play (en, zodra beschikbaar, ook via de App Store).",
+                             "entries":  [
+                                             {
+                                                 "version":  "1.0.0",
+                                                 "date":  "2026",
+                                                 "title":  "Eerste release (Android)",
+                                                 "items":  [
+                                                               "Categorielijsten: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+                                                               "Kopiëren met één tik en voorbeeld bij lang indrukken",
+                                                               "Profielkaarten met kopiëren per veld",
+                                                               "Volgorde aanpassen voor lijsten en profielen",
+                                                               "Gratis versie met 30 dagen Pro-proefperiode",
+                                                               "JSON-export/-import (Pro)",
+                                                               "Interface in 21 talen, licht en donker thema",
+                                                               "Instellingen voor kopieerfeedback, startcategorie en gegevensback-up"
+                                                           ]
+                                             }
+                                         ]
+                         },
+    "screenshots":  {
+                        "title":  "De app in beeld",
+                        "subtitle":  "Echte schermafbeeldingen van MyQuickPaste for Business op Android.",
+                        "freetextAlt":  "Lijst met vrije tekst met opgeslagen zinnen en kopiëren met één tik",
+                        "snippetsAlt":  "Categorie standaardteksten met sjablonen voor e-mail",
+                        "profileAlt":  "Profielkaarten voor thuis- en werkcontacten",
+                        "profileEditAlt":  "Scherm voor profiel bewerken met adres- en contactvelden",
+                        "cateAlt":  "Zes categorietabbladen: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+                        "items":  [
+                                      {
+                                          "caption":  "Vrije tekst — handtekeningen, URL\u0027s en accountgegevens in één oogopslag"
+                                      },
+                                      {
+                                          "caption":  "Standaardteksten — kant-en-klare antwoorden voor e-mail en chat"
+                                      },
+                                      {
+                                          "caption":  "Profiel — kopieer adres, telefoonnummer of alles met één tik"
+                                      },
+                                      {
+                                          "caption":  "Profiel bewerken — aparte kaarten voor thuis, werk en klanten"
+                                      },
+                                      {
+                                          "caption":  "Categorietabbladen — direct wisselen tussen zes lijsten"
+                                      }
+                                  ]
+                    }
 }

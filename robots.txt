@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goodrabbit-inc.github.io/myquickpaste/sitemap.xml

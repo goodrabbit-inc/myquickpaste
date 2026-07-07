@@ -190,10 +190,11 @@
     "freeTitle": "Gratis",
     "freePrice": "0",
     "freeItems": [
-      "Hingga 5 item tersimpan per kategori",
-      "Hingga 2 kartu profil",
-      "Salin satu ketukan, tab kategori",
-      "Uji coba 30 hari untuk semua fitur Pro"
+      "Hingga 5 item teks bebas",
+      "Hingga 1 kartu profil",
+      "Cuplikan, email, telepon, dan alamat: hanya lihat (penggunaan perlu Pro)",
+      "Ketuk untuk salin, ganti kategori",
+      "Uji coba 30 hari semua fitur Pro"
     ],
     "proTitle": "Pro (pembelian sekali)",
     "proPrice": "Lihat harga di toko",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Apa bedanya edisi gratis dan Pro?",
-        "a": "Edisi gratis memungkinkan hingga 5 item per kategori dan hingga 2 kartu profil. Pro memperluas batas ini dan membuka ekspor/impor JSON. Setiap instalasi baru mendapat uji coba 30 hari untuk fitur Pro."
+        "a": "Versi gratis mencakup hingga 5 item teks bebas dan 1 kartu profil untuk disalin dan diedit. Cuplikan, Email, Telepon, dan Alamat dapat dilihat, tetapi penggunaannya memerlukan Pro. Pro membuka semua kategori, menambah kapasitas, dan menambahkan ekspor/impor JSON. Instalasi baru mendapat uji coba 30 hari semua fitur Pro."
       },
       {
         "q": "Bagaimana cara kerja uji coba 30 hari?",

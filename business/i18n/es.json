@@ -190,10 +190,11 @@
     "freeTitle": "Gratis",
     "freePrice": "0",
     "freeItems": [
-      "Hasta 5 elementos guardados por categoría",
-      "Hasta 2 fichas de perfil",
-      "Copia con un toque y pestañas por categoría",
-      "30 días de prueba con todas las funciones Pro"
+      "Hasta 5 elementos de texto libre",
+      "Hasta 1 tarjeta de perfil",
+      "Fragmentos, correo, teléfono y dirección: solo consulta (uso con Pro)",
+      "Copiar con un toque y cambiar de categoría",
+      "Prueba de 30 días de todas las funciones Pro"
     ],
     "proTitle": "Pro (pago único)",
     "proPrice": "Consulta el precio en la tienda",
@@ -231,7 +232,7 @@
       },
       {
         "q": "¿Cuál es la diferencia entre la versión gratuita y Pro?",
-        "a": "La versión gratuita permite hasta 5 elementos por categoría y 2 fichas de perfil. Pro amplía esos límites y desbloquea la exportación e importación en JSON. Toda instalación nueva incluye 30 días de prueba con todas las funciones Pro."
+        "a": "La versión gratuita incluye hasta 5 elementos de texto libre y 1 tarjeta de perfil para copiar y editar. Puede ver Fragmentos, Correo, Teléfono y Dirección, pero usarlos requiere Pro. Pro desbloquea todas las categorías, amplía la capacidad y añade exportación e importación JSON. Las instalaciones nuevas reciben 30 días de prueba de todas las funciones Pro."
       },
       {
         "q": "¿Cómo funciona la prueba de 30 días?",

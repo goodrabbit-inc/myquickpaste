@@ -190,10 +190,11 @@
     "freeTitle": "Miễn phí",
     "freePrice": "0",
     "freeItems": [
-      "Tối đa 5 mục lưu trữ mỗi danh mục",
-      "Tối đa 2 thẻ hồ sơ",
-      "Sao chép một chạm, tab danh mục",
-      "Dùng thử 30 ngày tất cả tính năng Pro"
+      "Tối đa 5 mục văn bản tự do",
+      "Tối đa 1 thẻ hồ sơ",
+      "Mẫu câu, email, điện thoại và địa chỉ: chỉ xem (dùng cần Pro)",
+      "Chạm để sao chép, chuyển danh mục",
+      "Dùng thử đầy đủ tính năng Pro trong 30 ngày"
     ],
     "proTitle": "Pro (mua một lần)",
     "proPrice": "Xem giá trên cửa hàng",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Sự khác biệt giữa phiên bản miễn phí và Pro là gì?",
-        "a": "Phiên bản miễn phí cho phép lưu tối đa 5 mục mỗi danh mục và tối đa 2 thẻ hồ sơ. Pro mở rộng các giới hạn này và mở khóa xuất/nhập JSON. Mỗi lần cài đặt mới đều được dùng thử tính năng Pro trong 30 ngày."
+        "a": "Bản miễn phí gồm tối đa 5 mục văn bản tự do và 1 thẻ hồ sơ để sao chép và chỉnh sửa. Bạn có thể xem Mẫu câu, Email, Điện thoại và Địa chỉ, nhưng sử dụng các danh mục đó cần Pro. Pro mở khóa mọi danh mục, tăng dung lượng và thêm xuất/nhập JSON. Cài đặt mới được dùng thử đầy đủ tính năng Pro trong 30 ngày."
       },
       {
         "q": "Thời gian dùng thử 30 ngày hoạt động như thế nào?",

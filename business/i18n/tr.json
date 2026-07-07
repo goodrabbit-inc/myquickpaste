@@ -190,10 +190,11 @@
     "freeTitle": "Ücretsiz",
     "freePrice": "0",
     "freeItems": [
-      "Kategori başına 5 öğeye kadar kayıt",
-      "2 profil kartına kadar",
-      "Tek dokunuşla kopyalama, kategori sekmeleri",
-      "Tüm Pro özelliklerinin 30 günlük denemesi"
+      "En fazla 5 serbest metin öğesi",
+      "En fazla 1 profil kartı",
+      "Kalıp, e-posta, telefon ve adres: yalnızca görüntüleme (kullanım Pro ile)",
+      "Dokunarak kopyalama, kategori değiştirme",
+      "30 gün boyunca tüm Pro özelliklerini deneme"
     ],
     "proTitle": "Pro (tek seferlik satın alma)",
     "proPrice": "Fiyat için mağazaya bakın",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Ücretsiz sürüm ile Pro arasındaki fark nedir?",
-        "a": "Ücretsiz sürüm, kategori başına 5 öğeye ve en fazla 2 profil kartına kadar kayıt yapmanıza izin verir. Pro bu sınırları genişletir ve JSON dışa/içe aktarmanın kilidini açar. Her yeni kurulum, Pro özellikleri için 30 günlük bir deneme süresi alır."
+        "a": "Ücretsiz sürüm en fazla 5 serbest metin öğesi ve kopyalayıp düzenleyebileceğiniz 1 profil kartı içerir. Kalıp, E-posta, Telefon ve Adres görüntülenebilir, ancak kullanım Pro gerektirir. Pro tüm kategorileri açar, kapasiteyi artırır ve JSON dışa/içe aktarmayı ekler. Yeni kurulumlar 30 gün boyunca tüm Pro özelliklerini deneyebilir."
       },
       {
         "q": "30 günlük deneme nasıl çalışır?",

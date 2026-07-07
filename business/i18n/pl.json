@@ -190,10 +190,11 @@
     "freeTitle": "Bezpłatna",
     "freePrice": "0",
     "freeItems": [
-      "Do 5 zapisanych elementów w każdej kategorii",
-      "Do 2 kart profilu",
-      "Kopiowanie jednym dotknięciem, zakładki kategorii",
-      "30 dni próby wszystkich funkcji Pro"
+      "Do 5 pozycji w dowolnym tekście",
+      "Do 1 karty profilu",
+      "Szablony, e-mail, telefon i adres: tylko podgląd (użycie w Pro)",
+      "Kopiowanie jednym dotknięciem, zmiana kategorii",
+      "30-dniowy okres próbny wszystkich funkcji Pro"
     ],
     "proTitle": "Pro (zakup jednorazowy)",
     "proPrice": "Cenę sprawdź w sklepie",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Czym różni się wersja bezpłatna od Pro?",
-        "a": "Wersja bezpłatna pozwala zapisać do 5 elementów w każdej kategorii i do 2 kart profilu. Pro zwiększa te limity i odblokowuje eksport oraz import JSON. Każda nowa instalacja otrzymuje 30 dni próby wszystkich funkcji Pro."
+        "a": "Wersja bezpłatna obejmuje do 5 pozycji w dowolnym tekście i 1 kartę profilu do kopiowania i edycji. Szablony, E-mail, Telefon i Adres można przeglądać, ale ich użycie wymaga Pro. Pro odblokowuje wszystkie kategorie, zwiększa limit i dodaje eksport/import JSON. Nowe instalacje otrzymują 30-dniowy okres próbny wszystkich funkcji Pro."
       },
       {
         "q": "Jak działa 30-dniowy okres próbny?",

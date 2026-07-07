@@ -190,10 +190,11 @@
     "freeTitle": "Gratuito",
     "freePrice": "0",
     "freeItems": [
-      "Até 5 itens salvos por categoria",
-      "Até 2 fichas de perfil",
-      "Copiar com um toque e abas por categoria",
-      "30 dias de teste com todos os recursos Pro"
+      "Até 5 itens de texto livre",
+      "Até 1 cartão de perfil",
+      "Modelos, e-mail, telefone e endereço: apenas visualização (uso com Pro)",
+      "Copiar com um toque e trocar de categoria",
+      "Teste de 30 dias de todos os recursos Pro"
     ],
     "proTitle": "Pro (compra única)",
     "proPrice": "Veja o preço na loja",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Qual é a diferença entre a versão gratuita e a Pro?",
-        "a": "A versão gratuita permite até 5 itens por categoria e 2 fichas de perfil. A Pro amplia esses limites e libera a exportação e importação em JSON. Toda nova instalação recebe 30 dias de teste com todos os recursos Pro."
+        "a": "A versão gratuita inclui até 5 itens de texto livre e 1 cartão de perfil para copiar e editar. É possível ver Modelos, E-mail, Telefone e Endereço, mas usá-los exige Pro. Pro libera todas as categorias, expande a capacidade e adiciona exportação e importação JSON. Novas instalações recebem 30 dias de teste de todos os recursos Pro."
       },
       {
         "q": "Como funciona o teste de 30 dias?",

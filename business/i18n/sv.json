@@ -190,9 +190,10 @@
     "freeTitle": "Gratis",
     "freePrice": "0",
     "freeItems": [
-      "Upp till 5 sparade poster per kategori",
-      "Upp till 2 profilkort",
-      "Kopiera med en knapptryckning, kategoriflikar",
+      "Upp till 5 fria textposter",
+      "Upp till 1 profilkort",
+      "Mallar, e-post, telefon och adress: endast visning (användning med Pro)",
+      "Kopiera med ett tryck, byt kategori",
       "30 dagars provperiod av alla Pro-funktioner"
     ],
     "proTitle": "Pro (engångsköp)",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Vad är skillnaden mellan gratisversionen och Pro?",
-        "a": "Gratisversionen ger upp till 5 poster per kategori och 2 profilkort. Pro utökar dessa gränser och låser upp export och import av JSON. Alla nya installationer får 30 dagars provperiod av alla Pro-funktioner."
+        "a": "Gratisversionen inkluderar upp till 5 fria textposter och 1 profilkort att kopiera och redigera. Mallar, E-post, Telefon och Adress kan visas, men användning kräver Pro. Pro låser upp alla kategorier, utökar kapaciteten och lägger till JSON-export och -import. Nya installationer får 30 dagars provperiod av alla Pro-funktioner."
       },
       {
         "q": "Hur fungerar 30-dagarsperioden?",

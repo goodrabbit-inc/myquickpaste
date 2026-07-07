@@ -192,9 +192,10 @@
     "freeTitle": "Free",
     "freePrice": "¥0",
     "freeItems": [
-      "Up to 5 saved items per category",
-      "Up to 2 profile cards",
-      "Tap to copy & category tabs",
+      "Up to 5 freeword items",
+      "Up to 1 profile card",
+      "View Snippets, Mail, Phone, and Address (copy/edit requires Pro)",
+      "Tap to copy & switch categories",
       "30-day trial of all Pro features"
     ],
     "proTitle": "Pro (one-time purchase)",
@@ -233,7 +234,7 @@
       },
       {
         "q": "What is the difference between Free and Pro?",
-        "a": "Free includes up to 5 items per category and 2 profile cards. Pro expands capacity and unlocks JSON export and import. New installs receive a 30-day trial of all Pro features."
+        "a": "Free includes up to 5 freeword items and 1 profile card you can copy and edit. You can browse Snippets, Mail, Phone, and Address, but using those categories requires Pro. Pro unlocks every category, expands capacity, and adds JSON export and import. New installs receive a 30-day trial of all Pro features."
       },
       {
         "q": "How does the 30-day trial work?",

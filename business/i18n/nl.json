@@ -190,10 +190,11 @@
     "freeTitle": "Gratis",
     "freePrice": "0",
     "freeItems": [
-      "Tot 5 opgeslagen items per categorie",
-      "Tot 2 profielkaarten",
-      "Kopiëren met één tik, categorietabbladen",
-      "30 dagen proberen van alle Pro-functies"
+      "Tot 5 vrije-tekstitems",
+      "Tot 1 profielkaart",
+      "Sjablonen, e-mail, telefoon en adres: alleen bekijken (gebruik met Pro)",
+      "Kopiëren met één tik, categorie wisselen",
+      "30 dagen proef van alle Pro-functies"
     ],
     "proTitle": "Pro (eenmalige aankoop)",
     "proPrice": "Prijs zie je in de store",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Wat is het verschil tussen de gratis versie en Pro?",
-        "a": "De gratis versie biedt tot 5 items per categorie en 2 profielkaarten. Pro verruimt deze limieten en ontgrendelt JSON-export en -import. Elke nieuwe installatie krijgt 30 dagen om alle Pro-functies uit te proberen."
+        "a": "Gratis omvat tot 5 vrije-tekstitems en 1 profielkaart om te kopiëren en bewerken. Sjablonen, E-mail, Telefoon en Adres zijn te bekijken, maar gebruik vereist Pro. Pro ontgrendelt alle categorieën, vergroot de capaciteit en voegt JSON-export en -import toe. Nieuwe installaties krijgen 30 dagen proef van alle Pro-functies."
       },
       {
         "q": "Hoe werkt de proefperiode van 30 dagen?",

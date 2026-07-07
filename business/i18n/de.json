@@ -190,9 +190,10 @@
     "freeTitle": "Kostenlos",
     "freePrice": "0",
     "freeItems": [
-      "Bis zu 5 gespeicherte Einträge pro Kategorie",
-      "Bis zu 2 Profilkarten",
-      "Kopieren mit einem Tipp, Kategorie-Tabs",
+      "Bis zu 5 Freitext-Einträge",
+      "Bis zu 1 Profilkarte",
+      "Textbausteine, E-Mail, Telefon und Adresse nur ansehen (Nutzung mit Pro)",
+      "Kopieren per Tippen, Kategorie-Wechsel",
       "30 Tage Testzugang zu allen Pro-Funktionen"
     ],
     "proTitle": "Pro (Einmalkauf)",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Was unterscheidet die kostenlose Version von Pro?",
-        "a": "Die kostenlose Version bietet bis zu 5 Einträge pro Kategorie und 2 Profilkarten. Pro erweitert diese Grenzen und schaltet den JSON-Export und -Import frei. Neue Installationen erhalten 30 Tage lang Zugriff auf alle Pro-Funktionen."
+        "a": "Die kostenlose Version erlaubt bis zu 5 Freitext-Einträge und 1 Profilkarte zum Kopieren und Bearbeiten. Textbausteine, E-Mail, Telefon und Adresse können angesehen, aber erst mit Pro genutzt werden. Pro schaltet alle Kategorien frei, erweitert die Kapazität und bietet JSON-Export und -Import. Neue Installationen erhalten 30 Tage Zugriff auf alle Pro-Funktionen."
       },
       {
         "q": "Wie funktioniert die 30-tägige Testphase?",

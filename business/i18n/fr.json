@@ -190,9 +190,10 @@
     "freeTitle": "Gratuite",
     "freePrice": "0",
     "freeItems": [
-      "Jusqu'à 5 éléments enregistrés par catégorie",
-      "Jusqu'à 2 fiches de profil",
-      "Copie en un instant et onglets par catégorie",
+      "Jusqu'à 5 éléments en texte libre",
+      "Jusqu'à 1 fiche de profil",
+      "Formules types, e-mail, téléphone et adresse : consultation seule (utilisation avec Pro)",
+      "Copie en un tap, changement de catégorie",
       "Essai de 30 jours de toutes les fonctionnalités Pro"
     ],
     "proTitle": "Pro (achat unique)",
@@ -231,7 +232,7 @@
       },
       {
         "q": "Quelle est la différence entre la version Gratuite et la version Pro ?",
-        "a": "La version Gratuite permet jusqu'à 5 éléments par catégorie et 2 fiches de profil. Pro augmente ces capacités et débloque l'export et l'import JSON. Toute nouvelle installation bénéficie d'un essai de 30 jours de toutes les fonctionnalités Pro."
+        "a": "La version Gratuite permet jusqu'à 5 éléments en texte libre et 1 fiche de profil à copier et modifier. Vous pouvez consulter Formules types, E-mail, Téléphone et Adresse, mais leur utilisation nécessite Pro. Pro débloque toutes les catégories, augmente la capacité et ajoute l'export/import JSON. Toute nouvelle installation bénéficie d'un essai de 30 jours de toutes les fonctionnalités Pro."
       },
       {
         "q": "Comment fonctionne l'essai de 30 jours ?",

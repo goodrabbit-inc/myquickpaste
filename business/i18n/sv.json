@@ -261,27 +261,39 @@
   "privacyPage": {
     "title": "Integritetspolicy",
     "lead": "MyQuickPaste for Business (mobilversion)",
-    "updated": "Senast uppdaterad: juni 2026",
+    "updated": "Last updated: July 2026",
     "sections": [
       {
-        "h": "Översikt",
-        "p": "MyQuickPaste for Business är en mobilapp från Good Rabbit inc. (\"vi\"). Den här policyn beskriver hur appen hanterar information på din enhet."
+        "h": "Overview",
+        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
-        "h": "Information vi inte samlar in",
-        "p": "Vi samlar inte in, överför eller lagrar dina sparade standardfraser, profilkort eller urklippsinnehåll på våra servrar. Appen är utformad för att hålla din data kvar på din enhet."
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
       },
       {
-        "h": "Lokal lagring",
-        "p": "Dina poster, kategorier, profilkort och appinställningar sparas i appens privata lagringsutrymme på din mobil. Säkerhetskopiering (Pro-export) och enhetens säkerhet är ditt eget ansvar."
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
       },
       {
-        "h": "Appbutiker och köp",
-        "p": "Nedladdningar, provperioder och Pro-köp hanteras av Google Play eller Apple App Store. Betalning och licenskontroll följer respektive butiks integritetspolicy och villkor."
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
       },
       {
-        "h": "Kontakt",
-        "p": "Vid frågor om denna policy, kontakta myquickpaste@hotmail.com."
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
       }
     ]
   },

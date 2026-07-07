@@ -261,27 +261,39 @@
   "privacyPage": {
     "title": "Chính sách quyền riêng tư",
     "lead": "MyQuickPaste for Business (Phiên bản Smartphone)",
-    "updated": "Cập nhật lần cuối: Tháng 6 năm 2026",
+    "updated": "Last updated: July 2026",
     "sections": [
       {
-        "h": "Tổng quan",
-        "p": "MyQuickPaste for Business là ứng dụng điện thoại được cung cấp bởi Good Rabbit inc. (\"chúng tôi\"). Chính sách này giải thích cách ứng dụng xử lý thông tin trên thiết bị của bạn."
+        "h": "Overview",
+        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
-        "h": "Thông tin chúng tôi không thu thập",
-        "p": "Chúng tôi không thu thập, truyền tải hoặc lưu trữ câu mẫu, thẻ hồ sơ hoặc nội dung bộ nhớ tạm của bạn trên bất kỳ máy chủ nào. Ứng dụng được thiết kế để giữ dữ liệu của bạn trên thiết bị của bạn."
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
       },
       {
-        "h": "Lưu trữ cục bộ",
-        "p": "Các mục, danh mục, thẻ hồ sơ và cài đặt ứng dụng của bạn được lưu trữ trong khu vực lưu trữ riêng của ứng dụng trên điện thoại của bạn. Việc sao lưu (xuất Pro) và bảo mật thiết bị là trách nhiệm của bạn."
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
       },
       {
-        "h": "Cửa hàng ứng dụng & giao dịch mua",
-        "p": "Việc tải xuống, dùng thử và mua Pro được xử lý bởi Google Play hoặc Apple App Store. Thanh toán và xác minh giấy phép tuân theo chính sách quyền riêng tư và điều khoản của từng cửa hàng."
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
       },
       {
-        "h": "Liên hệ với chúng tôi",
-        "p": "Nếu có bất kỳ câu hỏi nào về chính sách này, vui lòng liên hệ myquickpaste@hotmail.com."
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
       }
     ]
   },

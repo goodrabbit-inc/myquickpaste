@@ -261,27 +261,39 @@
   "privacyPage": {
     "title": "隐私政策",
     "lead": "MyQuickPaste for Business（手机版）",
-    "updated": "最后更新：2026 年 6 月",
+    "updated": "Last updated: July 2026",
     "sections": [
       {
-        "h": "概述",
-        "p": "MyQuickPaste for Business 是由 Good Rabbit inc.（以下简称\"我们\"）提供的手机应用。本政策说明应用如何处理你设备上的信息。"
+        "h": "Overview",
+        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
-        "h": "我们不会收集的信息",
-        "p": "我们不会在服务器上收集、传输或存储你保存的常用语、资料卡片或剪贴板内容。应用的设计理念是让数据只保留在你的设备上。"
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
       },
       {
-        "h": "本地存储",
-        "p": "你输入的内容、分类、资料卡片和应用设置都保存在手机上应用专属的存储空间中。备份（Pro 导出）及设备安全由你自行负责。"
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
       },
       {
-        "h": "应用商店与购买",
-        "p": "下载、试用及 Pro 版购买均由 Google Play 或 Apple App Store 处理，付款和授权验证遵循各商店的隐私政策及使用条款。"
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
       },
       {
-        "h": "联系方式",
-        "p": "如对本政策有任何疑问，请通过 myquickpaste@hotmail.com 与我们联系。"
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
       }
     ]
   },

@@ -1,339 +1,351 @@
 {
-    "meta":  {
-                 "lang":  "en",
-                 "title":  "MyQuickPaste for Business — Smartphone Edition",
-                 "description":  "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, addresses, contacts, and profile cards by category."
-             },
-    "lang":  {
-                 "label":  "Language",
-                 "ja":  "日本語",
-                 "en":  "English"
-             },
-    "nav":  {
-                "home":  "Home",
-                "support":  "Support",
-                "releaseNotes":  "Release Notes",
-                "privacy":  "Privacy"
-            },
-    "brand":  {
-                  "name":  "MyQuickPaste for Business",
-                  "edition":  "Smartphone Edition"
-              },
-    "hero":  {
-                 "badge":  "For Android \u0026 iPhone",
-                 "catch":  "Save what you use every day. Copy with one tap.",
-                 "lead":  "Built for people who type the same replies, addresses, phone numbers, and profile details over and over. Organize them by category, tap a row, and paste into mail, chat, or anywhere else.",
-                 "platformLine":  "Available on Android · iPhone \u0026 iPad coming soon",
-                 "trialTitle":  "30-day full-feature trial",
-                 "trialText":  "For 30 days after install, you can try every Pro feature for free.",
-                 "trust":  "Stored on your device · 21 languages"
-             },
-    "stores":  {
-                   "googlePlay":  "Get it on Google Play",
-                   "appStore":  "App Store",
-                   "comingSoon":  "Coming soon",
-                   "googlePlayBadgeAlt":  "Get it on Google Play",
-                   "appStoreBadgeAlt":  "Download on the App Store",
-                   "microsoftBadgeAlt":  "Get it from Microsoft (MyQuickPaste for Windows)"
-               },
-    "compare":  {
-                    "title":  "Part of the MyQuickPaste family",
-                    "subtitle":  "The same idea—paste what you use often—tailored for PC and smartphone.",
-                    "pcTitle":  "MyQuickPaste (Windows)",
-                    "pcText":  "A Windows app that lives at the edge of your screen and pastes with one click.",
-                    "pcLink":  "Windows edition homepage",
-                    "mobileTitle":  "MyQuickPaste for Business (Smartphone)",
-                    "mobileText":  "Category lists and profile cards for your go-to text. Pro adds JSON backup.",
-                    "note":  "The PC and smartphone editions are separate apps. Purchases and saved data are not shared between them."
-                },
-    "problem":  {
-                    "title":  "Sound familiar on mobile?",
-                    "items":  [
-                                  "Searching old chats or notes every time you need the same address or phone number",
-                                  "Retyping email signatures and canned replies on a small keyboard",
-                                  "Switching between apps just to copy one line of text again"
-                              ],
-                    "solution":  "Save it once in MyQuickPaste for Business, then open the app and tap. Paste into mail, chat, maps—wherever you need it."
-                },
-    "clipboardCompare":  {
-                             "title":  "How this differs from Gboard clipboard",
-                             "subtitle":  "Gboard is quicker for something you copied a moment ago. This app is for the text you reach for every day or every week.",
-                             "clipboardTitle":  "Gboard clipboard",
-                             "clipboardTag":  "Recent copy history",
-                             "clipboardItems":  [
-                                                    "Pick from the keyboard and paste—the fastest route",
-                                                    "Automatically saves strings you copied recently",
-                                                    "Unpinned clips: about 5 items, then gone in ~1 hour",
-                                                    "Mixed history—not great for keeping favorites organized"
-                                                ],
-                             "appTitle":  "MyQuickPaste for Business",
-                             "appTag":  "A shelf for your go-to text",
-                             "appItems":  [
-                                              "Save addresses, signatures, and replies with a name",
-                                              "Six categories: freeword, snippets, mail, phone, address, profile",
-                                              "Entries stay until you delete them—no history push-out",
-                                              "Built for finding and copying the text you use again and again"
-                                          ],
-                             "footer":  "Copied it a few hours ago? Gboard is handy. Addresses, signatures, and canned replies you use every week? Register them here and skip the search."
-                         },
-    "steps":  {
-                  "title":  "How it works",
-                  "subtitle":  "Save, tap, paste—just three steps.",
-                  "items":  [
-                                {
-                                    "title":  "Save by category",
-                                    "text":  "Freeword, snippets, email, phone, address, and profile cards—each in its own tab so things stay easy to find."
-                                },
-                                {
-                                    "title":  "Tap to copy",
-                                    "text":  "Tap any row to copy the full text. Long-press if you want a quick preview before copying."
-                                },
-                                {
-                                    "title":  "Paste anywhere",
-                                    "text":  "Switch to mail, chat, maps, or any app—and paste right away."
-                                }
-                            ]
-              },
-    "benefits":  {
-                     "title":  "Why people like it",
-                     "items":  [
-                                   {
-                                       "title":  "Easy one-handed use",
-                                       "text":  "Large rows, category tabs, and a portrait layout—designed so you can pick what you need on the go.",
-                                       "icon":  "📱"
-                                   },
-                                   {
-                                       "title":  "Easy to browse",
-                                       "text":  "Instead of one endless note, keep snippets, contacts, and profile cards in separate lists.",
-                                       "icon":  "🗂️"
-                                   },
-                                   {
-                                       "title":  "Stored on your device",
-                                       "text":  "Your snippets and contacts stay on your phone. We do not offer cloud sync.",
-                                       "icon":  "🔒"
-                                   }
-                               ]
-                 },
-    "features":  {
-                     "title":  "Key features",
-                     "subtitle":  "Features that make everyday copy-and-paste on your phone a little easier.",
-                     "items":  [
-                                   {
-                                       "title":  "Category tabs",
-                                       "text":  "Freeword, snippets, email, phone, address, and profile—switch instantly.",
-                                       "icon":  "🏷️"
-                                   },
-                                   {
-                                       "title":  "Tap to copy",
-                                       "text":  "One tap copies the full content. Optional vibration feedback when copied.",
-                                       "icon":  "👆"
-                                   },
-                                   {
-                                       "title":  "Long-press preview",
-                                       "text":  "Preview title and body before copying long entries.",
-                                       "icon":  "👁️"
-                                   },
-                                   {
-                                       "title":  "Profile cards",
-                                       "text":  "Store personal and work contact blocks; copy individual fields with a tap.",
-                                       "icon":  "🪪"
-                                   },
-                                   {
-                                       "title":  "Reorder mode",
-                                       "text":  "Long-press a category tab to reorder items and keep favorites on top.",
-                                       "icon":  "↕️"
-                                   },
-                                   {
-                                       "title":  "Backup (Pro)",
-                                       "text":  "Export and import your data as JSON for device migration or safekeeping.",
-                                       "icon":  "💾"
-                                   },
-                                   {
-                                       "title":  "21-language UI",
-                                       "text":  "Use the app in English, Japanese, and 19 more languages.",
-                                       "icon":  "🌐"
-                                   },
-                                   {
-                                       "title":  "Light \u0026 dark theme",
-                                       "text":  "Follow system theme or choose light, dark, or system in Settings.",
-                                       "icon":  "🌓"
-                                   }
-                               ],
-                     "categoriesLabel":  "Categories",
-                     "categories":  [
-                                        "Freeword",
-                                        "Snippets",
-                                        "Email",
-                                        "Phone",
-                                        "Address",
-                                        "Profile"
-                                    ]
-                 },
-    "usecases":  {
-                     "title":  "Perfect for",
-                     "items":  [
-                                   {
-                                       "title":  "Field \u0026 sales teams",
-                                       "text":  "Copy addresses, phone numbers, and standard replies while visiting clients."
-                                   },
-                                   {
-                                       "title":  "Office \u0026 support",
-                                       "text":  "Keep canned responses and contact details ready on your phone."
-                                   },
-                                   {
-                                       "title":  "Personal productivity",
-                                       "text":  "Store your home address, email signatures, and frequently used phrases."
-                                   }
-                               ]
-                 },
-    "pricing":  {
-                    "title":  "Pricing",
-                    "subtitle":  "Start free. Upgrade when you need more capacity and backup.",
-                    "freeTitle":  "Free",
-                    "freePrice":  "¥0",
-                    "freeItems":  [
-                                      "Up to 5 saved items per category",
-                                      "Up to 2 profile cards",
-                                      "Tap to copy \u0026 category tabs",
-                                      "30-day trial of all Pro features"
-                                  ],
-                    "proTitle":  "Pro (one-time purchase)",
-                    "proPrice":  "See price on the store",
-                    "proItems":  [
-                                     "Up to 200 items per category",
-                                     "Up to 30 profile cards",
-                                     "JSON export \u0026 import",
-                                     "One-time purchase via Google Play / App Store"
-                                 ],
-                    "note":  "The app is free to download. Pro is a non-consumable add-on purchased through your app store. Prices may vary by region."
-                },
-    "privacySection":  {
-                           "title":  "Your data stays on your phone",
-                           "text":  "Saved text, profile cards, and settings are stored only on your device. We do not operate a cloud sync service or collect your snippet content.",
-                           "link":  "Read the Privacy Policy"
-                       },
-    "cta":  {
-                "title":  "Stop retyping the same text on your phone",
-                "lead":  "Download free and try every Pro feature for 30 days—see what fits your routine.",
-                "button":  "Get it on Google Play"
-            },
-    "footer":  {
-                   "pcEdition":  "MyQuickPaste (PC edition)",
-                   "copyright":  "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-                   "developer":  "Developer: Kazuhiro Suda"
-               },
-    "supportPage":  {
-                        "title":  "Support",
-                        "lead":  "Help for MyQuickPaste for Business (smartphone edition).",
-                        "faqTitle":  "Frequently asked questions",
-                        "items":  [
-                                      {
-                                          "q":  "Is this the same app as MyQuickPaste for Windows?",
-                                          "a":  "No. MyQuickPaste for Business is the smartphone edition. It shares the same product philosophy but is a separate app with its own data and store purchase."
-                                      },
-                                      {
-                                          "q":  "What is the difference between Free and Pro?",
-                                          "a":  "Free includes up to 5 items per category and 2 profile cards. Pro expands capacity and unlocks JSON export and import. New installs receive a 30-day trial of all Pro features."
-                                      },
-                                      {
-                                          "q":  "How does the 30-day trial work?",
-                                          "a":  "All Pro features are available for 30 days from first launch. After the trial, you can continue on the free plan or purchase Pro in the store."
-                                      },
-                                      {
-                                          "q":  "Where is my data stored?",
-                                          "a":  "Saved text, profile cards, and settings are stored only on your device."
-                                      },
-                                      {
-                                          "q":  "How do I back up or move my data?",
-                                          "a":  "Pro users can export a JSON backup from Settings and import it on another device running MyQuickPaste for Business."
-                                      },
-                                      {
-                                          "q":  "When will the iPhone version be available?",
-                                          "a":  "The iOS edition is in preparation. This page will be updated when it launches on the App Store."
-                                      },
-                                      {
-                                          "q":  "How do I purchase Pro?",
-                                          "a":  "Open the in-app upgrade screen or the store listing for the Pro add-on. Billing is handled entirely by Google Play or the App Store."
-                                      }
-                                  ],
-                        "contactTitle":  "Contact",
-                        "contactText":  "For bug reports and feature requests, email us:",
-                        "contactEmail":  "myquickpaste@hotmail.com"
-                    },
-    "privacyPage":  {
-                        "title":  "Privacy Policy",
-                        "lead":  "MyQuickPaste for Business (smartphone edition)",
-                        "updated":  "Last updated: June 2026",
-                        "sections":  [
-                                         {
-                                             "h":  "Overview",
-                                             "p":  "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
-                                         },
-                                         {
-                                             "h":  "Information we do not collect",
-                                             "p":  "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
-                                         },
-                                         {
-                                             "h":  "Local storage",
-                                             "p":  "Your entries, categories, profile cards, and app settings are saved in the app\u0027s private storage area on your smartphone. You are responsible for backups (Pro export) and device security."
-                                         },
-                                         {
-                                             "h":  "App stores \u0026 purchases",
-                                             "p":  "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store. Payment and license verification are subject to each store\u0027s privacy policy and terms."
-                                         },
-                                         {
-                                             "h":  "Contact",
-                                             "p":  "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
-                                         }
-                                     ]
-                    },
-    "releaseNotesPage":  {
-                             "title":  "Release Notes",
-                             "lead":  "Version history for MyQuickPaste for Business.",
-                             "latestPrefix":  "Latest release:",
-                             "storeNote":  "Updates are delivered through Google Play and, when available, the App Store.",
-                             "entries":  [
-                                             {
-                                                 "version":  "1.0.0",
-                                                 "date":  "2026",
-                                                 "title":  "Initial public release (Android)",
-                                                 "items":  [
-                                                               "Category-based lists: Freeword, Snippets, Email, Phone, Address, Profile",
-                                                               "Tap to copy and long-press preview",
-                                                               "Profile cards with per-field copy",
-                                                               "Reorder mode for list and profile items",
-                                                               "Free plan with 30-day Pro trial",
-                                                               "JSON export/import (Pro)",
-                                                               "21-language UI and light/dark themes",
-                                                               "Settings for copy feedback, startup category, and data backup"
-                                                           ]
-                                             }
-                                         ]
-                         },
-    "screenshots":  {
-                        "title":  "See the app in action",
-                        "subtitle":  "Real screens from MyQuickPaste for Business on Android.",
-                        "freetextAlt":  "Free text list with saved phrases and one-tap copy",
-                        "snippetsAlt":  "Snippets category with email templates",
-                        "profileAlt":  "Profile cards for Home and Work contacts",
-                        "profileEditAlt":  "Edit profile screen with address and contact fields",
-                        "cateAlt":  "Six category tabs: Free text, Snippets, Mail, Phone, Address, Profile",
-                        "items":  [
-                                      {
-                                          "caption":  "Free text - signatures, URLs, and account details at a glance"
-                                      },
-                                      {
-                                          "caption":  "Snippets - ready-made replies for email and chat"
-                                      },
-                                      {
-                                          "caption":  "Profile - copy address, phone, or everything with one tap"
-                                      },
-                                      {
-                                          "caption":  "Edit profile - separate Home, Work, and client cards"
-                                      },
-                                      {
-                                          "caption":  "Category tabs - switch between six lists instantly"
-                                      }
-                                  ]
-                    }
+  "meta": {
+    "lang": "en",
+    "title": "MyQuickPaste for Business — Smartphone Edition",
+    "description": "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, addresses, contacts, and profile cards by category."
+  },
+  "lang": {
+    "label": "Language",
+    "ja": "日本語",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "support": "Support",
+    "releaseNotes": "Release Notes",
+    "privacy": "Privacy"
+  },
+  "brand": {
+    "name": "MyQuickPaste for Business",
+    "edition": "Smartphone Edition"
+  },
+  "hero": {
+    "badge": "For Android & iPhone",
+    "catch": "Save what you use every day. Copy with one tap.",
+    "lead": "Built for people who type the same replies, addresses, phone numbers, and profile details over and over. Organize them by category, tap a row, and paste into mail, chat, or anywhere else.",
+    "platformLine": "Available on Android · iPhone & iPad coming soon",
+    "trialTitle": "30-day full-feature trial",
+    "trialText": "For 30 days after install, you can try every Pro feature for free.",
+    "trust": "Stored on your device · 21 languages"
+  },
+  "stores": {
+    "googlePlay": "Get it on Google Play",
+    "appStore": "App Store",
+    "comingSoon": "Coming soon",
+    "googlePlayBadgeAlt": "Get it on Google Play",
+    "appStoreBadgeAlt": "Download on the App Store",
+    "microsoftBadgeAlt": "Get it from Microsoft (MyQuickPaste for Windows)"
+  },
+  "compare": {
+    "title": "Part of the MyQuickPaste family",
+    "subtitle": "The same idea—paste what you use often—tailored for PC and smartphone.",
+    "pcTitle": "MyQuickPaste (Windows)",
+    "pcText": "A Windows app that lives at the edge of your screen and pastes with one click.",
+    "pcLink": "Windows edition homepage",
+    "mobileTitle": "MyQuickPaste for Business (Smartphone)",
+    "mobileText": "Category lists and profile cards for your go-to text. Pro adds JSON backup.",
+    "note": "The PC and smartphone editions are separate apps. Purchases and saved data are not shared between them."
+  },
+  "problem": {
+    "title": "Sound familiar on mobile?",
+    "items": [
+      "Searching old chats or notes every time you need the same address or phone number",
+      "Retyping email signatures and canned replies on a small keyboard",
+      "Switching between apps just to copy one line of text again"
+    ],
+    "solution": "Save it once in MyQuickPaste for Business, then open the app and tap. Paste into mail, chat, maps—wherever you need it."
+  },
+  "clipboardCompare": {
+    "title": "How this differs from Gboard clipboard",
+    "subtitle": "Gboard is quicker for something you copied a moment ago. This app is for the text you reach for every day or every week.",
+    "clipboardTitle": "Gboard clipboard",
+    "clipboardTag": "Recent copy history",
+    "clipboardItems": [
+      "Pick from the keyboard and paste—the fastest route",
+      "Automatically saves strings you copied recently",
+      "Unpinned clips: about 5 items, then gone in ~1 hour",
+      "Mixed history—not great for keeping favorites organized"
+    ],
+    "appTitle": "MyQuickPaste for Business",
+    "appTag": "A shelf for your go-to text",
+    "appItems": [
+      "Save addresses, signatures, and replies with a name",
+      "Six categories: freeword, snippets, mail, phone, address, profile",
+      "Entries stay until you delete them—no history push-out",
+      "Built for finding and copying the text you use again and again"
+    ],
+    "footer": "Copied it a few hours ago? Gboard is handy. Addresses, signatures, and canned replies you use every week? Register them here and skip the search."
+  },
+  "steps": {
+    "title": "How it works",
+    "subtitle": "Save, tap, paste—just three steps.",
+    "items": [
+      {
+        "title": "Save by category",
+        "text": "Freeword, snippets, email, phone, address, and profile cards—each in its own tab so things stay easy to find."
+      },
+      {
+        "title": "Tap to copy",
+        "text": "Tap any row to copy the full text. Long-press if you want a quick preview before copying."
+      },
+      {
+        "title": "Paste anywhere",
+        "text": "Switch to mail, chat, maps, or any app—and paste right away."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why people like it",
+    "items": [
+      {
+        "title": "Easy one-handed use",
+        "text": "Large rows, category tabs, and a portrait layout—designed so you can pick what you need on the go.",
+        "icon": "📱"
+      },
+      {
+        "title": "Easy to browse",
+        "text": "Instead of one endless note, keep snippets, contacts, and profile cards in separate lists.",
+        "icon": "🗂️"
+      },
+      {
+        "title": "Stored on your device",
+        "text": "Your snippets and contacts stay on your phone. We do not offer cloud sync.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "Key features",
+    "subtitle": "Features that make everyday copy-and-paste on your phone a little easier.",
+    "items": [
+      {
+        "title": "Category tabs",
+        "text": "Freeword, snippets, email, phone, address, and profile—switch instantly.",
+        "icon": "🏷️"
+      },
+      {
+        "title": "Tap to copy",
+        "text": "One tap copies the full content. Optional vibration feedback when copied.",
+        "icon": "👆"
+      },
+      {
+        "title": "Long-press preview",
+        "text": "Preview title and body before copying long entries.",
+        "icon": "👁️"
+      },
+      {
+        "title": "Profile cards",
+        "text": "Store personal and work contact blocks; copy individual fields with a tap.",
+        "icon": "🪪"
+      },
+      {
+        "title": "Reorder mode",
+        "text": "Long-press a category tab to reorder items and keep favorites on top.",
+        "icon": "↕️"
+      },
+      {
+        "title": "Backup (Pro)",
+        "text": "Export and import your data as JSON for device migration or safekeeping.",
+        "icon": "💾"
+      },
+      {
+        "title": "21-language UI",
+        "text": "Use the app in English, Japanese, and 19 more languages.",
+        "icon": "🌐"
+      },
+      {
+        "title": "Light & dark theme",
+        "text": "Follow system theme or choose light, dark, or system in Settings.",
+        "icon": "🌓"
+      }
+    ],
+    "categoriesLabel": "Categories",
+    "categories": [
+      "Freeword",
+      "Snippets",
+      "Email",
+      "Phone",
+      "Address",
+      "Profile"
+    ]
+  },
+  "usecases": {
+    "title": "Perfect for",
+    "items": [
+      {
+        "title": "Field & sales teams",
+        "text": "Copy addresses, phone numbers, and standard replies while visiting clients."
+      },
+      {
+        "title": "Office & support",
+        "text": "Keep canned responses and contact details ready on your phone."
+      },
+      {
+        "title": "Personal productivity",
+        "text": "Store your home address, email signatures, and frequently used phrases."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Start free. Upgrade when you need more capacity and backup.",
+    "freeTitle": "Free",
+    "freePrice": "¥0",
+    "freeItems": [
+      "Up to 5 saved items per category",
+      "Up to 2 profile cards",
+      "Tap to copy & category tabs",
+      "30-day trial of all Pro features"
+    ],
+    "proTitle": "Pro (one-time purchase)",
+    "proPrice": "See price on the store",
+    "proItems": [
+      "Up to 200 items per category",
+      "Up to 30 profile cards",
+      "JSON export & import",
+      "One-time purchase via Google Play / App Store"
+    ],
+    "note": "The app is free to download. Pro is a non-consumable add-on purchased through your app store. Prices may vary by region."
+  },
+  "privacySection": {
+    "title": "Your data stays on your phone",
+    "text": "Saved text, profile cards, and settings are stored only on your device. We do not operate a cloud sync service or collect your snippet content.",
+    "link": "Read the Privacy Policy"
+  },
+  "cta": {
+    "title": "Stop retyping the same text on your phone",
+    "lead": "Download free and try every Pro feature for 30 days—see what fits your routine.",
+    "button": "Get it on Google Play"
+  },
+  "footer": {
+    "pcEdition": "MyQuickPaste (PC edition)",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
+    "developer": "Developer: Kazuhiro Suda"
+  },
+  "supportPage": {
+    "title": "Support",
+    "lead": "Help for MyQuickPaste for Business (smartphone edition).",
+    "faqTitle": "Frequently asked questions",
+    "items": [
+      {
+        "q": "Is this the same app as MyQuickPaste for Windows?",
+        "a": "No. MyQuickPaste for Business is the smartphone edition. It shares the same product philosophy but is a separate app with its own data and store purchase."
+      },
+      {
+        "q": "What is the difference between Free and Pro?",
+        "a": "Free includes up to 5 items per category and 2 profile cards. Pro expands capacity and unlocks JSON export and import. New installs receive a 30-day trial of all Pro features."
+      },
+      {
+        "q": "How does the 30-day trial work?",
+        "a": "All Pro features are available for 30 days from first launch. After the trial, you can continue on the free plan or purchase Pro in the store."
+      },
+      {
+        "q": "Where is my data stored?",
+        "a": "Saved text, profile cards, and settings are stored only on your device."
+      },
+      {
+        "q": "How do I back up or move my data?",
+        "a": "Pro users can export a JSON backup from Settings and import it on another device running MyQuickPaste for Business."
+      },
+      {
+        "q": "When will the iPhone version be available?",
+        "a": "The iOS edition is in preparation. This page will be updated when it launches on the App Store."
+      },
+      {
+        "q": "How do I purchase Pro?",
+        "a": "Open the in-app upgrade screen or the store listing for the Pro add-on. Billing is handled entirely by Google Play or the App Store."
+      }
+    ],
+    "contactTitle": "Contact",
+    "contactText": "For bug reports and feature requests, email us:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "lead": "MyQuickPaste for Business (smartphone edition)",
+    "updated": "Last updated: July 2026",
+    "sections": [
+      {
+        "h": "Overview",
+        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+      },
+      {
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+      },
+      {
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+      },
+      {
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+      },
+      {
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "Release Notes",
+    "lead": "Version history for MyQuickPaste for Business.",
+    "latestPrefix": "Latest release:",
+    "storeNote": "Updates are delivered through Google Play and, when available, the App Store.",
+    "entries": [
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "Initial public release (Android)",
+        "items": [
+          "Category-based lists: Freeword, Snippets, Email, Phone, Address, Profile",
+          "Tap to copy and long-press preview",
+          "Profile cards with per-field copy",
+          "Reorder mode for list and profile items",
+          "Free plan with 30-day Pro trial",
+          "JSON export/import (Pro)",
+          "21-language UI and light/dark themes",
+          "Settings for copy feedback, startup category, and data backup"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "See the app in action",
+    "subtitle": "Real screens from MyQuickPaste for Business on Android.",
+    "freetextAlt": "Free text list with saved phrases and one-tap copy",
+    "snippetsAlt": "Snippets category with email templates",
+    "profileAlt": "Profile cards for Home and Work contacts",
+    "profileEditAlt": "Edit profile screen with address and contact fields",
+    "cateAlt": "Six category tabs: Free text, Snippets, Mail, Phone, Address, Profile",
+    "items": [
+      {
+        "caption": "Free text - signatures, URLs, and account details at a glance"
+      },
+      {
+        "caption": "Snippets - ready-made replies for email and chat"
+      },
+      {
+        "caption": "Profile - copy address, phone, or everything with one tap"
+      },
+      {
+        "caption": "Edit profile - separate Home, Work, and client cards"
+      },
+      {
+        "caption": "Category tabs - switch between six lists instantly"
+      }
+    ]
+  }
 }

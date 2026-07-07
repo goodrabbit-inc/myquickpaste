@@ -261,27 +261,39 @@
   "privacyPage": {
     "title": "개인정보처리방침",
     "lead": "MyQuickPaste for Business (스마트폰용)",
-    "updated": "최종 업데이트: 2026년 6월",
+    "updated": "Last updated: July 2026",
     "sections": [
       {
-        "h": "개요",
-        "p": "MyQuickPaste for Business는 Good Rabbit inc.(이하 \"당사\")가 제공하는 스마트폰 앱입니다. 본 방침은 앱이 기기 내 정보를 어떻게 처리하는지 설명합니다."
+        "h": "Overview",
+        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
-        "h": "수집하지 않는 정보",
-        "p": "당사는 저장된 정형문, 프로필 카드, 클립보드 내용을 서버에 수집·전송·저장하지 않습니다. 앱은 데이터를 기기 안에만 유지하도록 설계되었습니다."
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
       },
       {
-        "h": "로컬 저장",
-        "p": "입력한 내용, 카테고리, 프로필 카드, 앱 설정은 스마트폰 내 앱 전용 저장 공간에 보관됩니다. 백업(Pro 내보내기)과 기기 보안 관리는 사용자 본인의 책임입니다."
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
       },
       {
-        "h": "앱 스토어와 구매",
-        "p": "다운로드, 체험, Pro 구매는 Google Play 또는 Apple App Store가 처리합니다. 결제와 라이선스 확인은 각 스토어의 개인정보처리방침 및 이용약관을 따릅니다."
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
       },
       {
-        "h": "문의",
-        "p": "본 방침에 대해 궁금한 점이 있으시면 myquickpaste@hotmail.com으로 문의해주세요."
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
       }
     ]
   },

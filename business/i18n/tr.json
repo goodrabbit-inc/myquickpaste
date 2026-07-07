@@ -261,27 +261,39 @@
   "privacyPage": {
     "title": "Gizlilik Politikası",
     "lead": "MyQuickPaste for Business (Akıllı Telefon Sürümü)",
-    "updated": "Son güncelleme: Haziran 2026",
+    "updated": "Last updated: July 2026",
     "sections": [
       {
-        "h": "Genel Bakış",
-        "p": "MyQuickPaste for Business, Good Rabbit inc. (\"biz\") tarafından sağlanan bir akıllı telefon uygulamasıdır. Bu politika, uygulamanın cihazınızdaki bilgileri nasıl işlediğini açıklar."
+        "h": "Overview",
+        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
-        "h": "Toplamadığımız bilgiler",
-        "p": "Kaydedilmiş hazır cümlelerinizi, profil kartlarınızı veya pano içeriğinizi herhangi bir sunucuda toplamıyoruz, aktarmıyoruz veya saklamıyoruz. Uygulama, verilerinizin yalnızca cihazınızda kalması için tasarlanmıştır."
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
       },
       {
-        "h": "Yerel depolama",
-        "p": "Girişleriniz, kategorileriniz, profil kartlarınız ve uygulama ayarlarınız, akıllı telefonunuzdaki uygulamanın özel depolama alanında saklanır. Yedekleme (Pro dışa aktarma) ve cihaz güvenliği sizin sorumluluğunuzdadır."
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
       },
       {
-        "h": "Uygulama mağazaları ve satın almalar",
-        "p": "İndirmeler, denemeler ve Pro satın almaları Google Play veya Apple App Store tarafından işlenir. Ödemeler ve lisans doğrulaması, ilgili mağazanın gizlilik politikasına ve şartlarına tabidir."
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
       },
       {
-        "h": "Bize Ulaşın",
-        "p": "Bu politikayla ilgili herhangi bir sorunuz için lütfen myquickpaste@hotmail.com adresinden bize ulaşın."
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
       }
     ]
   },

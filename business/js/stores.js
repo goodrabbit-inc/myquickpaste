@@ -12,7 +12,7 @@
       en: "images/badges/google-play-en.png",
       width: 155,
       height: 60,
-      url: GOOGLE_PLAY_URL,
+      soon: true,
     },
     "app-store": {
       ja: "images/badges/app-store-ja.svg",

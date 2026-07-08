@@ -21,7 +21,7 @@
     "badge": "Per Android e iPhone",
     "catch": "Salva ciò che usi ogni giorno. Copialo con un tocco.",
     "lead": "Pensata per chi riscrive di continuo le stesse risposte, indirizzi, numeri di telefono o dati del profilo. Organizzali per categoria, tocca una riga e incollala in email, chat o ovunque ti serva.",
-    "platformLine": "Disponibile su Android · iPhone e iPad in arrivo",
+    "platformLine": "Google Play e App Store in arrivo",
     "trialTitle": "30 giorni di prova completa",
     "trialText": "Per 30 giorni dopo l'installazione puoi provare gratuitamente tutte le funzioni Pro.",
     "trust": "Conservato sul tuo dispositivo · 21 lingue"
@@ -213,7 +213,7 @@
   },
   "cta": {
     "title": "Perché continuare a riscrivere lo stesso testo sul telefono?",
-    "lead": "Scaricala gratis e prova tutte le funzioni Pro per 30 giorni: scopri cosa fa per te.",
+    "lead": "In arrivo su Google Play. Dopo il lancio, prova tutte le funzioni Pro gratis per 30 giorni.",
     "button": "Disponibile su Google Play"
   },
   "footer": {

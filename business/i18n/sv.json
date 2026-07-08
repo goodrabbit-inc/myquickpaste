@@ -21,7 +21,7 @@
     "badge": "För Android och iPhone",
     "catch": "Spara det du använder ofta. Kopiera med en knapptryckning.",
     "lead": "Gjord för dig som gång på gång skriver samma svar, adresser, telefonnummer eller profiluppgifter. Sortera allt efter kategori, tryck på en rad och klistra in i e-post, chatt eller var du än behöver det.",
-    "platformLine": "Tillgänglig för Android · iPhone och iPad kommer snart",
+    "platformLine": "Google Play och App Store kommer snart",
     "trialTitle": "30 dagars fullständig provperiod",
     "trialText": "Under 30 dagar efter installationen kan du testa alla Pro-funktioner gratis.",
     "trust": "Sparas endast på din enhet · 21 språk"
@@ -213,7 +213,7 @@
   },
   "cta": {
     "title": "Dags att sluta skriva samma text i mobilen om och om igen?",
-    "lead": "Ladda ner gratis och prova alla Pro-funktioner i 30 dagar — se vad som passar dig bäst.",
+    "lead": "Kommer snart till Google Play. Efter lansering kan du prova alla Pro-funktioner gratis i 30 dagar.",
     "button": "Finns på Google Play"
   },
   "footer": {

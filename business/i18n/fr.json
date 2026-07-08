@@ -21,7 +21,7 @@
     "badge": "Pour Android et iPhone",
     "catch": "Enregistrez vos textes du quotidien. Copiez-les en un instant.",
     "lead": "Conçu pour celles et ceux qui retapent sans cesse les mêmes réponses, adresses, numéros de téléphone ou informations de profil. Classez-les par catégorie, appuyez sur une ligne, et collez-la dans un e-mail, une conversation ou n'importe où ailleurs.",
-    "platformLine": "Disponible sur Android · iPhone et iPad bientôt disponibles",
+    "platformLine": "Google Play et App Store bientôt disponibles",
     "trialTitle": "30 jours d'essai complet",
     "trialText": "Pendant 30 jours après l'installation, testez gratuitement toutes les fonctionnalités Pro.",
     "trust": "Conservé sur votre appareil · 21 langues"
@@ -213,7 +213,7 @@
   },
   "cta": {
     "title": "Et si vous arrêtiez de retaper le même texte sur votre téléphone ?",
-    "lead": "Téléchargez gratuitement et testez toutes les fonctionnalités Pro pendant 30 jours — voyez ce qui vous convient.",
+    "lead": "Bientôt sur Google Play. Après le lancement, essayez toutes les fonctionnalités Pro gratuitement pendant 30 jours.",
     "button": "Disponible sur Google Play"
   },
   "footer": {

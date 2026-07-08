@@ -21,7 +21,7 @@
     "badge": "支持 Android 和 iPhone",
     "catch": "把常用的文字保存下来，一键复制。",
     "lead": "专为那些反复输入相同回复、地址、电话号码或个人资料的人设计。按分类整理好，点一下就能复制，随时粘贴到邮件、聊天或任何地方。",
-    "platformLine": "现已支持 Android · iPhone 和 iPad 即将推出",
+    "platformLine": "Google Play / App Store 即将推出",
     "trialTitle": "30 天全功能试用",
     "trialText": "安装后的 30 天内，可免费试用全部 Pro 功能。",
     "trust": "数据保存在本机 · 支持 21 种语言"
@@ -213,7 +213,7 @@
   },
   "cta": {
     "title": "今天就告别重复输入同样的文字吧",
-    "lead": "免费下载，30 天内可试用全部 Pro 功能，找到最适合自己的用法。",
+    "lead": "即将登陆 Google Play。发布后可在 30 天内免费试用全部 Pro 功能。",
     "button": "在 Google Play 上获取"
   },
   "footer": {

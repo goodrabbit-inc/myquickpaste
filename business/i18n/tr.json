@@ -21,7 +21,7 @@
     "badge": "Android ve iPhone için",
     "catch": "Her gün kullandığınızı kaydedin. Tek dokunuşla kopyalayın.",
     "lead": "Aynı yanıtı, adresi, telefon numarasını veya profil bilgisini defalarca yazmak zorunda kalan herkes için tasarlandı. Kategoriye göre düzenleyin, satıra dokunun ve e-postaya, sohbete veya istediğiniz yere yapıştırın.",
-    "platformLine": "Android'de kullanılabilir · iPhone ve iPad sürümü yakında",
+    "platformLine": "Google Play ve App Store yakında",
     "trialTitle": "30 gün tam özellikli deneme",
     "trialText": "Kurulumdan sonraki 30 gün boyunca tüm Pro özelliklerini ücretsiz deneyebilirsiniz.",
     "trust": "Veriler yalnızca cihazınızda kalır · 21 dil desteği"
@@ -213,7 +213,7 @@
   },
   "cta": {
     "title": "Telefonunuzda aynı metni tekrar tekrar yazmayı bırakma zamanı",
-    "lead": "Ücretsiz indirin ve tüm Pro özelliklerini 30 gün boyunca deneyin — sizin için neyin uygun olduğunu görün.",
+    "lead": "Yakında Google Play'de. Yayınlandıktan sonra 30 gün boyunca tüm Pro özelliklerini ücretsiz deneyin.",
     "button": "Google Play'de"
   },
   "footer": {

@@ -153,7 +153,7 @@
       },
       {
         "title": "Tema terang & gelap",
-        "text": "Ikuti tema sistem, atau pilih terang, gelap, atau otomatis di pengaturan.",
+        "text": "Pilih tema terang atau gelap di pengaturan.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 tema warna",
-    "subtitle": "Gratis mencakup terang, gelap, dan sistem. Pro membuka palet premium untuk bisnis dan penggunaan harian.",
+    "subtitle": "Gratis mencakup terang dan gelap. Pro membuka palet premium untuk bisnis dan penggunaan harian.",
     "imageAlt": "Kisi 14 tema MyQuickPaste for Business: tujuh tema terang di atas dan tujuh gelap di bawah.",
     "caption": "Baris atas: 7 tema terang / Baris bawah: 7 tema gelap",
     "note": "Tema premium memerlukan pembelian Pro."
@@ -323,7 +323,7 @@
           "Mode urutkan ulang untuk daftar dan profil",
           "Paket gratis dengan uji coba Pro 30 hari (kapasitas, kategori, dan cadangan)",
           "Ekspor/impor JSON (Pro)",
-          "Tema terang, gelap, dan sistem; tema premium dengan Pro",
+          "Tema terang dan gelap; tema premium dengan Pro",
           "Pengaturan untuk konfirmasi salin, kategori awal, dan backup"
         ]
       }

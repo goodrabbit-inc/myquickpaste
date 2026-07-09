@@ -155,7 +155,7 @@
       },
       {
         "title": "Light & dark theme",
-        "text": "Follow system theme or choose light, dark, or system in Settings.",
+        "text": "Choose light or dark in Settings.",
         "icon": "🌓"
       }
     ],
@@ -171,7 +171,7 @@
   },
   "themesSection": {
     "title": "14 color themes",
-    "subtitle": "Free includes light, dark, and system. Pro unlocks premium palettes for business and everyday use.",
+    "subtitle": "Free includes light and dark. Pro unlocks premium palettes for business and everyday use.",
     "imageAlt": "Grid of 14 MyQuickPaste for Business themes: seven light themes on top and seven dark themes below.",
     "caption": "Top row: 7 light themes / Bottom row: 7 dark themes",
     "note": "Premium themes require a Pro purchase."
@@ -325,7 +325,7 @@
           "Reorder mode for list and profile items",
           "Free plan with 30-day trial (capacity, categories and backup)",
           "JSON export/import (Pro)",
-          "Light, dark and system themes; premium themes with Pro",
+          "Light and dark themes; premium themes with Pro",
           "Settings for copy feedback, startup category, and data backup"
         ]
       }

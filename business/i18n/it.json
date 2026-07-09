@@ -153,7 +153,7 @@
       },
       {
         "title": "Tema chiaro e scuro",
-        "text": "Segui il tema del sistema oppure scegli chiaro, scuro o automatico nelle impostazioni.",
+        "text": "Scegli chiaro o scuro nelle impostazioni.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 temi colore",
-    "subtitle": "Gratis: chiaro, scuro e sistema. Pro sblocca palette premium per lavoro e uso quotidiano.",
+    "subtitle": "Gratis: chiaro e scuro. Pro sblocca palette premium per lavoro e uso quotidiano.",
     "imageAlt": "Griglia di 14 temi MyQuickPaste for Business: sette temi chiari in alto e sette scuri in basso.",
     "caption": "Riga superiore: 7 temi chiari / Riga inferiore: 7 temi scuri",
     "note": "I temi premium richiedono l'acquisto Pro."
@@ -323,7 +323,7 @@
           "Modalità riordino per liste e profili",
           "Versione gratuita con prova Pro di 30 giorni (capacità, categorie e backup)",
           "Esportazione e importazione JSON (Pro)",
-          "Temi chiaro, scuro e di sistema; temi premium con Pro",
+          "Temi chiaro e scuro; temi premium con Pro",
           "Impostazioni per feedback alla copia, categoria di avvio e backup dei dati"
         ]
       }

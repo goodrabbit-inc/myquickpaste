@@ -153,7 +153,7 @@
       },
       {
         "title": "Jasny i ciemny motyw",
-        "text": "Dostosuj się do motywu systemu lub wybierz jasny, ciemny albo automatyczny w ustawieniach.",
+        "text": "Wybierz jasny lub ciemny motyw w ustawieniach.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 motywów kolorystycznych",
-    "subtitle": "W wersji darmowej: jasny, ciemny i systemowy. Pro odblokowuje palety premium do pracy i codziennego użytku.",
+    "subtitle": "W wersji darmowej: jasny i ciemny. Pro odblokowuje palety premium do pracy i codziennego użytku.",
     "imageAlt": "Siatka 14 motywów MyQuickPaste for Business: siedem jasnych u góry i siedem ciemnych u dołu.",
     "caption": "Górny rząd: 7 jasnych motywów / Dolny rząd: 7 ciemnych motywów",
     "note": "Motywy premium wymagają zakupu Pro."
@@ -323,7 +323,7 @@
           "Tryb zmiany kolejności dla list i profili",
           "Wersja bezpłatna z 30-dniową wersją próbną Pro (pojemność, kategorie i kopia zapasowa)",
           "Eksport i import JSON (Pro)",
-          "Motywy jasny, ciemny i systemowy; motywy premium z Pro",
+          "Motywy jasny i ciemny; motywy premium z Pro",
           "Ustawienia potwierdzenia kopiowania, kategorii startowej i kopii zapasowej"
         ]
       }

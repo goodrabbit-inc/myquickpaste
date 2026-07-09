@@ -153,7 +153,7 @@
       },
       {
         "title": "Thème clair et sombre",
-        "text": "Suivez le thème du système, ou choisissez clair, sombre ou automatique dans les réglages.",
+        "text": "Choisissez clair ou sombre dans les réglages.",
         "icon": "🌓"
       }
     ],
@@ -169,11 +169,12 @@
   },
   "themesSection": {
     "title": "14 thèmes de couleur",
-    "subtitle": "Gratuit : clair, sombre et système. Pro débloque des palettes premium pour le travail et le quotidien.",
+    "subtitle": "Gratuit : clair et sombre. Pro débloque des palettes premium pour le travail et le quotidien.",
     "imageAlt": "Grille de 14 thèmes MyQuickPaste for Business : sept thèmes clairs en haut, sept sombres en bas.",
     "caption": "Rangée du haut : 7 thèmes clairs / Rangée du bas : 7 thèmes sombres",
     "note": "Les thèmes premium nécessitent l'achat Pro."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Idéal pour",
     "items": [
       {
@@ -322,7 +323,7 @@
           "Mode réorganisation pour les listes et les profils",
           "Version gratuite avec essai Pro de 30 jours (capacité, catégories et sauvegarde)",
           "Export et import JSON (Pro)",
-          "Thèmes clair, sombre et système ; thèmes premium avec Pro",
+          "Thèmes clair et sombre ; thèmes premium avec Pro",
           "Réglages pour le retour de copie, la catégorie de démarrage et la sauvegarde des données"
         ]
       }

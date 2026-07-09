@@ -153,7 +153,7 @@
       },
       {
         "title": "Ljust och mörkt tema",
-        "text": "Följ systemtemat eller välj ljust, mörkt eller automatiskt i inställningarna.",
+        "text": "Välj ljust eller mörkt i inställningarna.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 färgteman",
-    "subtitle": "Gratis inkluderar ljust, mörkt och system. Pro låser upp premiumpaletter för arbete och vardag.",
+    "subtitle": "Gratis inkluderar ljust och mörkt. Pro låser upp premiumpaletter för arbete och vardag.",
     "imageAlt": "Rutnät med 14 MyQuickPaste for Business-teman: sju ljusa överst och sju mörka underst.",
     "caption": "Övre rad: 7 ljusa teman / Nedre rad: 7 mörka teman",
     "note": "Premiumteman kräver Pro-köp."
@@ -323,7 +323,7 @@
           "Möjlighet att ändra ordning för listor och profiler",
           "Gratisversion med 30 dagars Pro-prov (kapacitet, kategorier och säkerhetskopiering)",
           "JSON-export/-import (Pro)",
-          "Ljust, mörkt och systemtema; premiumteman med Pro",
+          "Ljusa och mörka teman; premiumteman med Pro",
           "Inställningar för kopieringsfeedback, startkategori och säkerhetskopiering"
         ]
       }

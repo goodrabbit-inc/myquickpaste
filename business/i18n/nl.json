@@ -153,7 +153,7 @@
       },
       {
         "title": "Licht en donker thema",
-        "text": "Volg het systeemthema of kies zelf voor licht, donker of automatisch in de instellingen.",
+        "text": "Kies licht of donker in de instellingen.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 kleurthema's",
-    "subtitle": "Gratis: licht, donker en systeem. Pro ontgrendelt premiumpaletten voor werk en dagelijks gebruik.",
+    "subtitle": "Gratis: licht en donker. Pro ontgrendelt premiumpaletten voor werk en dagelijks gebruik.",
     "imageAlt": "Raster van 14 MyQuickPaste for Business-thema's: zeven lichte thema's boven, zeven donkere onder.",
     "caption": "Bovenste rij: 7 lichte thema's / Onderste rij: 7 donkere thema's",
     "note": "Premiumthema's vereisen een Pro-aankoop."
@@ -323,7 +323,7 @@
           "Volgorde aanpassen voor lijsten en profielen",
           "Gratis versie met 30 dagen Pro-proef (capaciteit, categorieën en back-up)",
           "JSON-export/-import (Pro)",
-          "Lichte, donkere en systeemthema's; premiumthema's met Pro",
+          "Lichte en donkere thema's; premiumthema's met Pro",
           "Instellingen voor kopieerfeedback, startcategorie en gegevensback-up"
         ]
       }

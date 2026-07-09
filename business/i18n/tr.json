@@ -153,7 +153,7 @@
       },
       {
         "title": "Açık ve koyu tema",
-        "text": "Sistem temasını izleyin veya ayarlardan açık, koyu ya da otomatik seçin.",
+        "text": "Ayarlardan açık veya koyu temayı seçin.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 renk teması",
-    "subtitle": "Ücretsiz: açık, koyu ve sistem. Pro, iş ve günlük kullanım için premium paletlerin kilidini açar.",
+    "subtitle": "Ücretsiz: açık ve koyu. Pro, iş ve günlük kullanım için premium paletlerin kilidini açar.",
     "imageAlt": "14 MyQuickPaste for Business temasının ızgarası: üstte yedi açık, altta yedi koyu tema.",
     "caption": "Üst sıra: 7 açık tema / Alt sıra: 7 koyu tema",
     "note": "Premium temalar Pro satın alımı gerektirir."
@@ -323,7 +323,7 @@
           "Listeler ve profiller için yeniden sıralama modu",
           "Ücretsiz sürüm ve 30 günlük Pro denemesi (kapasite, kategoriler ve yedekleme)",
           "JSON dışa/içe aktarma (Pro)",
-          "Açık, koyu ve sistem temaları; premium temalar Pro ile",
+          "Açık ve koyu temalar; premium temalar Pro ile",
           "Kopyalama onayı, başlangıç kategorisi ve yedekleme ayarları"
         ]
       }

@@ -153,7 +153,7 @@
       },
       {
         "title": "Helles und dunkles Design",
-        "text": "Dem Systemdesign folgen oder in den Einstellungen zwischen Hell, Dunkel und Automatisch wählen.",
+        "text": "Wählen Sie in den Einstellungen zwischen Hell und Dunkel.",
         "icon": "🌓"
       }
     ],
@@ -169,11 +169,12 @@
   },
   "themesSection": {
     "title": "14 Farbthemen",
-    "subtitle": "Kostenlos: Hell, Dunkel und System. Pro schaltet Premium-Paletten für Business und Alltag frei.",
+    "subtitle": "Kostenlos: Hell und Dunkel. Pro schaltet Premium-Paletten für Business und Alltag frei.",
     "imageAlt": "Raster mit 14 MyQuickPaste-for-Business-Themen: oben sieben helle, unten sieben dunkle Themes.",
     "caption": "Obere Reihe: 7 helle Themes / Untere Reihe: 7 dunkle Themes",
     "note": "Premium-Themes erfordern einen Pro-Kauf."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Ideal für",
     "items": [
       {
@@ -322,7 +323,7 @@
           "Sortiermodus für Listen und Profile",
           "Kostenlose Version mit 30-tägigem Pro-Test (Kapazität, Kategorien und Backup)",
           "JSON-Export/-Import (Pro)",
-          "Hell, Dunkel und System; Premium-Themes mit Pro",
+          "Helle und dunkle Themes; Premium-Themes mit Pro",
           "Einstellungen für Kopier-Feedback, Startkategorie und Datensicherung"
         ]
       }

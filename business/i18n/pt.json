@@ -153,7 +153,7 @@
       },
       {
         "title": "Tema claro e escuro",
-        "text": "Siga o tema do sistema ou escolha claro, escuro ou automático nas configurações.",
+        "text": "Escolha claro ou escuro nas configurações.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 temas de cor",
-    "subtitle": "Grátis inclui claro, escuro e sistema. Pro desbloqueia paletas premium para negócios e uso diário.",
+    "subtitle": "Grátis inclui claro e escuro. Pro desbloqueia paletas premium para negócios e uso diário.",
     "imageAlt": "Grade com 14 temas do MyQuickPaste for Business: sete temas claros em cima e sete escuros embaixo.",
     "caption": "Linha superior: 7 temas claros / Linha inferior: 7 temas escuros",
     "note": "Temas premium exigem a compra Pro."
@@ -323,7 +323,7 @@
           "Modo de reordenar para listas e perfis",
           "Versão gratuita com teste Pro de 30 dias (capacidade, categorias e backup)",
           "Exportação e importação em JSON (Pro)",
-          "Temas claro, escuro e do sistema; temas premium com Pro",
+          "Temas claro e escuro; temas premium com Pro",
           "Configurações para feedback de cópia, categoria inicial e backup de dados"
         ]
       }

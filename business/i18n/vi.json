@@ -153,7 +153,7 @@
       },
       {
         "title": "Giao diện sáng & tối",
-        "text": "Theo giao diện hệ thống, hoặc chọn sáng, tối, hay tự động trong phần cài đặt.",
+        "text": "Chọn chủ đề sáng hoặc tối trong Cài đặt.",
         "icon": "🌓"
       }
     ],
@@ -169,7 +169,7 @@
   },
   "themesSection": {
     "title": "14 chủ đề màu",
-    "subtitle": "Miễn phí gồm sáng, tối và theo hệ thống. Pro mở khóa bảng màu cao cấp cho công việc và dùng hàng ngày.",
+    "subtitle": "Miễn phí gồm sáng và tối. Pro mở khóa bảng màu cao cấp cho công việc và dùng hàng ngày.",
     "imageAlt": "Lưới 14 chủ đề MyQuickPaste for Business: bảy chủ đề sáng ở trên và bảy tối ở dưới.",
     "caption": "Hàng trên: 7 chủ đề sáng / Hàng dưới: 7 chủ đề tối",
     "note": "Chủ đề cao cấp cần mua Pro."
@@ -323,7 +323,7 @@
           "Chế độ sắp xếp lại cho danh sách và hồ sơ",
           "Gói miễn phí với dùng thử Pro 30 ngày (dung lượng, danh mục và sao lưu)",
           "Xuất/nhập JSON (Pro)",
-          "Giao diện sáng, tối và theo hệ thống; giao diện cao cấp với Pro",
+          "Chủ đề sáng và tối; chủ đề cao cấp với Pro",
           "Cài đặt xác nhận sao chép, danh mục khởi động và sao lưu"
         ]
       }

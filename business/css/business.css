@@ -956,6 +956,37 @@ main {
   box-shadow: var(--shadow);
 }
 
+.themes-showcase {
+  margin: 0;
+  text-align: center;
+}
+
+.themes-showcase img {
+  display: block;
+  width: min(100%, 980px);
+  margin: 0 auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-lg);
+}
+
+.themes-showcase figcaption {
+  margin: 0.75rem auto 0;
+  max-width: 42rem;
+  font-size: 0.84rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.themes-note {
+  margin: 0.85rem auto 0;
+  max-width: 42rem;
+  text-align: center;
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 .release-latest {
   margin-top: 0.5rem;
 }

@@ -167,7 +167,13 @@
       "Profil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 färgteman",
+    "subtitle": "Gratis inkluderar ljust, mörkt och system. Pro låser upp premiumpaletter för arbete och vardag.",
+    "imageAlt": "Rutnät med 14 MyQuickPaste for Business-teman: sju ljusa överst och sju mörka underst.",
+    "caption": "Övre rad: 7 ljusa teman / Nedre rad: 7 mörka teman",
+    "note": "Premiumteman kräver Pro-köp."
+  },  "usecases": {
     "title": "Perfekt för",
     "items": [
       {

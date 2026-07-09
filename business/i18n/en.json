@@ -169,6 +169,13 @@
       "Profile"
     ]
   },
+  "themesSection": {
+    "title": "14 color themes",
+    "subtitle": "Free includes light, dark, and system. Pro unlocks premium palettes for business and everyday use.",
+    "imageAlt": "Grid of 14 MyQuickPaste for Business themes: seven light themes on top and seven dark themes below.",
+    "caption": "Top row: 7 light themes / Bottom row: 7 dark themes",
+    "note": "Premium themes require a Pro purchase."
+  },
   "usecases": {
     "title": "Perfect for",
     "items": [

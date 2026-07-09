@@ -167,7 +167,13 @@
       "Profil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 thèmes de couleur",
+    "subtitle": "Gratuit : clair, sombre et système. Pro débloque des palettes premium pour le travail et le quotidien.",
+    "imageAlt": "Grille de 14 thèmes MyQuickPaste for Business : sept thèmes clairs en haut, sept sombres en bas.",
+    "caption": "Rangée du haut : 7 thèmes clairs / Rangée du bas : 7 thèmes sombres",
+    "note": "Les thèmes premium nécessitent l'achat Pro."
+  },  "usecases": {
     "title": "Idéal pour",
     "items": [
       {

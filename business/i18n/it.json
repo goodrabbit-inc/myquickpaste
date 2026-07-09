@@ -167,7 +167,13 @@
       "Profilo"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 temi colore",
+    "subtitle": "Gratis: chiaro, scuro e sistema. Pro sblocca palette premium per lavoro e uso quotidiano.",
+    "imageAlt": "Griglia di 14 temi MyQuickPaste for Business: sette temi chiari in alto e sette scuri in basso.",
+    "caption": "Riga superiore: 7 temi chiari / Riga inferiore: 7 temi scuri",
+    "note": "I temi premium richiedono l'acquisto Pro."
+  },  "usecases": {
     "title": "Perfetta per",
     "items": [
       {

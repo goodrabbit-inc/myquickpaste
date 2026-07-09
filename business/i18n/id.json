@@ -167,7 +167,13 @@
       "Profil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 tema warna",
+    "subtitle": "Gratis mencakup terang, gelap, dan sistem. Pro membuka palet premium untuk bisnis dan penggunaan harian.",
+    "imageAlt": "Kisi 14 tema MyQuickPaste for Business: tujuh tema terang di atas dan tujuh gelap di bawah.",
+    "caption": "Baris atas: 7 tema terang / Baris bawah: 7 tema gelap",
+    "note": "Tema premium memerlukan pembelian Pro."
+  },  "usecases": {
     "title": "Cocok Untuk",
     "items": [
       {

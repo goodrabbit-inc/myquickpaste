@@ -167,7 +167,13 @@
       "资料"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 种配色主题",
+    "subtitle": "免费版含浅色、深色与跟随系统。Pro 版可解锁适合商务与日常使用的 premium 主题。",
+    "imageAlt": "MyQuickPaste for Business 14 种主题网格：上方 7 个浅色主题，下方 7 个深色主题。",
+    "caption": "上排：7 个浅色主题 / 下排：7 个深色主题",
+    "note": "Premium 主题需购买 Pro 版。"
+  },  "usecases": {
     "title": "适合这样的你",
     "items": [
       {

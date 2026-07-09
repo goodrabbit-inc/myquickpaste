@@ -167,7 +167,13 @@
       "Profil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 renk teması",
+    "subtitle": "Ücretsiz: açık, koyu ve sistem. Pro, iş ve günlük kullanım için premium paletlerin kilidini açar.",
+    "imageAlt": "14 MyQuickPaste for Business temasının ızgarası: üstte yedi açık, altta yedi koyu tema.",
+    "caption": "Üst sıra: 7 açık tema / Alt sıra: 7 koyu tema",
+    "note": "Premium temalar Pro satın alımı gerektirir."
+  },  "usecases": {
     "title": "Şunlar İçin İdeal",
     "items": [
       {

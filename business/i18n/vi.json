@@ -167,7 +167,13 @@
       "Hồ sơ"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 chủ đề màu",
+    "subtitle": "Miễn phí gồm sáng, tối và theo hệ thống. Pro mở khóa bảng màu cao cấp cho công việc và dùng hàng ngày.",
+    "imageAlt": "Lưới 14 chủ đề MyQuickPaste for Business: bảy chủ đề sáng ở trên và bảy tối ở dưới.",
+    "caption": "Hàng trên: 7 chủ đề sáng / Hàng dưới: 7 chủ đề tối",
+    "note": "Chủ đề cao cấp cần mua Pro."
+  },  "usecases": {
     "title": "Lý tưởng cho",
     "items": [
       {

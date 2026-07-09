@@ -167,7 +167,13 @@
       "Profiel"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 kleurthema's",
+    "subtitle": "Gratis: licht, donker en systeem. Pro ontgrendelt premiumpaletten voor werk en dagelijks gebruik.",
+    "imageAlt": "Raster van 14 MyQuickPaste for Business-thema's: zeven lichte thema's boven, zeven donkere onder.",
+    "caption": "Bovenste rij: 7 lichte thema's / Onderste rij: 7 donkere thema's",
+    "note": "Premiumthema's vereisen een Pro-aankoop."
+  },  "usecases": {
     "title": "Ideaal voor",
     "items": [
       {

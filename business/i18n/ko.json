@@ -167,7 +167,13 @@
       "프로필"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14가지 컬러 테마",
+    "subtitle": "무료 버전은 라이트/다크/시스템 연동. Pro 버전에서는 비즈니스용 프리미엄 테마를 추가로 선택할 수 있습니다.",
+    "imageAlt": "MyQuickPaste for Business 14가지 테마 그리드: 위쪽 7개는 밝은 테마, 아래쪽 7개는 다크 테마.",
+    "caption": "상단: 밝은 테마 7종 / 하단: 다크 테마 7종",
+    "note": "프리미엄 테마는 Pro 구매가 필요합니다."
+  },  "usecases": {
     "title": "이런 분들께 추천합니다",
     "items": [
       {

@@ -167,7 +167,13 @@
       "Perfil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 temas de cor",
+    "subtitle": "Grátis inclui claro, escuro e sistema. Pro desbloqueia paletas premium para negócios e uso diário.",
+    "imageAlt": "Grade com 14 temas do MyQuickPaste for Business: sete temas claros em cima e sete escuros embaixo.",
+    "caption": "Linha superior: 7 temas claros / Linha inferior: 7 temas escuros",
+    "note": "Temas premium exigem a compra Pro."
+  },  "usecases": {
     "title": "Ideal para",
     "items": [
       {

@@ -167,7 +167,13 @@
       "Profil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 Farbthemen",
+    "subtitle": "Kostenlos: Hell, Dunkel und System. Pro schaltet Premium-Paletten für Business und Alltag frei.",
+    "imageAlt": "Raster mit 14 MyQuickPaste-for-Business-Themen: oben sieben helle, unten sieben dunkle Themes.",
+    "caption": "Obere Reihe: 7 helle Themes / Untere Reihe: 7 dunkle Themes",
+    "note": "Premium-Themes erfordern einen Pro-Kauf."
+  },  "usecases": {
     "title": "Ideal für",
     "items": [
       {

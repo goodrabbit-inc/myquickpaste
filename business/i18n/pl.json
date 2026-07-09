@@ -167,7 +167,13 @@
       "Profil"
     ]
   },
-  "usecases": {
+  "themesSection": {
+    "title": "14 motywów kolorystycznych",
+    "subtitle": "W wersji darmowej: jasny, ciemny i systemowy. Pro odblokowuje palety premium do pracy i codziennego użytku.",
+    "imageAlt": "Siatka 14 motywów MyQuickPaste for Business: siedem jasnych u góry i siedem ciemnych u dołu.",
+    "caption": "Górny rząd: 7 jasnych motywów / Dolny rząd: 7 ciemnych motywów",
+    "note": "Motywy premium wymagają zakupu Pro."
+  },  "usecases": {
     "title": "Idealne dla",
     "items": [
       {

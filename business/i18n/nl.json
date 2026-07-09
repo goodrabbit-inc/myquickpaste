@@ -22,8 +22,8 @@
     "catch": "Bewaar wat je vaak gebruikt. Kopieer het met één tik.",
     "lead": "Gemaakt voor iedereen die steeds dezelfde antwoorden, adressen, telefoonnummers of profielgegevens opnieuw intypt. Sorteer alles per categorie, tik op een regel en plak het in e-mail, chat of waar dan ook.",
     "platformLine": "Google Play en App Store binnenkort beschikbaar",
-    "trialTitle": "30 dagen alle functies uitproberen",
-    "trialText": "Gedurende 30 dagen na installatie kun je alle Pro-functies gratis uitproberen.",
+    "trialTitle": "30 dagen Pro-proef",
+    "trialText": "Gedurende 30 dagen na installatie kun je gratis uitgebreide capaciteit, alle categorieën en back-up uitproberen. Premiumthema's vereisen een Pro-aankoop.",
     "trust": "Blijft op je toestel · 21 talen"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "Raster van 14 MyQuickPaste for Business-thema's: zeven lichte thema's boven, zeven donkere onder.",
     "caption": "Bovenste rij: 7 lichte thema's / Onderste rij: 7 donkere thema's",
     "note": "Premiumthema's vereisen een Pro-aankoop."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Ideaal voor",
     "items": [
       {
@@ -200,7 +201,7 @@
       "Tot 1 profielkaart",
       "Sjablonen, e-mail, telefoon en adres: alleen bekijken (gebruik met Pro)",
       "Kopiëren met één tik, categorie wisselen",
-      "30 dagen proef van alle Pro-functies"
+      "30 dagen proef: capaciteit, categorieën en back-up (premiumthema's vereisen Pro-aankoop)"
     ],
     "proTitle": "Pro (eenmalige aankoop)",
     "proPrice": "Prijs zie je in de store",
@@ -208,6 +209,7 @@
       "Tot 200 items per categorie",
       "Tot 30 profielkaarten",
       "JSON-export en -import",
+      "Premium uiterlijke thema's",
       "Eenmalige aankoop via Google Play / App Store"
     ],
     "note": "De app is gratis te downloaden. Pro is een niet-verbruikbare add-on die je via de appstore aanschaft; de prijs kan per regio verschillen."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Tijd om te stoppen met steeds dezelfde tekst intypen op je telefoon?",
-    "lead": "Binnenkort op Google Play. Na de lancering kunt u 30 dagen alle Pro-functies gratis proberen.",
+    "lead": "Binnenkort op Google Play. Na de lancering kun je 30 dagen gratis uitgebreide capaciteit, alle categorieën en back-up proberen. Premiumthema's vereisen een Pro-aankoop.",
     "button": "Beschikbaar op Google Play"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Wat is het verschil tussen de gratis versie en Pro?",
-        "a": "Gratis omvat tot 5 vrije-tekstitems en 1 profielkaart om te kopiëren en bewerken. Sjablonen, E-mail, Telefoon en Adres zijn te bekijken, maar gebruik vereist Pro. Pro ontgrendelt alle categorieën, vergroot de capaciteit en voegt JSON-export en -import toe. Nieuwe installaties krijgen 30 dagen proef van alle Pro-functies."
+        "a": "Gratis omvat tot 5 vrije-tekstitems en 1 profielkaart om te kopiëren en bewerken. Sjablonen, E-mail, Telefoon en Adres zijn te bekijken, maar gebruik vereist Pro. Pro ontgrendelt alle categorieën, vergroot de capaciteit, voegt JSON-export en -import toe en premiumthema's. Nieuwe installaties krijgen 30 dagen proef van uitgebreide capaciteit, alle categorieën en back-up (premiumthema's vereisen Pro-aankoop)."
       },
       {
         "q": "Hoe werkt de proefperiode van 30 dagen?",
-        "a": "Vanaf de eerste keer opstarten zijn alle Pro-functies 30 dagen beschikbaar. Daarna kun je verder gaan met de gratis versie of Pro kopen in de store."
+        "a": "Vanaf de eerste keer opstarten zijn 30 dagen lang uitgebreide capaciteit, alle categorieën en back-up inbegrepen. Premiumthema's worden alleen ontgrendeld met een Pro-aankoop. Daarna kun je verder gaan met de gratis versie of Pro kopen in de store."
       },
       {
         "q": "Waar worden mijn gegevens opgeslagen?",
@@ -319,9 +321,9 @@
           "Kopiëren met één tik en voorbeeld bij lang indrukken",
           "Profielkaarten met kopiëren per veld",
           "Volgorde aanpassen voor lijsten en profielen",
-          "Gratis versie met 30 dagen Pro-proefperiode",
+          "Gratis versie met 30 dagen Pro-proef (capaciteit, categorieën en back-up)",
           "JSON-export/-import (Pro)",
-          "Interface in 21 talen, licht en donker thema",
+          "Lichte, donkere en systeemthema's; premiumthema's met Pro",
           "Instellingen voor kopieerfeedback, startcategorie en gegevensback-up"
         ]
       }

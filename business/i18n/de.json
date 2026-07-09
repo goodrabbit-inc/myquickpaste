@@ -22,8 +22,8 @@
     "catch": "Speichern Sie, was Sie oft brauchen. Kopieren Sie es mit einem Tipp.",
     "lead": "Entwickelt für alle, die ständig dieselben Antworten, Adressen, Telefonnummern oder Profildaten eintippen. Legen Sie alles nach Kategorie an, tippen Sie auf eine Zeile und fügen Sie sie in E-Mails, Chats oder überall sonst ein.",
     "platformLine": "Google Play und App Store demnächst",
-    "trialTitle": "30 Tage alle Funktionen testen",
-    "trialText": "30 Tage nach der Installation können Sie alle Pro-Funktionen kostenlos testen.",
+    "trialTitle": "30 Tage Pro-Test",
+    "trialText": "30 Tage nach der Installation können Sie erweiterte Kapazität, alle Kategorien und Backup kostenlos testen. Premium-Themes erfordern einen Pro-Kauf.",
     "trust": "Wird auf Ihrem Gerät gespeichert · 21 Sprachen"
   },
   "stores": {
@@ -200,7 +200,7 @@
       "Bis zu 1 Profilkarte",
       "Textbausteine, E-Mail, Telefon und Adresse nur ansehen (Nutzung mit Pro)",
       "Kopieren per Tippen, Kategorie-Wechsel",
-      "30 Tage Testzugang zu allen Pro-Funktionen"
+      "30 Tage Test: Kapazität, Kategorien und Backup (Premium-Themes nur mit Pro-Kauf)"
     ],
     "proTitle": "Pro (Einmalkauf)",
     "proPrice": "Preis im Store ansehen",
@@ -208,6 +208,7 @@
       "Bis zu 200 Einträge pro Kategorie",
       "Bis zu 30 Profilkarten",
       "JSON-Export und -Import",
+      "Premium-Farbthemen",
       "Einmaliger Kauf über Google Play / App Store"
     ],
     "note": "Die App steht kostenlos zum Download bereit. Pro ist ein einmalig kaufbares Add-on über den jeweiligen App Store; der Preis kann je nach Region variieren."
@@ -219,7 +220,7 @@
   },
   "cta": {
     "title": "Warum nicht heute damit aufhören, immer wieder denselben Text einzutippen?",
-    "lead": "Demnächst bei Google Play. Nach dem Start können Sie 30 Tage lang alle Pro-Funktionen kostenlos testen.",
+    "lead": "Demnächst bei Google Play. Nach dem Start 30 Tage lang Kapazität, alle Kategorien und Backup kostenlos testen. Premium-Themes erfordern einen Pro-Kauf.",
     "button": "Bei Google Play"
   },
   "footer": {
@@ -238,11 +239,11 @@
       },
       {
         "q": "Was unterscheidet die kostenlose Version von Pro?",
-        "a": "Die kostenlose Version erlaubt bis zu 5 Freitext-Einträge und 1 Profilkarte zum Kopieren und Bearbeiten. Textbausteine, E-Mail, Telefon und Adresse können angesehen, aber erst mit Pro genutzt werden. Pro schaltet alle Kategorien frei, erweitert die Kapazität und bietet JSON-Export und -Import. Neue Installationen erhalten 30 Tage Zugriff auf alle Pro-Funktionen."
+        "a": "Die kostenlose Version erlaubt bis zu 5 Freitext-Einträge und 1 Profilkarte zum Kopieren und Bearbeiten. Textbausteine, E-Mail, Telefon und Adresse können angesehen, aber erst mit Pro genutzt werden. Pro schaltet alle Kategorien frei, erweitert die Kapazität, bietet JSON-Export/-Import und Premium-Themes. Neue Installationen erhalten 30 Tage Test von Kapazität, Kategorien und Backup (Premium-Themes nur mit Pro-Kauf)."
       },
       {
         "q": "Wie funktioniert die 30-tägige Testphase?",
-        "a": "Ab dem ersten Start stehen 30 Tage lang alle Pro-Funktionen zur Verfügung. Danach können Sie kostenlos weiternutzen oder Pro im Store kaufen."
+        "a": "Ab dem ersten Start sind 30 Tage lang erweiterte Kapazität, alle Kategorien und Backup enthalten. Premium-Themes werden nur mit Pro-Kauf freigeschaltet. Danach können Sie kostenlos weiternutzen oder Pro im Store kaufen."
       },
       {
         "q": "Wo werden meine Daten gespeichert?",
@@ -319,9 +320,9 @@
           "Kopieren mit einem Tipp und Vorschau bei langem Tippen",
           "Profilkarten mit Kopieren einzelner Felder",
           "Sortiermodus für Listen und Profile",
-          "Kostenlose Version mit 30-tägigem Pro-Test",
+          "Kostenlose Version mit 30-tägigem Pro-Test (Kapazität, Kategorien und Backup)",
           "JSON-Export/-Import (Pro)",
-          "Oberfläche in 21 Sprachen, helles und dunkles Design",
+          "Hell, Dunkel und System; Premium-Themes mit Pro",
           "Einstellungen für Kopier-Feedback, Startkategorie und Datensicherung"
         ]
       }

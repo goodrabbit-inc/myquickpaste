@@ -22,8 +22,8 @@
     "catch": "Zapisz to, czego używasz na co dzień. Kopiuj jednym dotknięciem.",
     "lead": "Stworzone dla osób, które wciąż na nowo wpisują te same odpowiedzi, adresy, numery telefonów czy dane profilowe. Uporządkuj je według kategorii, dotknij wiersza i wklej do e-maila, czatu lub gdziekolwiek indziej.",
     "platformLine": "Google Play i App Store wkrótce",
-    "trialTitle": "30 dni pełnego dostępu",
-    "trialText": "Przez 30 dni od instalacji możesz bezpłatnie wypróbować wszystkie funkcje Pro.",
+    "trialTitle": "30-dniowa wersja próbna Pro",
+    "trialText": "Przez 30 dni od instalacji możesz bezpłatnie wypróbować rozszerzoną pojemność, wszystkie kategorie i kopię zapasową. Motywy premium wymagają zakupu Pro.",
     "trust": "Dane pozostają na urządzeniu · 21 języków"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "Siatka 14 motywów MyQuickPaste for Business: siedem jasnych u góry i siedem ciemnych u dołu.",
     "caption": "Górny rząd: 7 jasnych motywów / Dolny rząd: 7 ciemnych motywów",
     "note": "Motywy premium wymagają zakupu Pro."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Idealne dla",
     "items": [
       {
@@ -200,7 +201,7 @@
       "Do 1 karty profilu",
       "Szablony, e-mail, telefon i adres: tylko podgląd (użycie w Pro)",
       "Kopiowanie jednym dotknięciem, zmiana kategorii",
-      "30-dniowy okres próbny wszystkich funkcji Pro"
+      "30-dniowa wersja próbna: pojemność, kategorie i kopia zapasowa (motywy premium wymagają zakupu Pro)"
     ],
     "proTitle": "Pro (zakup jednorazowy)",
     "proPrice": "Cenę sprawdź w sklepie",
@@ -208,6 +209,7 @@
       "Do 200 elementów w każdej kategorii",
       "Do 30 kart profilu",
       "Eksport i import JSON",
+      "Motywy premium wyglądu",
       "Jednorazowy zakup przez Google Play / App Store"
     ],
     "note": "Aplikację można pobrać bezpłatnie. Pro to jednorazowy dodatek kupowany przez sklep z aplikacjami; cena może się różnić w zależności od regionu."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Czas przestać wpisywać ten sam tekst na telefonie od nowa?",
-    "lead": "Wkrótce w Google Play. Po premierze wypróbuj wszystkie funkcje Pro przez 30 dni za darmo.",
+    "lead": "Wkrótce w Google Play. Po premierze wypróbuj przez 30 dni bezpłatnie rozszerzoną pojemność, wszystkie kategorie i kopię zapasową. Motywy premium wymagają zakupu Pro.",
     "button": "Dostępne w Google Play"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Czym różni się wersja bezpłatna od Pro?",
-        "a": "Wersja bezpłatna obejmuje do 5 pozycji w dowolnym tekście i 1 kartę profilu do kopiowania i edycji. Szablony, E-mail, Telefon i Adres można przeglądać, ale ich użycie wymaga Pro. Pro odblokowuje wszystkie kategorie, zwiększa limit i dodaje eksport/import JSON. Nowe instalacje otrzymują 30-dniowy okres próbny wszystkich funkcji Pro."
+        "a": "Wersja bezpłatna obejmuje do 5 elementów dowolnego tekstu i 1 kartę profilu do kopiowania i edycji. Możesz przeglądać Szablony, E-mail, Telefon i Adres, ale ich użycie wymaga Pro. Pro odblokowuje wszystkie kategorie, zwiększa pojemność, dodaje eksport/import JSON i motywy premium. Nowe instalacje otrzymują 30-dniową wersję próbną rozszerzonej pojemności, wszystkich kategorii i kopii zapasowej (motywy premium wymagają zakupu Pro)."
       },
       {
         "q": "Jak działa 30-dniowy okres próbny?",
-        "a": "Od pierwszego uruchomienia przez 30 dni dostępne są wszystkie funkcje Pro. Po tym okresie możesz korzystać dalej z wersji bezpłatnej lub kupić Pro w sklepie."
+        "a": "Przez 30 dni od pierwszego uruchomienia dostępne są rozszerzona pojemność, wszystkie kategorie i kopia zapasowa. Motywy premium odblokowują się tylko po zakupie Pro. Po zakończeniu wersji próbnej możesz kontynuować z wersją bezpłatną lub kupić Pro w sklepie."
       },
       {
         "q": "Gdzie przechowywane są moje dane?",
@@ -319,9 +321,9 @@
           "Kopiowanie jednym dotknięciem i podgląd po dłuższym dotknięciu",
           "Karty profilu z kopiowaniem pojedynczych pól",
           "Tryb zmiany kolejności dla list i profili",
-          "Wersja bezpłatna z 30-dniową próbą Pro",
+          "Wersja bezpłatna z 30-dniową wersją próbną Pro (pojemność, kategorie i kopia zapasowa)",
           "Eksport i import JSON (Pro)",
-          "Interfejs w 21 językach, jasny i ciemny motyw",
+          "Motywy jasny, ciemny i systemowy; motywy premium z Pro",
           "Ustawienia potwierdzenia kopiowania, kategorii startowej i kopii zapasowej"
         ]
       }

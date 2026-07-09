@@ -22,8 +22,8 @@
     "catch": "Salva ciò che usi ogni giorno. Copialo con un tocco.",
     "lead": "Pensata per chi riscrive di continuo le stesse risposte, indirizzi, numeri di telefono o dati del profilo. Organizzali per categoria, tocca una riga e incollala in email, chat o ovunque ti serva.",
     "platformLine": "Google Play e App Store in arrivo",
-    "trialTitle": "30 giorni di prova completa",
-    "trialText": "Per 30 giorni dopo l'installazione puoi provare gratuitamente tutte le funzioni Pro.",
+    "trialTitle": "Prova Pro di 30 giorni",
+    "trialText": "Per 30 giorni dopo l'installazione puoi provare gratuitamente capacità estesa, tutte le categorie e backup. I temi premium richiedono l'acquisto Pro.",
     "trust": "Conservato sul tuo dispositivo · 21 lingue"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "Griglia di 14 temi MyQuickPaste for Business: sette temi chiari in alto e sette scuri in basso.",
     "caption": "Riga superiore: 7 temi chiari / Riga inferiore: 7 temi scuri",
     "note": "I temi premium richiedono l'acquisto Pro."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Perfetta per",
     "items": [
       {
@@ -200,7 +201,7 @@
       "Fino a 1 scheda profilo",
       "Modelli, e-mail, telefono e indirizzo: solo visualizzazione (uso con Pro)",
       "Copia con un tocco e cambio categoria",
-      "Prova di 30 giorni di tutte le funzioni Pro"
+      "Prova di 30 giorni: capacità, categorie e backup (temi premium con acquisto Pro)"
     ],
     "proTitle": "Pro (acquisto unico)",
     "proPrice": "Prezzo disponibile sullo store",
@@ -208,6 +209,7 @@
       "Fino a 200 elementi per categoria",
       "Fino a 30 schede profilo",
       "Esportazione e importazione JSON",
+      "Temi premium di aspetto",
       "Acquisto unico tramite Google Play / App Store"
     ],
     "note": "L'app è gratuita da scaricare. Pro è un componente aggiuntivo non consumabile acquistabile tramite lo store; il prezzo può variare in base alla regione."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Perché continuare a riscrivere lo stesso testo sul telefono?",
-    "lead": "In arrivo su Google Play. Dopo il lancio, prova tutte le funzioni Pro gratis per 30 giorni.",
+    "lead": "In arrivo su Google Play. Dopo il lancio, prova capacità estesa, tutte le categorie e backup gratis per 30 giorni. I temi premium richiedono l'acquisto Pro.",
     "button": "Disponibile su Google Play"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Qual è la differenza tra la versione gratuita e Pro?",
-        "a": "La versione gratuita include fino a 5 elementi di testo libero e 1 scheda profilo da copiare e modificare. Puoi consultare Modelli, E-mail, Telefono e Indirizzo, ma per usarli serve Pro. Pro sblocca tutte le categorie, aumenta la capacità e aggiunge export/import JSON. Le nuove installazioni hanno 30 giorni di prova di tutte le funzioni Pro."
+        "a": "La versione gratuita include fino a 5 elementi di testo libero e 1 scheda profilo da copiare e modificare. Puoi consultare Modelli, E-mail, Telefono e Indirizzo, ma per usarli serve Pro. Pro sblocca tutte le categorie, aumenta la capacità, aggiunge export/import JSON e temi premium. Le nuove installazioni hanno 30 giorni di prova di capacità estesa, tutte le categorie e backup (temi premium con acquisto Pro)."
       },
       {
         "q": "Come funziona la prova di 30 giorni?",
-        "a": "Dal primo avvio, tutte le funzioni Pro sono disponibili per 30 giorni. Al termine della prova puoi continuare con la versione gratuita oppure acquistare Pro sullo store."
+        "a": "Per 30 giorni dal primo avvio sono inclusi capacità estesa, tutte le categorie e backup. I temi premium si sbloccano solo con l'acquisto Pro. Al termine della prova puoi continuare con la versione gratuita oppure acquistare Pro sullo store."
       },
       {
         "q": "Dove vengono salvati i miei dati?",
@@ -319,9 +321,9 @@
           "Copia con un tocco e anteprima con tocco prolungato",
           "Schede profilo con copia campo per campo",
           "Modalità riordino per liste e profili",
-          "Versione gratuita con prova Pro di 30 giorni",
+          "Versione gratuita con prova Pro di 30 giorni (capacità, categorie e backup)",
           "Esportazione e importazione JSON (Pro)",
-          "Interfaccia in 21 lingue, temi chiaro e scuro",
+          "Temi chiaro, scuro e di sistema; temi premium con Pro",
           "Impostazioni per feedback alla copia, categoria di avvio e backup dei dati"
         ]
       }

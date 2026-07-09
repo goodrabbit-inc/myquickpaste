@@ -22,8 +22,8 @@
     "catch": "Enregistrez vos textes du quotidien. Copiez-les en un instant.",
     "lead": "Conçu pour celles et ceux qui retapent sans cesse les mêmes réponses, adresses, numéros de téléphone ou informations de profil. Classez-les par catégorie, appuyez sur une ligne, et collez-la dans un e-mail, une conversation ou n'importe où ailleurs.",
     "platformLine": "Google Play et App Store bientôt disponibles",
-    "trialTitle": "30 jours d'essai complet",
-    "trialText": "Pendant 30 jours après l'installation, testez gratuitement toutes les fonctionnalités Pro.",
+    "trialTitle": "Essai Pro de 30 jours",
+    "trialText": "Pendant 30 jours après l'installation, testez gratuitement la capacité étendue, toutes les catégories et la sauvegarde. Les thèmes premium nécessitent l'achat Pro.",
     "trust": "Conservé sur votre appareil · 21 langues"
   },
   "stores": {
@@ -200,7 +200,7 @@
       "Jusqu'à 1 fiche de profil",
       "Formules types, e-mail, téléphone et adresse : consultation seule (utilisation avec Pro)",
       "Copie en un tap, changement de catégorie",
-      "Essai de 30 jours de toutes les fonctionnalités Pro"
+      "Essai 30 jours : capacité, catégories et sauvegarde (thèmes premium avec achat Pro)"
     ],
     "proTitle": "Pro (achat unique)",
     "proPrice": "Voir le prix sur la boutique",
@@ -208,6 +208,7 @@
       "Jusqu'à 200 éléments par catégorie",
       "Jusqu'à 30 fiches de profil",
       "Export et import JSON",
+      "Thèmes d'apparence premium",
       "Achat unique via Google Play / App Store"
     ],
     "note": "L'application est gratuite au téléchargement. Pro est un module complémentaire non consommable, acheté via votre boutique d'applications. Le prix peut varier selon les régions."
@@ -219,7 +220,7 @@
   },
   "cta": {
     "title": "Et si vous arrêtiez de retaper le même texte sur votre téléphone ?",
-    "lead": "Bientôt sur Google Play. Après le lancement, essayez toutes les fonctionnalités Pro gratuitement pendant 30 jours.",
+    "lead": "Bientôt sur Google Play. Après le lancement, testez gratuitement pendant 30 jours la capacité étendue, toutes les catégories et la sauvegarde. Les thèmes premium nécessitent l'achat Pro.",
     "button": "Disponible sur Google Play"
   },
   "footer": {
@@ -238,11 +239,11 @@
       },
       {
         "q": "Quelle est la différence entre la version Gratuite et la version Pro ?",
-        "a": "La version Gratuite permet jusqu'à 5 éléments en texte libre et 1 fiche de profil à copier et modifier. Vous pouvez consulter Formules types, E-mail, Téléphone et Adresse, mais leur utilisation nécessite Pro. Pro débloque toutes les catégories, augmente la capacité et ajoute l'export/import JSON. Toute nouvelle installation bénéficie d'un essai de 30 jours de toutes les fonctionnalités Pro."
+        "a": "La version Gratuite permet jusqu'à 5 éléments en texte libre et 1 fiche de profil à copier et modifier. Vous pouvez consulter Formules types, E-mail, Téléphone et Adresse, mais leur utilisation nécessite Pro. Pro débloque toutes les catégories, augmente la capacité, ajoute l'export/import JSON et les thèmes premium. Toute nouvelle installation bénéficie d'un essai de 30 jours de capacité étendue, toutes les catégories et sauvegarde (thèmes premium avec achat Pro)."
       },
       {
         "q": "Comment fonctionne l'essai de 30 jours ?",
-        "a": "Toutes les fonctionnalités Pro sont disponibles pendant 30 jours à partir du premier lancement. Une fois l'essai terminé, vous pouvez continuer avec la version gratuite ou acheter Pro dans la boutique."
+        "a": "Pendant 30 jours à partir du premier lancement, capacité étendue, toutes les catégories et sauvegarde sont incluses. Les thèmes premium se débloquent uniquement avec l'achat Pro. Une fois l'essai terminé, vous pouvez continuer avec la version gratuite ou acheter Pro dans la boutique."
       },
       {
         "q": "Où mes données sont-elles stockées ?",
@@ -319,9 +320,9 @@
           "Copie en un instant et aperçu par appui long",
           "Fiches de profil avec copie champ par champ",
           "Mode réorganisation pour les listes et les profils",
-          "Version gratuite avec essai Pro de 30 jours",
+          "Version gratuite avec essai Pro de 30 jours (capacité, catégories et sauvegarde)",
           "Export et import JSON (Pro)",
-          "Interface en 21 langues, thèmes clair et sombre",
+          "Thèmes clair, sombre et système ; thèmes premium avec Pro",
           "Réglages pour le retour de copie, la catégorie de démarrage et la sauvegarde des données"
         ]
       }

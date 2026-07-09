@@ -22,8 +22,8 @@
     "catch": "Spara det du använder ofta. Kopiera med en knapptryckning.",
     "lead": "Gjord för dig som gång på gång skriver samma svar, adresser, telefonnummer eller profiluppgifter. Sortera allt efter kategori, tryck på en rad och klistra in i e-post, chatt eller var du än behöver det.",
     "platformLine": "Google Play och App Store kommer snart",
-    "trialTitle": "30 dagars fullständig provperiod",
-    "trialText": "Under 30 dagar efter installationen kan du testa alla Pro-funktioner gratis.",
+    "trialTitle": "30 dagars Pro-provperiod",
+    "trialText": "Under 30 dagar efter installationen kan du testa utökad kapacitet, alla kategorier och säkerhetskopiering gratis. Premiumteman kräver Pro-köp.",
     "trust": "Sparas endast på din enhet · 21 språk"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "Rutnät med 14 MyQuickPaste for Business-teman: sju ljusa överst och sju mörka underst.",
     "caption": "Övre rad: 7 ljusa teman / Nedre rad: 7 mörka teman",
     "note": "Premiumteman kräver Pro-köp."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Perfekt för",
     "items": [
       {
@@ -200,7 +201,7 @@
       "Upp till 1 profilkort",
       "Mallar, e-post, telefon och adress: endast visning (användning med Pro)",
       "Kopiera med ett tryck, byt kategori",
-      "30 dagars provperiod av alla Pro-funktioner"
+      "30 dagars prov: kapacitet, kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)"
     ],
     "proTitle": "Pro (engångsköp)",
     "proPrice": "Se priset i butiken",
@@ -208,6 +209,7 @@
       "Upp till 200 poster per kategori",
       "Upp till 30 profilkort",
       "JSON-export och -import",
+      "Premiumteman för utseende",
       "Engångsköp via Google Play / App Store"
     ],
     "note": "Appen är gratis att ladda ner. Pro är ett engångstillägg som köps via appbutiken; priset kan variera mellan olika regioner."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Dags att sluta skriva samma text i mobilen om och om igen?",
-    "lead": "Kommer snart till Google Play. Efter lansering kan du prova alla Pro-funktioner gratis i 30 dagar.",
+    "lead": "Kommer snart till Google Play. Efter lansering kan du testa utökad kapacitet, alla kategorier och säkerhetskopiering gratis i 30 dagar. Premiumteman kräver Pro-köp.",
     "button": "Finns på Google Play"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Vad är skillnaden mellan gratisversionen och Pro?",
-        "a": "Gratisversionen inkluderar upp till 5 fria textposter och 1 profilkort att kopiera och redigera. Mallar, E-post, Telefon och Adress kan visas, men användning kräver Pro. Pro låser upp alla kategorier, utökar kapaciteten och lägger till JSON-export och -import. Nya installationer får 30 dagars provperiod av alla Pro-funktioner."
+        "a": "Gratisversionen inkluderar upp till 5 fritextobjekt och 1 profilkort att kopiera och redigera. Du kan visa Mallar, E-post, Telefon och Adress, men användning kräver Pro. Pro låser upp alla kategorier, utökar kapaciteten, lägger till JSON-export/import och premiumteman. Nya installationer får 30 dagars prov av utökad kapacitet, alla kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)."
       },
       {
         "q": "Hur fungerar 30-dagarsperioden?",
-        "a": "Från första starten är alla Pro-funktioner tillgängliga i 30 dagar. Efter det kan du fortsätta med gratisversionen eller köpa Pro i butiken."
+        "a": "I 30 dagar från första start ingår utökad kapacitet, alla kategorier och säkerhetskopiering. Premiumteman låses upp endast med Pro-köp. Efter provperioden kan du fortsätta med gratisversionen eller köpa Pro i butiken."
       },
       {
         "q": "Var lagras min data?",
@@ -319,9 +321,9 @@
           "Kopiera med en knapptryckning och förhandsvisning med långtryck",
           "Profilkort med fältvis kopiering",
           "Möjlighet att ändra ordning för listor och profiler",
-          "Gratisversion med 30 dagars Pro-provperiod",
+          "Gratisversion med 30 dagars Pro-prov (kapacitet, kategorier och säkerhetskopiering)",
           "JSON-export/-import (Pro)",
-          "Gränssnitt på 21 språk, ljust och mörkt tema",
+          "Ljust, mörkt och systemtema; premiumteman med Pro",
           "Inställningar för kopieringsfeedback, startkategori och säkerhetskopiering"
         ]
       }

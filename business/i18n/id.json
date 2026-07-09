@@ -22,8 +22,8 @@
     "catch": "Simpan yang sering Anda pakai. Salin dengan satu ketukan.",
     "lead": "Dibuat untuk siapa saja yang terus-menerus mengetik ulang jawaban, alamat, nomor telepon, atau info profil yang sama. Atur berdasarkan kategori, ketuk barisnya, lalu tempel ke email, chat, atau di mana saja.",
     "platformLine": "Google Play dan App Store segera hadir",
-    "trialTitle": "Uji coba lengkap 30 hari",
-    "trialText": "Selama 30 hari setelah instalasi, Anda dapat mencoba semua fitur Pro secara gratis.",
+    "trialTitle": "Uji coba Pro 30 hari",
+    "trialText": "Selama 30 hari setelah instalasi, coba kapasitas diperluas, semua kategori, dan cadangan secara gratis. Tema premium memerlukan pembelian Pro.",
     "trust": "Data tetap di perangkat Anda · 21 bahasa"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "Kisi 14 tema MyQuickPaste for Business: tujuh tema terang di atas dan tujuh gelap di bawah.",
     "caption": "Baris atas: 7 tema terang / Baris bawah: 7 tema gelap",
     "note": "Tema premium memerlukan pembelian Pro."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Cocok Untuk",
     "items": [
       {
@@ -200,7 +201,7 @@
       "Hingga 1 kartu profil",
       "Cuplikan, email, telepon, dan alamat: hanya lihat (penggunaan perlu Pro)",
       "Ketuk untuk salin, ganti kategori",
-      "Uji coba 30 hari semua fitur Pro"
+      "Uji coba 30 hari: kapasitas, kategori, dan cadangan (tema premium memerlukan pembelian Pro)"
     ],
     "proTitle": "Pro (pembelian sekali)",
     "proPrice": "Lihat harga di toko",
@@ -208,6 +209,7 @@
       "Hingga 200 item per kategori",
       "Hingga 30 kartu profil",
       "Ekspor/impor JSON",
+      "Tema tampilan premium",
       "Pembelian sekali melalui Google Play / App Store"
     ],
     "note": "Aplikasi ini sendiri dapat diunduh gratis. Pro adalah add-on pembelian sekali melalui toko aplikasi; harga dapat berbeda tergantung wilayah."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Waktunya berhenti mengetik ulang teks yang sama di ponsel Anda",
-    "lead": "Segera di Google Play. Setelah rilis, coba semua fitur Pro gratis selama 30 hari.",
+    "lead": "Segera di Google Play. Setelah rilis, coba kapasitas diperluas, semua kategori, dan cadangan gratis selama 30 hari. Tema premium memerlukan pembelian Pro.",
     "button": "Tersedia di Google Play"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Apa bedanya edisi gratis dan Pro?",
-        "a": "Versi gratis mencakup hingga 5 item teks bebas dan 1 kartu profil untuk disalin dan diedit. Cuplikan, Email, Telepon, dan Alamat dapat dilihat, tetapi penggunaannya memerlukan Pro. Pro membuka semua kategori, menambah kapasitas, dan menambahkan ekspor/impor JSON. Instalasi baru mendapat uji coba 30 hari semua fitur Pro."
+        "a": "Versi gratis mencakup hingga 5 item teks bebas dan 1 kartu profil untuk disalin dan diedit. Cuplikan, Email, Telepon, dan Alamat dapat dilihat, tetapi penggunaannya memerlukan Pro. Pro membuka semua kategori, menambah kapasitas, menambahkan ekspor/impor JSON, dan tema premium. Instalasi baru mendapat uji coba 30 hari kapasitas diperluas, semua kategori, dan cadangan (tema premium memerlukan pembelian Pro)."
       },
       {
         "q": "Bagaimana cara kerja uji coba 30 hari?",
-        "a": "Sejak pertama kali diluncurkan, semua fitur Pro tersedia selama 30 hari. Setelah itu, Anda dapat melanjutkan dengan edisi gratis atau membeli Pro dari toko."
+        "a": "Selama 30 hari sejak peluncuran pertama, kapasitas diperluas, semua kategori, dan cadangan disertakan. Tema premium hanya terbuka dengan pembelian Pro. Setelah itu, Anda dapat melanjutkan dengan edisi gratis atau membeli Pro dari toko."
       },
       {
         "q": "Di mana data saya disimpan?",
@@ -319,9 +321,9 @@
           "Salin satu ketukan, pratinjau tekan lama",
           "Kartu profil dengan penyalinan per bidang",
           "Mode urutkan ulang untuk daftar dan profil",
-          "Edisi gratis + uji coba Pro 30 hari",
+          "Paket gratis dengan uji coba Pro 30 hari (kapasitas, kategori, dan cadangan)",
           "Ekspor/impor JSON (Pro)",
-          "Antarmuka 21 bahasa, tema terang/gelap",
+          "Tema terang, gelap, dan sistem; tema premium dengan Pro",
           "Pengaturan untuk konfirmasi salin, kategori awal, dan backup"
         ]
       }

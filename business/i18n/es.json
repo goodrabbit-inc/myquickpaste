@@ -22,8 +22,8 @@
     "catch": "Guarda lo que usas siempre. Cópialo con un solo toque.",
     "lead": "Pensada para quienes escriben una y otra vez las mismas respuestas, direcciones, teléfonos o datos de perfil. Organízalos por categorías, toca una fila y pégala en el correo, el chat o donde la necesites.",
     "platformLine": "Google Play y App Store próximamente",
-    "trialTitle": "30 días con todas las funciones",
-    "trialText": "Durante los 30 días posteriores a la instalación, prueba gratis todas las funciones Pro.",
+    "trialTitle": "Prueba Pro de 30 días",
+    "trialText": "Durante 30 días tras la instalación, prueba gratis la capacidad ampliada, todas las categorías y la copia de seguridad. Los temas premium requieren la compra Pro.",
     "trust": "Se guarda en tu dispositivo · 21 idiomas"
   },
   "stores": {
@@ -200,7 +200,7 @@
       "Hasta 1 tarjeta de perfil",
       "Fragmentos, correo, teléfono y dirección: solo consulta (uso con Pro)",
       "Copiar con un toque y cambiar de categoría",
-      "Prueba de 30 días de todas las funciones Pro"
+      "Prueba de 30 días: capacidad, categorías y copia de seguridad (temas premium con compra Pro)"
     ],
     "proTitle": "Pro (pago único)",
     "proPrice": "Consulta el precio en la tienda",
@@ -208,6 +208,7 @@
       "Hasta 200 elementos por categoría",
       "Hasta 30 fichas de perfil",
       "Exportación e importación en JSON",
+      "Temas premium de apariencia",
       "Pago único a través de Google Play / App Store"
     ],
     "note": "La aplicación se puede descargar gratis. Pro es un complemento no consumible que se compra a través de la tienda de aplicaciones; el precio puede variar según la región."
@@ -219,7 +220,7 @@
   },
   "cta": {
     "title": "¿Dejamos de escribir el mismo texto en el móvil una y otra vez?",
-    "lead": "Próximamente en Google Play. Tras el lanzamiento, prueba todas las funciones Pro gratis durante 30 días.",
+    "lead": "Próximamente en Google Play. Tras el lanzamiento, prueba gratis la capacidad ampliada, todas las categorías y la copia de seguridad durante 30 días. Los temas premium requieren la compra Pro.",
     "button": "Disponible en Google Play"
   },
   "footer": {
@@ -238,11 +239,11 @@
       },
       {
         "q": "¿Cuál es la diferencia entre la versión gratuita y Pro?",
-        "a": "La versión gratuita incluye hasta 5 elementos de texto libre y 1 tarjeta de perfil para copiar y editar. Puede ver Fragmentos, Correo, Teléfono y Dirección, pero usarlos requiere Pro. Pro desbloquea todas las categorías, amplía la capacidad y añade exportación e importación JSON. Las instalaciones nuevas reciben 30 días de prueba de todas las funciones Pro."
+        "a": "La versión gratuita incluye hasta 5 elementos de texto libre y 1 tarjeta de perfil para copiar y editar. Puede ver Fragmentos, Correo, Teléfono y Dirección, pero usarlos requiere Pro. Pro desbloquea todas las categorías, amplía la capacidad, añade exportación e importación JSON y temas premium. Las instalaciones nuevas reciben 30 días de prueba de capacidad ampliada, todas las categorías y copia de seguridad (temas premium con compra Pro)."
       },
       {
         "q": "¿Cómo funciona la prueba de 30 días?",
-        "a": "Desde el primer inicio, todas las funciones Pro están disponibles durante 30 días. Al terminar la prueba, puedes seguir con la versión gratuita o comprar Pro en la tienda."
+        "a": "Durante 30 días desde el primer inicio, la capacidad ampliada, todas las categorías y la copia de seguridad están incluidas. Los temas premium solo se desbloquean con la compra Pro. Al terminar la prueba, puedes seguir con la versión gratuita o comprar Pro en la tienda."
       },
       {
         "q": "¿Dónde se guardan mis datos?",
@@ -319,9 +320,9 @@
           "Copia con un toque y vista previa con toque largo",
           "Fichas de perfil con copia campo a campo",
           "Modo de reordenar para listas y perfiles",
-          "Versión gratuita con 30 días de prueba Pro",
+          "Versión gratuita con 30 días de prueba Pro (capacidad, categorías y copia de seguridad)",
           "Exportación e importación en JSON (Pro)",
-          "Interfaz en 21 idiomas, temas claro y oscuro",
+          "Temas claro, oscuro y del sistema; temas premium con Pro",
           "Ajustes para la confirmación al copiar, la categoría de inicio y la copia de seguridad"
         ]
       }

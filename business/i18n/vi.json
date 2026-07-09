@@ -22,8 +22,8 @@
     "catch": "Lưu những gì bạn dùng hằng ngày. Sao chép chỉ với một chạm.",
     "lead": "Được tạo ra cho những ai phải gõ đi gõ lại cùng một câu trả lời, địa chỉ, số điện thoại hoặc thông tin hồ sơ. Sắp xếp theo danh mục, chạm vào dòng đó, rồi dán vào email, tin nhắn hoặc bất cứ đâu.",
     "platformLine": "Google Play và App Store sắp ra mắt",
-    "trialTitle": "Dùng thử đầy đủ tính năng 30 ngày",
-    "trialText": "Trong 30 ngày sau khi cài đặt, bạn có thể dùng thử miễn phí tất cả tính năng Pro.",
+    "trialTitle": "Dùng thử Pro 30 ngày",
+    "trialText": "Trong 30 ngày sau khi cài đặt, bạn có thể dùng thử miễn phí dung lượng mở rộng, tất cả danh mục và sao lưu. Giao diện cao cấp yêu cầu mua Pro.",
     "trust": "Dữ liệu chỉ lưu trên thiết bị của bạn · Hỗ trợ 21 ngôn ngữ"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "Lưới 14 chủ đề MyQuickPaste for Business: bảy chủ đề sáng ở trên và bảy tối ở dưới.",
     "caption": "Hàng trên: 7 chủ đề sáng / Hàng dưới: 7 chủ đề tối",
     "note": "Chủ đề cao cấp cần mua Pro."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Lý tưởng cho",
     "items": [
       {
@@ -200,7 +201,7 @@
       "Tối đa 1 thẻ hồ sơ",
       "Mẫu câu, email, điện thoại và địa chỉ: chỉ xem (dùng cần Pro)",
       "Chạm để sao chép, chuyển danh mục",
-      "Dùng thử đầy đủ tính năng Pro trong 30 ngày"
+      "Dùng thử 30 ngày: dung lượng, danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)"
     ],
     "proTitle": "Pro (mua một lần)",
     "proPrice": "Xem giá trên cửa hàng",
@@ -208,6 +209,7 @@
       "Tối đa 200 mục mỗi danh mục",
       "Tối đa 30 thẻ hồ sơ",
       "Xuất/nhập JSON",
+      "Giao diện cao cấp",
       "Mua một lần qua Google Play / App Store"
     ],
     "note": "Bản thân ứng dụng có thể tải miễn phí. Pro là gói mua thêm một lần qua cửa hàng ứng dụng; giá có thể khác nhau tùy khu vực."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Đã đến lúc ngừng gõ lại cùng một văn bản trên điện thoại của bạn",
-    "lead": "Sắp có trên Google Play. Sau khi phát hành, dùng thử mọi tính năng Pro miễn phí trong 30 ngày.",
+    "lead": "Sắp có trên Google Play. Sau khi phát hành, dùng thử miễn phí dung lượng mở rộng, tất cả danh mục và sao lưu trong 30 ngày. Giao diện cao cấp yêu cầu mua Pro.",
     "button": "Có trên Google Play"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Sự khác biệt giữa phiên bản miễn phí và Pro là gì?",
-        "a": "Bản miễn phí gồm tối đa 5 mục văn bản tự do và 1 thẻ hồ sơ để sao chép và chỉnh sửa. Bạn có thể xem Mẫu câu, Email, Điện thoại và Địa chỉ, nhưng sử dụng các danh mục đó cần Pro. Pro mở khóa mọi danh mục, tăng dung lượng và thêm xuất/nhập JSON. Cài đặt mới được dùng thử đầy đủ tính năng Pro trong 30 ngày."
+        "a": "Phiên bản miễn phí bao gồm tối đa 5 mục văn bản tự do và 1 thẻ hồ sơ để sao chép và chỉnh sửa. Bạn có thể xem Mẫu, Email, Điện thoại và Địa chỉ, nhưng sử dụng cần Pro. Pro mở khóa mọi danh mục, mở rộng dung lượng, thêm xuất/nhập JSON và giao diện cao cấp. Cài đặt mới nhận 30 ngày dùng thử dung lượng mở rộng, tất cả danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)."
       },
       {
         "q": "Thời gian dùng thử 30 ngày hoạt động như thế nào?",
-        "a": "Kể từ lần khởi chạy đầu tiên, tất cả tính năng Pro sẽ khả dụng trong 30 ngày. Sau đó, bạn có thể tiếp tục dùng phiên bản miễn phí hoặc mua Pro từ cửa hàng."
+        "a": "Trong 30 ngày kể từ lần khởi chạy đầu tiên, dung lượng mở rộng, tất cả danh mục và sao lưu được bao gồm. Giao diện cao cấp chỉ mở khóa khi mua Pro. Sau đó, bạn có thể tiếp tục dùng phiên bản miễn phí hoặc mua Pro từ cửa hàng."
       },
       {
         "q": "Dữ liệu của tôi được lưu ở đâu?",
@@ -319,9 +321,9 @@
           "Sao chép một chạm, xem trước bằng nhấn giữ",
           "Thẻ hồ sơ với khả năng sao chép từng trường",
           "Chế độ sắp xếp lại cho danh sách và hồ sơ",
-          "Phiên bản miễn phí + dùng thử Pro 30 ngày",
+          "Gói miễn phí với dùng thử Pro 30 ngày (dung lượng, danh mục và sao lưu)",
           "Xuất/nhập JSON (Pro)",
-          "Giao diện 21 ngôn ngữ, giao diện sáng/tối",
+          "Giao diện sáng, tối và theo hệ thống; giao diện cao cấp với Pro",
           "Cài đặt xác nhận sao chép, danh mục khởi động và sao lưu"
         ]
       }

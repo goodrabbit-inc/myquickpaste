@@ -22,8 +22,8 @@
     "catch": "Her gün kullandığınızı kaydedin. Tek dokunuşla kopyalayın.",
     "lead": "Aynı yanıtı, adresi, telefon numarasını veya profil bilgisini defalarca yazmak zorunda kalan herkes için tasarlandı. Kategoriye göre düzenleyin, satıra dokunun ve e-postaya, sohbete veya istediğiniz yere yapıştırın.",
     "platformLine": "Google Play ve App Store yakında",
-    "trialTitle": "30 gün tam özellikli deneme",
-    "trialText": "Kurulumdan sonraki 30 gün boyunca tüm Pro özelliklerini ücretsiz deneyebilirsiniz.",
+    "trialTitle": "30 günlük Pro denemesi",
+    "trialText": "Kurulumdan sonraki 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedeklemeyi ücretsiz deneyebilirsiniz. Premium temalar Pro satın alımı gerektirir.",
     "trust": "Veriler yalnızca cihazınızda kalır · 21 dil desteği"
   },
   "stores": {
@@ -173,7 +173,8 @@
     "imageAlt": "14 MyQuickPaste for Business temasının ızgarası: üstte yedi açık, altta yedi koyu tema.",
     "caption": "Üst sıra: 7 açık tema / Alt sıra: 7 koyu tema",
     "note": "Premium temalar Pro satın alımı gerektirir."
-  },  "usecases": {
+  },
+  "usecases": {
     "title": "Şunlar İçin İdeal",
     "items": [
       {
@@ -200,7 +201,7 @@
       "En fazla 1 profil kartı",
       "Kalıp, e-posta, telefon ve adres: yalnızca görüntüleme (kullanım Pro ile)",
       "Dokunarak kopyalama, kategori değiştirme",
-      "30 gün boyunca tüm Pro özelliklerini deneme"
+      "30 günlük deneme: kapasite, kategoriler ve yedekleme (premium temalar Pro satın alımı gerektirir)"
     ],
     "proTitle": "Pro (tek seferlik satın alma)",
     "proPrice": "Fiyat için mağazaya bakın",
@@ -208,6 +209,7 @@
       "Kategori başına 200 öğeye kadar",
       "30 profil kartına kadar",
       "JSON dışa/içe aktarma",
+      "Premium görünüm temaları",
       "Google Play / App Store üzerinden tek seferlik satın alma"
     ],
     "note": "Uygulamanın kendisi ücretsiz indirilebilir. Pro, uygulama mağazası üzerinden satın alınan tek seferlik bir ek pakettir; fiyat bölgeye göre değişebilir."
@@ -219,7 +221,7 @@
   },
   "cta": {
     "title": "Telefonunuzda aynı metni tekrar tekrar yazmayı bırakma zamanı",
-    "lead": "Yakında Google Play'de. Yayınlandıktan sonra 30 gün boyunca tüm Pro özelliklerini ücretsiz deneyin.",
+    "lead": "Yakında Google Play'de. Yayınlandıktan sonra 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedeklemeyi ücretsiz deneyin. Premium temalar Pro satın alımı gerektirir.",
     "button": "Google Play'de"
   },
   "footer": {
@@ -238,11 +240,11 @@
       },
       {
         "q": "Ücretsiz sürüm ile Pro arasındaki fark nedir?",
-        "a": "Ücretsiz sürüm en fazla 5 serbest metin öğesi ve kopyalayıp düzenleyebileceğiniz 1 profil kartı içerir. Kalıp, E-posta, Telefon ve Adres görüntülenebilir, ancak kullanım Pro gerektirir. Pro tüm kategorileri açar, kapasiteyi artırır ve JSON dışa/içe aktarmayı ekler. Yeni kurulumlar 30 gün boyunca tüm Pro özelliklerini deneyebilir."
+        "a": "Ücretsiz sürüm en fazla 5 serbest metin öğesi ve kopyalayıp düzenleyebileceğiniz 1 profil kartı içerir. Kalıp, E-posta, Telefon ve Adres görüntülenebilir, ancak kullanım Pro gerektirir. Pro tüm kategorileri açar, kapasiteyi artırır, JSON dışa/içe aktarmayı ve premium temaları ekler. Yeni kurulumlar 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedekleme denemesi alır (premium temalar Pro satın alımı gerektirir)."
       },
       {
         "q": "30 günlük deneme nasıl çalışır?",
-        "a": "İlk başlatmadan itibaren, tüm Pro özellikleri 30 gün boyunca kullanılabilir. Bu sürenin ardından ücretsiz sürüme devam edebilir veya mağazadan Pro satın alabilirsiniz."
+        "a": "İlk başlatmadan itibaren 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedekleme dahildir. Premium temalar yalnızca Pro satın alımıyla açılır. Bu sürenin ardından ücretsiz sürüme devam edebilir veya mağazadan Pro satın alabilirsiniz."
       },
       {
         "q": "Verilerim nerede saklanıyor?",
@@ -319,9 +321,9 @@
           "Tek dokunuşla kopyalama, uzun basarak önizleme",
           "Alan bazlı kopyalama özellikli profil kartları",
           "Listeler ve profiller için yeniden sıralama modu",
-          "Ücretsiz sürüm + 30 günlük Pro denemesi",
+          "Ücretsiz sürüm ve 30 günlük Pro denemesi (kapasite, kategoriler ve yedekleme)",
           "JSON dışa/içe aktarma (Pro)",
-          "21 dilde arayüz, açık/koyu tema",
+          "Açık, koyu ve sistem temaları; premium temalar Pro ile",
           "Kopyalama onayı, başlangıç kategorisi ve yedekleme ayarları"
         ]
       }

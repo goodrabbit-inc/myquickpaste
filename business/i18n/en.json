@@ -24,8 +24,8 @@
     "catch": "Save what you use every day. Copy with one tap.",
     "lead": "Built for people who type the same replies, addresses, phone numbers, and profile details over and over. Organize them by category, tap a row, and paste into mail, chat, or anywhere else.",
     "platformLine": "Google Play & App Store coming soon",
-    "trialTitle": "30-day full-feature trial",
-    "trialText": "For 30 days after install, you can try every Pro feature for free.",
+    "trialTitle": "30-day Pro trial",
+    "trialText": "For 30 days after install, try expanded capacity, all categories, and backup for free. Premium themes require a Pro purchase.",
     "trust": "Stored on your device · 21 languages"
   },
   "stores": {
@@ -203,7 +203,7 @@
       "Up to 1 profile card",
       "View Snippets, Mail, Phone, and Address (copy/edit requires Pro)",
       "Tap to copy & switch categories",
-      "30-day trial of all Pro features"
+      "30-day trial: capacity, categories and backup (premium themes require Pro purchase)"
     ],
     "proTitle": "Pro (one-time purchase)",
     "proPrice": "See price on the store",
@@ -211,6 +211,7 @@
       "Up to 200 items per category",
       "Up to 30 profile cards",
       "JSON export & import",
+      "Premium appearance themes",
       "One-time purchase via Google Play / App Store"
     ],
     "note": "The app is free to download. Pro is a non-consumable add-on purchased through your app store. Prices may vary by region."
@@ -222,7 +223,7 @@
   },
   "cta": {
     "title": "Stop retyping the same text on your phone",
-    "lead": "Coming soon to Google Play. After launch, try every Pro feature free for 30 days.",
+    "lead": "Coming soon to Google Play. After launch, try expanded capacity, all categories, and backup free for 30 days. Premium themes require a Pro purchase.",
     "button": "Get it on Google Play"
   },
   "footer": {
@@ -241,11 +242,11 @@
       },
       {
         "q": "What is the difference between Free and Pro?",
-        "a": "Free includes up to 5 freeword items and 1 profile card you can copy and edit. You can browse Snippets, Mail, Phone, and Address, but using those categories requires Pro. Pro unlocks every category, expands capacity, and adds JSON export and import. New installs receive a 30-day trial of all Pro features."
+        "a": "Free includes up to 5 freeword items and 1 profile card you can copy and edit. You can browse Snippets, Mail, Phone, and Address, but using those categories requires Pro. Pro unlocks every category, expands capacity, adds JSON export and import, and premium themes. New installs receive a 30-day trial of expanded capacity, all categories, and backup (premium themes require Pro purchase)."
       },
       {
         "q": "How does the 30-day trial work?",
-        "a": "All Pro features are available for 30 days from first launch. After the trial, you can continue on the free plan or purchase Pro in the store."
+        "a": "For 30 days from first launch, expanded capacity, all categories, and backup are included. Premium themes unlock only with a Pro purchase. After the trial, continue on the free plan or purchase Pro in the store."
       },
       {
         "q": "Where is my data stored?",
@@ -322,9 +323,9 @@
           "Tap to copy and long-press preview",
           "Profile cards with per-field copy",
           "Reorder mode for list and profile items",
-          "Free plan with 30-day Pro trial",
+          "Free plan with 30-day trial (capacity, categories and backup)",
           "JSON export/import (Pro)",
-          "21-language UI and light/dark themes",
+          "Light, dark and system themes; premium themes with Pro",
           "Settings for copy feedback, startup category, and data backup"
         ]
       }

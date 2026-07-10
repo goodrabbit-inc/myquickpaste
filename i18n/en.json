@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Release Notes — MyQuickPaste",
     "title": "Release Notes",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Fixed an issue where emojis were lost when saving from the edit dialog"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Improved Pro add-on purchase detection",

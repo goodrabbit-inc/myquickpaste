@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Notas de versão — MyQuickPaste",
     "title": "Notas de versão",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Corrigido um problema em que emojis desapareciam ao salvar pelo diálogo de edição"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Melhoria na detecção de compra do complemento Pro",

@@ -153,6 +153,19 @@
     }
   }
 
+  function applyReleaseNoteSection(section, listId, version, items) {
+    if (!section) return;
+    var heading = section.querySelector("h2");
+    if (heading && version) heading.textContent = version;
+    fillList(listId, items);
+    if (!document.getElementById(listId)) {
+      var ul = section.querySelector("ul");
+      if (ul && items) {
+        ul.innerHTML = items.map(function (item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("");
+      }
+    }
+  }
+
   function applyReleaseNotesPage(t) {
     if (!t.releaseNotesPage) return;
     var r = t.releaseNotesPage;
@@ -163,28 +176,9 @@
     var h1 = document.querySelector("h1.page-title");
     if (h1) h1.textContent = r.title;
     var sections = document.querySelectorAll("main.content > section");
-    if (sections[0]) {
-      var h3030 = sections[0].querySelector("h2");
-      if (h3030) h3030.textContent = r.v3030;
-      fillList("rn-3030-list", r.v3030Items);
-      if (!document.getElementById("rn-3030-list")) {
-        var ul0 = sections[0].querySelector("ul");
-        if (ul0 && r.v3030Items) {
-          ul0.innerHTML = r.v3030Items.map(function (item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("");
-        }
-      }
-    }
-    if (sections[1]) {
-      var h3029 = sections[1].querySelector("h2");
-      if (h3029) h3029.textContent = r.v3029;
-      fillList("rn-3029-list", r.v3029Items);
-      if (!document.getElementById("rn-3029-list")) {
-        var ul1 = sections[1].querySelector("ul");
-        if (ul1 && r.v3029Items) {
-          ul1.innerHTML = r.v3029Items.map(function (item) { return "<li>" + escapeHtml(item) + "</li>"; }).join("");
-        }
-      }
-    }
+    applyReleaseNoteSection(sections[0], "rn-3033-list", r.v3033, r.v3033Items);
+    applyReleaseNoteSection(sections[1], "rn-3030-list", r.v3030, r.v3030Items);
+    applyReleaseNoteSection(sections[2], "rn-3029-list", r.v3029, r.v3029Items);
     var latest = document.querySelector("main.content > p");
     if (latest) {
       var prefix = latest.querySelector("[data-i18n='releaseNotesPage.latestPrefix']");

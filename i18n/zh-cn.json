@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "发行说明 — MyQuickPaste",
     "title": "发行说明",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "修复了从编辑对话框保存时表情符号丢失的问题"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "改进 Pro 附加组件购买判定",

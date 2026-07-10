@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Informacje o wydaniu — MyQuickPaste",
     "title": "Informacje o wydaniu",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Naprawiono błąd powodujący utratę emoji podczas zapisywania z okna edycji"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Ulepszona detekcja zakupu dodatku Pro",

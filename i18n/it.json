@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Note di rilascio — MyQuickPaste",
     "title": "Note di rilascio",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Risolto un problema per cui le emoji scomparivano salvando dalla finestra di modifica"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Migliorato rilevamento acquisto componente Pro",

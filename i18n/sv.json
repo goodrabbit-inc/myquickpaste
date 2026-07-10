@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Versionsinformation — MyQuickPaste",
     "title": "Versionsinformation",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Åtgärdat problem där emojis försvann vid sparande från redigeringsdialogen"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Förbättrad köpigenkänning av Pro-tillägg",

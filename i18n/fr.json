@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Notes de version — MyQuickPaste",
     "title": "Notes de version",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Correction d’un problème où les emojis disparaissaient lors de l’enregistrement depuis la boîte de dialogue d’édition"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Amélioration de la détection d'achat du module Pro",

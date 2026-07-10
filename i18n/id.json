@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Catatan Rilis — MyQuickPaste",
     "title": "Catatan Rilis",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Memperbaiki masalah emoji hilang saat menyimpan dari dialog edit"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Deteksi pembelian add-on Pro ditingkatkan",

@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Ghi chú phiên bản — MyQuickPaste",
     "title": "Ghi chú phiên bản",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Sửa lỗi emoji bị mất khi lưu từ hộp thoại chỉnh sửa"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Cải thiện phát hiện mua tiện ích Pro",

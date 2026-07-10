@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Release-opmerkingen — MyQuickPaste",
     "title": "Release-opmerkingen",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Probleem opgelost waarbij emoji’s verloren gingen bij opslaan vanuit het bewerkingsvenster"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Verbeterde Pro-add-on aankoopdetectie",

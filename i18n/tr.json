@@ -152,6 +152,10 @@
   "releaseNotesPage": {
     "metaTitle": "Sürüm notları — MyQuickPaste",
     "title": "Sürüm notları",
+    "v3033": "3.0.33.0",
+    "v3033Items": [
+      "Düzenleme iletişim kutusundan kaydederken emoji’lerin kaybolmasına neden olan sorun giderildi"
+    ],
     "v3030": "3.0.30.0",
     "v3030Items": [
       "Pro eklenti satın alma algılaması iyileştirildi",

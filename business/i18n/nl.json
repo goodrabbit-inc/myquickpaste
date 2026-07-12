@@ -21,7 +21,7 @@
     "badge": "Voor Android en iPhone",
     "catch": "Bewaar wat je vaak gebruikt. Kopieer het met één tik.",
     "lead": "Gemaakt voor iedereen die steeds dezelfde antwoorden, adressen, telefoonnummers of profielgegevens opnieuw intypt. Sorteer alles per categorie, tik op een regel en plak het in e-mail, chat of waar dan ook.",
-    "platformLine": "Google Play en App Store binnenkort beschikbaar",
+    "platformLine": "Google Play binnenkort · App Store in ontwikkeling",
     "trialTitle": "30 dagen Pro-proef",
     "trialText": "Gedurende 30 dagen na installatie kun je gratis uitgebreide capaciteit, alle categorieën en back-up uitproberen. Premiumthema's vereisen een Pro-aankoop.",
     "trust": "Blijft op je toestel · 21 talen"
@@ -30,6 +30,7 @@
     "googlePlay": "Beschikbaar op Google Play",
     "appStore": "App Store",
     "comingSoon": "Binnenkort beschikbaar",
+    "inDevelopment": "In ontwikkeling",
     "googlePlayBadgeAlt": "Beschikbaar op Google Play",
     "appStoreBadgeAlt": "Downloaden in de App Store",
     "microsoftBadgeAlt": "Downloaden via Microsoft Store (MyQuickPaste voor Windows)"

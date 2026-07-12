@@ -21,7 +21,7 @@
     "badge": "Dành cho Android & iPhone",
     "catch": "Lưu những gì bạn dùng hằng ngày. Sao chép chỉ với một chạm.",
     "lead": "Được tạo ra cho những ai phải gõ đi gõ lại cùng một câu trả lời, địa chỉ, số điện thoại hoặc thông tin hồ sơ. Sắp xếp theo danh mục, chạm vào dòng đó, rồi dán vào email, tin nhắn hoặc bất cứ đâu.",
-    "platformLine": "Google Play và App Store sắp ra mắt",
+    "platformLine": "Google Play sắp ra mắt · App Store đang phát triển",
     "trialTitle": "Dùng thử Pro 30 ngày",
     "trialText": "Trong 30 ngày sau khi cài đặt, bạn có thể dùng thử miễn phí dung lượng mở rộng, tất cả danh mục và sao lưu. Giao diện cao cấp yêu cầu mua Pro.",
     "trust": "Dữ liệu chỉ lưu trên thiết bị của bạn · Hỗ trợ 21 ngôn ngữ"
@@ -30,6 +30,7 @@
     "googlePlay": "Có trên Google Play",
     "appStore": "App Store",
     "comingSoon": "Sắp ra mắt",
+    "inDevelopment": "Đang phát triển",
     "googlePlayBadgeAlt": "Có trên Google Play",
     "appStoreBadgeAlt": "Tải trên App Store",
     "microsoftBadgeAlt": "Tải trên Microsoft Store (MyQuickPaste cho Windows)"

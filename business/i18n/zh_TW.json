@@ -21,7 +21,7 @@
     "badge": "支援 Android 與 iPhone",
     "catch": "把常用的文字先存起來，一鍵就能複製。",
     "lead": "專為那些不斷輸入相同回覆、地址、電話號碼或個人資料的人所設計。依分類整理好之後，點一下就能複製，隨時貼到郵件、聊天或任何地方。",
-    "platformLine": "Google Play / App Store 即將推出",
+    "platformLine": "Google Play 即將推出 · App Store 開發中",
     "trialTitle": "30 天 Pro 試用",
     "trialText": "安裝後的 30 天內，可免費試用擴充容量、全部分類與備份。進階主題需購買 Pro。",
     "trust": "資料保存在裝置內 · 支援 21 種語言"
@@ -30,6 +30,7 @@
     "googlePlay": "在 Google Play 上取得",
     "appStore": "App Store",
     "comingSoon": "即將推出",
+    "inDevelopment": "開發中",
     "googlePlayBadgeAlt": "在 Google Play 上取得",
     "appStoreBadgeAlt": "在 App Store 下載",
     "microsoftBadgeAlt": "在 Microsoft Store 取得（Windows 版 MyQuickPaste）"

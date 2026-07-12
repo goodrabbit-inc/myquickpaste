@@ -21,7 +21,7 @@
     "badge": "สำหรับ Android และ iPhone",
     "catch": "บันทึกสิ่งที่ใช้ทุกวัน แตะเดียวก็คัดลอกได้",
     "lead": "ออกแบบมาสำหรับคนที่ต้องพิมพ์คำตอบ ที่อยู่ เบอร์โทร หรือข้อมูลโปรไฟล์ซ้ำๆ อยู่เสมอ จัดหมวดหมู่ไว้ แตะที่บรรทัดนั้น แล้ววางลงในอีเมล แชท หรือที่ไหนก็ได้",
-    "platformLine": "Google Play และ App Store เร็วๆ นี้",
+    "platformLine": "Google Play เร็วๆ นี้ · App Store กำลังพัฒนา",
     "trialTitle": "ทดลองใช้ Pro 30 วัน",
     "trialText": "ใช้ความจุขยาย ทุกหมวดหมู่ และการสำรองข้อมูลฟรีได้นาน 30 วันหลังติดตั้ง ธีมพรีเมียมต้องซื้อ Pro",
     "trust": "ข้อมูลอยู่ในเครื่องของคุณเท่านั้น · รองรับ 21 ภาษา"
@@ -30,6 +30,7 @@
     "googlePlay": "ดาวน์โหลดที่ Google Play",
     "appStore": "App Store",
     "comingSoon": "เร็วๆ นี้",
+    "inDevelopment": "กำลังพัฒนา",
     "googlePlayBadgeAlt": "ดาวน์โหลดที่ Google Play",
     "appStoreBadgeAlt": "ดาวน์โหลดที่ App Store",
     "microsoftBadgeAlt": "ดาวน์โหลดที่ Microsoft Store (MyQuickPaste เวอร์ชัน Windows)"

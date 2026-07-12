@@ -21,7 +21,7 @@
     "badge": "Dla Androida i iPhone'a",
     "catch": "Zapisz to, czego używasz na co dzień. Kopiuj jednym dotknięciem.",
     "lead": "Stworzone dla osób, które wciąż na nowo wpisują te same odpowiedzi, adresy, numery telefonów czy dane profilowe. Uporządkuj je według kategorii, dotknij wiersza i wklej do e-maila, czatu lub gdziekolwiek indziej.",
-    "platformLine": "Google Play i App Store wkrótce",
+    "platformLine": "Google Play wkrótce · App Store w opracowaniu",
     "trialTitle": "30-dniowa wersja próbna Pro",
     "trialText": "Przez 30 dni od instalacji możesz bezpłatnie wypróbować rozszerzoną pojemność, wszystkie kategorie i kopię zapasową. Motywy premium wymagają zakupu Pro.",
     "trust": "Dane pozostają na urządzeniu · 21 języków"
@@ -30,6 +30,7 @@
     "googlePlay": "Dostępne w Google Play",
     "appStore": "App Store",
     "comingSoon": "Wkrótce",
+    "inDevelopment": "W opracowaniu",
     "googlePlayBadgeAlt": "Dostępne w Google Play",
     "appStoreBadgeAlt": "Pobierz w App Store",
     "microsoftBadgeAlt": "Pobierz w Microsoft Store (MyQuickPaste dla Windows)"

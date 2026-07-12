@@ -21,7 +21,7 @@
     "badge": "支持 Android 和 iPhone",
     "catch": "把常用的文字保存下来，一键复制。",
     "lead": "专为那些反复输入相同回复、地址、电话号码或个人资料的人设计。按分类整理好，点一下就能复制，随时粘贴到邮件、聊天或任何地方。",
-    "platformLine": "Google Play / App Store 即将推出",
+    "platformLine": "Google Play 即将推出 · App Store 开发中",
     "trialTitle": "30 天 Pro 试用",
     "trialText": "安装后的 30 天内，可免费试用扩展容量、全部分类和备份。高级主题需购买 Pro。",
     "trust": "数据保存在本机 · 支持 21 种语言"
@@ -30,6 +30,7 @@
     "googlePlay": "在 Google Play 上获取",
     "appStore": "App Store",
     "comingSoon": "即将推出",
+    "inDevelopment": "开发中",
     "googlePlayBadgeAlt": "在 Google Play 上获取",
     "appStoreBadgeAlt": "在 App Store 下载",
     "microsoftBadgeAlt": "在 Microsoft Store 获取（Windows 版 MyQuickPaste）"

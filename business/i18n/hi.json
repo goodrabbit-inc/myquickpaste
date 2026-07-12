@@ -21,7 +21,7 @@
     "badge": "Android और iPhone के लिए",
     "catch": "जो रोज़ काम आता है उसे सेव करें। एक टैप में कॉपी करें।",
     "lead": "उन लोगों के लिए बनाया गया है जो बार-बार वही जवाब, पता, फ़ोन नंबर या प्रोफ़ाइल जानकारी टाइप करते रहते हैं। इन्हें श्रेणियों में व्यवस्थित करें, किसी पंक्ति पर टैप करें और उसे ईमेल, चैट या कहीं भी पेस्ट करें।",
-    "platformLine": "Google Play और App Store जल्द आ रहे हैं",
+    "platformLine": "Google Play जल्द आ रहा है · App Store विकास में",
     "trialTitle": "30 दिन का Pro ट्रायल",
     "trialText": "इंस्टॉलेशन के 30 दिनों तक बढ़ी हुई क्षमता, सभी श्रेणियाँ और बैकअप मुफ़्त में आज़माएँ। प्रीमियम थीम के लिए Pro खरीद आवश्यक है।",
     "trust": "डेटा केवल आपके डिवाइस में रहता है · 21 भाषाएं"
@@ -30,6 +30,7 @@
     "googlePlay": "Google Play पर उपलब्ध",
     "appStore": "App Store",
     "comingSoon": "जल्द आ रहा है",
+    "inDevelopment": "विकास में",
     "googlePlayBadgeAlt": "Google Play पर उपलब्ध",
     "appStoreBadgeAlt": "App Store से डाउनलोड करें",
     "microsoftBadgeAlt": "Microsoft Store से पाएं (Windows के लिए MyQuickPaste)"

@@ -21,7 +21,7 @@
     "badge": "Para Android e iPhone",
     "catch": "Guarda lo que usas siempre. Cópialo con un solo toque.",
     "lead": "Pensada para quienes escriben una y otra vez las mismas respuestas, direcciones, teléfonos o datos de perfil. Organízalos por categorías, toca una fila y pégala en el correo, el chat o donde la necesites.",
-    "platformLine": "Google Play y App Store próximamente",
+    "platformLine": "Google Play próximamente · App Store en desarrollo",
     "trialTitle": "Prueba Pro de 30 días",
     "trialText": "Durante 30 días tras la instalación, prueba gratis la capacidad ampliada, todas las categorías y la copia de seguridad. Los temas premium requieren la compra Pro.",
     "trust": "Se guarda en tu dispositivo · 21 idiomas"
@@ -30,6 +30,7 @@
     "googlePlay": "Disponible en Google Play",
     "appStore": "App Store",
     "comingSoon": "Próximamente",
+    "inDevelopment": "En desarrollo",
     "googlePlayBadgeAlt": "Disponible en Google Play",
     "appStoreBadgeAlt": "Descárgalo en el App Store",
     "microsoftBadgeAlt": "Consíguelo en Microsoft Store (MyQuickPaste para Windows)"

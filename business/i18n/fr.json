@@ -21,7 +21,7 @@
     "badge": "Pour Android et iPhone",
     "catch": "Enregistrez vos textes du quotidien. Copiez-les en un instant.",
     "lead": "Conçu pour celles et ceux qui retapent sans cesse les mêmes réponses, adresses, numéros de téléphone ou informations de profil. Classez-les par catégorie, appuyez sur une ligne, et collez-la dans un e-mail, une conversation ou n'importe où ailleurs.",
-    "platformLine": "Google Play et App Store bientôt disponibles",
+    "platformLine": "Google Play bientôt disponible · App Store en développement",
     "trialTitle": "Essai Pro de 30 jours",
     "trialText": "Pendant 30 jours après l'installation, testez gratuitement la capacité étendue, toutes les catégories et la sauvegarde. Les thèmes premium nécessitent l'achat Pro.",
     "trust": "Conservé sur votre appareil · 21 langues"
@@ -30,6 +30,7 @@
     "googlePlay": "Disponible sur Google Play",
     "appStore": "App Store",
     "comingSoon": "Bientôt disponible",
+    "inDevelopment": "En développement",
     "googlePlayBadgeAlt": "Disponible sur Google Play",
     "appStoreBadgeAlt": "Télécharger sur l'App Store",
     "microsoftBadgeAlt": "Obtenir sur Microsoft Store (MyQuickPaste pour Windows)"

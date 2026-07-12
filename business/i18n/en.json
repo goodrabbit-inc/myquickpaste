@@ -23,7 +23,7 @@
     "badge": "For Android & iPhone",
     "catch": "Save what you use every day. Copy with one tap.",
     "lead": "Built for people who type the same replies, addresses, phone numbers, and profile details over and over. Organize them by category, tap a row, and paste into mail, chat, or anywhere else.",
-    "platformLine": "Google Play & App Store coming soon",
+    "platformLine": "Google Play coming soon · App Store in development",
     "trialTitle": "30-day Pro trial",
     "trialText": "For 30 days after install, try expanded capacity, all categories, and backup for free. Premium themes require a Pro purchase.",
     "trust": "Stored on your device · 21 languages"
@@ -32,6 +32,7 @@
     "googlePlay": "Get it on Google Play",
     "appStore": "App Store",
     "comingSoon": "Coming soon",
+    "inDevelopment": "In development",
     "googlePlayBadgeAlt": "Get it on Google Play",
     "appStoreBadgeAlt": "Download on the App Store",
     "microsoftBadgeAlt": "Get it from Microsoft (MyQuickPaste for Windows)"

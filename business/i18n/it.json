@@ -21,7 +21,7 @@
     "badge": "Per Android e iPhone",
     "catch": "Salva ciò che usi ogni giorno. Copialo con un tocco.",
     "lead": "Pensata per chi riscrive di continuo le stesse risposte, indirizzi, numeri di telefono o dati del profilo. Organizzali per categoria, tocca una riga e incollala in email, chat o ovunque ti serva.",
-    "platformLine": "Google Play e App Store in arrivo",
+    "platformLine": "Google Play in arrivo · App Store in sviluppo",
     "trialTitle": "Prova Pro di 30 giorni",
     "trialText": "Per 30 giorni dopo l'installazione puoi provare gratuitamente capacità estesa, tutte le categorie e backup. I temi premium richiedono l'acquisto Pro.",
     "trust": "Conservato sul tuo dispositivo · 21 lingue"
@@ -30,6 +30,7 @@
     "googlePlay": "Disponibile su Google Play",
     "appStore": "App Store",
     "comingSoon": "In arrivo",
+    "inDevelopment": "In sviluppo",
     "googlePlayBadgeAlt": "Disponibile su Google Play",
     "appStoreBadgeAlt": "Scarica su App Store",
     "microsoftBadgeAlt": "Scarica da Microsoft Store (MyQuickPaste per Windows)"

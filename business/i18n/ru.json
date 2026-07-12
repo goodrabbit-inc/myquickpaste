@@ -21,7 +21,7 @@
     "badge": "Для Android и iPhone",
     "catch": "Сохраните то, что используете каждый день. Копируйте одним касанием.",
     "lead": "Создано для тех, кто снова и снова набирает одни и те же ответы, адреса, номера телефонов или данные профиля. Разложите всё по категориям, коснитесь строки — и вставляйте в письмо, чат или куда угодно.",
-    "platformLine": "Google Play и App Store скоро",
+    "platformLine": "Google Play скоро · App Store в разработке",
     "trialTitle": "30-дневная пробная версия Pro",
     "trialText": "В течение 30 дней после установки вы можете бесплатно попробовать расширенную ёмкость, все категории и резервное копирование. Премиум-темы требуют покупки Pro.",
     "trust": "Хранится только на вашем устройстве · 21 язык"
@@ -30,6 +30,7 @@
     "googlePlay": "Доступно в Google Play",
     "appStore": "App Store",
     "comingSoon": "Скоро",
+    "inDevelopment": "В разработке",
     "googlePlayBadgeAlt": "Доступно в Google Play",
     "appStoreBadgeAlt": "Загрузить в App Store",
     "microsoftBadgeAlt": "Загрузить в Microsoft Store (MyQuickPaste для Windows)"

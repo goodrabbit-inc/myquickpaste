@@ -21,7 +21,7 @@
     "badge": "Untuk Android & iPhone",
     "catch": "Simpan yang sering Anda pakai. Salin dengan satu ketukan.",
     "lead": "Dibuat untuk siapa saja yang terus-menerus mengetik ulang jawaban, alamat, nomor telepon, atau info profil yang sama. Atur berdasarkan kategori, ketuk barisnya, lalu tempel ke email, chat, atau di mana saja.",
-    "platformLine": "Google Play dan App Store segera hadir",
+    "platformLine": "Google Play segera hadir · App Store dalam pengembangan",
     "trialTitle": "Uji coba Pro 30 hari",
     "trialText": "Selama 30 hari setelah instalasi, coba kapasitas diperluas, semua kategori, dan cadangan secara gratis. Tema premium memerlukan pembelian Pro.",
     "trust": "Data tetap di perangkat Anda · 21 bahasa"
@@ -30,6 +30,7 @@
     "googlePlay": "Tersedia di Google Play",
     "appStore": "App Store",
     "comingSoon": "Segera Hadir",
+    "inDevelopment": "Dalam pengembangan",
     "googlePlayBadgeAlt": "Tersedia di Google Play",
     "appStoreBadgeAlt": "Unduh di App Store",
     "microsoftBadgeAlt": "Dapatkan di Microsoft Store (MyQuickPaste untuk Windows)"

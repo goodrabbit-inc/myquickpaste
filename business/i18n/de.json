@@ -21,7 +21,7 @@
     "badge": "Für Android und iPhone",
     "catch": "Speichern Sie, was Sie oft brauchen. Kopieren Sie es mit einem Tipp.",
     "lead": "Entwickelt für alle, die ständig dieselben Antworten, Adressen, Telefonnummern oder Profildaten eintippen. Legen Sie alles nach Kategorie an, tippen Sie auf eine Zeile und fügen Sie sie in E-Mails, Chats oder überall sonst ein.",
-    "platformLine": "Google Play und App Store demnächst",
+    "platformLine": "Google Play demnächst · App Store in Entwicklung",
     "trialTitle": "30 Tage Pro-Test",
     "trialText": "30 Tage nach der Installation können Sie erweiterte Kapazität, alle Kategorien und Backup kostenlos testen. Premium-Themes erfordern einen Pro-Kauf.",
     "trust": "Wird auf Ihrem Gerät gespeichert · 21 Sprachen"
@@ -30,6 +30,7 @@
     "googlePlay": "Bei Google Play",
     "appStore": "App Store",
     "comingSoon": "Demnächst",
+    "inDevelopment": "In Entwicklung",
     "googlePlayBadgeAlt": "Jetzt bei Google Play",
     "appStoreBadgeAlt": "Laden im App Store",
     "microsoftBadgeAlt": "Im Microsoft Store laden (MyQuickPaste für Windows)"

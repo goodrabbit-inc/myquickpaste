@@ -21,7 +21,7 @@
     "badge": "För Android och iPhone",
     "catch": "Spara det du använder ofta. Kopiera med en knapptryckning.",
     "lead": "Gjord för dig som gång på gång skriver samma svar, adresser, telefonnummer eller profiluppgifter. Sortera allt efter kategori, tryck på en rad och klistra in i e-post, chatt eller var du än behöver det.",
-    "platformLine": "Google Play och App Store kommer snart",
+    "platformLine": "Google Play kommer snart · App Store under utveckling",
     "trialTitle": "30 dagars Pro-provperiod",
     "trialText": "Under 30 dagar efter installationen kan du testa utökad kapacitet, alla kategorier och säkerhetskopiering gratis. Premiumteman kräver Pro-köp.",
     "trust": "Sparas endast på din enhet · 21 språk"
@@ -30,6 +30,7 @@
     "googlePlay": "Finns på Google Play",
     "appStore": "App Store",
     "comingSoon": "Kommer snart",
+    "inDevelopment": "Under utveckling",
     "googlePlayBadgeAlt": "Finns på Google Play",
     "appStoreBadgeAlt": "Ladda ner i App Store",
     "microsoftBadgeAlt": "Hämta från Microsoft Store (MyQuickPaste för Windows)"

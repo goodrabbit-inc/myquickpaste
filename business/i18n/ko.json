@@ -21,7 +21,7 @@
     "badge": "Android · iPhone 지원",
     "catch": "자주 쓰는 문장을 저장해두고, 한 번만 눌러 복사하세요.",
     "lead": "같은 답장, 주소, 전화번호, 프로필 정보를 매번 다시 입력하는 분들을 위해 만들었습니다. 카테고리별로 정리해두면 항목을 누르기만 해도 복사되어 메일, 채팅 등 어디든 바로 붙여넣을 수 있습니다.",
-    "platformLine": "Google Play / App Store 출시 예정",
+    "platformLine": "Google Play 출시 예정 · App Store 개발 중",
     "trialTitle": "30일 Pro 체험",
     "trialText": "설치 후 30일 동안 용량 확대, 전체 카테고리, 백업을 무료로 체험할 수 있습니다. 프리미엄 테마는 Pro 구매가 필요합니다.",
     "trust": "기기 내에만 저장 · 21개 언어 지원"
@@ -30,6 +30,7 @@
     "googlePlay": "Google Play에서 다운로드",
     "appStore": "App Store",
     "comingSoon": "출시 예정",
+    "inDevelopment": "개발 중",
     "googlePlayBadgeAlt": "Google Play에서 다운로드",
     "appStoreBadgeAlt": "App Store에서 다운로드",
     "microsoftBadgeAlt": "Microsoft Store에서 다운로드 (Windows용 MyQuickPaste)"

@@ -23,7 +23,7 @@
     "badge": "Android / iPhone 向け",
     "catch": "よく使う文章を保存しておいて、ワンタップでコピー。",
     "lead": "定型文、報告文、メールフッダーなど同じ文章を何度も入力している方のために作りました。カテゴリ別に整理しておけば、あとは行をタップするだけ。メールでもチャットでも、すぐ貼り付けできます。",
-    "platformLine": "Google Play / App Store 近日公開",
+    "platformLine": "Google Play 近日公開 / App Store 開発中",
     "trialTitle": "30日間 Pro お試し",
     "trialText": "インストール後30日間は、容量拡張・全カテゴリ・バックアップを無料でお試しいただけます。プレミアムテーマは Pro 購入が必要です。",
     "trust": "対応言語：21言語"
@@ -32,6 +32,7 @@
     "googlePlay": "Google Play で入手",
     "appStore": "App Store",
     "comingSoon": "近日公開",
+    "inDevelopment": "開発中",
     "googlePlayBadgeAlt": "Google Play で手に入れよう",
     "appStoreBadgeAlt": "App Store からダウンロード",
     "microsoftBadgeAlt": "Microsoft Store から入手（Windows版 MyQuickPaste）"

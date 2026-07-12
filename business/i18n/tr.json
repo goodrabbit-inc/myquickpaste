@@ -21,7 +21,7 @@
     "badge": "Android ve iPhone için",
     "catch": "Her gün kullandığınızı kaydedin. Tek dokunuşla kopyalayın.",
     "lead": "Aynı yanıtı, adresi, telefon numarasını veya profil bilgisini defalarca yazmak zorunda kalan herkes için tasarlandı. Kategoriye göre düzenleyin, satıra dokunun ve e-postaya, sohbete veya istediğiniz yere yapıştırın.",
-    "platformLine": "Google Play ve App Store yakında",
+    "platformLine": "Google Play yakında · App Store geliştiriliyor",
     "trialTitle": "30 günlük Pro denemesi",
     "trialText": "Kurulumdan sonraki 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedeklemeyi ücretsiz deneyebilirsiniz. Premium temalar Pro satın alımı gerektirir.",
     "trust": "Veriler yalnızca cihazınızda kalır · 21 dil desteği"
@@ -30,6 +30,7 @@
     "googlePlay": "Google Play'de",
     "appStore": "App Store",
     "comingSoon": "Yakında",
+    "inDevelopment": "Geliştiriliyor",
     "googlePlayBadgeAlt": "Google Play'de mevcut",
     "appStoreBadgeAlt": "App Store'dan indirin",
     "microsoftBadgeAlt": "Microsoft Store'dan edinin (Windows için MyQuickPaste)"

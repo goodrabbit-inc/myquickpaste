@@ -35,6 +35,36 @@ jobs:
           if [ -f robots.txt ]; then cp robots.txt _site/; fi
           if [ -d videos ]; then cp -r videos _site/; fi
 
+      - name: Validate sitemap.xml
+        run: |
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          from urllib.parse import urlparse
+
+          NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+          root = ET.parse("sitemap.xml").getroot()
+          if root.tag != "{http://www.sitemaps.org/schemas/sitemap/0.9}urlset":
+              raise SystemExit("sitemap root must be urlset")
+
+          urls = root.findall("sm:url", NS)
+          if not urls:
+              raise SystemExit("sitemap must contain at least one url")
+
+          prefix = "https://goodrabbit-inc.github.io/myquickpaste/"
+          for url in urls:
+              loc = url.find("sm:loc", NS)
+              if loc is None or not loc.text:
+                  raise SystemExit("each url needs loc")
+              value = loc.text.strip()
+              if not value.startswith(prefix):
+                  raise SystemExit(f"loc must stay under site prefix: {value}")
+              parsed = urlparse(value)
+              if parsed.scheme != "https" or parsed.netloc != "goodrabbit-inc.github.io":
+                  raise SystemExit(f"invalid loc host/scheme: {value}")
+
+          print(f"sitemap OK ({len(urls)} urls)")
+          PY
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
@@ -50,3 +80,20 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+      - name: Verify live sitemap and robots.txt
+        run: |
+          set -euo pipefail
+          BASE="https://goodrabbit-inc.github.io/myquickpaste"
+          sleep 20
+          curl -fsSL "${BASE}/sitemap.xml" -o /tmp/sitemap.xml
+          curl -fsSL "${BASE}/robots.txt" -o /tmp/robots.txt
+          python3 - <<'PY'
+          import xml.etree.ElementTree as ET
+          ET.parse("/tmp/sitemap.xml")
+          robots = open("/tmp/robots.txt", encoding="utf-8").read()
+          expected = "Sitemap: https://goodrabbit-inc.github.io/myquickpaste/sitemap.xml"
+          if expected not in robots:
+              raise SystemExit("robots.txt missing sitemap directive")
+          print("live sitemap.xml and robots.txt verified")
+          PY

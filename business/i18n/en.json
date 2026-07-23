@@ -2,7 +2,7 @@
   "meta": {
     "lang": "en",
     "title": "MyQuickPaste for Business — Smartphone Edition",
-    "description": "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, addresses, contacts, and profile cards by category."
+    "description": "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, images, contacts, and profile cards by category."
   },
   "lang": {
     "label": "Language",
@@ -71,7 +71,7 @@
     "appTag": "A shelf for your go-to text",
     "appItems": [
       "Save addresses, signatures, and replies with a name",
-      "Six categories: freeword, snippets, mail, phone, address, profile",
+      "Six categories: freeword, snippets, mail, phone, images, profile",
       "Entries stay until you delete them—no history push-out",
       "Built for finding and copying the text you use again and again"
     ],
@@ -83,7 +83,7 @@
     "items": [
       {
         "title": "Save by category",
-        "text": "Freeword, snippets, email, phone, address, and profile cards—each in its own tab so things stay easy to find."
+        "text": "Freeword, snippets, email, phone, images, and profile cards—each in its own tab so things stay easy to find."
       },
       {
         "title": "Tap to copy",
@@ -101,17 +101,17 @@
       {
         "title": "Easy one-handed use",
         "text": "Large rows, category tabs, and a portrait layout—designed so you can pick what you need on the go.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Easy to browse",
         "text": "Instead of one endless note, keep snippets, contacts, and profile cards in separate lists.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Stored on your device",
         "text": "Your snippets and contacts stay on your phone. We do not offer cloud sync.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -121,23 +121,28 @@
     "items": [
       {
         "title": "Category tabs",
-        "text": "Freeword, snippets, email, phone, address, and profile—switch instantly.",
-        "icon": "🏷️"
+        "text": "Freeword, snippets, email, phone, images, and profile—switch instantly.",
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Tap to copy",
         "text": "One tap copies the full content. Optional vibration feedback when copied.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Long-press preview",
         "text": "Preview title and body before copying long entries.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Profile cards",
         "text": "Store personal and work contact blocks; copy individual fields with a tap.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Image category",
+        "text": "Save business cards, logos, and other images. Tap to copy, share, or preview.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Reorder mode",
@@ -147,17 +152,17 @@
       {
         "title": "Backup (Pro)",
         "text": "Export and import your data as JSON for device migration or safekeeping.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "21-language UI",
         "text": "Use the app in English, Japanese, and 19 more languages.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Light & dark theme",
         "text": "Choose light or dark in Settings.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "Categories",
@@ -166,7 +171,7 @@
       "Snippets",
       "Email",
       "Phone",
-      "Address",
+      "Images",
       "Profile"
     ]
   },
@@ -202,7 +207,8 @@
     "freeItems": [
       "Up to 5 freeword items",
       "Up to 1 profile card",
-      "View Snippets, Mail, Phone, and Address (copy/edit requires Pro)",
+      "Save, copy, and share images in the Image category",
+      "View Snippets, Mail, and Phone (copy/edit requires Pro)",
       "Tap to copy & switch categories",
       "30-day trial: capacity, categories and backup (premium themes require Pro purchase)"
     ],
@@ -243,7 +249,7 @@
       },
       {
         "q": "What is the difference between Free and Pro?",
-        "a": "Free includes up to 5 freeword items and 1 profile card you can copy and edit. You can browse Snippets, Mail, Phone, and Address, but using those categories requires Pro. Pro unlocks every category, expands capacity, adds JSON export and import, and premium themes. New installs receive a 30-day trial of expanded capacity, all categories, and backup (premium themes require Pro purchase)."
+        "a": "Free includes up to 5 freeword items and 1 profile card you can copy and edit. You can browse Snippets, Mail, and Phone, but using those categories requires Pro. The Image category is available on the free plan. The Image category is available on the free plan. Pro unlocks every category, expands capacity, adds JSON export and import, and premium themes. New installs receive a 30-day trial of expanded capacity, all categories, and backup (premium themes require Pro purchase)."
       },
       {
         "q": "How does the 30-day trial work?",
@@ -316,11 +322,21 @@
     "storeNote": "Updates are delivered through Google Play and, when available, the App Store.",
     "entries": [
       {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
         "version": "1.0.0",
         "date": "2026",
         "title": "Initial public release (Android)",
         "items": [
-          "Category-based lists: Freeword, Snippets, Email, Phone, Address, Profile",
+          "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile",
           "Tap to copy and long-press preview",
           "Profile cards with per-field copy",
           "Reorder mode for list and profile items",
@@ -339,7 +355,7 @@
     "snippetsAlt": "Snippets category with email templates",
     "profileAlt": "Profile cards for Home and Work contacts",
     "profileEditAlt": "Edit profile screen with address and contact fields",
-    "cateAlt": "Six category tabs: Free text, Snippets, Mail, Phone, Address, Profile",
+    "cateAlt": "Six category tabs: Free text, Snippets, Mail, Phone, Images, Profile",
     "items": [
       {
         "caption": "Free text - signatures, URLs, and account details at a glance"

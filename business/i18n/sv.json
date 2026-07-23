@@ -99,17 +99,17 @@
       {
         "title": "Lätt att använda med en hand",
         "text": "Stora rader, kategoriflikar och en stående layout — utformad för att du snabbt ska kunna välja rätt, även på språng.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Lätt att hitta allt",
         "text": "Istället för en enda oändlig anteckning håller du standardfraser, kontakter och profilkort i separata listor.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Sparas på din enhet",
         "text": "Dina standardfraser och kontakter stannar på telefonen. Vi erbjuder ingen molnsynkronisering.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -120,22 +120,27 @@
       {
         "title": "Kategoriflikar",
         "text": "Fri text, standardfraser, e-post, telefon, adress, profil — byt flik och du är direkt vid rätt lista.",
-        "icon": "🏷️"
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Kopiera med en knapptryckning",
         "text": "En knapptryckning kopierar hela innehållet. Valfri vibrationsfeedback bekräftar kopieringen.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Förhandsvisning med långtryck",
         "text": "Innan du kopierar en längre text kan du granska titel och innehåll med ett långtryck.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Profilkort",
         "text": "Spara privata och professionella kontakter som kort; kopiera enskilda fält med en knapptryckning.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Bildkategori",
+        "text": "Spara visitkort, logotyper och andra bilder. Tryck för att kopiera, dela eller förhandsgranska.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Ändra ordning",
@@ -145,17 +150,17 @@
       {
         "title": "Säkerhetskopiering (Pro)",
         "text": "Exportera och importera dina data som JSON — praktiskt vid mobilbyte eller för att spara extra säkert.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Gränssnitt på 21 språk",
         "text": "Använd appen på svenska, japanska och 19 andra språk.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Ljust och mörkt tema",
         "text": "Välj ljust eller mörkt i inställningarna.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "6 kategorier",
@@ -164,7 +169,7 @@
       "Standardfraser",
       "E-post",
       "Telefon",
-      "Adress",
+      "Bilder",
       "Profil"
     ]
   },
@@ -200,6 +205,7 @@
     "freeItems": [
       "Upp till 5 fria textposter",
       "Upp till 1 profilkort",
+      "Spara, kopiera och dela bilder i bildkategorin",
       "Mallar, e-post, telefon och adress: endast visning (användning med Pro)",
       "Kopiera med ett tryck, byt kategori",
       "30 dagars prov: kapacitet, kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)"
@@ -241,7 +247,7 @@
       },
       {
         "q": "Vad är skillnaden mellan gratisversionen och Pro?",
-        "a": "Gratisversionen inkluderar upp till 5 fritextobjekt och 1 profilkort att kopiera och redigera. Du kan visa Mallar, E-post, Telefon och Adress, men användning kräver Pro. Pro låser upp alla kategorier, utökar kapaciteten, lägger till JSON-export/import och premiumteman. Nya installationer får 30 dagars prov av utökad kapacitet, alla kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)."
+        "a": "Gratisversionen inkluderar upp till 5 fritextobjekt och 1 profilkort att kopiera och redigera. Du kan visa Mallar, E-post och Telefon, men användning kräver Pro. Bildkategorin ingår i gratisversionen. Pro låser upp alla kategorier, utökar kapaciteten, lägger till JSON-export/import och premiumteman. Nya installationer får 30 dagars prov av utökad kapacitet, alla kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)."
       },
       {
         "q": "Hur fungerar 30-dagarsperioden?",
@@ -313,6 +319,16 @@
     "latestPrefix": "Senaste version:",
     "storeNote": "Uppdateringar distribueras via Google Play (och, när det blir tillgängligt, även via App Store).",
     "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
       {
         "version": "1.0.0",
         "date": "2026",

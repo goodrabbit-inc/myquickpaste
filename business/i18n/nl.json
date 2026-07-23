@@ -99,17 +99,17 @@
       {
         "title": "Makkelijk met één hand",
         "text": "Grote rijen, categorietabbladen en een verticale indeling — zo kies je ook onderweg snel wat je nodig hebt.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Alles makkelijk terugvinden",
         "text": "In plaats van één eindeloze notitie houd je standaardteksten, contacten en profielkaarten in aparte lijsten.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Opgeslagen op je toestel",
         "text": "Je standaardteksten en contacten blijven op je telefoon. Wij bieden geen cloudsynchronisatie aan.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -120,22 +120,27 @@
       {
         "title": "Categorietabbladen",
         "text": "Vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel — wissel van tabblad en je staat meteen bij de juiste lijst.",
-        "icon": "🏷️"
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Kopiëren met één tik",
         "text": "Eén tik kopieert de volledige inhoud. Optionele trilfeedback bevestigt dat er is gekopieerd.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Voorbeeld bij lang indrukken",
         "text": "Bekijk voordat je een lange tekst kopieert eerst de titel en inhoud met een lange druk.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Profielkaarten",
         "text": "Bewaar privé- en werkcontacten als kaart; kopieer elk veld apart met één tik.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Afbeeldingen-categorie",
+        "text": "Bewaar visitekaartjes, logo's en andere afbeeldingen. Tik om te kopiëren, delen of bekijken.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Volgorde aanpassen",
@@ -145,17 +150,17 @@
       {
         "title": "Back-up (Pro)",
         "text": "Exporteer en importeer je gegevens als JSON, handig bij het overzetten naar een nieuw toestel of als extra bewaarkopie.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Interface in 21 talen",
         "text": "Gebruik de app in het Nederlands, Japans en 19 andere talen.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Licht en donker thema",
         "text": "Kies licht of donker in de instellingen.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "6 categorieën",
@@ -164,7 +169,7 @@
       "Standaardteksten",
       "E-mail",
       "Telefoon",
-      "Adres",
+      "Afbeeldingen",
       "Profiel"
     ]
   },
@@ -200,6 +205,7 @@
     "freeItems": [
       "Tot 5 vrije-tekstitems",
       "Tot 1 profielkaart",
+      "Afbeeldingen opslaan, kopiëren en delen in de categorie Afbeeldingen",
       "Sjablonen, e-mail, telefoon en adres: alleen bekijken (gebruik met Pro)",
       "Kopiëren met één tik, categorie wisselen",
       "30 dagen proef: capaciteit, categorieën en back-up (premiumthema's vereisen Pro-aankoop)"
@@ -241,7 +247,7 @@
       },
       {
         "q": "Wat is het verschil tussen de gratis versie en Pro?",
-        "a": "Gratis omvat tot 5 vrije-tekstitems en 1 profielkaart om te kopiëren en bewerken. Sjablonen, E-mail, Telefoon en Adres zijn te bekijken, maar gebruik vereist Pro. Pro ontgrendelt alle categorieën, vergroot de capaciteit, voegt JSON-export en -import toe en premiumthema's. Nieuwe installaties krijgen 30 dagen proef van uitgebreide capaciteit, alle categorieën en back-up (premiumthema's vereisen Pro-aankoop)."
+        "a": "Gratis omvat tot 5 vrije-tekstitems en 1 profielkaart om te kopiëren en bewerken. Sjablonen, E-mail en Telefoon zijn te bekijken, maar gebruik vereist Pro. De categorie Afbeeldingen is beschikbaar in de gratis versie. Pro ontgrendelt alle categorieën, vergroot de capaciteit, voegt JSON-export en -import toe en premiumthema's. Nieuwe installaties krijgen 30 dagen proef van uitgebreide capaciteit, alle categorieën en back-up (premiumthema's vereisen Pro-aankoop)."
       },
       {
         "q": "Hoe werkt de proefperiode van 30 dagen?",
@@ -313,6 +319,16 @@
     "latestPrefix": "Nieuwste versie:",
     "storeNote": "Updates worden verspreid via Google Play (en, zodra beschikbaar, ook via de App Store).",
     "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
       {
         "version": "1.0.0",
         "date": "2026",

@@ -69,7 +69,7 @@
     "appTag": "Der feste Platz für Ihre Standardtexte",
     "appItems": [
       "Adressen, Signaturen und Standardantworten mit eigenem Namen speichern",
-      "Sechs Kategorien: Freitext, Textbausteine, E-Mail, Telefon, Adresse, Profil",
+      "Sechs Kategorien: Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil",
       "Einträge bleiben erhalten, bis Sie sie löschen — kein automatisches Verschwinden",
       "Gemacht, um Texte, die Sie immer wieder brauchen, sofort wiederzufinden und zu kopieren"
     ],
@@ -99,17 +99,17 @@
       {
         "title": "Bequem mit einer Hand",
         "text": "Große Zeilen, Kategorie-Tabs und ein Layout im Hochformat — so wählen Sie auch unterwegs schnell das Richtige aus.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Übersichtlich sortiert",
         "text": "Statt einer endlosen Notiz bleiben Textbausteine, Kontakte und Profilkarten in getrennten Listen.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Speicherung auf dem Gerät",
         "text": "Ihre Textbausteine und Kontakte bleiben auf Ihrem Smartphone. Eine Cloud-Synchronisierung bieten wir nicht an.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -119,23 +119,28 @@
     "items": [
       {
         "title": "Kategorie-Tabs",
-        "text": "Freitext, Textbausteine, E-Mail, Telefon, Adresse, Profil — mit einem Tab-Wechsel sofort zur passenden Liste.",
-        "icon": "🏷️"
+        "text": "Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil — mit einem Tab-Wechsel sofort zur passenden Liste.",
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Kopieren mit einem Tipp",
         "text": "Ein Tipp kopiert den gesamten Inhalt. Optionales Vibrationsfeedback bestätigt den Kopiervorgang.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Vorschau bei langem Tippen",
         "text": "Vor dem Kopieren längerer Einträge Titel und Inhalt per langem Tippen in Ruhe prüfen.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Profilkarten",
         "text": "Privat- und Geschäftskontakte als Karte speichern; einzelne Felder mit einem Tipp kopieren.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Bilder-Kategorie",
+        "text": "Visitenkarten, Logos und andere Bilder speichern. Tippen zum Kopieren, Teilen oder Vorschau.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Sortiermodus",
@@ -145,17 +150,17 @@
       {
         "title": "Backup (Pro)",
         "text": "Daten als JSON exportieren und importieren — praktisch bei einem Gerätewechsel oder als Sicherung.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Oberfläche in 21 Sprachen",
         "text": "Nutzen Sie die App auf Deutsch, Japanisch und in 19 weiteren Sprachen.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Helles und dunkles Design",
         "text": "Wählen Sie in den Einstellungen zwischen Hell und Dunkel.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "Kategorien",
@@ -164,7 +169,7 @@
       "Textbausteine",
       "E-Mail",
       "Telefon",
-      "Adresse",
+      "Bilder",
       "Profil"
     ]
   },
@@ -200,7 +205,8 @@
     "freeItems": [
       "Bis zu 5 Freitext-Einträge",
       "Bis zu 1 Profilkarte",
-      "Textbausteine, E-Mail, Telefon und Adresse nur ansehen (Nutzung mit Pro)",
+      "Bilder in der Bilder-Kategorie speichern, kopieren und teilen",
+      "Textbausteine, E-Mail und Telefon nur ansehen (Nutzung mit Pro)",
       "Kopieren per Tippen, Kategorie-Wechsel",
       "30 Tage Test: Kapazität, Kategorien und Backup (Premium-Themes nur mit Pro-Kauf)"
     ],
@@ -241,7 +247,7 @@
       },
       {
         "q": "Was unterscheidet die kostenlose Version von Pro?",
-        "a": "Die kostenlose Version erlaubt bis zu 5 Freitext-Einträge und 1 Profilkarte zum Kopieren und Bearbeiten. Textbausteine, E-Mail, Telefon und Adresse können angesehen, aber erst mit Pro genutzt werden. Pro schaltet alle Kategorien frei, erweitert die Kapazität, bietet JSON-Export/-Import und Premium-Themes. Neue Installationen erhalten 30 Tage Test von Kapazität, Kategorien und Backup (Premium-Themes nur mit Pro-Kauf)."
+        "a": "Die kostenlose Version erlaubt bis zu 5 Freitext-Einträge und 1 Profilkarte zum Kopieren und Bearbeiten. Textbausteine, E-Mail und Telefon können angesehen, aber erst mit Pro genutzt werden. Die Bilder-Kategorie ist in der kostenlosen Version verfügbar. Pro schaltet alle Kategorien frei, erweitert die Kapazität, bietet JSON-Export/-Import und Premium-Themes. Neue Installationen erhalten 30 Tage Test von Kapazität, Kategorien und Backup (Premium-Themes nur mit Pro-Kauf)."
       },
       {
         "q": "Wie funktioniert die 30-tägige Testphase?",
@@ -314,11 +320,21 @@
     "storeNote": "Updates werden über Google Play bereitgestellt (nach Veröffentlichung auch über den App Store).",
     "entries": [
       {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
         "version": "1.0.0",
         "date": "2026",
         "title": "Erstveröffentlichung (Android)",
         "items": [
-          "Kategorielisten: Freitext, Textbausteine, E-Mail, Telefon, Adresse, Profil",
+          "Kategorielisten: Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil",
           "Kopieren mit einem Tipp und Vorschau bei langem Tippen",
           "Profilkarten mit Kopieren einzelner Felder",
           "Sortiermodus für Listen und Profile",
@@ -337,7 +353,7 @@
     "snippetsAlt": "Kategorie Textbausteine mit E-Mail-Vorlagen",
     "profileAlt": "Profilkarten für private und geschäftliche Kontakte",
     "profileEditAlt": "Profil bearbeiten mit Adress- und Kontaktfeldern",
-    "cateAlt": "Sechs Kategorie-Tabs: Freitext, Textbausteine, E-Mail, Telefon, Adresse, Profil",
+    "cateAlt": "Sechs Kategorie-Tabs: Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil",
     "items": [
       {
         "caption": "Freitext — Signaturen, URLs und Kontodaten auf einen Blick"

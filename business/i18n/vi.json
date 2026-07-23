@@ -99,17 +99,17 @@
       {
         "title": "Dễ thao tác bằng một tay",
         "text": "Các hàng lớn, tab danh mục và bố cục theo chiều dọc — tất cả được thiết kế để chọn nhanh ngay cả khi đang di chuyển.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Dễ dàng tìm kiếm",
         "text": "Thay vì gộp mọi thứ vào một ghi chú dài vô tận, hãy lưu câu mẫu, danh bạ và thẻ hồ sơ vào các danh sách riêng biệt.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Chỉ lưu trên thiết bị của bạn",
         "text": "Câu mẫu và danh bạ quan trọng của bạn chỉ được lưu trên điện thoại. Chúng tôi không cung cấp dịch vụ đồng bộ đám mây.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -120,22 +120,27 @@
       {
         "title": "Tab danh mục",
         "text": "Văn bản tự do, câu mẫu, email, điện thoại, địa chỉ, hồ sơ — chuyển tab để đến ngay danh sách bạn cần.",
-        "icon": "🏷️"
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Sao chép một chạm",
         "text": "Một chạm để sao chép toàn bộ nội dung. Có thể bật rung tùy chọn để xác nhận đã sao chép.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Xem trước bằng nhấn giữ",
         "text": "Trước khi sao chép văn bản dài, nhấn giữ để xem trước tiêu đề và nội dung.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Thẻ hồ sơ",
         "text": "Lưu danh bạ nhà riêng và công việc dưới dạng thẻ; sao chép từng trường riêng lẻ chỉ với một chạm.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Danh mục Hình ảnh",
+        "text": "Lưu danh thiếp, logo và hình ảnh khác. Chạm để sao chép, chia sẻ hoặc xem trước.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Chế độ sắp xếp lại",
@@ -145,17 +150,17 @@
       {
         "title": "Sao lưu (Pro)",
         "text": "Xuất và nhập dữ liệu của bạn dưới dạng JSON — hữu ích khi đổi điện thoại hoặc để lưu trữ an toàn.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Giao diện 21 ngôn ngữ",
         "text": "Sử dụng ứng dụng bằng tiếng Việt, tiếng Nhật và 19 ngôn ngữ khác.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Giao diện sáng & tối",
         "text": "Chọn chủ đề sáng hoặc tối trong Cài đặt.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "6 danh mục",
@@ -164,7 +169,7 @@
       "Câu mẫu",
       "Email",
       "Điện thoại",
-      "Địa chỉ",
+      "Hình ảnh",
       "Hồ sơ"
     ]
   },
@@ -201,6 +206,7 @@
       "Tối đa 5 mục văn bản tự do",
       "Tối đa 1 thẻ hồ sơ",
       "Mẫu câu, email, điện thoại và địa chỉ: chỉ xem (dùng cần Pro)",
+      "Lưu, sao chép và chia sẻ hình ảnh trong danh mục Hình ảnh",
       "Chạm để sao chép, chuyển danh mục",
       "Dùng thử 30 ngày: dung lượng, danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)"
     ],
@@ -241,7 +247,7 @@
       },
       {
         "q": "Sự khác biệt giữa phiên bản miễn phí và Pro là gì?",
-        "a": "Phiên bản miễn phí bao gồm tối đa 5 mục văn bản tự do và 1 thẻ hồ sơ để sao chép và chỉnh sửa. Bạn có thể xem Mẫu, Email, Điện thoại và Địa chỉ, nhưng sử dụng cần Pro. Pro mở khóa mọi danh mục, mở rộng dung lượng, thêm xuất/nhập JSON và giao diện cao cấp. Cài đặt mới nhận 30 ngày dùng thử dung lượng mở rộng, tất cả danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)."
+        "a": "Phiên bản miễn phí bao gồm tối đa 5 mục văn bản tự do và 1 thẻ hồ sơ để sao chép và chỉnh sửa. Bạn có thể xem Mẫu, Email và Điện thoại, nhưng sử dụng cần Pro. Danh mục Hình ảnh có sẵn trong gói miễn phí. Pro mở khóa mọi danh mục, mở rộng dung lượng, thêm xuất/nhập JSON và giao diện cao cấp. Cài đặt mới nhận 30 ngày dùng thử dung lượng mở rộng, tất cả danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)."
       },
       {
         "q": "Thời gian dùng thử 30 ngày hoạt động như thế nào?",
@@ -313,6 +319,16 @@
     "latestPrefix": "Phiên bản mới nhất:",
     "storeNote": "Các bản cập nhật được phân phối qua Google Play (và sẽ được phân phối qua App Store sau khi có sẵn).",
     "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
       {
         "version": "1.0.0",
         "date": "2026",

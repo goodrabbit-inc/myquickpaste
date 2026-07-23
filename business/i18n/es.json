@@ -99,17 +99,17 @@
       {
         "title": "Fácil de usar con una sola mano",
         "text": "Filas grandes, pestañas por categoría y un diseño vertical, pensado para elegir rápido incluso en movimiento.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Fácil de encontrar todo",
         "text": "En vez de una única nota interminable, mantén frases hechas, contactos y fichas de perfil en listas separadas.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Se guarda en tu dispositivo",
         "text": "Tus frases hechas y contactos permanecen en tu móvil. No ofrecemos sincronización en la nube.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -120,22 +120,27 @@
       {
         "title": "Pestañas por categoría",
         "text": "Texto libre, frases hechas, correo, teléfono, dirección y perfil: cambia de pestaña para llegar a la lista que necesitas al instante.",
-        "icon": "🏷️"
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Copia con un toque",
         "text": "Un solo toque copia todo el contenido. Puedes activar una vibración opcional que confirma la copia.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Vista previa con toque largo",
         "text": "Antes de copiar un texto largo, revisa el título y el contenido con un toque largo.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Fichas de perfil",
         "text": "Guarda tus datos personales y de trabajo en fichas; copia cada campo con un solo toque.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Categoría Imágenes",
+        "text": "Guarda tarjetas de visita, logotipos y otras imágenes. Toca para copiar, compartir o previsualizar.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Modo de reordenar",
@@ -145,17 +150,17 @@
       {
         "title": "Copia de seguridad (Pro)",
         "text": "Exporta e importa tus datos en formato JSON, útil al cambiar de móvil o para guardarlos a buen recaudo.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Interfaz en 21 idiomas",
         "text": "Usa la aplicación en español, japonés y 19 idiomas más.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Tema claro y oscuro",
         "text": "Elige claro u oscuro en los ajustes.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "Categorías",
@@ -164,7 +169,7 @@
       "Frases hechas",
       "Correo",
       "Teléfono",
-      "Dirección",
+      "Imágenes",
       "Perfil"
     ]
   },
@@ -201,6 +206,7 @@
       "Hasta 5 elementos de texto libre",
       "Hasta 1 tarjeta de perfil",
       "Fragmentos, correo, teléfono y dirección: solo consulta (uso con Pro)",
+      "Guardar, copiar y compartir imágenes en la categoría Imágenes",
       "Copiar con un toque y cambiar de categoría",
       "Prueba de 30 días: capacidad, categorías y copia de seguridad (temas premium con compra Pro)"
     ],
@@ -241,7 +247,7 @@
       },
       {
         "q": "¿Cuál es la diferencia entre la versión gratuita y Pro?",
-        "a": "La versión gratuita incluye hasta 5 elementos de texto libre y 1 tarjeta de perfil para copiar y editar. Puede ver Fragmentos, Correo, Teléfono y Dirección, pero usarlos requiere Pro. Pro desbloquea todas las categorías, amplía la capacidad, añade exportación e importación JSON y temas premium. Las instalaciones nuevas reciben 30 días de prueba de capacidad ampliada, todas las categorías y copia de seguridad (temas premium con compra Pro)."
+        "a": "La versión gratuita incluye hasta 5 elementos de texto libre y 1 tarjeta de perfil para copiar y editar. Puede ver Fragmentos, Correo y Teléfono, pero usarlos requiere Pro. La categoría Imágenes está disponible en la versión gratuita. Pro desbloquea todas las categorías, amplía la capacidad, añade exportación e importación JSON y temas premium. Las instalaciones nuevas reciben 30 días de prueba de capacidad ampliada, todas las categorías y copia de seguridad (temas premium con compra Pro)."
       },
       {
         "q": "¿Cómo funciona la prueba de 30 días?",
@@ -313,6 +319,16 @@
     "latestPrefix": "Última versión:",
     "storeNote": "Las actualizaciones se distribuyen a través de Google Play (y, más adelante, también a través del App Store).",
     "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
       {
         "version": "1.0.0",
         "date": "2026",

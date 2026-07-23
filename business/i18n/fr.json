@@ -69,7 +69,7 @@
     "appTag": "Le rayon de vos textes essentiels",
     "appItems": [
       "Enregistrez adresses, signatures et réponses types, chacune avec un nom",
-      "Six catégories : mot libre, formules types, e-mail, téléphone, adresse, profil",
+      "Six catégories : mot libre, formules types, e-mail, téléphone, images, profil",
       "Les entrées restent tant que vous ne les supprimez pas — aucun historique qui s'efface",
       "Pensée pour retrouver et copier, encore et encore, les textes que vous utilisez le plus"
     ],
@@ -99,17 +99,17 @@
       {
         "title": "Facile à utiliser d'une seule main",
         "text": "De grandes lignes, des onglets par catégorie et un affichage vertical — pensés pour choisir rapidement, même en déplacement.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Facile à parcourir",
         "text": "Plutôt qu'une seule note interminable, gardez formules types, contacts et fiches de profil dans des listes séparées.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Conservé sur votre appareil",
         "text": "Vos formules types et vos contacts restent sur votre téléphone. Nous ne proposons aucune synchronisation dans le cloud.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -119,23 +119,28 @@
     "items": [
       {
         "title": "Onglets par catégorie",
-        "text": "Mot libre, formules types, e-mail, téléphone, adresse, profil — changez d'onglet pour accéder instantanément à la bonne liste.",
-        "icon": "🏷️"
+        "text": "Mot libre, formules types, e-mail, téléphone, images, profil — changez d'onglet pour accéder instantanément à la bonne liste.",
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Copie en un instant",
         "text": "Un seul appui copie le texte entier. Un retour vibratoire optionnel confirme la copie.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Aperçu par appui long",
         "text": "Avant de copier un texte long, prévisualisez le titre et le contenu par un simple appui long.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Fiches de profil",
         "text": "Enregistrez vos coordonnées personnelles et professionnelles par blocs ; copiez chaque champ d'un simple appui.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Catégorie Images",
+        "text": "Enregistrez cartes de visite, logos et autres images. Appuyez pour copier, partager ou prévisualiser.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Mode réorganisation",
@@ -145,17 +150,17 @@
       {
         "title": "Sauvegarde (Pro)",
         "text": "Exportez et importez vos données au format JSON pour changer d'appareil ou pour les conserver en lieu sûr.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Interface en 21 langues",
         "text": "Utilisez l'application en français, en japonais, et dans 19 autres langues.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Thème clair et sombre",
         "text": "Choisissez clair ou sombre dans les réglages.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "Catégories",
@@ -164,7 +169,7 @@
       "Formules types",
       "E-mail",
       "Téléphone",
-      "Adresse",
+      "Images",
       "Profil"
     ]
   },
@@ -200,7 +205,8 @@
     "freeItems": [
       "Jusqu'à 5 éléments en texte libre",
       "Jusqu'à 1 fiche de profil",
-      "Formules types, e-mail, téléphone et adresse : consultation seule (utilisation avec Pro)",
+      "Enregistrer, copier et partager des images dans la catégorie Images",
+      "Formules types, e-mail et téléphone : consultation seule (utilisation avec Pro)",
       "Copie en un tap, changement de catégorie",
       "Essai 30 jours : capacité, catégories et sauvegarde (thèmes premium avec achat Pro)"
     ],
@@ -241,7 +247,7 @@
       },
       {
         "q": "Quelle est la différence entre la version Gratuite et la version Pro ?",
-        "a": "La version Gratuite permet jusqu'à 5 éléments en texte libre et 1 fiche de profil à copier et modifier. Vous pouvez consulter Formules types, E-mail, Téléphone et Adresse, mais leur utilisation nécessite Pro. Pro débloque toutes les catégories, augmente la capacité, ajoute l'export/import JSON et les thèmes premium. Toute nouvelle installation bénéficie d'un essai de 30 jours de capacité étendue, toutes les catégories et sauvegarde (thèmes premium avec achat Pro)."
+        "a": "La version Gratuite permet jusqu'à 5 éléments en texte libre et 1 fiche de profil à copier et modifier. Vous pouvez consulter Formules types, E-mail et Téléphone, mais leur utilisation nécessite Pro. La catégorie Images est disponible en version gratuite. Pro débloque toutes les catégories, augmente la capacité, ajoute l'export/import JSON et les thèmes premium. Toute nouvelle installation bénéficie d'un essai de 30 jours de capacité étendue, toutes les catégories et sauvegarde (thèmes premium avec achat Pro)."
       },
       {
         "q": "Comment fonctionne l'essai de 30 jours ?",
@@ -314,11 +320,21 @@
     "storeNote": "Les mises à jour sont diffusées via Google Play (et, à terme, via l'App Store).",
     "entries": [
       {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
         "version": "1.0.0",
         "date": "2026",
         "title": "Première publication (Android)",
         "items": [
-          "Listes par catégorie : mot libre, formules types, e-mail, téléphone, adresse, profil",
+          "Listes par catégorie : mot libre, formules types, e-mail, téléphone, images, profil",
           "Copie en un instant et aperçu par appui long",
           "Fiches de profil avec copie champ par champ",
           "Mode réorganisation pour les listes et les profils",
@@ -337,7 +353,7 @@
     "snippetsAlt": "Catégorie des formules types avec modèles pour e-mails",
     "profileAlt": "Fiches de profil pour les contacts Domicile et Travail",
     "profileEditAlt": "Écran d'édition de profil avec champs d'adresse et de contact",
-    "cateAlt": "Six onglets de catégories : mot libre, formules types, e-mail, téléphone, adresse, profil",
+    "cateAlt": "Six onglets de catégories : mot libre, formules types, e-mail, téléphone, images, profil",
     "items": [
       {
         "caption": "Mot libre — signatures, URL et coordonnées bancaires en un coup d'œil"

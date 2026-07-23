@@ -99,17 +99,17 @@
       {
         "title": "Wygodna obsługa jedną ręką",
         "text": "Duże wiersze, zakładki kategorii i pionowy układ — pomyślane tak, by szybko wybierać nawet w ruchu.",
-        "icon": "📱"
+        "icon": "\uD83D\uDCF1"
       },
       {
         "title": "Łatwo wszystko znaleźć",
         "text": "Zamiast jednej niekończącej się notatki — osobne listy dla gotowych zwrotów, kontaktów i kart profilu.",
-        "icon": "🗂️"
+        "icon": "\uD83D\uDDC2️"
       },
       {
         "title": "Dane zapisane na urządzeniu",
         "text": "Twoje gotowe zwroty i kontakty pozostają na telefonie. Nie oferujemy żadnej synchronizacji w chmurze.",
-        "icon": "🔒"
+        "icon": "\uD83D\uDD12"
       }
     ]
   },
@@ -120,22 +120,27 @@
       {
         "title": "Zakładki kategorii",
         "text": "Dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil — zmiana zakładki od razu prowadzi do właściwej listy.",
-        "icon": "🏷️"
+        "icon": "\uD83C\uDFF7️"
       },
       {
         "title": "Kopiowanie jednym dotknięciem",
         "text": "Jedno dotknięcie kopiuje całą treść. Opcjonalna wibracja potwierdza skopiowanie.",
-        "icon": "👆"
+        "icon": "\uD83D\uDC46"
       },
       {
         "title": "Podgląd po dłuższym dotknięciu",
         "text": "Przed skopiowaniem dłuższego tekstu sprawdź tytuł i treść dłuższym dotknięciem.",
-        "icon": "👁️"
+        "icon": "\uD83D\uDC41️"
       },
       {
         "title": "Karty profilu",
         "text": "Zapisuj kontakty prywatne i służbowe w formie kart; kopiuj pojedyncze pola jednym dotknięciem.",
-        "icon": "🪪"
+        "icon": "\uD83E\uDEAA"
+      },
+      {
+        "title": "Kategoria Obrazy",
+        "text": "Zapisuj wizytówki, logotypy i inne obrazy. Stuknij, aby skopiować, udostępnić lub podejrzeć.",
+        "icon": "\uD83D\uDDBC️"
       },
       {
         "title": "Tryb zmiany kolejności",
@@ -145,17 +150,17 @@
       {
         "title": "Kopia zapasowa (Pro)",
         "text": "Eksportuj i importuj dane w formacie JSON — przydatne przy zmianie telefonu lub do bezpiecznego przechowywania.",
-        "icon": "💾"
+        "icon": "\uD83D\uDCBE"
       },
       {
         "title": "Interfejs w 21 językach",
         "text": "Korzystaj z aplikacji po polsku, japońsku i w 19 innych językach.",
-        "icon": "🌐"
+        "icon": "\uD83C\uDF10"
       },
       {
         "title": "Jasny i ciemny motyw",
         "text": "Wybierz jasny lub ciemny motyw w ustawieniach.",
-        "icon": "🌓"
+        "icon": "\uD83C\uDF13"
       }
     ],
     "categoriesLabel": "6 kategorii",
@@ -164,7 +169,7 @@
       "Gotowe zwroty",
       "E-mail",
       "Telefon",
-      "Adres",
+      "Obrazy",
       "Profil"
     ]
   },
@@ -200,6 +205,7 @@
     "freeItems": [
       "Do 5 pozycji w dowolnym tekście",
       "Do 1 karty profilu",
+      "Zapisuj, kopiuj i udostępniaj obrazy w kategorii Obrazy",
       "Szablony, e-mail, telefon i adres: tylko podgląd (użycie w Pro)",
       "Kopiowanie jednym dotknięciem, zmiana kategorii",
       "30-dniowa wersja próbna: pojemność, kategorie i kopia zapasowa (motywy premium wymagają zakupu Pro)"
@@ -241,7 +247,7 @@
       },
       {
         "q": "Czym różni się wersja bezpłatna od Pro?",
-        "a": "Wersja bezpłatna obejmuje do 5 elementów dowolnego tekstu i 1 kartę profilu do kopiowania i edycji. Możesz przeglądać Szablony, E-mail, Telefon i Adres, ale ich użycie wymaga Pro. Pro odblokowuje wszystkie kategorie, zwiększa pojemność, dodaje eksport/import JSON i motywy premium. Nowe instalacje otrzymują 30-dniową wersję próbną rozszerzonej pojemności, wszystkich kategorii i kopii zapasowej (motywy premium wymagają zakupu Pro)."
+        "a": "Wersja bezpłatna obejmuje do 5 elementów dowolnego tekstu i 1 kartę profilu do kopiowania i edycji. Możesz przeglądać Szablony, E-mail i Telefon, ale ich użycie wymaga Pro. Kategoria Obrazy jest dostępna w wersji bezpłatnej. Pro odblokowuje wszystkie kategorie, zwiększa pojemność, dodaje eksport/import JSON i motywy premium. Nowe instalacje otrzymują 30-dniową wersję próbną rozszerzonej pojemności, wszystkich kategorii i kopii zapasowej (motywy premium wymagają zakupu Pro)."
       },
       {
         "q": "Jak działa 30-dniowy okres próbny?",
@@ -313,6 +319,16 @@
     "latestPrefix": "Najnowsza wersja:",
     "storeNote": "Aktualizacje są dystrybuowane przez Google Play (a po publikacji — również przez App Store).",
     "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
       {
         "version": "1.0.0",
         "date": "2026",

@@ -30,6 +30,7 @@ jobs:
           cp .nojekyll _site/ 2>/dev/null || true
           cp index.html style.css i18n.js favicon.ico sitemap.xml _site/
           cp support.html privacy.html release-notes.html _site/
+          if [ -d privacy ]; then cp -r privacy _site/; fi
           cp -r images i18n business _site/
           if [ -f robots.txt ]; then cp robots.txt _site/; fi
           if [ -d videos ]; then cp -r videos _site/; fi

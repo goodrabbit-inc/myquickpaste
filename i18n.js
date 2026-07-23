@@ -196,6 +196,60 @@
     }
   }
 
+  function renderPrivacyList(items) {
+    if (!Array.isArray(items) || !items.length) return "";
+    return (
+      '<ul class="privacy-list">' +
+      items.map(function (item) {
+        return "<li>" + escapeHtml(item) + "</li>";
+      }).join("") +
+      "</ul>"
+    );
+  }
+
+  function renderPrivacyBlock(block) {
+    var html = '<div class="privacy-block">';
+    if (block.h3) html += "<h3>" + escapeHtml(block.h3) + "</h3>";
+    if (block.p) html += "<p>" + escapeHtml(block.p) + "</p>";
+    html += renderPrivacyList(block.items);
+    html += "</div>";
+    return html;
+  }
+
+  function renderPrivacySections(container, sections) {
+    if (!container || !Array.isArray(sections)) return;
+    container.innerHTML = sections
+      .map(function (section) {
+        var html = '<section class="privacy-section">';
+        if (section.h) html += "<h2>" + escapeHtml(section.h) + "</h2>";
+        if (section.p) html += "<p>" + escapeHtml(section.p) + "</p>";
+        if (Array.isArray(section.paragraphs)) {
+          section.paragraphs.forEach(function (paragraph) {
+            html += "<p>" + escapeHtml(paragraph) + "</p>";
+          });
+        }
+        if (Array.isArray(section.blocks)) {
+          section.blocks.forEach(function (block) {
+            html += renderPrivacyBlock(block);
+          });
+        }
+        html += renderPrivacyList(section.items);
+        if (section.contactEmail) {
+          html +=
+            '<p class="privacy-contact">' +
+            escapeHtml(section.contactLabel || "") +
+            ' <a href="mailto:' +
+            escapeHtml(section.contactEmail) +
+            '">' +
+            escapeHtml(section.contactEmail) +
+            "</a></p>";
+        }
+        html += "</section>";
+        return html;
+      })
+      .join("");
+  }
+
   function applyPrivacyPage(t) {
     if (!t.privacyPage) return;
     var p = t.privacyPage;
@@ -205,27 +259,9 @@
     });
     var h1 = document.querySelector("h1.page-title");
     if (h1) h1.textContent = p.title;
-    var updated = document.querySelector("main.content > p");
-    if (updated && !updated.closest("section")) updated.textContent = p.updated;
-    var sections = document.querySelectorAll("main.content > section");
-    if (sections[0]) {
-      var h = sections[0].querySelector("h2");
-      var body = sections[0].querySelector("p");
-      if (h) h.textContent = p.overviewTitle;
-      if (body) body.textContent = p.overviewText;
-    }
-    if (sections[1]) {
-      var h = sections[1].querySelector("h2");
-      var body = sections[1].querySelector("p");
-      if (h) h.textContent = p.dataTitle;
-      if (body) body.textContent = p.dataText;
-    }
-    if (sections[2]) {
-      var h = sections[2].querySelector("h2");
-      var body = sections[2].querySelector("p");
-      if (h) h.textContent = p.storeTitle;
-      if (body) body.textContent = p.storeText;
-    }
+    var updated = document.querySelector(".privacy-updated");
+    if (updated) updated.textContent = p.updated;
+    renderPrivacySections(document.getElementById("privacy-sections"), p.sections);
   }
 
   function detectPage() {

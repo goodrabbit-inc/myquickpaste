@@ -1,0 +1,15 @@
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\bin\Debug\net10.0\UpdatePrivacyPage.exe
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\bin\Debug\net10.0\UpdatePrivacyPage.deps.json
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\bin\Debug\net10.0\UpdatePrivacyPage.runtimeconfig.json
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\bin\Debug\net10.0\UpdatePrivacyPage.dll
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\bin\Debug\net10.0\UpdatePrivacyPage.pdb
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.AssemblyInfoInputs.cache
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.AssemblyInfo.cs
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.csproj.CoreCompileInputs.cache
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.sourcelink.json
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.dll
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\refint\UpdatePrivacyPage.dll
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.pdb
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\UpdatePrivacyPage.genruntimeconfig.cache
+c:\Users\gacha\Desktop\myquickpaste-github\tools\UpdatePrivacyPage\obj\Debug\net10.0\ref\UpdatePrivacyPage.dll

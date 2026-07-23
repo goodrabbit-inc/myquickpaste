@@ -584,6 +584,49 @@ main {
   padding-left: 1.25rem;
 }
 
+.privacy-content > .privacy-updated {
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 0.25rem;
+}
+
+.privacy-section {
+  margin-top: 1.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--border);
+}
+
+.privacy-section:first-child {
+  border-top: none;
+  padding-top: 0;
+}
+
+.privacy-section > p:first-of-type {
+  margin-top: 0.5rem;
+}
+
+.privacy-block {
+  margin-top: 1rem;
+}
+
+.privacy-block h3,
+.content h3 {
+  font-size: 1rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.privacy-list {
+  margin: 0.5rem 0 0.75rem;
+}
+
+.privacy-contact {
+  margin-top: 0.75rem;
+}
+
+.privacy-contact a {
+  color: var(--accent);
+}
+
 footer {
   max-width: var(--max);
   margin: 0 auto;

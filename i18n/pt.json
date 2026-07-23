@@ -173,11 +173,77 @@
     "metaTitle": "Política de privacidade — MyQuickPaste",
     "title": "Política de privacidade",
     "updated": "Última atualização: junho de 2026",
-    "overviewTitle": "Visão geral",
-    "overviewText": "MyQuickPaste é um aplicativo Windows da Good Rabbit inc.",
-    "dataTitle": "Armazenamento de dados",
-    "dataText": "Textos, configurações e histórico são armazenados localmente no PC (ex.: %AppData%\\MyQuickPaste). Seus dados nunca são enviados para fora do computador.",
-    "storeTitle": "Microsoft Store",
-    "storeText": "Compras Pro e verificação de licença são processadas pela Microsoft Store."
+    "sections": [
+      {
+        "h": "Introduction",
+        "p": "MyQuickPaste (the \"Application\") respects your privacy and takes the protection of personal information seriously. This Privacy Policy explains what information the Application collects and how it is handled."
+      },
+      {
+        "h": "Information We Collect",
+        "p": "To provide its features, the Application stores the following information only on your computer.",
+        "blocks": [
+          {
+            "h3": "A) Information you choose to save",
+            "p": "Data saved in slots: titles and content that you register in the Application's data slots. These may include:",
+            "items": [
+              "Email addresses, signatures, postal addresses, and phone numbers",
+              "Website URLs and login IDs",
+              "Financial information such as bank account details",
+              "Frequently used text, greetings, and code snippets",
+              "Any other information you choose to save as text"
+            ]
+          },
+          {
+            "h3": "B) Information collected automatically",
+            "p": "Clipboard history: if you enable the history feature, text you copy on your computer is collected and stored automatically. In addition to the items listed in (A), this may include temporarily copied sensitive information such as passwords or private messages."
+          },
+          {
+            "h3": "C) Application settings",
+            "p": "Settings saved for your convenience include:",
+            "items": [
+              "Display settings such as theme, language, window size, and opacity",
+              "Quick access bar button layout",
+              "The last active tab"
+            ]
+          }
+        ]
+      },
+      {
+        "h": "How We Use Information",
+        "p": "Collected information is used only for the following purposes:",
+        "items": [
+          "To provide storage and recall of your saved text.",
+          "To display and reuse clipboard history.",
+          "To save application settings and provide a comfortable user experience."
+        ]
+      },
+      {
+        "h": "Storage Location and Security",
+        "blocks": [
+          {
+            "h3": "Where data is stored",
+            "p": "All of the above data is stored locally in the %AppData%\\MyQuickPaste folder on your computer (inside the Windows application data folder)."
+          },
+          {
+            "h3": "No sharing with third parties",
+            "p": "This data is never transmitted automatically to any third party, including the developer."
+          },
+          {
+            "h3": "Security",
+            "p": "To help protect your data, information saved in data slots and clipboard history is stored encrypted using a key unique to your PC."
+          },
+          {
+            "h3": "Microsoft Store",
+            "p": "Pro purchases and license verification are handled by Microsoft Store. We do not receive your payment card details."
+          }
+        ]
+      },
+      {
+        "h": "Contact Us",
+        "p": "If you have questions or concerns about this Privacy Policy, please contact us at:",
+        "contactLabel": "Email:",
+        "contactEmail": "myquickpaste@hotmail.com"
+      }
+    ]
   }
 }

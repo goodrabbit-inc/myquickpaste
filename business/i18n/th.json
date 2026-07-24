@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "th",
-    "title": "MyQuickPaste for Business — เวอร์ชันสมาร์ทโฟน",
-    "description": "บันทึกข้อความที่ใช้บ่อยไว้ในสมาร์ทโฟนแล้วคัดลอกได้ในแตะเดียว MyQuickPaste for Business จัดหมวดหมู่ประโยคสำเร็จรูป ที่อยู่ รายชื่อผู้ติดต่อ และการ์ดโปรไฟล์ให้เป็นระเบียบ"
+    "title": "MyQuickPaste — เวอร์ชันสมาร์ทโฟน",
+    "description": "บันทึกข้อความที่ใช้บ่อยไว้ในสมาร์ทโฟนแล้วคัดลอกได้ในแตะเดียว MyQuickPaste จัดหมวดหมู่ประโยคสำเร็จรูป ที่อยู่ รายชื่อผู้ติดต่อ และการ์ดโปรไฟล์ให้เป็นระเบียบ"
   },
   "lang": {
     "label": "ภาษา"
@@ -14,7 +14,7 @@
     "privacy": "ความเป็นส่วนตัว"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "เวอร์ชันสมาร์ทโฟน"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (เวอร์ชัน Windows)",
     "pcText": "แอป Windows ที่พร้อมใช้งานอยู่ริมหน้าจอตลอดเวลา วางข้อความได้ทันทีด้วยคลิกเดียว",
     "pcLink": "เว็บไซต์เวอร์ชัน Windows",
-    "mobileTitle": "MyQuickPaste for Business (เวอร์ชันสมาร์ทโฟน)",
+    "mobileTitle": "MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
     "mobileText": "รายการแบ่งตามหมวดหมู่และการ์ดโปรไฟล์สำหรับข้อความสำคัญของคุณ พร้อมสำรองข้อมูลแบบ JSON ในเวอร์ชัน Pro",
     "note": "เวอร์ชันพีซีและสมาร์ทโฟนเป็นแอปคนละตัวกัน การซื้อและข้อมูลที่บันทึกไว้จะไม่ใช้ร่วมกันระหว่างสองเวอร์ชัน"
   },
@@ -52,7 +52,7 @@
       "ต้องพิมพ์ลายเซ็นหรือคำตอบสำเร็จรูปซ้ำๆ บนคีย์บอร์ดหน้าจอเล็ก",
       "ต้องสลับแอปไปมาแค่เพื่อคัดลอกข้อความบรรทัดเดียวอีกครั้ง"
     ],
-    "solution": "บันทึกไว้ครั้งเดียวใน MyQuickPaste for Business แล้วแค่เปิดแอปและแตะ วางลงในอีเมล แชท แผนที่ ได้ทุกที่ที่ต้องการ"
+    "solution": "บันทึกไว้ครั้งเดียวใน MyQuickPaste แล้วแค่เปิดแอปและแตะ วางลงในอีเมล แชท แผนที่ ได้ทุกที่ที่ต้องการ"
   },
   "clipboardCompare": {
     "title": "ต่างจากคลิปบอร์ดของ Gboard อย่างไร",
@@ -65,7 +65,7 @@
       "รายการที่ไม่ได้ปักหมุดจะหายไปหลังจากประมาณ 5 รายการหรือ 1 ชั่วโมง",
       "ประวัติที่ปะปนกันทำให้จัดเก็บข้อความโปรดอย่างเป็นระเบียบได้ยาก"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "ที่เก็บถาวรสำหรับข้อความสำคัญของคุณ",
     "appItems": [
       "บันทึกที่อยู่ ลายเซ็น และคำตอบสำเร็จรูปพร้อมตั้งชื่อได้",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "ธีมสี 14 แบบ",
     "subtitle": "ฟรีมีโหมดสว่างและมืด Pro ปลดล็อกพาเลตพรีเมียมสำหรับธุรกิจและใช้งานประจำวัน",
-    "imageAlt": "ตารางธีม MyQuickPaste for Business 14 แบบ: ด้านบน 7 ธีมสว่าง ด้านล่าง 7 ธีมมืด",
+    "imageAlt": "ตารางธีม MyQuickPaste 14 แบบ: ด้านบน 7 ธีมสว่าง ด้านล่าง 7 ธีมมืด",
     "caption": "แถวบน: ธีมสว่าง 7 แบบ / แถวล่าง: ธีมมืด 7 แบบ",
     "note": "ธีมพรีเมียมต้องซื้อ Pro"
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "ช่วยเหลือ",
-    "lead": "ความช่วยเหลือสำหรับ MyQuickPaste for Business (เวอร์ชันสมาร์ทโฟน)",
+    "lead": "ความช่วยเหลือสำหรับ MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
     "faqTitle": "คำถามที่พบบ่อย",
     "items": [
       {
         "q": "นี่คือแอปเดียวกับ MyQuickPaste เวอร์ชัน Windows หรือไม่?",
-        "a": "ไม่ใช่ MyQuickPaste for Business เป็นเวอร์ชันแยกต่างหากสำหรับสมาร์ทโฟน มีแนวคิดเดียวกันแต่เป็นแอปอิสระที่มีข้อมูลและการซื้อในสโตร์ของตัวเอง"
+        "a": "ไม่ใช่ MyQuickPaste เป็นเวอร์ชันแยกต่างหากสำหรับสมาร์ทโฟน มีแนวคิดเดียวกันแต่เป็นแอปอิสระที่มีข้อมูลและการซื้อในสโตร์ของตัวเอง"
       },
       {
         "q": "เวอร์ชันฟรีกับ Pro ต่างกันอย่างไร?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "ฉันจะสำรองหรือย้ายข้อมูลได้อย่างไร?",
-        "a": "ผู้ใช้ Pro สามารถส่งออกไฟล์สำรอง JSON จากการตั้งค่า แล้วนำเข้าไปยัง MyQuickPaste for Business บนอุปกรณ์เครื่องอื่นได้"
+        "a": "ผู้ใช้ Pro สามารถส่งออกไฟล์สำรอง JSON จากการตั้งค่า แล้วนำเข้าไปยัง MyQuickPaste บนอุปกรณ์เครื่องอื่นได้"
       },
       {
         "q": "เวอร์ชัน iPhone จะพร้อมใช้งานเมื่อไหร่?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "นโยบายความเป็นส่วนตัว",
-    "lead": "MyQuickPaste for Business (เวอร์ชันสมาร์ทโฟน)",
+    "lead": "MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "บันทึกการอัปเดต",
-    "lead": "ประวัติเวอร์ชันของ MyQuickPaste for Business",
+    "lead": "ประวัติเวอร์ชันของ MyQuickPaste",
     "latestPrefix": "เวอร์ชันล่าสุด:",
     "storeNote": "การอัปเดตจะเผยแพร่ผ่าน Google Play (และจะเผยแพร่ผ่าน App Store ด้วยหลังจากพร้อมใช้งาน)",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "ดูแอปในการใช้งานจริง",
-    "subtitle": "ภาพหน้าจอจริงจาก MyQuickPaste for Business (Android)",
+    "subtitle": "ภาพหน้าจอจริงจาก MyQuickPaste (Android)",
     "freetextAlt": "รายการข้อความอิสระพร้อมลายเซ็นที่บันทึกไว้และคัดลอกในแตะเดียว",
     "snippetsAlt": "หมวดหมู่ประโยคสำเร็จรูปพร้อมเทมเพลตคำตอบอีเมล",
     "profileAlt": "การ์ดโปรไฟล์สำหรับรายชื่อผู้ติดต่อที่บ้าน ที่ทำงาน และอื่นๆ",

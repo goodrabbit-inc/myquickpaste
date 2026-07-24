@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "vi",
-    "title": "MyQuickPaste for Business — Phiên bản Smartphone",
-    "description": "Lưu những đoạn văn bản bạn thường xuyên sử dụng trên điện thoại và sao chép chỉ với một chạm. MyQuickPaste for Business sắp xếp các câu mẫu, địa chỉ, danh bạ và thẻ hồ sơ theo danh mục."
+    "title": "MyQuickPaste — Phiên bản Smartphone",
+    "description": "Lưu những đoạn văn bản bạn thường xuyên sử dụng trên điện thoại và sao chép chỉ với một chạm. MyQuickPaste sắp xếp các câu mẫu, địa chỉ, danh bạ và thẻ hồ sơ theo danh mục."
   },
   "lang": {
     "label": "Ngôn ngữ"
@@ -14,7 +14,7 @@
     "privacy": "Quyền riêng tư"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Phiên bản Smartphone"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Phiên bản Windows)",
     "pcText": "Ứng dụng Windows luôn sẵn sàng ở cạnh màn hình và dán văn bản trực tiếp chỉ bằng một cú nhấp.",
     "pcLink": "Trang web phiên bản Windows",
-    "mobileTitle": "MyQuickPaste for Business (Phiên bản Smartphone)",
+    "mobileTitle": "MyQuickPaste (Phiên bản Smartphone)",
     "mobileText": "Danh sách theo danh mục và thẻ hồ sơ cho những văn bản quan trọng nhất của bạn, kèm sao lưu JSON trong bản Pro.",
     "note": "Phiên bản máy tính và điện thoại là hai ứng dụng riêng biệt. Giao dịch mua và dữ liệu đã lưu không được chia sẻ giữa hai phiên bản."
   },
@@ -52,7 +52,7 @@
       "Phải gõ lại chữ ký hoặc câu trả lời cố định nhiều lần trên bàn phím màn hình nhỏ",
       "Phải chuyển qua lại giữa các ứng dụng chỉ để sao chép lại một dòng văn bản"
     ],
-    "solution": "Chỉ cần lưu một lần trong MyQuickPaste for Business, sau đó mở ứng dụng và chạm là xong. Dán vào email, tin nhắn, bản đồ — bất cứ nơi nào bạn cần."
+    "solution": "Chỉ cần lưu một lần trong MyQuickPaste, sau đó mở ứng dụng và chạm là xong. Dán vào email, tin nhắn, bản đồ — bất cứ nơi nào bạn cần."
   },
   "clipboardCompare": {
     "title": "Khác gì so với bộ nhớ tạm của Gboard?",
@@ -65,7 +65,7 @@
       "Các mục chưa ghim sẽ biến mất sau khoảng 5 mục hoặc 1 giờ",
       "Lịch sử lẫn lộn khiến việc lưu trữ văn bản yêu thích gọn gàng trở nên khó khăn"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "Nơi lưu trữ cố định cho văn bản quan trọng của bạn",
     "appItems": [
       "Lưu địa chỉ, chữ ký và câu trả lời cố định, mỗi cái đều có tên riêng",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 chủ đề màu",
     "subtitle": "Miễn phí gồm sáng và tối. Pro mở khóa bảng màu cao cấp cho công việc và dùng hàng ngày.",
-    "imageAlt": "Lưới 14 chủ đề MyQuickPaste for Business: bảy chủ đề sáng ở trên và bảy tối ở dưới.",
+    "imageAlt": "Lưới 14 chủ đề MyQuickPaste: bảy chủ đề sáng ở trên và bảy tối ở dưới.",
     "caption": "Hàng trên: 7 chủ đề sáng / Hàng dưới: 7 chủ đề tối",
     "note": "Chủ đề cao cấp cần mua Pro."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "Hỗ trợ",
-    "lead": "Trợ giúp cho MyQuickPaste for Business (Phiên bản Smartphone).",
+    "lead": "Trợ giúp cho MyQuickPaste (Phiên bản Smartphone).",
     "faqTitle": "Câu hỏi thường gặp",
     "items": [
       {
         "q": "Đây có phải cùng một ứng dụng với MyQuickPaste cho Windows không?",
-        "a": "Không. MyQuickPaste for Business là phiên bản riêng dành cho điện thoại. Nó có cùng ý tưởng nhưng là một ứng dụng độc lập với dữ liệu và giao dịch mua trên cửa hàng riêng."
+        "a": "Không. MyQuickPaste là phiên bản riêng dành cho điện thoại. Nó có cùng ý tưởng nhưng là một ứng dụng độc lập với dữ liệu và giao dịch mua trên cửa hàng riêng."
       },
       {
         "q": "Sự khác biệt giữa phiên bản miễn phí và Pro là gì?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "Làm thế nào để sao lưu hoặc chuyển dữ liệu của tôi?",
-        "a": "Người dùng Pro có thể xuất bản sao lưu JSON từ cài đặt và nhập nó vào MyQuickPaste for Business trên một thiết bị khác."
+        "a": "Người dùng Pro có thể xuất bản sao lưu JSON từ cài đặt và nhập nó vào MyQuickPaste trên một thiết bị khác."
       },
       {
         "q": "Khi nào phiên bản iPhone sẽ có sẵn?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "Chính sách quyền riêng tư",
-    "lead": "MyQuickPaste for Business (Phiên bản Smartphone)",
+    "lead": "MyQuickPaste (Phiên bản Smartphone)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "Ghi chú phát hành",
-    "lead": "Lịch sử phiên bản của MyQuickPaste for Business.",
+    "lead": "Lịch sử phiên bản của MyQuickPaste.",
     "latestPrefix": "Phiên bản mới nhất:",
     "storeNote": "Các bản cập nhật được phân phối qua Google Play (và sẽ được phân phối qua App Store sau khi có sẵn).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "Xem ứng dụng hoạt động",
-    "subtitle": "Ảnh chụp màn hình thực tế từ MyQuickPaste for Business (Android).",
+    "subtitle": "Ảnh chụp màn hình thực tế từ MyQuickPaste (Android).",
     "freetextAlt": "Danh sách văn bản tự do với chữ ký đã lưu và sao chép một chạm",
     "snippetsAlt": "Danh mục câu mẫu với các mẫu trả lời email",
     "profileAlt": "Thẻ hồ sơ cho danh bạ nhà riêng, công việc và hơn thế nữa",

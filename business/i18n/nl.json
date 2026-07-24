@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "nl",
-    "title": "MyQuickPaste for Business — Smartphone-editie",
-    "description": "Bewaar veelgebruikte tekst op je smartphone en kopieer die met één tik. MyQuickPaste for Business ordent standaardteksten, adressen, contacten en profielkaarten per categorie."
+    "title": "MyQuickPaste — Smartphone-editie",
+    "description": "Bewaar veelgebruikte tekst op je smartphone en kopieer die met één tik. MyQuickPaste ordent standaardteksten, adressen, contacten en profielkaarten per categorie."
   },
   "lang": {
     "label": "Taal"
@@ -14,7 +14,7 @@
     "privacy": "Privacy"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Smartphone-editie"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Windows)",
     "pcText": "Een Windows-app die altijd aan de rand van je scherm klaarstaat en met één klik plakt.",
     "pcLink": "Website van de Windows-editie",
-    "mobileTitle": "MyQuickPaste for Business (smartphone)",
+    "mobileTitle": "MyQuickPaste (smartphone)",
     "mobileText": "Categorielijsten en profielkaarten voor je belangrijkste teksten. Pro voegt back-up in JSON toe.",
     "note": "De pc- en smartphone-editie zijn twee aparte apps. Aankopen en opgeslagen gegevens worden niet tussen beide gedeeld."
   },
@@ -52,7 +52,7 @@
       "Steeds opnieuw een handtekening of standaardantwoord intypen op het kleine schermtoetsenbord",
       "Van app wisselen alleen om nog een keer één regel tekst te kopiëren"
     ],
-    "solution": "Sla het één keer op in MyQuickPaste for Business en open daarna gewoon de app en tik. Plak het in e-mail, chat, kaarten — overal waar je het nodig hebt."
+    "solution": "Sla het één keer op in MyQuickPaste en open daarna gewoon de app en tik. Plak het in e-mail, chat, kaarten — overal waar je het nodig hebt."
   },
   "clipboardCompare": {
     "title": "Het verschil met het klembord van Gboard",
@@ -65,7 +65,7 @@
       "Niet-vastgezette items verdwijnen na ongeveer 5 stuks of na zo'n 1 uur",
       "Een gemengde geschiedenis, minder geschikt om favoriete teksten netjes te bewaren"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "Een vaste plek voor je standaardteksten",
     "appItems": [
       "Bewaar adressen, handtekeningen en standaardantwoorden onder een eigen naam",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 kleurthema's",
     "subtitle": "Gratis: licht en donker. Pro ontgrendelt premiumpaletten voor werk en dagelijks gebruik.",
-    "imageAlt": "Raster van 14 MyQuickPaste for Business-thema's: zeven lichte thema's boven, zeven donkere onder.",
+    "imageAlt": "Raster van 14 MyQuickPaste-thema's: zeven lichte thema's boven, zeven donkere onder.",
     "caption": "Bovenste rij: 7 lichte thema's / Onderste rij: 7 donkere thema's",
     "note": "Premiumthema's vereisen een Pro-aankoop."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "Ondersteuning",
-    "lead": "Hulp bij MyQuickPaste for Business (smartphone-editie).",
+    "lead": "Hulp bij MyQuickPaste (smartphone-editie).",
     "faqTitle": "Veelgestelde vragen",
     "items": [
       {
         "q": "Is dit dezelfde app als MyQuickPaste voor Windows?",
-        "a": "Nee. MyQuickPaste for Business is de smartphone-editie. Ze delen dezelfde filosofie, maar het is een aparte app met eigen gegevens en een eigen aankoop in de store."
+        "a": "Nee. MyQuickPaste is de smartphone-editie. Ze delen dezelfde filosofie, maar het is een aparte app met eigen gegevens en een eigen aankoop in de store."
       },
       {
         "q": "Wat is het verschil tussen de gratis versie en Pro?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "Hoe maak ik een back-up of zet ik gegevens over?",
-        "a": "Pro-gebruikers kunnen vanuit de instellingen een JSON-back-up exporteren en die op een ander toestel met MyQuickPaste for Business importeren."
+        "a": "Pro-gebruikers kunnen vanuit de instellingen een JSON-back-up exporteren en die op een ander toestel met MyQuickPaste importeren."
       },
       {
         "q": "Wanneer komt de iPhone-versie beschikbaar?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "Privacybeleid",
-    "lead": "MyQuickPaste for Business (smartphone-editie)",
+    "lead": "MyQuickPaste (smartphone-editie)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "Release-opmerkingen",
-    "lead": "Versiegeschiedenis van MyQuickPaste for Business.",
+    "lead": "Versiegeschiedenis van MyQuickPaste.",
     "latestPrefix": "Nieuwste versie:",
     "storeNote": "Updates worden verspreid via Google Play (en, zodra beschikbaar, ook via de App Store).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "De app in beeld",
-    "subtitle": "Echte schermafbeeldingen van MyQuickPaste for Business op Android.",
+    "subtitle": "Echte schermafbeeldingen van MyQuickPaste op Android.",
     "freetextAlt": "Lijst met vrije tekst met opgeslagen zinnen en kopiëren met één tik",
     "snippetsAlt": "Categorie standaardteksten met sjablonen voor e-mail",
     "profileAlt": "Profielkaarten voor thuis- en werkcontacten",

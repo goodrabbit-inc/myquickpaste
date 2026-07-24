@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "es",
-    "title": "MyQuickPaste for Business — Edición para móviles",
-    "description": "Guarda los textos que usas a diario en tu móvil y cópialos con un solo toque. MyQuickPaste for Business organiza frases hechas, direcciones, contactos y fichas de perfil por categorías."
+    "title": "MyQuickPaste — Edición para móviles",
+    "description": "Guarda los textos que usas a diario en tu móvil y cópialos con un solo toque. MyQuickPaste organiza frases hechas, direcciones, contactos y fichas de perfil por categorías."
   },
   "lang": {
     "label": "Idioma"
@@ -14,7 +14,7 @@
     "privacy": "Privacidad"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Edición para móviles"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Windows)",
     "pcText": "Una aplicación de Windows que se queda en el borde de la pantalla y pega con un solo clic.",
     "pcLink": "Web de la edición para Windows",
-    "mobileTitle": "MyQuickPaste for Business (móvil)",
+    "mobileTitle": "MyQuickPaste (móvil)",
     "mobileText": "Listas por categoría y fichas de perfil para tus textos habituales. La versión Pro añade copia de seguridad en JSON.",
     "note": "Las ediciones de PC y de móvil son aplicaciones independientes. Las compras y los datos guardados no se comparten entre ellas."
   },
@@ -52,7 +52,7 @@
       "Volver a escribir la firma o una respuesta habitual en el teclado pequeño del móvil",
       "Cambiar de aplicación solo para copiar de nuevo una línea de texto"
     ],
-    "solution": "Guárdalo una vez en MyQuickPaste for Business y luego solo abre la app y toca. Pégalo en el correo, el chat, el mapa... donde lo necesites."
+    "solution": "Guárdalo una vez en MyQuickPaste y luego solo abre la app y toca. Pégalo en el correo, el chat, el mapa... donde lo necesites."
   },
   "clipboardCompare": {
     "title": "En qué se diferencia del portapapeles de Gboard",
@@ -65,7 +65,7 @@
       "Lo que no está fijado desaparece a las pocas copias o en aproximadamente 1 hora",
       "Un historial mezclado, poco práctico para mantener tus textos favoritos ordenados"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "El lugar fijo para tus textos habituales",
     "appItems": [
       "Guarda direcciones, firmas y respuestas habituales, cada una con su propio nombre",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 temas de color",
     "subtitle": "Gratis incluye claro y oscuro. Pro desbloquea paletas premium para negocios y uso diario.",
-    "imageAlt": "Cuadrícula de 14 temas de MyQuickPaste for Business: siete temas claros arriba y siete oscuros abajo.",
+    "imageAlt": "Cuadrícula de 14 temas de MyQuickPaste: siete temas claros arriba y siete oscuros abajo.",
     "caption": "Fila superior: 7 temas claros / Fila inferior: 7 temas oscuros",
     "note": "Los temas premium requieren la compra Pro."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "Soporte",
-    "lead": "Ayuda para MyQuickPaste for Business (edición para móviles).",
+    "lead": "Ayuda para MyQuickPaste (edición para móviles).",
     "faqTitle": "Preguntas frecuentes",
     "items": [
       {
         "q": "¿Es la misma aplicación que MyQuickPaste para Windows?",
-        "a": "No. MyQuickPaste for Business es la edición para móviles. Comparte la misma filosofía, pero es una aplicación independiente, con sus propios datos y su propia compra en la tienda."
+        "a": "No. MyQuickPaste es la edición para móviles. Comparte la misma filosofía, pero es una aplicación independiente, con sus propios datos y su propia compra en la tienda."
       },
       {
         "q": "¿Cuál es la diferencia entre la versión gratuita y Pro?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "¿Cómo hago una copia de seguridad o traslado mis datos?",
-        "a": "Los usuarios Pro pueden exportar una copia de seguridad en JSON desde los ajustes e importarla en otro dispositivo con MyQuickPaste for Business."
+        "a": "Los usuarios Pro pueden exportar una copia de seguridad en JSON desde los ajustes e importarla en otro dispositivo con MyQuickPaste."
       },
       {
         "q": "¿Cuándo estará disponible la versión para iPhone?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "Política de privacidad",
-    "lead": "MyQuickPaste for Business (edición para móviles)",
+    "lead": "MyQuickPaste (edición para móviles)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "Notas de la versión",
-    "lead": "Historial de versiones de MyQuickPaste for Business.",
+    "lead": "Historial de versiones de MyQuickPaste.",
     "latestPrefix": "Última versión:",
     "storeNote": "Las actualizaciones se distribuyen a través de Google Play (y, más adelante, también a través del App Store).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "La aplicación en imágenes",
-    "subtitle": "Capturas reales de MyQuickPaste for Business en Android.",
+    "subtitle": "Capturas reales de MyQuickPaste en Android.",
     "freetextAlt": "Lista de texto libre con frases guardadas y copia con un toque",
     "snippetsAlt": "Categoría de frases hechas con plantillas para correo",
     "profileAlt": "Fichas de perfil para contactos de casa y trabajo",

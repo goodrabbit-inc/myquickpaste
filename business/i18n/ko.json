@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "ko",
-    "title": "MyQuickPaste for Business — 스마트폰용",
-    "description": "자주 쓰는 문장을 스마트폰에 저장해두고 한 번만 눌러 복사하세요. MyQuickPaste for Business는 정형문, 주소, 연락처, 프로필 카드를 카테고리별로 정리해줍니다."
+    "title": "MyQuickPaste — 스마트폰용",
+    "description": "자주 쓰는 문장을 스마트폰에 저장해두고 한 번만 눌러 복사하세요. MyQuickPaste는 정형문, 주소, 연락처, 프로필 카드를 카테고리별로 정리해줍니다."
   },
   "lang": {
     "label": "언어"
@@ -14,7 +14,7 @@
     "privacy": "개인정보처리방침"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "스마트폰용"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Windows용)",
     "pcText": "화면 가장자리에 상주하며 클릭 한 번으로 바로 붙여넣을 수 있는 Windows 앱입니다.",
     "pcLink": "Windows용 홈페이지",
-    "mobileTitle": "MyQuickPaste for Business (스마트폰용)",
+    "mobileTitle": "MyQuickPaste (스마트폰용)",
     "mobileText": "카테고리별 목록과 프로필 카드로 자주 쓰는 문장을 언제든 불러올 수 있습니다. Pro에서는 JSON 백업도 지원합니다.",
     "note": "PC용과 스마트폰용은 별도의 앱입니다. 구매 내역과 저장된 데이터는 서로 공유되지 않습니다."
   },
@@ -52,7 +52,7 @@
       "작은 화면 키보드로 서명이나 정형화된 답장을 매번 다시 입력한다",
       "한 줄짜리 자주 쓰는 문장을 복사하려고 매번 다른 앱을 오간다"
     ],
-    "solution": "MyQuickPaste for Business에 한 번만 저장해두면, 그다음부터는 앱을 열고 누르기만 하면 됩니다. 메일, 채팅, 지도 등 필요한 곳 어디에나 바로 붙여넣을 수 있습니다."
+    "solution": "MyQuickPaste에 한 번만 저장해두면, 그다음부터는 앱을 열고 누르기만 하면 됩니다. 메일, 채팅, 지도 등 필요한 곳 어디에나 바로 붙여넣을 수 있습니다."
   },
   "clipboardCompare": {
     "title": "Gboard 클립보드와 무엇이 다를까요",
@@ -65,7 +65,7 @@
       "고정하지 않은 항목은 약 5개 또는 1시간 후 사라짐",
       "기록이 뒤섞여 있어 자주 쓰는 문장을 깔끔하게 정리하기 어려움"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "자주 쓰는 문장을 위한 전용 보관함",
     "appItems": [
       "주소, 서명, 정형화된 답장을 이름을 붙여 저장",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14가지 컬러 테마",
     "subtitle": "무료 버전은 라이트/다크. Pro 버전에서는 비즈니스용 프리미엄 테마를 추가로 선택할 수 있습니다.",
-    "imageAlt": "MyQuickPaste for Business 14가지 테마 그리드: 위쪽 7개는 밝은 테마, 아래쪽 7개는 다크 테마.",
+    "imageAlt": "MyQuickPaste 14가지 테마 그리드: 위쪽 7개는 밝은 테마, 아래쪽 7개는 다크 테마.",
     "caption": "상단: 밝은 테마 7종 / 하단: 다크 테마 7종",
     "note": "프리미엄 테마는 Pro 구매가 필요합니다."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "지원",
-    "lead": "MyQuickPaste for Business (스마트폰용) 도움말입니다.",
+    "lead": "MyQuickPaste (스마트폰용) 도움말입니다.",
     "faqTitle": "자주 묻는 질문",
     "items": [
       {
         "q": "Windows용 MyQuickPaste와 같은 앱인가요?",
-        "a": "아닙니다. MyQuickPaste for Business는 스마트폰 전용의 별도 앱입니다. 같은 철학을 공유하지만 데이터와 스토어 구매 내역은 PC 버전과 공유되지 않습니다."
+        "a": "아닙니다. MyQuickPaste는 스마트폰 전용의 별도 앱입니다. 같은 철학을 공유하지만 데이터와 스토어 구매 내역은 PC 버전과 공유되지 않습니다."
       },
       {
         "q": "무료 버전과 Pro는 무엇이 다른가요?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "개인정보처리방침",
-    "lead": "MyQuickPaste for Business (스마트폰용)",
+    "lead": "MyQuickPaste (스마트폰용)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "릴리스 노트",
-    "lead": "MyQuickPaste for Business의 버전 기록입니다.",
+    "lead": "MyQuickPaste의 버전 기록입니다.",
     "latestPrefix": "최신 버전:",
     "storeNote": "업데이트는 Google Play를 통해 배포됩니다(App Store 출시 후에는 동일하게 배포될 예정입니다).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "앱 화면 살펴보기",
-    "subtitle": "MyQuickPaste for Business (Android)의 실제 화면입니다.",
+    "subtitle": "MyQuickPaste (Android)의 실제 화면입니다.",
     "freetextAlt": "자유 문장 목록. 서명이나 URL 등을 한 번에 복사",
     "snippetsAlt": "정형문 카테고리. 메일 답장 템플릿",
     "profileAlt": "프로필 카드 (집, 회사 등)",

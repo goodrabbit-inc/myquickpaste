@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "ar",
-    "title": "MyQuickPaste for Business — إصدار الهاتف الذكي",
-    "description": "احفظ النصوص التي تستخدمها كثيرًا على هاتفك وانسخها بلمسة واحدة. يقوم MyQuickPaste for Business بتنظيم العبارات الجاهزة والعناوين وجهات الاتصال وبطاقات الملف الشخصي حسب الفئة."
+    "title": "MyQuickPaste — إصدار الهاتف الذكي",
+    "description": "احفظ النصوص التي تستخدمها كثيرًا على هاتفك وانسخها بلمسة واحدة. يقوم MyQuickPaste بتنظيم العبارات الجاهزة والعناوين وجهات الاتصال وبطاقات الملف الشخصي حسب الفئة."
   },
   "lang": {
     "label": "اللغة"
@@ -14,7 +14,7 @@
     "privacy": "الخصوصية"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "إصدار الهاتف الذكي"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (إصدار Windows)",
     "pcText": "تطبيق Windows يبقى جاهزًا عند حافة الشاشة ويلصق النص بنقرة واحدة.",
     "pcLink": "موقع إصدار Windows",
-    "mobileTitle": "MyQuickPaste for Business (إصدار الهاتف الذكي)",
+    "mobileTitle": "MyQuickPaste (إصدار الهاتف الذكي)",
     "mobileText": "قوائم مصنفة حسب الفئة وبطاقات ملف شخصي لأهم نصوصك، مع دعم النسخ الاحتياطي بصيغة JSON في إصدار Pro.",
     "note": "إصدارا الكمبيوتر والهاتف الذكي تطبيقان منفصلان، ولا تتم مشاركة المشتريات أو البيانات المحفوظة بينهما."
   },
@@ -52,7 +52,7 @@
       "إعادة كتابة التوقيع أو الرد الجاهز مرارًا على لوحة المفاتيح الصغيرة للهاتف",
       "التنقل بين التطبيقات فقط لنسخ سطر واحد من النص مرة أخرى"
     ],
-    "solution": "احفظه مرة واحدة في MyQuickPaste for Business، ثم افتح التطبيق واضغط فقط. الصقه في البريد الإلكتروني أو المحادثة أو الخرائط — أينما احتجته."
+    "solution": "احفظه مرة واحدة في MyQuickPaste، ثم افتح التطبيق واضغط فقط. الصقه في البريد الإلكتروني أو المحادثة أو الخرائط — أينما احتجته."
   },
   "clipboardCompare": {
     "title": "ما الفرق عن حافظة Gboard",
@@ -65,7 +65,7 @@
       "العناصر غير المثبتة تختفي بعد حوالي 5 عناصر أو ساعة واحدة تقريبًا",
       "سجل مختلط لا يناسب حفظ النصوص المفضلة بشكل منظم"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "مكان ثابت لنصوصك الأساسية",
     "appItems": [
       "احفظ العناوين والتوقيعات والردود الجاهزة، كلٌ باسمه الخاص",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 سمة لونية",
     "subtitle": "المجاني يتضمن الفاتح والداكن. Pro يفتح لوحات ألوان مميزة للعمل والاستخدام اليومي.",
-    "imageAlt": "شبكة من 14 سمة لـ MyQuickPaste for Business: سبع سمات فاتحة في الأعلى وسبع داكنة في الأسفل.",
+    "imageAlt": "شبكة من 14 سمة لـ MyQuickPaste: سبع سمات فاتحة في الأعلى وسبع داكنة في الأسفل.",
     "caption": "الصف العلوي: 7 سمات فاتحة / الصف السفلي: 7 سمات داكنة",
     "note": "السمات المميزة تتطلب شراء Pro."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "الدعم",
-    "lead": "مساعدة حول MyQuickPaste for Business (إصدار الهاتف الذكي).",
+    "lead": "مساعدة حول MyQuickPaste (إصدار الهاتف الذكي).",
     "faqTitle": "الأسئلة الشائعة",
     "items": [
       {
         "q": "هل هذا نفس تطبيق MyQuickPaste لأجهزة Windows؟",
-        "a": "لا. MyQuickPaste for Business هو إصدار مستقل مخصص للهاتف الذكي. يشترك في نفس الفكرة، لكنه تطبيق مستقل ببياناته الخاصة وعملية شراء خاصة به في المتجر."
+        "a": "لا. MyQuickPaste هو إصدار مستقل مخصص للهاتف الذكي. يشترك في نفس الفكرة، لكنه تطبيق مستقل ببياناته الخاصة وعملية شراء خاصة به في المتجر."
       },
       {
         "q": "ما الفرق بين الإصدار المجاني وPro؟",
@@ -259,7 +259,7 @@
       },
       {
         "q": "كيف أقوم بعمل نسخة احتياطية أو نقل بياناتي؟",
-        "a": "يمكن لمستخدمي Pro تصدير نسخة احتياطية بصيغة JSON من الإعدادات واستيرادها على جهاز آخر يعمل بتطبيق MyQuickPaste for Business."
+        "a": "يمكن لمستخدمي Pro تصدير نسخة احتياطية بصيغة JSON من الإعدادات واستيرادها على جهاز آخر يعمل بتطبيق MyQuickPaste."
       },
       {
         "q": "متى سيتوفر إصدار iPhone؟",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "سياسة الخصوصية",
-    "lead": "MyQuickPaste for Business (إصدار الهاتف الذكي)",
+    "lead": "MyQuickPaste (إصدار الهاتف الذكي)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "ملاحظات الإصدار",
-    "lead": "سجل إصدارات MyQuickPaste for Business.",
+    "lead": "سجل إصدارات MyQuickPaste.",
     "latestPrefix": "أحدث إصدار:",
     "storeNote": "يتم توزيع التحديثات عبر Google Play (وستُوزّع أيضًا عبر App Store بعد إطلاقه).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "شاهد التطبيق أثناء العمل",
-    "subtitle": "لقطات شاشة حقيقية من MyQuickPaste for Business على Android.",
+    "subtitle": "لقطات شاشة حقيقية من MyQuickPaste على Android.",
     "freetextAlt": "قائمة نصوص حرة مع عبارات محفوظة ونسخ بلمسة واحدة",
     "snippetsAlt": "فئة العبارات الجاهزة مع قوالب ردود البريد الإلكتروني",
     "profileAlt": "بطاقات ملف شخصي لجهات اتصال المنزل والعمل",

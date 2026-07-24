@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "zh-CN",
-    "title": "MyQuickPaste for Business — 手机版",
-    "description": "把常用的文字保存在手机里，一键复制。MyQuickPaste for Business 按分类整理常用语、地址、联系方式和资料卡片。"
+    "title": "MyQuickPaste — 手机版",
+    "description": "把常用的文字保存在手机里，一键复制。MyQuickPaste 按分类整理常用语、地址、联系方式和资料卡片。"
   },
   "lang": {
     "label": "语言"
@@ -14,7 +14,7 @@
     "privacy": "隐私政策"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "手机版"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste（Windows 版）",
     "pcText": "常驻屏幕边缘的 Windows 应用，一键即可直接粘贴。",
     "pcLink": "Windows 版官网",
-    "mobileTitle": "MyQuickPaste for Business（手机版）",
+    "mobileTitle": "MyQuickPaste（手机版）",
     "mobileText": "按分类整理列表和资料卡片，随时调用常用文字，Pro 版还支持 JSON 备份。",
     "note": "电脑版和手机版是两款独立的应用，购买记录和保存的数据互不共享。"
   },
@@ -52,7 +52,7 @@
       "在小小的手机键盘上，反复输入同样的签名或固定回复",
       "只是想复制一行常用文字，却要来回切换应用寻找"
     ],
-    "solution": "在 MyQuickPaste for Business 里保存一次，之后打开应用点一下即可。可以直接粘贴到邮件、聊天、地图等任何需要的地方。"
+    "solution": "在 MyQuickPaste 里保存一次，之后打开应用点一下即可。可以直接粘贴到邮件、聊天、地图等任何需要的地方。"
   },
   "clipboardCompare": {
     "title": "与 Gboard 剪贴板有何不同",
@@ -65,7 +65,7 @@
       "未固定的内容大约保留 5 条或 1 小时后就会消失",
       "历史记录混杂在一起，不便于整理常用文字"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "常用文字的固定存放处",
     "appItems": [
       "可为地址、签名、固定回复分别命名保存",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 种配色主题",
     "subtitle": "免费版含浅色与深色。Pro 版可解锁适合商务与日常使用的 premium 主题。",
-    "imageAlt": "MyQuickPaste for Business 14 种主题网格：上方 7 个浅色主题，下方 7 个深色主题。",
+    "imageAlt": "MyQuickPaste 14 种主题网格：上方 7 个浅色主题，下方 7 个深色主题。",
     "caption": "上排：7 个浅色主题 / 下排：7 个深色主题",
     "note": "Premium 主题需购买 Pro 版。"
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "支持",
-    "lead": "MyQuickPaste for Business（手机版）帮助中心。",
+    "lead": "MyQuickPaste（手机版）帮助中心。",
     "faqTitle": "常见问题",
     "items": [
       {
         "q": "这和 Windows 版 MyQuickPaste 是同一款应用吗？",
-        "a": "不是。MyQuickPaste for Business 是独立的手机版应用，理念相同，但数据和商店购买记录并不与电脑版共享。"
+        "a": "不是。MyQuickPaste 是独立的手机版应用，理念相同，但数据和商店购买记录并不与电脑版共享。"
       },
       {
         "q": "免费版和 Pro 版有什么区别？",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "隐私政策",
-    "lead": "MyQuickPaste for Business（手机版）",
+    "lead": "MyQuickPaste（手机版）",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "更新日志",
-    "lead": "MyQuickPaste for Business 的版本历史。",
+    "lead": "MyQuickPaste 的版本历史。",
     "latestPrefix": "最新版本：",
     "storeNote": "更新将通过 Google Play 推送（App Store 上线后也将同步推送）。",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "应用界面预览",
-    "subtitle": "以下为 MyQuickPaste for Business（Android 版）的实际界面截图。",
+    "subtitle": "以下为 MyQuickPaste（Android 版）的实际界面截图。",
     "freetextAlt": "自由文字列表，签名、网址等内容可一键复制",
     "snippetsAlt": "常用语分类，包含邮件回复模板",
     "profileAlt": "资料卡片（家庭、公司等）",

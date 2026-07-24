@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "ja",
-    "title": "MyQuickPaste for Business — スマートフォン版",
-    "description": "よく使う文章をスマホに保存して、ワンタップでコピー。定型文・画像・連絡先・プロフィールをカテゴリ別に整理できる MyQuickPaste for Business です。"
+    "title": "MyQuickPaste — スマートフォン版",
+    "description": "よく使う文章をスマホに保存して、ワンタップでコピー。定型文・画像・連絡先・プロフィールをカテゴリ別に整理できる MyQuickPaste です。"
   },
   "lang": {
     "label": "言語",
@@ -16,7 +16,7 @@
     "privacy": "プライバシー"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "スマートフォン版"
   },
   "hero": {
@@ -43,7 +43,7 @@
     "pcTitle": "MyQuickPaste（Windows版）",
     "pcText": "画面端に常駐して、ワンクリックでダイレクトに貼り付けできる Windows アプリです。",
     "pcLink": "Windows版ホームページ",
-    "mobileTitle": "MyQuickPaste for Business（スマートフォン版）",
+    "mobileTitle": "MyQuickPaste（スマートフォン版）",
     "mobileText": "スマートフォンでコピペを保存。いつでもすぐにコピーを呼び出せます",
     "note": "PC版とスマートフォン版は別アプリです。ストアでの購入や保存データは、それぞれ独立しています。"
   },
@@ -54,7 +54,7 @@
       "小さなキーボードで、署名や定型返信を毎回打ち直している",
       "よく使う1行をコピーするだけなのに、メモ帳から探している"
     ],
-    "solution": "MyQuickPaste for Business に一度保存しておけば、あとはアプリを開いてタップするだけ。メール、チャット、LINEなど使いたいアプリにすぐ貼り付けられます。"
+    "solution": "MyQuickPaste に一度保存しておけば、あとはアプリを開いてタップするだけ。メール、チャット、LINEなど使いたいアプリにすぐ貼り付けられます。"
   },
   "clipboardCompare": {
     "title": "Gboard クリップボードとの違い",
@@ -67,7 +67,7 @@
       "未ピン留めはおおよそ5件・約1時間で消えてしまう",
       "履歴が混ざるので、定番文をきれいに整理する用途には向かない"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "いつも使う文の置き場",
     "appItems": [
       "住所・署名・定型文を、名前付きで登録しておける",
@@ -75,7 +75,7 @@
       "登録したものは、消すまで残り続ける",
       "定番文を探してコピーする——そんな日常使いのためのアプリ"
     ],
-    "footer": "数時間前にコピーした文字列なら Gboard が便利。何度も使う住所や署名、定型返信は MyQuickPaste for Business に登録しておくと、探す手間がなくなります。"
+    "footer": "数時間前にコピーした文字列なら Gboard が便利。何度も使う住所や署名、定型返信は MyQuickPaste に登録しておくと、探す手間がなくなります。"
   },
   "steps": {
     "title": "使い方",
@@ -178,7 +178,7 @@
   "themesSection": {
     "title": "14種類の配色テーマ",
     "subtitle": "無料版はライト／ダーク。Pro版ではビジネス向けのプレミアムテーマを追加で選べます。",
-    "imageAlt": "MyQuickPaste for Business の14種類のテーマ一覧（上段7つが明るいテーマ、下段7つがダークテーマ）",
+    "imageAlt": "MyQuickPaste の14種類のテーマ一覧（上段7つが明るいテーマ、下段7つがダークテーマ）",
     "caption": "上段：明るいテーマ 7種 / 下段：ダークテーマ 7種",
     "note": "※ プレミアムテーマは Pro 版購入が必要です。"
   },
@@ -240,12 +240,12 @@
   },
   "supportPage": {
     "title": "サポート",
-    "lead": "MyQuickPaste for Business（スマートフォン版）のヘルプ。",
+    "lead": "MyQuickPaste（スマートフォン版）のヘルプ。",
     "faqTitle": "よくある質問",
     "items": [
       {
         "q": "Windows版 MyQuickPaste と同じアプリですか？",
-        "a": "いいえ。MyQuickPaste for Business はスマートフォン版の別アプリです。データやストアでの購入は PC 版と共有されません。"
+        "a": "いいえ。MyQuickPaste はスマートフォン版の別アプリです。データやストアでの購入は PC 版と共有されません。"
       },
       {
         "q": "無料版と Pro の違いは何ですか？",
@@ -278,12 +278,12 @@
   },
   "privacyPage": {
     "title": "プライバシーポリシー",
-    "lead": "MyQuickPaste for Business（スマートフォン版）",
+    "lead": "MyQuickPaste（スマートフォン版）",
     "updated": "最終更新：2026年7月",
     "sections": [
       {
         "h": "概要",
-        "p": "MyQuickPaste for Business は、Good Rabbit inc.（以下「当社」）が提供するスマートフォンアプリです。本ポリシーは、アプリが端末上の情報をどのように扱うかを説明します。"
+        "p": "MyQuickPaste は、Good Rabbit inc.（以下「当社」）が提供するスマートフォンアプリです。本ポリシーは、アプリが端末上の情報をどのように扱うかを説明します。"
       },
       {
         "h": "収集しない情報",
@@ -317,7 +317,7 @@
   },
   "releaseNotesPage": {
     "title": "リリースノート",
-    "lead": "MyQuickPaste for Business のバージョン履歴。",
+    "lead": "MyQuickPaste のバージョン履歴。",
     "latestPrefix": "最新リリース：",
     "storeNote": "更新は Google Play 経由で配信されます（App Store 公開後は同様に配信予定）。",
     "entries": [
@@ -350,7 +350,7 @@
   },
   "screenshots": {
     "title": "アプリ画面",
-    "subtitle": "MyQuickPaste for Business（Android）の実際の画面です。",
+    "subtitle": "MyQuickPaste（Android）の実際の画面です。",
     "freetextAlt": "フリーワード一覧。署名やURLなどをワンタップでコピー",
     "snippetsAlt": "定型文カテゴリ。メール返信テンプレート",
     "profileAlt": "プロフィールカード（自宅・勤務先など）",

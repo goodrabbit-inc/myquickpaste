@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "sv",
-    "title": "MyQuickPaste for Business — mobilversion",
-    "description": "Spara texter du använder ofta i mobilen och kopiera dem med en knapptryckning. MyQuickPaste for Business sorterar standardfraser, adresser, kontakter och profilkort efter kategori."
+    "title": "MyQuickPaste — mobilversion",
+    "description": "Spara texter du använder ofta i mobilen och kopiera dem med en knapptryckning. MyQuickPaste sorterar standardfraser, adresser, kontakter och profilkort efter kategori."
   },
   "lang": {
     "label": "Språk"
@@ -14,7 +14,7 @@
     "privacy": "Integritet"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Mobilversion"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Windows)",
     "pcText": "En Windows-app som ligger redo i skärmkanten och klistrar in med ett enda klick.",
     "pcLink": "Webbplats för Windows-versionen",
-    "mobileTitle": "MyQuickPaste for Business (mobil)",
+    "mobileTitle": "MyQuickPaste (mobil)",
     "mobileText": "Kategorilistor och profilkort för dina viktigaste texter. Pro lägger till säkerhetskopiering i JSON.",
     "note": "Dator- och mobilversionen är två separata appar. Köp och sparad data delas inte mellan dem."
   },
@@ -52,7 +52,7 @@
       "Skriva om signaturen eller ett standardsvar igen på det lilla skärmtangentbordet",
       "Byta app bara för att kopiera en enda textrad ännu en gång"
     ],
-    "solution": "Spara texten en gång i MyQuickPaste for Business — öppna sedan bara appen och tryck. Klistra in i e-post, chatt, kartor — var du än behöver den."
+    "solution": "Spara texten en gång i MyQuickPaste — öppna sedan bara appen och tryck. Klistra in i e-post, chatt, kartor — var du än behöver den."
   },
   "clipboardCompare": {
     "title": "Så skiljer det sig från Gboards urklipp",
@@ -65,7 +65,7 @@
       "Ofästa objekt försvinner efter cirka 5 poster eller ungefär en timme",
       "En blandad historik som är mindre lämplig för att hålla favorittexter ordnade"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "En fast plats för dina viktigaste texter",
     "appItems": [
       "Spara adresser, signaturer och standardsvar under egna namn",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 färgteman",
     "subtitle": "Gratis inkluderar ljust och mörkt. Pro låser upp premiumpaletter för arbete och vardag.",
-    "imageAlt": "Rutnät med 14 MyQuickPaste for Business-teman: sju ljusa överst och sju mörka underst.",
+    "imageAlt": "Rutnät med 14 MyQuickPaste-teman: sju ljusa överst och sju mörka underst.",
     "caption": "Övre rad: 7 ljusa teman / Nedre rad: 7 mörka teman",
     "note": "Premiumteman kräver Pro-köp."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "Support",
-    "lead": "Hjälp för MyQuickPaste for Business (mobilversion).",
+    "lead": "Hjälp för MyQuickPaste (mobilversion).",
     "faqTitle": "Vanliga frågor",
     "items": [
       {
         "q": "Är det samma app som MyQuickPaste för Windows?",
-        "a": "Nej. MyQuickPaste for Business är mobilversionen. Den delar samma grundtanke men är en fristående app med egen data och eget köp i butiken."
+        "a": "Nej. MyQuickPaste är mobilversionen. Den delar samma grundtanke men är en fristående app med egen data och eget köp i butiken."
       },
       {
         "q": "Vad är skillnaden mellan gratisversionen och Pro?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "Hur säkerhetskopierar eller flyttar jag min data?",
-        "a": "Pro-användare kan exportera en JSON-säkerhetskopia från inställningarna och importera den på en annan enhet med MyQuickPaste for Business."
+        "a": "Pro-användare kan exportera en JSON-säkerhetskopia från inställningarna och importera den på en annan enhet med MyQuickPaste."
       },
       {
         "q": "När kommer iPhone-versionen?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "Integritetspolicy",
-    "lead": "MyQuickPaste for Business (mobilversion)",
+    "lead": "MyQuickPaste (mobilversion)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "Versionsinformation",
-    "lead": "Versionshistorik för MyQuickPaste for Business.",
+    "lead": "Versionshistorik för MyQuickPaste.",
     "latestPrefix": "Senaste version:",
     "storeNote": "Uppdateringar distribueras via Google Play (och, när det blir tillgängligt, även via App Store).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "Appen i praktiken",
-    "subtitle": "Riktiga skärmbilder från MyQuickPaste for Business på Android.",
+    "subtitle": "Riktiga skärmbilder från MyQuickPaste på Android.",
     "freetextAlt": "Lista med fri text med sparade fraser och kopiering med en knapptryckning",
     "snippetsAlt": "Kategorin standardfraser med mallar för e-post",
     "profileAlt": "Profilkort för hem- och jobbkontakter",

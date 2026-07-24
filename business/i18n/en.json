@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "en",
-    "title": "MyQuickPaste for Business — Smartphone Edition",
-    "description": "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste for Business helps you organize snippets, images, contacts, and profile cards by category."
+    "title": "MyQuickPaste — Smartphone Edition",
+    "description": "Save the text you use every day on your phone and copy it with one tap. MyQuickPaste helps you organize snippets, images, contacts, and profile cards by category."
   },
   "lang": {
     "label": "Language",
@@ -16,7 +16,7 @@
     "privacy": "Privacy"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Smartphone Edition"
   },
   "hero": {
@@ -43,7 +43,7 @@
     "pcTitle": "MyQuickPaste (Windows)",
     "pcText": "A Windows app that lives at the edge of your screen and pastes with one click.",
     "pcLink": "Windows edition homepage",
-    "mobileTitle": "MyQuickPaste for Business (Smartphone)",
+    "mobileTitle": "MyQuickPaste (Smartphone)",
     "mobileText": "Category lists and profile cards for your go-to text. Pro adds JSON backup.",
     "note": "The PC and smartphone editions are separate apps. Purchases and saved data are not shared between them."
   },
@@ -54,7 +54,7 @@
       "Retyping email signatures and canned replies on a small keyboard",
       "Switching between apps just to copy one line of text again"
     ],
-    "solution": "Save it once in MyQuickPaste for Business, then open the app and tap. Paste into mail, chat, maps—wherever you need it."
+    "solution": "Save it once in MyQuickPaste, then open the app and tap. Paste into mail, chat, maps—wherever you need it."
   },
   "clipboardCompare": {
     "title": "How this differs from Gboard clipboard",
@@ -67,7 +67,7 @@
       "Unpinned clips: about 5 items, then gone in ~1 hour",
       "Mixed history—not great for keeping favorites organized"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "A shelf for your go-to text",
     "appItems": [
       "Save addresses, signatures, and replies with a name",
@@ -178,7 +178,7 @@
   "themesSection": {
     "title": "14 color themes",
     "subtitle": "Free includes light and dark. Pro unlocks premium palettes for business and everyday use.",
-    "imageAlt": "Grid of 14 MyQuickPaste for Business themes: seven light themes on top and seven dark themes below.",
+    "imageAlt": "Grid of 14 MyQuickPaste themes: seven light themes on top and seven dark themes below.",
     "caption": "Top row: 7 light themes / Bottom row: 7 dark themes",
     "note": "Premium themes require a Pro purchase."
   },
@@ -240,12 +240,12 @@
   },
   "supportPage": {
     "title": "Support",
-    "lead": "Help for MyQuickPaste for Business (smartphone edition).",
+    "lead": "Help for MyQuickPaste (smartphone edition).",
     "faqTitle": "Frequently asked questions",
     "items": [
       {
         "q": "Is this the same app as MyQuickPaste for Windows?",
-        "a": "No. MyQuickPaste for Business is the smartphone edition. It shares the same product philosophy but is a separate app with its own data and store purchase."
+        "a": "No. MyQuickPaste is the smartphone edition. It shares the same product philosophy but is a separate app with its own data and store purchase."
       },
       {
         "q": "What is the difference between Free and Pro?",
@@ -261,7 +261,7 @@
       },
       {
         "q": "How do I back up or move my data?",
-        "a": "Pro users can export a JSON backup from Settings and import it on another device running MyQuickPaste for Business."
+        "a": "Pro users can export a JSON backup from Settings and import it on another device running MyQuickPaste."
       },
       {
         "q": "When will the iPhone version be available?",
@@ -278,12 +278,12 @@
   },
   "privacyPage": {
     "title": "Privacy Policy",
-    "lead": "MyQuickPaste for Business (smartphone edition)",
+    "lead": "MyQuickPaste (smartphone edition)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -317,7 +317,7 @@
   },
   "releaseNotesPage": {
     "title": "Release Notes",
-    "lead": "Version history for MyQuickPaste for Business.",
+    "lead": "Version history for MyQuickPaste.",
     "latestPrefix": "Latest release:",
     "storeNote": "Updates are delivered through Google Play and, when available, the App Store.",
     "entries": [
@@ -350,7 +350,7 @@
   },
   "screenshots": {
     "title": "See the app in action",
-    "subtitle": "Real screens from MyQuickPaste for Business on Android.",
+    "subtitle": "Real screens from MyQuickPaste on Android.",
     "freetextAlt": "Free text list with saved phrases and one-tap copy",
     "snippetsAlt": "Snippets category with email templates",
     "profileAlt": "Profile cards for Home and Work contacts",

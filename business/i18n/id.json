@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "id",
-    "title": "MyQuickPaste for Business — Edisi Smartphone",
-    "description": "Simpan teks yang sering Anda gunakan di smartphone dan salin hanya dengan satu ketukan. MyQuickPaste for Business mengatur kalimat template, alamat, kontak, dan kartu profil berdasarkan kategori."
+    "title": "MyQuickPaste — Edisi Smartphone",
+    "description": "Simpan teks yang sering Anda gunakan di smartphone dan salin hanya dengan satu ketukan. MyQuickPaste mengatur kalimat template, alamat, kontak, dan kartu profil berdasarkan kategori."
   },
   "lang": {
     "label": "Bahasa"
@@ -14,7 +14,7 @@
     "privacy": "Privasi"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Edisi Smartphone"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Edisi Windows)",
     "pcText": "Aplikasi Windows yang selalu siap di tepi layar dan menempelkan teks langsung dengan satu klik.",
     "pcLink": "Situs edisi Windows",
-    "mobileTitle": "MyQuickPaste for Business (Edisi Smartphone)",
+    "mobileTitle": "MyQuickPaste (Edisi Smartphone)",
     "mobileText": "Daftar berbasis kategori dan kartu profil untuk teks paling penting Anda, dengan backup JSON di edisi Pro.",
     "note": "Edisi PC dan smartphone adalah dua aplikasi terpisah. Pembelian dan data yang tersimpan tidak dibagikan di antara keduanya."
   },
@@ -52,7 +52,7 @@
       "Mengetik ulang tanda tangan atau balasan tetap berkali-kali di keyboard layar kecil",
       "Harus berpindah aplikasi hanya untuk menyalin satu baris teks lagi"
     ],
-    "solution": "Simpan sekali di MyQuickPaste for Business, lalu cukup buka aplikasi dan ketuk. Tempel ke email, chat, peta — di mana pun Anda membutuhkannya."
+    "solution": "Simpan sekali di MyQuickPaste, lalu cukup buka aplikasi dan ketuk. Tempel ke email, chat, peta — di mana pun Anda membutuhkannya."
   },
   "clipboardCompare": {
     "title": "Apa bedanya dengan clipboard Gboard?",
@@ -65,7 +65,7 @@
       "Item yang tidak disematkan hilang setelah sekitar 5 item atau 1 jam",
       "Riwayat yang bercampur membuat sulit menyimpan teks favorit secara rapi"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "Tempat permanen untuk teks penting Anda",
     "appItems": [
       "Simpan alamat, tanda tangan, dan balasan tetap dengan nama masing-masing",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 tema warna",
     "subtitle": "Gratis mencakup terang dan gelap. Pro membuka palet premium untuk bisnis dan penggunaan harian.",
-    "imageAlt": "Kisi 14 tema MyQuickPaste for Business: tujuh tema terang di atas dan tujuh gelap di bawah.",
+    "imageAlt": "Kisi 14 tema MyQuickPaste: tujuh tema terang di atas dan tujuh gelap di bawah.",
     "caption": "Baris atas: 7 tema terang / Baris bawah: 7 tema gelap",
     "note": "Tema premium memerlukan pembelian Pro."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "Dukungan",
-    "lead": "Bantuan untuk MyQuickPaste for Business (Edisi Smartphone).",
+    "lead": "Bantuan untuk MyQuickPaste (Edisi Smartphone).",
     "faqTitle": "Pertanyaan yang Sering Diajukan",
     "items": [
       {
         "q": "Apakah ini aplikasi yang sama dengan MyQuickPaste untuk Windows?",
-        "a": "Tidak. MyQuickPaste for Business adalah edisi terpisah untuk smartphone. Konsepnya sama, tetapi ini aplikasi mandiri dengan data dan pembelian toko sendiri."
+        "a": "Tidak. MyQuickPaste adalah edisi terpisah untuk smartphone. Konsepnya sama, tetapi ini aplikasi mandiri dengan data dan pembelian toko sendiri."
       },
       {
         "q": "Apa bedanya edisi gratis dan Pro?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "Bagaimana cara mencadangkan atau memindahkan data saya?",
-        "a": "Pengguna Pro dapat mengekspor backup JSON dari pengaturan dan mengimpornya ke MyQuickPaste for Business di perangkat lain."
+        "a": "Pengguna Pro dapat mengekspor backup JSON dari pengaturan dan mengimpornya ke MyQuickPaste di perangkat lain."
       },
       {
         "q": "Kapan versi iPhone akan tersedia?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "Kebijakan Privasi",
-    "lead": "MyQuickPaste for Business (Edisi Smartphone)",
+    "lead": "MyQuickPaste (Edisi Smartphone)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "Catatan Rilis",
-    "lead": "Riwayat versi MyQuickPaste for Business.",
+    "lead": "Riwayat versi MyQuickPaste.",
     "latestPrefix": "Versi terbaru:",
     "storeNote": "Pembaruan didistribusikan melalui Google Play (juga akan didistribusikan melalui App Store setelah tersedia).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "Lihat Aplikasi Beraksi",
-    "subtitle": "Tangkapan layar asli dari MyQuickPaste for Business (Android).",
+    "subtitle": "Tangkapan layar asli dari MyQuickPaste (Android).",
     "freetextAlt": "Daftar teks bebas dengan tanda tangan tersimpan dan salin satu ketukan",
     "snippetsAlt": "Kategori kalimat template dengan templat balasan email",
     "profileAlt": "Kartu profil untuk kontak rumah, kantor, dan lainnya",

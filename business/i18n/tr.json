@@ -1,8 +1,8 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "MyQuickPaste for Business — Akıllı Telefon Sürümü",
-    "description": "Sık kullandığınız metinleri akıllı telefonunuza kaydedin ve tek dokunuşla kopyalayın. MyQuickPaste for Business, hazır cümleleri, adresleri, kişileri ve profil kartlarını kategorilere ayırarak düzenler."
+    "title": "MyQuickPaste — Akıllı Telefon Sürümü",
+    "description": "Sık kullandığınız metinleri akıllı telefonunuza kaydedin ve tek dokunuşla kopyalayın. MyQuickPaste, hazır cümleleri, adresleri, kişileri ve profil kartlarını kategorilere ayırarak düzenler."
   },
   "lang": {
     "label": "Dil"
@@ -14,7 +14,7 @@
     "privacy": "Gizlilik"
   },
   "brand": {
-    "name": "MyQuickPaste for Business",
+    "name": "MyQuickPaste",
     "edition": "Akıllı Telefon Sürümü"
   },
   "hero": {
@@ -41,7 +41,7 @@
     "pcTitle": "MyQuickPaste (Windows Sürümü)",
     "pcText": "Ekranın kenarında her zaman hazır bekleyen ve metni tek tıkla doğrudan yapıştıran bir Windows uygulaması.",
     "pcLink": "Windows sürümü web sitesi",
-    "mobileTitle": "MyQuickPaste for Business (Akıllı Telefon Sürümü)",
+    "mobileTitle": "MyQuickPaste (Akıllı Telefon Sürümü)",
     "mobileText": "En önemli metinleriniz için kategoriye göre listeler ve profil kartları, Pro sürümünde JSON yedeklemesiyle birlikte.",
     "note": "Bilgisayar ve akıllı telefon sürümleri iki ayrı uygulamadır. Satın almalar ve kaydedilen veriler ikisi arasında paylaşılmaz."
   },
@@ -52,7 +52,7 @@
       "Küçük ekran klavyesinde imzayı veya standart yanıtı tekrar tekrar yazmak",
       "Sadece bir satır metni tekrar kopyalamak için uygulamalar arasında geçiş yapmak"
     ],
-    "solution": "MyQuickPaste for Business'a bir kez kaydedin, ardından yalnızca uygulamayı açın ve dokunun. E-postaya, sohbete, haritalara — ihtiyacınız olan her yere yapıştırın."
+    "solution": "MyQuickPaste'a bir kez kaydedin, ardından yalnızca uygulamayı açın ve dokunun. E-postaya, sohbete, haritalara — ihtiyacınız olan her yere yapıştırın."
   },
   "clipboardCompare": {
     "title": "Gboard panosundan farkı nedir?",
@@ -65,7 +65,7 @@
       "Sabitlenmemiş öğeler yaklaşık 5 öğe veya 1 saat sonra kaybolur",
       "Karışık geçmiş, favori metinleri düzenli tutmayı zorlaştırır"
     ],
-    "appTitle": "MyQuickPaste for Business",
+    "appTitle": "MyQuickPaste",
     "appTag": "Temel metinleriniz için kalıcı bir yer",
     "appItems": [
       "Adresleri, imzaları ve standart yanıtları kendi adlarıyla kaydedin",
@@ -176,7 +176,7 @@
   "themesSection": {
     "title": "14 renk teması",
     "subtitle": "Ücretsiz: açık ve koyu. Pro, iş ve günlük kullanım için premium paletlerin kilidini açar.",
-    "imageAlt": "14 MyQuickPaste for Business temasının ızgarası: üstte yedi açık, altta yedi koyu tema.",
+    "imageAlt": "14 MyQuickPaste temasının ızgarası: üstte yedi açık, altta yedi koyu tema.",
     "caption": "Üst sıra: 7 açık tema / Alt sıra: 7 koyu tema",
     "note": "Premium temalar Pro satın alımı gerektirir."
   },
@@ -238,12 +238,12 @@
   },
   "supportPage": {
     "title": "Destek",
-    "lead": "MyQuickPaste for Business (Akıllı Telefon Sürümü) için yardım.",
+    "lead": "MyQuickPaste (Akıllı Telefon Sürümü) için yardım.",
     "faqTitle": "Sıkça Sorulan Sorular",
     "items": [
       {
         "q": "Bu, Windows için MyQuickPaste ile aynı uygulama mı?",
-        "a": "Hayır. MyQuickPaste for Business, akıllı telefon için ayrı bir sürümdür. Aynı fikri paylaşır ancak kendi verileri ve mağaza satın alması olan bağımsız bir uygulamadır."
+        "a": "Hayır. MyQuickPaste, akıllı telefon için ayrı bir sürümdür. Aynı fikri paylaşır ancak kendi verileri ve mağaza satın alması olan bağımsız bir uygulamadır."
       },
       {
         "q": "Ücretsiz sürüm ile Pro arasındaki fark nedir?",
@@ -259,7 +259,7 @@
       },
       {
         "q": "Verilerimi nasıl yedekleyebilir veya aktarabilirim?",
-        "a": "Pro kullanıcıları ayarlardan bir JSON yedeği dışa aktarabilir ve bunu başka bir cihazdaki MyQuickPaste for Business'a içe aktarabilir."
+        "a": "Pro kullanıcıları ayarlardan bir JSON yedeği dışa aktarabilir ve bunu başka bir cihazdaki MyQuickPaste'a içe aktarabilir."
       },
       {
         "q": "iPhone sürümü ne zaman kullanılabilir olacak?",
@@ -276,12 +276,12 @@
   },
   "privacyPage": {
     "title": "Gizlilik Politikası",
-    "lead": "MyQuickPaste for Business (Akıllı Telefon Sürümü)",
+    "lead": "MyQuickPaste (Akıllı Telefon Sürümü)",
     "updated": "Last updated: July 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste for Business is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
       },
       {
         "h": "Information we do not collect",
@@ -315,7 +315,7 @@
   },
   "releaseNotesPage": {
     "title": "Sürüm Notları",
-    "lead": "MyQuickPaste for Business sürüm geçmişi.",
+    "lead": "MyQuickPaste sürüm geçmişi.",
     "latestPrefix": "En son sürüm:",
     "storeNote": "Güncellemeler Google Play üzerinden dağıtılır (kullanılabilir hale geldiğinde App Store üzerinden de dağıtılacaktır).",
     "entries": [
@@ -348,7 +348,7 @@
   },
   "screenshots": {
     "title": "Uygulamayı İş Başında Görün",
-    "subtitle": "MyQuickPaste for Business'tan (Android) gerçek ekran görüntüleri.",
+    "subtitle": "MyQuickPaste'tan (Android) gerçek ekran görüntüleri.",
     "freetextAlt": "Kaydedilmiş imzalar ve tek dokunuşla kopyalama içeren serbest metin listesi",
     "snippetsAlt": "E-posta yanıt şablonlarıyla hazır cümleler kategorisi",
     "profileAlt": "Ev, iş ve daha fazlası için kişilere yönelik profil kartları",

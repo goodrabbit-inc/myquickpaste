@@ -99,17 +99,17 @@
       {
         "title": "Wygodna obsługa jedną ręką",
         "text": "Duże wiersze, zakładki kategorii i pionowy układ — pomyślane tak, by szybko wybierać nawet w ruchu.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Łatwo wszystko znaleźć",
         "text": "Zamiast jednej niekończącej się notatki — osobne listy dla gotowych zwrotów, kontaktów i kart profilu.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Dane zapisane na urządzeniu",
         "text": "Twoje gotowe zwroty i kontakty pozostają na telefonie. Nie oferujemy żadnej synchronizacji w chmurze.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Zakładki kategorii",
         "text": "Dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil — zmiana zakładki od razu prowadzi do właściwej listy.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Kopiowanie jednym dotknięciem",
         "text": "Jedno dotknięcie kopiuje całą treść. Opcjonalna wibracja potwierdza skopiowanie.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Podgląd po dłuższym dotknięciu",
         "text": "Przed skopiowaniem dłuższego tekstu sprawdź tytuł i treść dłuższym dotknięciem.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Karty profilu",
         "text": "Zapisuj kontakty prywatne i służbowe w formie kart; kopiuj pojedyncze pola jednym dotknięciem.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Kategoria Obrazy",
         "text": "Zapisuj wizytówki, logotypy i inne obrazy. Stuknij, aby skopiować, udostępnić lub podejrzeć.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Tryb zmiany kolejności",
@@ -150,17 +150,17 @@
       {
         "title": "Kopia zapasowa (Pro)",
         "text": "Eksportuj i importuj dane w formacie JSON — przydatne przy zmianie telefonu lub do bezpiecznego przechowywania.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Interfejs w 21 językach",
         "text": "Korzystaj z aplikacji po polsku, japońsku i w 19 innych językach.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Jasny i ciemny motyw",
         "text": "Wybierz jasny lub ciemny motyw w ustawieniach.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "6 kategorii",
@@ -356,20 +356,24 @@
     "cateAlt": "Sześć zakładek kategorii: dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil",
     "items": [
       {
-        "caption": "Dowolny tekst — podpisy, adresy URL i dane konta na pierwszy rzut oka"
+        "caption": "Tekst dowolny — podpisy, URL-e i dane konta na pierwszy rzut oka"
       },
       {
-        "caption": "Gotowe zwroty — gotowe odpowiedzi do e-maili i czatów"
+        "caption": "Snippety — gotowe odpowiedzi do e-maila i czatu"
+      },
+      {
+        "caption": "Obrazy — logo, zdjęcia i zrzuty ekranu gotowe do skopiowania"
       },
       {
         "caption": "Profil — skopiuj adres, telefon lub wszystko jednym dotknięciem"
       },
       {
-        "caption": "Edycja profilu — osobne karty dla domu, pracy i klientów"
+        "caption": "Edycja profilu — osobne karty Dom, Praca i klient"
       },
       {
-        "caption": "Zakładki kategorii — natychmiastowe przełączanie między sześcioma listami"
+        "caption": "Karty kategorii — błyskawiczne przełączanie między sześcioma listami"
       }
-    ]
+    ],
+    "imagesAlt": "Kategoria Obrazy z przykładowymi zdjęciami do kopiowania lub udostępniania"
   }
 }

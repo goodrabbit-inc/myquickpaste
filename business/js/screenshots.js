@@ -1,9 +1,10 @@
 (function () {
   "use strict";
 
-  var PHONE_TYPES = ["freetext", "snippets", "profile", "profile-edit"];
+  var PHONE_TYPES = ["freetext", "snippets", "images", "profile", "profile-edit"];
   var FALLBACK_LANG = "en";
   var DEFAULT_CATE = "images/ss-cate.png";
+  var CACHE_BUST = "20260725";
 
   function setImgSrc(img, candidates) {
     var idx = 0;
@@ -23,15 +24,16 @@
   }
 
   function phoneCandidates(type, lang) {
-    var q = "?v=" + encodeURIComponent(lang);
+    var q = "?v=" + encodeURIComponent(CACHE_BUST + "-" + lang);
     return [
       "images/ss-" + type + "-" + lang + ".png" + q,
-      "images/ss-" + type + "-" + FALLBACK_LANG + ".png" + q
+      "images/ss-" + type + "-" + FALLBACK_LANG + ".png" + q,
+      "images/ss-" + type + ".png" + q
     ];
   }
 
   function cateCandidates(lang) {
-    var q = "?v=" + encodeURIComponent(lang);
+    var q = "?v=" + encodeURIComponent(CACHE_BUST + "-" + lang);
     return [
       "images/ss-cate-" + lang + ".png" + q,
       "images/ss-cate-" + FALLBACK_LANG + ".png" + q,

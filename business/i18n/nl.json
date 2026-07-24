@@ -99,17 +99,17 @@
       {
         "title": "Makkelijk met één hand",
         "text": "Grote rijen, categorietabbladen en een verticale indeling — zo kies je ook onderweg snel wat je nodig hebt.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Alles makkelijk terugvinden",
         "text": "In plaats van één eindeloze notitie houd je standaardteksten, contacten en profielkaarten in aparte lijsten.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Opgeslagen op je toestel",
         "text": "Je standaardteksten en contacten blijven op je telefoon. Wij bieden geen cloudsynchronisatie aan.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Categorietabbladen",
         "text": "Vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel — wissel van tabblad en je staat meteen bij de juiste lijst.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Kopiëren met één tik",
         "text": "Eén tik kopieert de volledige inhoud. Optionele trilfeedback bevestigt dat er is gekopieerd.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Voorbeeld bij lang indrukken",
         "text": "Bekijk voordat je een lange tekst kopieert eerst de titel en inhoud met een lange druk.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Profielkaarten",
         "text": "Bewaar privé- en werkcontacten als kaart; kopieer elk veld apart met één tik.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Afbeeldingen-categorie",
         "text": "Bewaar visitekaartjes, logo's en andere afbeeldingen. Tik om te kopiëren, delen of bekijken.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Volgorde aanpassen",
@@ -150,17 +150,17 @@
       {
         "title": "Back-up (Pro)",
         "text": "Exporteer en importeer je gegevens als JSON, handig bij het overzetten naar een nieuw toestel of als extra bewaarkopie.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Interface in 21 talen",
         "text": "Gebruik de app in het Nederlands, Japans en 19 andere talen.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Licht en donker thema",
         "text": "Kies licht of donker in de instellingen.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "6 categorieën",
@@ -356,20 +356,24 @@
     "cateAlt": "Zes categorietabbladen: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
     "items": [
       {
-        "caption": "Vrije tekst — handtekeningen, URL's en accountgegevens in één oogopslag"
+        "caption": "Vrije tekst — handtekeningen, URL’s en rekeninggegevens in één oogopslag"
       },
       {
-        "caption": "Standaardteksten — kant-en-klare antwoorden voor e-mail en chat"
+        "caption": "Snippets — kant-en-klare antwoorden voor e-mail en chat"
       },
       {
-        "caption": "Profiel — kopieer adres, telefoonnummer of alles met één tik"
+        "caption": "Afbeeldingen — logo’s, foto’s en screenshots klaar om te kopiëren"
       },
       {
-        "caption": "Profiel bewerken — aparte kaarten voor thuis, werk en klanten"
+        "caption": "Profiel — kopieer adres, telefoon of alles met één tik"
       },
       {
-        "caption": "Categorietabbladen — direct wisselen tussen zes lijsten"
+        "caption": "Profiel bewerken — aparte kaarten voor Thuis, Werk en klanten"
+      },
+      {
+        "caption": "Categorietabs — schakel direct tussen zes lijsten"
       }
-    ]
+    ],
+    "imagesAlt": "Categorie Afbeeldingen met voorbeeldfoto’s om te kopiëren of delen"
   }
 }

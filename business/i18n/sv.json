@@ -99,17 +99,17 @@
       {
         "title": "Lätt att använda med en hand",
         "text": "Stora rader, kategoriflikar och en stående layout — utformad för att du snabbt ska kunna välja rätt, även på språng.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Lätt att hitta allt",
         "text": "Istället för en enda oändlig anteckning håller du standardfraser, kontakter och profilkort i separata listor.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Sparas på din enhet",
         "text": "Dina standardfraser och kontakter stannar på telefonen. Vi erbjuder ingen molnsynkronisering.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Kategoriflikar",
         "text": "Fri text, standardfraser, e-post, telefon, adress, profil — byt flik och du är direkt vid rätt lista.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Kopiera med en knapptryckning",
         "text": "En knapptryckning kopierar hela innehållet. Valfri vibrationsfeedback bekräftar kopieringen.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Förhandsvisning med långtryck",
         "text": "Innan du kopierar en längre text kan du granska titel och innehåll med ett långtryck.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Profilkort",
         "text": "Spara privata och professionella kontakter som kort; kopiera enskilda fält med en knapptryckning.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Bildkategori",
         "text": "Spara visitkort, logotyper och andra bilder. Tryck för att kopiera, dela eller förhandsgranska.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Ändra ordning",
@@ -150,17 +150,17 @@
       {
         "title": "Säkerhetskopiering (Pro)",
         "text": "Exportera och importera dina data som JSON — praktiskt vid mobilbyte eller för att spara extra säkert.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Gränssnitt på 21 språk",
         "text": "Använd appen på svenska, japanska och 19 andra språk.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Ljust och mörkt tema",
         "text": "Välj ljust eller mörkt i inställningarna.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "6 kategorier",
@@ -356,20 +356,24 @@
     "cateAlt": "Sex kategoriflikar: fri text, standardfraser, e-post, telefon, adress, profil",
     "items": [
       {
-        "caption": "Fri text — signaturer, webbadresser och kontouppgifter på en gång"
+        "caption": "Fritext — signaturer, URL:er och kontouppgifter i ett ögonkast"
       },
       {
-        "caption": "Standardfraser — färdiga svar för e-post och chatt"
+        "caption": "Snippets — färdiga svar för e-post och chatt"
       },
       {
-        "caption": "Profil — kopiera adress, telefon eller allt med en knapptryckning"
+        "caption": "Bilder — logotyper, foton och skärmdumpar redo att kopieras"
       },
       {
-        "caption": "Redigera profil — separata kort för hem, jobb och kunder"
+        "caption": "Profil — kopiera adress, telefon eller allt med ett tryck"
       },
       {
-        "caption": "Kategoriflikar — växla direkt mellan sex listor"
+        "caption": "Redigera profil — separata kort för Hem, Arbete och kunder"
+      },
+      {
+        "caption": "Kategoriflikar — växla mellan sex listor direkt"
       }
-    ]
+    ],
+    "imagesAlt": "Bildkategori med exempelbilder redo att kopieras eller delas"
   }
 }

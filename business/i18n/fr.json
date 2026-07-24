@@ -99,17 +99,17 @@
       {
         "title": "Facile à utiliser d'une seule main",
         "text": "De grandes lignes, des onglets par catégorie et un affichage vertical — pensés pour choisir rapidement, même en déplacement.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Facile à parcourir",
         "text": "Plutôt qu'une seule note interminable, gardez formules types, contacts et fiches de profil dans des listes séparées.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Conservé sur votre appareil",
         "text": "Vos formules types et vos contacts restent sur votre téléphone. Nous ne proposons aucune synchronisation dans le cloud.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Onglets par catégorie",
         "text": "Mot libre, formules types, e-mail, téléphone, images, profil — changez d'onglet pour accéder instantanément à la bonne liste.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Copie en un instant",
         "text": "Un seul appui copie le texte entier. Un retour vibratoire optionnel confirme la copie.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Aperçu par appui long",
         "text": "Avant de copier un texte long, prévisualisez le titre et le contenu par un simple appui long.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Fiches de profil",
         "text": "Enregistrez vos coordonnées personnelles et professionnelles par blocs ; copiez chaque champ d'un simple appui.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Catégorie Images",
         "text": "Enregistrez cartes de visite, logos et autres images. Appuyez pour copier, partager ou prévisualiser.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Mode réorganisation",
@@ -150,17 +150,17 @@
       {
         "title": "Sauvegarde (Pro)",
         "text": "Exportez et importez vos données au format JSON pour changer d'appareil ou pour les conserver en lieu sûr.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Interface en 21 langues",
         "text": "Utilisez l'application en français, en japonais, et dans 19 autres langues.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Thème clair et sombre",
         "text": "Choisissez clair ou sombre dans les réglages.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "Catégories",
@@ -356,20 +356,24 @@
     "cateAlt": "Six onglets de catégories : mot libre, formules types, e-mail, téléphone, images, profil",
     "items": [
       {
-        "caption": "Mot libre — signatures, URL et coordonnées bancaires en un coup d'œil"
+        "caption": "Texte libre — signatures, URL et infos de compte d’un coup d’œil"
       },
       {
-        "caption": "Formules types — réponses prêtes à l'emploi pour e-mails et messages"
+        "caption": "Extraits — réponses prêtes pour e-mail et chat"
       },
       {
-        "caption": "Profil — copiez l'adresse, le téléphone, ou tout en un seul appui"
+        "caption": "Images — logos, photos et captures prêts à copier"
       },
       {
-        "caption": "Édition de profil — séparez vos fiches Domicile, Travail et clients"
+        "caption": "Profil — copiez adresse, téléphone ou tout en un tap"
       },
       {
-        "caption": "Onglets de catégorie — passez instantanément d'une liste à l'autre"
+        "caption": "Édition du profil — fiches Maison, Bureau et client séparées"
+      },
+      {
+        "caption": "Onglets de catégories — basculez entre six listes"
       }
-    ]
+    ],
+    "imagesAlt": "Catégorie Images avec des photos d’exemple à copier ou partager"
   }
 }

@@ -99,17 +99,17 @@
       {
         "title": "Mudah dioperasikan dengan satu tangan",
         "text": "Baris besar, tab kategori, dan tata letak vertikal — semuanya dirancang untuk memilih dengan cepat bahkan saat bepergian.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Mudah ditemukan",
         "text": "Alih-alih satu catatan yang tak berujung, simpan kalimat template, kontak, dan kartu profil dalam daftar terpisah.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Tetap di perangkat Anda",
         "text": "Kalimat template dan kontak penting Anda hanya tersimpan di ponsel Anda. Kami tidak menyediakan layanan sinkronisasi cloud.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Tab kategori",
         "text": "Teks bebas, kalimat template, email, telepon, alamat, profil — beralih tab untuk langsung menuju daftar yang tepat.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Salin satu ketukan",
         "text": "Satu ketukan menyalin seluruh konten. Getaran opsional dapat diaktifkan untuk konfirmasi penyalinan.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Pratinjau tekan lama",
         "text": "Sebelum menyalin teks panjang, tekan lama untuk melihat pratinjau judul dan isinya.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Kartu profil",
         "text": "Simpan kontak rumah dan kantor sebagai kartu; salin setiap bidang secara individual dengan satu ketukan.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Kategori Gambar",
         "text": "Simpan kartu nama, logo, dan gambar lainnya. Ketuk untuk menyalin, berbagi, atau pratinjau.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Mode urutkan ulang",
@@ -150,17 +150,17 @@
       {
         "title": "Backup (Pro)",
         "text": "Ekspor dan impor data Anda sebagai JSON — berguna saat berganti ponsel atau untuk penyimpanan yang aman.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Antarmuka 21 bahasa",
         "text": "Gunakan aplikasi dalam bahasa Indonesia, Jepang, dan 19 bahasa lainnya.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Tema terang & gelap",
         "text": "Pilih tema terang atau gelap di pengaturan.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "6 Kategori",
@@ -356,20 +356,24 @@
     "cateAlt": "Enam tab kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
     "items": [
       {
-        "caption": "Teks bebas — tanda tangan, URL, dan info akun sekilas"
+        "caption": "Teks bebas — tanda tangan, URL, dan detail akun sekilas"
       },
       {
-        "caption": "Kalimat template — balasan siap pakai untuk email dan chat"
+        "caption": "Snippet — balasan siap pakai untuk email dan chat"
       },
       {
-        "caption": "Profil — salin alamat, telepon, atau semuanya sekaligus"
+        "caption": "Gambar — logo, foto, dan tangkapan layar siap disalin"
       },
       {
-        "caption": "Edit profil — kelola rumah, kantor, dan klien secara terpisah"
+        "caption": "Profil — salin alamat, telepon, atau semuanya sekali ketuk"
       },
       {
-        "caption": "Tab kategori — beralih instan di antara enam daftar"
+        "caption": "Edit profil — kartu Rumah, Kantor, dan klien terpisah"
+      },
+      {
+        "caption": "Tab kategori — beralih antar enam daftar seketika"
       }
-    ]
+    ],
+    "imagesAlt": "Kategori Gambar dengan foto contoh siap disalin atau dibagikan"
   }
 }

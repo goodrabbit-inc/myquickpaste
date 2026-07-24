@@ -99,17 +99,17 @@
       {
         "title": "Bequem mit einer Hand",
         "text": "Große Zeilen, Kategorie-Tabs und ein Layout im Hochformat — so wählen Sie auch unterwegs schnell das Richtige aus.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Übersichtlich sortiert",
         "text": "Statt einer endlosen Notiz bleiben Textbausteine, Kontakte und Profilkarten in getrennten Listen.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Speicherung auf dem Gerät",
         "text": "Ihre Textbausteine und Kontakte bleiben auf Ihrem Smartphone. Eine Cloud-Synchronisierung bieten wir nicht an.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Kategorie-Tabs",
         "text": "Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil — mit einem Tab-Wechsel sofort zur passenden Liste.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Kopieren mit einem Tipp",
         "text": "Ein Tipp kopiert den gesamten Inhalt. Optionales Vibrationsfeedback bestätigt den Kopiervorgang.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Vorschau bei langem Tippen",
         "text": "Vor dem Kopieren längerer Einträge Titel und Inhalt per langem Tippen in Ruhe prüfen.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Profilkarten",
         "text": "Privat- und Geschäftskontakte als Karte speichern; einzelne Felder mit einem Tipp kopieren.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Bilder-Kategorie",
         "text": "Visitenkarten, Logos und andere Bilder speichern. Tippen zum Kopieren, Teilen oder Vorschau.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Sortiermodus",
@@ -150,17 +150,17 @@
       {
         "title": "Backup (Pro)",
         "text": "Daten als JSON exportieren und importieren — praktisch bei einem Gerätewechsel oder als Sicherung.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Oberfläche in 21 Sprachen",
         "text": "Nutzen Sie die App auf Deutsch, Japanisch und in 19 weiteren Sprachen.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Helles und dunkles Design",
         "text": "Wählen Sie in den Einstellungen zwischen Hell und Dunkel.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "Kategorien",
@@ -359,17 +359,21 @@
         "caption": "Freitext — Signaturen, URLs und Kontodaten auf einen Blick"
       },
       {
-        "caption": "Textbausteine — fertige Antworten für E-Mail und Chat"
+        "caption": "Snippets — fertige Antworten für E-Mail und Chat"
       },
       {
-        "caption": "Profil — Adresse, Telefonnummer oder alles mit einem Tipp kopieren"
+        "caption": "Bilder — Logos, Fotos und Screenshots zum Sofortkopieren"
       },
       {
-        "caption": "Profil bearbeiten — Privat-, Geschäfts- und Kundenkarten getrennt verwalten"
+        "caption": "Profil — Adresse, Telefon oder alles mit einem Tippen kopieren"
+      },
+      {
+        "caption": "Profil bearbeiten — Home, Arbeit und Kunden getrennt verwalten"
       },
       {
         "caption": "Kategorie-Tabs — sofort zwischen sechs Listen wechseln"
       }
-    ]
+    ],
+    "imagesAlt": "Bilder-Kategorie mit Beispielbildern zum Kopieren oder Teilen"
   }
 }

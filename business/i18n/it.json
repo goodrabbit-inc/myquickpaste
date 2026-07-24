@@ -99,17 +99,17 @@
       {
         "title": "Comoda anche con una mano",
         "text": "Righe grandi, schede per categoria e layout verticale — pensati per scegliere in fretta anche in movimento.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Facile da consultare",
         "text": "Invece di un'unica nota infinita, tieni frasi standard, contatti e schede profilo in liste separate.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Conservato sul dispositivo",
         "text": "Le tue frasi standard e i tuoi contatti restano sul telefono. Non offriamo alcuna sincronizzazione cloud.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Schede per categoria",
         "text": "Testo libero, frasi standard, email, telefono, indirizzo, profilo — cambia scheda e arrivi subito alla lista giusta.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Copia con un tocco",
         "text": "Un solo tocco copia il testo intero. Puoi attivare una vibrazione di conferma alla copia.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Anteprima con tocco prolungato",
         "text": "Prima di copiare un testo lungo, controlla titolo e contenuto con un tocco prolungato.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Schede profilo",
         "text": "Salva i contatti personali e di lavoro come schede; copia ogni singolo campo con un tocco.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Categoria Immagini",
         "text": "Salva biglietti da visita, loghi e altre immagini. Tocca per copiare, condividere o anteprima.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Modalità riordino",
@@ -150,17 +150,17 @@
       {
         "title": "Backup (Pro)",
         "text": "Esporta e importa i dati in formato JSON, comodo per cambiare telefono o per conservarli al sicuro.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Interfaccia in 21 lingue",
         "text": "Usa l'app in italiano, giapponese e altre 19 lingue.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Tema chiaro e scuro",
         "text": "Scegli chiaro o scuro nelle impostazioni.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "Categorie",
@@ -356,20 +356,24 @@
     "cateAlt": "Sei schede categoria: testo libero, frasi standard, email, telefono, indirizzo, profilo",
     "items": [
       {
-        "caption": "Testo libero — firme, URL e coordinate bancarie in un colpo d'occhio"
+        "caption": "Testo libero — firme, URL e dati conto a colpo d'occhio"
       },
       {
-        "caption": "Frasi standard — risposte pronte per email e chat"
+        "caption": "Snippet — risposte pronte per e-mail e chat"
       },
       {
-        "caption": "Profilo — copia indirizzo, telefono o tutto con un solo tocco"
+        "caption": "Immagini — loghi, foto e screenshot pronti da copiare"
       },
       {
-        "caption": "Modifica profilo — schede separate per casa, lavoro e clienti"
+        "caption": "Profilo — copia indirizzo, telefono o tutto con un tocco"
       },
       {
-        "caption": "Schede categoria — passa istantaneamente da una lista all'altra"
+        "caption": "Modifica profilo — schede Casa, Lavoro e clienti separate"
+      },
+      {
+        "caption": "Schede categorie — passa subito tra sei elenchi"
       }
-    ]
+    ],
+    "imagesAlt": "Categoria Immagini con foto di esempio da copiare o condividere"
   }
 }

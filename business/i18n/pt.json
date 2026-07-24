@@ -99,17 +99,17 @@
       {
         "title": "Fácil de usar com uma mão",
         "text": "Linhas grandes, abas por categoria e layout vertical — pensados para escolher rápido mesmo em movimento.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Fácil de encontrar tudo",
         "text": "Em vez de uma única anotação sem fim, mantenha frases prontas, contatos e fichas de perfil em listas separadas.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Guardado no seu dispositivo",
         "text": "Suas frases prontas e contatos permanecem no seu celular. Não oferecemos sincronização em nuvem.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Abas por categoria",
         "text": "Texto livre, frases prontas, e-mail, telefone, endereço, perfil — troque de aba e chegue direto à lista certa.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Copiar com um toque",
         "text": "Um único toque copia o conteúdo inteiro. Uma vibração opcional confirma a cópia.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Prévia com toque longo",
         "text": "Antes de copiar um texto longo, veja o título e o conteúdo com um toque longo.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Fichas de perfil",
         "text": "Salve contatos pessoais e profissionais em fichas; copie cada campo com um toque.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Categoria Imagens",
         "text": "Guarde cartões de visita, logotipos e outras imagens. Toque para copiar, partilhar ou pré-visualizar.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Modo de reordenar",
@@ -150,17 +150,17 @@
       {
         "title": "Backup (Pro)",
         "text": "Exporte e importe seus dados em JSON, útil na troca de aparelho ou para manter tudo em segurança.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Interface em 21 idiomas",
         "text": "Use o aplicativo em português, japonês e mais 19 idiomas.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Tema claro e escuro",
         "text": "Escolha claro ou escuro nas configurações.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "Categorias",
@@ -356,20 +356,24 @@
     "cateAlt": "Seis abas de categoria: texto livre, frases prontas, e-mail, telefone, endereço, perfil",
     "items": [
       {
-        "caption": "Texto livre — assinaturas, URLs e dados bancários rapidamente"
+        "caption": "Texto livre — assinaturas, URLs e dados de conta de relance"
       },
       {
-        "caption": "Frases prontas — respostas prontas para e-mail e chat"
+        "caption": "Snippets — respostas prontas para e-mail e chat"
       },
       {
-        "caption": "Perfil — copie o endereço, o telefone ou tudo com um só toque"
+        "caption": "Imagens — logótipos, fotos e capturas prontos a copiar"
       },
       {
-        "caption": "Editar perfil — fichas separadas para casa, trabalho e clientes"
+        "caption": "Perfil — copie morada, telefone ou tudo com um toque"
       },
       {
-        "caption": "Abas de categoria — alterne instantaneamente entre seis listas"
+        "caption": "Editar perfil — cartões Casa, Trabalho e clientes separados"
+      },
+      {
+        "caption": "Separadores de categoria — mude entre seis listas de imediato"
       }
-    ]
+    ],
+    "imagesAlt": "Categoria Imagens com fotos de exemplo prontas para copiar ou partilhar"
   }
 }

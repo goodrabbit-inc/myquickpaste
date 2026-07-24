@@ -99,17 +99,17 @@
       {
         "title": "Fácil de usar con una sola mano",
         "text": "Filas grandes, pestañas por categoría y un diseño vertical, pensado para elegir rápido incluso en movimiento.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Fácil de encontrar todo",
         "text": "En vez de una única nota interminable, mantén frases hechas, contactos y fichas de perfil en listas separadas.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Se guarda en tu dispositivo",
         "text": "Tus frases hechas y contactos permanecen en tu móvil. No ofrecemos sincronización en la nube.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Pestañas por categoría",
         "text": "Texto libre, frases hechas, correo, teléfono, dirección y perfil: cambia de pestaña para llegar a la lista que necesitas al instante.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Copia con un toque",
         "text": "Un solo toque copia todo el contenido. Puedes activar una vibración opcional que confirma la copia.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Vista previa con toque largo",
         "text": "Antes de copiar un texto largo, revisa el título y el contenido con un toque largo.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Fichas de perfil",
         "text": "Guarda tus datos personales y de trabajo en fichas; copia cada campo con un solo toque.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Categoría Imágenes",
         "text": "Guarda tarjetas de visita, logotipos y otras imágenes. Toca para copiar, compartir o previsualizar.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Modo de reordenar",
@@ -150,17 +150,17 @@
       {
         "title": "Copia de seguridad (Pro)",
         "text": "Exporta e importa tus datos en formato JSON, útil al cambiar de móvil o para guardarlos a buen recaudo.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "Interfaz en 21 idiomas",
         "text": "Usa la aplicación en español, japonés y 19 idiomas más.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Tema claro y oscuro",
         "text": "Elige claro u oscuro en los ajustes.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "Categorías",
@@ -356,20 +356,24 @@
     "cateAlt": "Seis pestañas de categorías: texto libre, frases hechas, correo, teléfono, dirección, perfil",
     "items": [
       {
-        "caption": "Texto libre: firmas, URL y datos bancarios de un vistazo"
+        "caption": "Texto libre — firmas, URL y datos de cuenta de un vistazo"
       },
       {
-        "caption": "Frases hechas: respuestas listas para correo y chat"
+        "caption": "Fragmentos — respuestas listas para correo y chat"
       },
       {
-        "caption": "Perfil: copia la dirección, el teléfono o todo con un solo toque"
+        "caption": "Imágenes — logos, fotos y capturas listas para copiar"
       },
       {
-        "caption": "Editar perfil: fichas separadas para casa, trabajo y clientes"
+        "caption": "Perfil — copia dirección, teléfono o todo con un toque"
       },
       {
-        "caption": "Pestañas de categoría: cambia al instante entre seis listas"
+        "caption": "Editar perfil — tarjetas de Casa, Trabajo y clientes por separado"
+      },
+      {
+        "caption": "Pestañas de categoría — cambia entre seis listas al instante"
       }
-    ]
+    ],
+    "imagesAlt": "Categoría Imágenes con fotos de ejemplo listas para copiar o compartir"
   }
 }

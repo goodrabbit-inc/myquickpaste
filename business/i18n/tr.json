@@ -99,17 +99,17 @@
       {
         "title": "Tek elle kolay kullanım",
         "text": "Büyük satırlar, kategori sekmeleri ve dikey düzen — hepsi hareket halindeyken bile hızlıca doğru seçimi yapmak için tasarlandı.",
-        "icon": "\uD83D\uDCF1"
+        "icon": "📱"
       },
       {
         "title": "Kolayca bulunabilir",
         "text": "Sonu gelmeyen tek bir not yerine, hazır cümleleri, kişileri ve profil kartlarını ayrı listelerde tutun.",
-        "icon": "\uD83D\uDDC2️"
+        "icon": "🗂️"
       },
       {
         "title": "Yalnızca cihazınızda kalır",
         "text": "Önemli hazır cümleleriniz ve kişileriniz yalnızca telefonunuzda saklanır. Herhangi bir bulut senkronizasyon hizmeti sunmuyoruz.",
-        "icon": "\uD83D\uDD12"
+        "icon": "🔒"
       }
     ]
   },
@@ -120,27 +120,27 @@
       {
         "title": "Kategori sekmeleri",
         "text": "Serbest metin, hazır cümleler, e-posta, telefon, adres, profil — doğru listeye anında ulaşmak için sekme değiştirin.",
-        "icon": "\uD83C\uDFF7️"
+        "icon": "🏷️"
       },
       {
         "title": "Tek dokunuşla kopyalama",
         "text": "Tek dokunuş tüm içeriği kopyalar. Kopyalamayı onaylamak için isteğe bağlı titreşim etkinleştirilebilir.",
-        "icon": "\uD83D\uDC46"
+        "icon": "👆"
       },
       {
         "title": "Uzun basarak önizleme",
         "text": "Uzun bir metni kopyalamadan önce, başlığı ve içeriği önizlemek için uzun basın.",
-        "icon": "\uD83D\uDC41️"
+        "icon": "👁️"
       },
       {
         "title": "Profil kartları",
         "text": "Ev ve iş kişilerini kart olarak kaydedin; her alanı tek dokunuşla ayrı ayrı kopyalayın.",
-        "icon": "\uD83E\uDEAA"
+        "icon": "🪪"
       },
       {
         "title": "Görsel kategorisi",
         "text": "Kartvizit, logo ve diğer görselleri kaydedin. Kopyalamak, paylaşmak veya önizlemek için dokunun.",
-        "icon": "\uD83D\uDDBC️"
+        "icon": "🖼️"
       },
       {
         "title": "Yeniden sıralama modu",
@@ -150,17 +150,17 @@
       {
         "title": "Yedekleme (Pro)",
         "text": "Verilerinizi JSON olarak dışa ve içe aktarın — telefon değiştirirken veya güvenli saklama için kullanışlıdır.",
-        "icon": "\uD83D\uDCBE"
+        "icon": "💾"
       },
       {
         "title": "21 dilde arayüz",
         "text": "Uygulamayı Türkçe, Japonca ve 19 diğer dilde kullanın.",
-        "icon": "\uD83C\uDF10"
+        "icon": "🌐"
       },
       {
         "title": "Açık ve koyu tema",
         "text": "Ayarlardan açık veya koyu temayı seçin.",
-        "icon": "\uD83C\uDF13"
+        "icon": "🌓"
       }
     ],
     "categoriesLabel": "6 Kategori",
@@ -356,20 +356,24 @@
     "cateAlt": "Altı kategori sekmesi: serbest metin, hazır cümleler, e-posta, telefon, adres, profil",
     "items": [
       {
-        "caption": "Serbest metin — imzalar, URL'ler ve hesap bilgileri tek bakışta"
+        "caption": "Serbest metin — imzalar, URL’ler ve hesap bilgileri bir bakışta"
       },
       {
-        "caption": "Hazır cümleler — e-posta ve sohbetler için hazır yanıtlar"
+        "caption": "Parçacıklar — e-posta ve sohbet için hazır yanıtlar"
       },
       {
-        "caption": "Profil — adresi, telefonu veya hepsini tek seferde kopyalayın"
+        "caption": "Görseller — logolar, fotoğraflar ve ekran görüntüleri anında kopyalanır"
       },
       {
-        "caption": "Profil düzenleme — ev, iş ve müşterileri ayrı ayrı yönetin"
+        "caption": "Profil — adres, telefon veya her şeyi tek dokunuşla kopyalayın"
       },
       {
-        "caption": "Kategori sekmeleri — altı liste arasında anında geçiş yapın"
+        "caption": "Profili düzenle — Ev, İş ve müşteri kartlarını ayrı tutun"
+      },
+      {
+        "caption": "Kategori sekmeleri — altı liste arasında anında geçiş"
       }
-    ]
+    ],
+    "imagesAlt": "Görseller kategorisi — örnek fotoğrafları kopyalayın veya paylaşın"
   }
 }

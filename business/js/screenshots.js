@@ -4,7 +4,7 @@
   var PHONE_TYPES = ["freetext", "snippets", "images", "profile", "profile-edit"];
   var FALLBACK_LANG = "en";
   var DEFAULT_CATE = "images/ss-cate.png";
-  var CACHE_BUST = "20260725a";
+  var CACHE_BUST = "20260725b";
 
   function setImgSrc(img, candidates) {
     var idx = 0;

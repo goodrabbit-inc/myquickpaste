@@ -130,7 +130,7 @@
   }
 
   function loadMessages(lang) {
-    return fetch("i18n/" + lang + ".json?v=18")
+    return fetch("i18n/" + lang + ".json?v=19")
       .then(function (res) {
         if (!res.ok) {
           throw new Error("i18n load failed");
@@ -179,6 +179,23 @@
       .join("");
   }
 
+  function padStep(n) {
+    return n < 10 ? "0" + n : String(n);
+  }
+
+  function stepIconSvg(index) {
+    var icons = [
+      '<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4Z"/>',
+      '<path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/>',
+      '<rect x="5" y="2" width="14" height="20" rx="2"/><path d="M12 18h.01"/>'
+    ];
+    return (
+      '<svg class="step-icon" aria-hidden="true" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">' +
+      (icons[index] || icons[0]) +
+      "</svg>"
+    );
+  }
+
   function renderSteps(container, items) {
     if (!Array.isArray(items)) {
       return;
@@ -186,19 +203,121 @@
     container.innerHTML = items
       .map(function (item, index) {
         return (
-          '<article class="step">' +
+          '<article class="step-card step">' +
           '<div class="step-num" aria-hidden="true">' +
-          (index + 1) +
+          padStep(index + 1) +
           "</div>" +
-          "<div>" +
+          stepIconSvg(index) +
           "<h3>" +
           escapeHtml(item.title) +
           "</h3>" +
           "<p>" +
           escapeHtml(item.text) +
           "</p>" +
-          "</div>" +
           "</article>"
+        );
+      })
+      .join("");
+  }
+
+  var SCENE_ICONS = {
+    heart: '<path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/>',
+    camera: '<path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/>',
+    tag: '<path d="M20.6 13.4 12.2 21.8a2 2 0 0 1-2.8 0L2 14.4V2h12.4z"/><circle cx="7.5" cy="7.5" r="1.5"/>',
+    clock: '<circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/>',
+    doc: '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h8M8 9h2"/>',
+    mail: '<path d="M4 4h16v16H4z"/><path d="m22 6-10 7L2 6"/>',
+    phone: '<path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.1-8.7A2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.3 1.8.6 2.6a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.5-1.1a2 2 0 0 1 2.1-.4c.9.3 1.8.5 2.7.6a2 2 0 0 1 1.6 2z"/>',
+    zap: '<path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/>',
+    home: '<path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><path d="M9 22V12h6v10"/>',
+    user: '<path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/>',
+    note: '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/>',
+    search: '<circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/>'
+  };
+
+  var FEATURE_ICONS = {
+    tap: '<path d="M9 11V6a2 2 0 1 1 4 0v5"/><path d="M13 11V4a2 2 0 1 1 4 0v8"/><path d="M17 12v-1a2 2 0 1 1 4 0v5a8 8 0 0 1-8 8h-2a8 8 0 0 1-7.3-4.7L3 14a2 2 0 0 1 3.4-2L9 15"/>',
+    folder: '<path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>',
+    sort: '<path d="m3 16 4 4 4-4M7 20V4M21 8l-4-4-4 4M17 4v16"/>',
+    card: '<rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20"/>',
+    image: '<rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="m21 15-5-5L5 21"/>',
+    backup: '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5M12 15V3"/>',
+    theme: '<circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.2 4.2l1.4 1.4M18.4 18.4l1.4 1.4M1 12h2M21 12h2M4.2 19.8l1.4-1.4M18.4 5.6l1.4-1.4"/>',
+    lock: '<rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/>'
+  };
+
+  function iconSvg(map, key) {
+    return (
+      '<svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">' +
+      (map[key] || map.tap || "") +
+      "</svg>"
+    );
+  }
+
+  function renderScenePoints(container, items) {
+    if (!Array.isArray(items)) {
+      return;
+    }
+    container.innerHTML = items
+      .map(function (item) {
+        return (
+          '<article class="scene-point">' +
+          '<div class="scene-point-icon" aria-hidden="true">' +
+          iconSvg(SCENE_ICONS, item.icon) +
+          "</div>" +
+          "<h4>" +
+          escapeHtml(item.title) +
+          "</h4>" +
+          "<p>" +
+          escapeHtml(item.text) +
+          "</p>" +
+          "</article>"
+        );
+      })
+      .join("");
+  }
+
+  function renderFeaturesBento(container, items) {
+    if (!Array.isArray(items)) {
+      return;
+    }
+    container.innerHTML = items
+      .map(function (item) {
+        var large = item.large ? " is-large" : "";
+        return (
+          '<article class="feature-card' +
+          large +
+          '">' +
+          '<div class="feature-icon" aria-hidden="true">' +
+          iconSvg(FEATURE_ICONS, item.icon) +
+          "</div>" +
+          "<h3>" +
+          escapeHtml(item.title) +
+          "</h3>" +
+          "<p>" +
+          escapeHtml(item.text) +
+          "</p>" +
+          "</article>"
+        );
+      })
+      .join("");
+  }
+
+  function renderFaqDetails(container, items) {
+    if (!Array.isArray(items)) {
+      return;
+    }
+    container.innerHTML = items
+      .map(function (item) {
+        return (
+          '<details class="faq-item">' +
+          "<summary>" +
+          escapeHtml(item.q) +
+          "</summary>" +
+          '<div class="faq-a"><p>' +
+          escapeHtml(item.a) +
+          "</p></div>" +
+          "</details>"
         );
       })
       .join("");
@@ -380,6 +499,27 @@
       renderFaq(el, getNested(messages, el.getAttribute("data-i18n-faq")));
     });
 
+    root.querySelectorAll("[data-i18n-faq-details]").forEach(function (el) {
+      renderFaqDetails(
+        el,
+        getNested(messages, el.getAttribute("data-i18n-faq-details"))
+      );
+    });
+
+    root.querySelectorAll("[data-i18n-scene-points]").forEach(function (el) {
+      renderScenePoints(
+        el,
+        getNested(messages, el.getAttribute("data-i18n-scene-points"))
+      );
+    });
+
+    root.querySelectorAll("[data-i18n-features-bento]").forEach(function (el) {
+      renderFeaturesBento(
+        el,
+        getNested(messages, el.getAttribute("data-i18n-features-bento"))
+      );
+    });
+
     root.querySelectorAll("[data-i18n-sections]").forEach(function (el) {
       renderSections(el, getNested(messages, el.getAttribute("data-i18n-sections")));
     });
@@ -423,23 +563,42 @@
   function initNavToggle() {
     var toggle = document.getElementById("nav-toggle");
     var panel = document.getElementById("nav-panel");
-    if (!toggle || !panel) {
+    if (!toggle || !panel || toggle.getAttribute("data-nav-ready") === "1") {
       return;
     }
-    toggle.addEventListener("click", function () {
-      var open = panel.classList.toggle("is-open");
+    toggle.setAttribute("data-nav-ready", "1");
+
+    function setOpen(open) {
+      panel.classList.toggle("is-open", open);
       toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      document.body.classList.toggle("nav-open", open);
+    }
+
+    toggle.addEventListener("click", function (e) {
+      e.stopPropagation();
+      setOpen(!panel.classList.contains("is-open"));
     });
     panel.querySelectorAll("a").forEach(function (link) {
       link.addEventListener("click", function () {
-        panel.classList.remove("is-open");
-        toggle.setAttribute("aria-expanded", "false");
+        setOpen(false);
       });
     });
     document.addEventListener("click", function (e) {
       if (!panel.contains(e.target) && !toggle.contains(e.target)) {
-        panel.classList.remove("is-open");
-        toggle.setAttribute("aria-expanded", "false");
+        setOpen(false);
+      }
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") {
+        setOpen(false);
+        var menu = document.getElementById("lang-picker-menu");
+        var btn = document.getElementById("lang-picker-btn");
+        if (menu && !menu.hasAttribute("hidden")) {
+          menu.setAttribute("hidden", "");
+          if (btn) {
+            btn.setAttribute("aria-expanded", "false");
+          }
+        }
       }
     });
   }

@@ -2,16 +2,25 @@
   "meta": {
     "lang": "ko",
     "title": "MyQuickPaste — 스마트폰용",
-    "description": "자주 쓰는 문장을 스마트폰에 저장해두고 한 번만 눌러 복사하세요. MyQuickPaste는 정형문, 주소, 연락처, 프로필 카드를 카테고리별로 정리해줍니다."
+    "description": "자주 쓰는 문장을 스마트폰에 저장해두고 한 번만 눌러 복사하세요. MyQuickPaste는 정형문, 주소, 연락처, 프로필 카드를 카테고리별로 정리해줍니다.",
+    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
+    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
   },
   "lang": {
-    "label": "언어"
+    "label": "언어",
+    "ja": "日本語",
+    "en": "English"
   },
   "nav": {
     "home": "홈",
     "support": "지원",
     "releaseNotes": "릴리스 노트",
-    "privacy": "개인정보처리방침"
+    "privacy": "개인정보처리방침",
+    "features": "Features",
+    "how": "How it works",
+    "screens": "Screens",
+    "pricing": "Pricing",
+    "cta": "30-day Pro trial"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -24,7 +33,19 @@
     "platformLine": "Google Play 출시 예정 · App Store 개발 중",
     "trialTitle": "30일 Pro 체험",
     "trialText": "설치 후 30일 동안 용량 확대, 전체 카테고리, 백업을 무료로 체험할 수 있습니다. 프리미엄 테마는 Pro 구매가 필요합니다.",
-    "trust": "기기 내에만 저장 · 21개 언어 지원"
+    "trust": "기기 내에만 저장 · 21개 언어 지원",
+    "eyebrow": "MyQuickPaste for smartphones",
+    "catchLine1": "Everyday text,",
+    "catchLine2": "one tap away.",
+    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "ctaPrimary": "See how it works",
+    "ctaSecondary": "30-day Pro trial",
+    "statusPlay": "Google Play coming soon",
+    "statusApp": "App Store in development",
+    "pill1": "Try Pro for 30 days",
+    "pill2": "Pro is a one-time purchase",
+    "pill3": "Stored on your device",
+    "pill4": "21 languages"
   },
   "stores": {
     "googlePlay": "Google Play에서 다운로드",
@@ -80,18 +101,20 @@
     "subtitle": "저장하고, 누르고, 붙여넣기 — 단 3단계면 충분합니다.",
     "items": [
       {
-        "title": "카테고리별로 저장",
-        "text": "자유 문장, 정형문, 메일, 전화, 이미지, 프로필 카드 — 용도별 탭으로 나뉘어 있어 쉽게 찾을 수 있습니다."
+        "title": "Save what you reuse",
+        "text": "Add text or contact details with a clear name."
       },
       {
-        "title": "누르기만 하면 복사",
-        "text": "항목을 누르면 전체 내용이 복사됩니다. 길게 누르면 복사 전에 미리보기도 가능합니다."
+        "title": "Tap the row you need",
+        "text": "One tap copies the content to your clipboard."
       },
       {
-        "title": "어디든 붙여넣기",
-        "text": "메일, 채팅, 지도 등 원하는 앱으로 전환한 뒤 그대로 붙여넣으세요."
+        "title": "Paste in another app",
+        "text": "Switch to mail, social, chat, maps, and paste."
       }
-    ]
+    ],
+    "titleLine1": "Save, tap,",
+    "titleLine2": "then paste."
   },
   "benefits": {
     "title": "이런 점이 좋습니다",
@@ -118,49 +141,46 @@
     "subtitle": "스마트폰에서 자주 하는 복사·붙여넣기를 더 편리하게 만드는 기능들입니다.",
     "items": [
       {
-        "title": "카테고리 탭",
-        "text": "자유 문장, 정형문, 메일, 전화, 이미지, 프로필 — 탭만 전환하면 원하는 목록으로 바로 이동합니다.",
-        "icon": "🏷️"
+        "title": "Copy with one tap",
+        "text": "Tap a row to copy its content to the clipboard.",
+        "icon": "tap",
+        "large": true
       },
       {
-        "title": "누르면 복사",
-        "text": "한 번만 눌러도 전체 내용이 복사됩니다. 복사 시 진동 피드백도 원하는 대로 설정할 수 있습니다.",
-        "icon": "👆"
+        "title": "Organize by use",
+        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "icon": "folder",
+        "large": true
       },
       {
-        "title": "길게 눌러 미리보기",
-        "text": "긴 항목도 복사 전에 제목과 본문을 미리 확인할 수 있습니다.",
-        "icon": "👁️"
+        "title": "Reorder favorites",
+        "text": "Move frequent items to the top so they’re easier to find.",
+        "icon": "sort"
       },
       {
-        "title": "프로필 카드",
-        "text": "집, 회사 등의 연락처를 카드 단위로 저장하고, 필요한 항목만 눌러 복사할 수 있습니다.",
-        "icon": "🪪"
+        "title": "Copy field by field",
+        "text": "Copy only the address, name, or phone number you need.",
+        "icon": "card"
       },
       {
-        "title": "이미지 카테고리",
-        "text": "명함, 로고 등 이미지를 저장합니다. 탭하여 복사, 공유 또는 미리보기.",
-        "icon": "🖼️"
+        "title": "Images ready to use",
+        "text": "Save logos or photos, then copy, share, or preview.",
+        "icon": "image"
       },
       {
-        "title": "순서 변경",
-        "text": "카테고리 안에서 원하는 순서로 정렬해, 자주 쓰는 항목을 맨 위에 둘 수 있습니다.",
-        "icon": "↕️"
+        "title": "Export and import",
+        "text": "Pro can export and import JSON backups.",
+        "icon": "backup"
       },
       {
-        "title": "백업 (Pro)",
-        "text": "저장한 목록을 JSON으로 내보내기/가져오기 할 수 있어 기기 변경이나 데이터 보관에 유용합니다.",
-        "icon": "💾"
+        "title": "Choose a look",
+        "text": "Light, dark, and premium color themes are available.",
+        "icon": "theme"
       },
       {
-        "title": "21개 언어 UI",
-        "text": "한국어, 일본어를 비롯해 총 21개 언어로 앱을 이용할 수 있습니다.",
-        "icon": "🌐"
-      },
-      {
-        "title": "라이트/다크 테마",
-        "text": "설정에서 라이트 또는 다크 테마를 선택할 수 있습니다.",
-        "icon": "🌓"
+        "title": "Stays on device",
+        "text": "Your text and profiles are managed on the phone.",
+        "icon": "lock"
       }
     ],
     "categoriesLabel": "6가지 카테고리",
@@ -171,14 +191,18 @@
       "전화",
       "이미지",
       "프로필"
-    ]
+    ],
+    "titleLine1": "Simple,",
+    "titleLine2": "with the essentials."
   },
   "themesSection": {
     "title": "14가지 컬러 테마",
     "subtitle": "무료 버전은 라이트/다크. Pro 버전에서는 비즈니스용 프리미엄 테마를 추가로 선택할 수 있습니다.",
     "imageAlt": "MyQuickPaste 14가지 테마 그리드: 위쪽 7개는 밝은 테마, 아래쪽 7개는 다크 테마.",
     "caption": "상단: 밝은 테마 7종 / 하단: 다크 테마 7종",
-    "note": "프리미엄 테마는 Pro 구매가 필요합니다."
+    "note": "프리미엄 테마는 Pro 구매가 필요합니다.",
+    "titleLine1": "Match the look",
+    "titleLine2": "to where you use it."
   },
   "usecases": {
     "title": "이런 분들께 추천합니다",
@@ -219,22 +243,44 @@
       "프리미엄 테마",
       "Google Play / App Store에서 단품 구매"
     ],
-    "note": "앱 본체는 무료로 다운로드할 수 있습니다. Pro는 스토어를 통해 구매하는 단품 애드온이며, 가격은 지역에 따라 다를 수 있습니다."
+    "note": "앱 본체는 무료로 다운로드할 수 있습니다. Pro는 스토어를 통해 구매하는 단품 애드온이며, 가격은 지역에 따라 다를 수 있습니다.",
+    "titleLine1": "Try it for 30 days",
+    "titleLine2": "and feel the difference.",
+    "trialLabel": "First install only",
+    "trialTitle": "Try Pro features for 30 days",
+    "trialText": "Expanded capacity, all categories, and backup.",
+    "trialNote": "Premium themes require a Pro purchase.",
+    "freeLead": "Start simply.",
+    "proTag": "One-time purchase",
+    "proLead": "No monthly fee.",
+    "notSub": "Not a subscription"
   },
   "privacySection": {
     "title": "데이터는 기기 안에만",
     "text": "저장한 문장, 프로필 카드, 설정 정보는 모두 기기 안에만 저장됩니다. 클라우드 동기화 서비스는 제공하지 않으며, 정형문 내용을 수집하지도 않습니다.",
-    "link": "개인정보처리방침 보기"
+    "link": "개인정보처리방침 보기",
+    "titleLine1": "What you save",
+    "titleLine2": "stays on your device.",
+    "points": [
+      "No automatic cloud sync",
+      "Snippet content is not sent to our servers",
+      "Data stays managed on device",
+      "Pro lets you export your own backup"
+    ]
   },
   "cta": {
     "title": "같은 문장 반복 입력, 오늘부터 그만두는 건 어떨까요?",
     "lead": "Google Play 출시 예정입니다. 출시 후 30일 동안 용량 확대, 전체 카테고리, 백업을 무료로 체험할 수 있습니다. 프리미엄 테마는 Pro 구매가 필요합니다.",
-    "button": "Google Play에서 다운로드"
+    "button": "Google Play에서 다운로드",
+    "titleLine1": "Make typing",
+    "titleLine2": "simpler.",
+    "sub": "Try key Pro features for 30 days after first install."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (PC용)",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
-    "developer": "개발: Kazuhiro Suda"
+    "developer": "개발: Kazuhiro Suda",
+    "contact": "Contact"
   },
   "supportPage": {
     "title": "지원",
@@ -374,6 +420,180 @@
         "caption": "카테고리 탭 — 여섯 목록을 바로 전환"
       }
     ],
-    "imagesAlt": "이미지 카테고리. 샘플 사진을 한 번에 복사·공유"
+    "imagesAlt": "이미지 카테고리. 샘플 사진을 한 번에 복사·공유",
+    "titleLine1": "Clear enough",
+    "titleLine2": "to use right away.",
+    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
+    "freetextCap": "Manage reusable text in one list",
+    "snippetsCap": "Copy your usual replies fast",
+    "imagesCap": "Save, copy, and share images",
+    "profileCap": "Copy address or contact fields one by one",
+    "profileEditCap": "Register the details you need together"
+  },
+  "trust": {
+    "t1Title": "Tap to copy",
+    "t1Text": "One tap on a saved row.",
+    "t2Title": "One-time Pro",
+    "t2Text": "No monthly fee.",
+    "t3Title": "On-device storage",
+    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t4Title": "21-language UI",
+    "t4Text": "Use the app in many languages."
+  },
+  "pain": {
+    "titleLine1": "Still hunting",
+    "titleLine2": "just to copy?",
+    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
+    "p1Title": "Searching notes",
+    "p1Text": "You’re not sure which note holds the address or reply.",
+    "p2Title": "Long-press selecting",
+    "p2Text": "You redo the selection to grab only what you need.",
+    "p3Title": "Typing it again",
+    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "resolveLine1": "With MyQuickPaste,",
+    "resolveLine2": "one tap from the list.",
+    "resolveSub": "Save it once, then copy whenever you need it.",
+    "flowOldLabel": "Typical flow",
+    "flowOld1": "Search",
+    "flowOld2": "Select",
+    "flowOld3": "Copy",
+    "flowNewLabel": "MyQuickPaste",
+    "flowNew1": "Tap",
+    "flowNew2": "Copy"
+  },
+  "sceneSocial": {
+    "eyebrow": "For social too",
+    "titleLine1": "Ready to post",
+    "titleLine2": "the moment you think of it.",
+    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "points": [
+      {
+        "title": "Emoji",
+        "text": "Keep favorites handy",
+        "icon": "heart"
+      },
+      {
+        "title": "Social posts",
+        "text": "Prep captions fast",
+        "icon": "camera"
+      },
+      {
+        "title": "Hashtags",
+        "text": "Copy as a set",
+        "icon": "tag"
+      },
+      {
+        "title": "Save time",
+        "text": "Less hunting around",
+        "icon": "clock"
+      }
+    ]
+  },
+  "sceneWork": {
+    "eyebrow": "At work too",
+    "titleLine1": "Cut the time",
+    "titleLine2": "spent searching.",
+    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "points": [
+      {
+        "title": "Snippets",
+        "text": "Your usual replies",
+        "icon": "doc"
+      },
+      {
+        "title": "Email",
+        "text": "Signatures & notices",
+        "icon": "mail"
+      },
+      {
+        "title": "Contacts",
+        "text": "Copy numbers fast",
+        "icon": "phone"
+      },
+      {
+        "title": "Quick copy",
+        "text": "Done in one tap",
+        "icon": "zap"
+      }
+    ]
+  },
+  "sceneDaily": {
+    "eyebrow": "In daily life",
+    "titleLine1": "Keep everyday info",
+    "titleLine2": "closer.",
+    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "points": [
+      {
+        "title": "Address",
+        "text": "Less retyping",
+        "icon": "home"
+      },
+      {
+        "title": "Profile",
+        "text": "Save your intro",
+        "icon": "user"
+      },
+      {
+        "title": "Go-to phrases",
+        "text": "Reuse anytime",
+        "icon": "note"
+      },
+      {
+        "title": "Find fast",
+        "text": "Stay organized",
+        "icon": "search"
+      }
+    ]
+  },
+  "comparison": {
+    "titleLine1": "Not just temporary copies—",
+    "titleLine2": "a home for what you reuse.",
+    "otherLabel": "Notes or clipboard history",
+    "other1": "Open",
+    "other2": "Search",
+    "other3": "Select what you need",
+    "other4": "Copy",
+    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "appLabel": "MyQuickPaste",
+    "app1": "Open",
+    "app2": "Tap a row",
+    "app3": "Copied",
+    "appText": "Keep reusable text and details organized with clear names."
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "Does a tap paste into another app automatically?",
+        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+      },
+      {
+        "q": "Where is my data stored?",
+        "a": "Text, profiles, and settings are stored on your smartphone."
+      },
+      {
+        "q": "Do I lose the app after the 30-day trial?",
+        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+      },
+      {
+        "q": "Is Pro a monthly subscription?",
+        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+      },
+      {
+        "q": "Can I share data with the Windows edition?",
+        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+      },
+      {
+        "q": "Can I move data when I change phones?",
+        "a": "With Pro you can export JSON and import it on another device."
+      }
+    ]
+  },
+  "windowsEdition": {
+    "titleLine1": "MyQuickPaste",
+    "titleLine2": "on Windows too.",
+    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
+    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
+    "link": "Windows edition homepage"
   }
 }

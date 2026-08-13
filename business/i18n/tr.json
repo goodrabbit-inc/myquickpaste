@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Android ve iPhone için",
     "catch": "Her gün kullandığınızı kaydedin. Tek dokunuşla kopyalayın.",
-    "lead": "Aynı yanıtı, adresi, telefon numarasını veya profil bilgisini defalarca yazmak zorunda kalan herkes için tasarlandı. Kategoriye göre düzenleyin, satıra dokunun ve e-postaya, sohbete veya istediğiniz yere yapıştırın.",
+    "lead": "Hazır metinler, adresler, kişiler, URL, emoji, hashtag. Sık kullandıklarınızı kaydedin, listeden tek dokunuşla kopyalayın.",
     "platformLine": "Google Play yakında · App Store geliştiriliyor",
     "trialTitle": "30 gün ücretsiz deneme",
     "trialText": "İlk kurulumdan sonra 30 gün boyunca daha yüksek kayıt limitlerini ve yedeklemeyi ücretsiz deneyin.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Sonra alıştığınız uygulamaya geçip yapıştırın.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 gün ücretsiz deneme",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Verileriniz yalnızca telefonunuzda kalır",
-    "text": "Kaydedilen metinler, profil kartları ve ayarlar yalnızca cihazınızda saklanır. Herhangi bir bulut senkronizasyon hizmeti sunmuyoruz ve hazır cümlelerinizin içeriğini toplamıyoruz.",
+    "text": "MyQuickPaste'te kaydettiğiniz metinler ve profiller cihazda yönetilir. İçeriğinizi otomatik olarak buluta göndermiyoruz.",
     "link": "Gizlilik Politikasını okuyun",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "Önemli olan",
+    "titleLine2": "cihazınızda kalır.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Telefonunuzda aynı metni tekrar tekrar yazmayı bırakma zamanı",
-    "lead": "Yakında Google Play'de. Yayınlandıktan sonra 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedeklemeyi ücretsiz deneyin. Premium temalar Pro satın alımı gerektirir.",
+    "lead": "Kaydet, dokun, yapıştır. MyQuickPaste ile günlük yazmayı biraz sadeleştirin.",
     "button": "Google Play'de",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Sık kullandığınız metinler",
+    "titleLine2": "daha yakında.",
     "sub": "İlk kurulumdan sonra 30 gün boyunca daha yüksek limitler ve yedeklemeyi ücretsiz deneyin."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Kaydedilen veriler otomatik olarak buluta gönderilmez.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Her seferinde",
+    "titleLine2": "«Neredeydi?» demeyin.",
+    "lead": "Aynı bilgi—ama her seferinde notlarda aramak, uzun basarak yeniden seçmek veya yeniden yazmak. Küçük adımlar her gün birikir.",
+    "p1Title": "Aramak",
+    "p1Text": "Adres veya hazır metin—hangi notta olduğu belli değil.",
+    "p2Title": "Seçmek",
+    "p2Text": "İhtiyacınız olan kısmı uzun basarak seçmek.",
+    "p3Title": "Yeniden yazmak",
+    "p3Text": "Aynı yanıtı veya profili tekrar tekrar yazmak.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Bu anlarda da işe yarar.",
+    "titleLine2": "",
+    "lead": "Seyahat, ikinci el uygulamalar, sohbet, etkinlik—favori metniniz tek dokunuş uzağınızda.",
+    "cap3": "İlan metinleri anında kopyalanır",
+    "cap4": "Sohbet yanıtları tek dokunuş",
+    "cap6": "Organizatör mesajları hazır"
   }
 }

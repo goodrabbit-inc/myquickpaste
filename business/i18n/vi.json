@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Dành cho Android & iPhone",
     "catch": "Lưu những gì bạn dùng hằng ngày. Sao chép chỉ với một chạm.",
-    "lead": "Được tạo ra cho những ai phải gõ đi gõ lại cùng một câu trả lời, địa chỉ, số điện thoại hoặc thông tin hồ sơ. Sắp xếp theo danh mục, chạm vào dòng đó, rồi dán vào email, tin nhắn hoặc bất cứ đâu.",
+    "lead": "Văn bản mẫu, địa chỉ, liên hệ, URL, emoji, hashtag. Lưu nội dung hay dùng, sao chép một chạm từ danh sách.",
     "platformLine": "Google Play sắp ra mắt · App Store đang phát triển",
     "trialTitle": "Dùng thử miễn phí 30 ngày",
     "trialText": "Trong 30 ngày sau khi cài đặt lần đầu, hãy dùng thử miễn phí giới hạn lưu cao hơn và sao lưu.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Rồi chuyển sang app quen dùng và dán.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "Dùng thử miễn phí 30 ngày",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Dữ liệu của bạn chỉ ở trên điện thoại của bạn",
-    "text": "Văn bản đã lưu, thẻ hồ sơ và cài đặt chỉ được lưu trữ trên thiết bị của bạn. Chúng tôi không cung cấp dịch vụ đồng bộ đám mây và không thu thập nội dung câu mẫu của bạn.",
+    "text": "Văn bản và hồ sơ lưu trong MyQuickPaste được quản lý trên thiết bị. Chúng tôi không tự động gửi nội dung lên cloud.",
     "link": "Đọc Chính sách quyền riêng tư",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "Điều quan trọng ở",
+    "titleLine2": "trong thiết bị của bạn.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Đã đến lúc ngừng gõ lại cùng một văn bản trên điện thoại của bạn",
-    "lead": "Sắp có trên Google Play. Sau khi phát hành, dùng thử miễn phí dung lượng mở rộng, tất cả danh mục và sao lưu trong 30 ngày. Giao diện cao cấp yêu cầu mua Pro.",
+    "lead": "Lưu, chạm, dán. Đơn giản hóa gõ phím hàng ngày với MyQuickPaste.",
     "button": "Có trên Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Văn bản hay dùng,",
+    "titleLine2": "gần tay hơn.",
     "sub": "Trong 30 ngày sau khi cài đặt lần đầu, dùng thử miễn phí giới hạn cao hơn và sao lưu."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Không tự động gửi dữ liệu đã lưu lên cloud.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Đừng cứ hỏi",
+    "titleLine2": "「Ở đâu nhỉ?」 mỗi lần.",
+    "lead": "Cùng thông tin—nhưng mỗi lần lại tìm ghi chú, chọn lại bằng nhấn giữ hoặc gõ lại. Những bước nhỏ cộng dồn mỗi ngày.",
+    "p1Title": "Tìm",
+    "p1Text": "Địa chỉ hay văn bản mẫu—không biết ở ghi chú nào.",
+    "p2Title": "Chọn",
+    "p2Text": "Nhấn giữ để chọn đúng phần cần dùng.",
+    "p3Title": "Gõ lại",
+    "p3Text": "Gõ lại cùng câu trả lời hoặc hồ sơ nhiều lần.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Hữu ích trong những lúc này.",
+    "titleLine2": "",
+    "lead": "Du lịch, chợ đồ cũ, chat, tổ chức sự kiện—văn bản quen một chạm.",
+    "cap3": "Văn bản đăng bán, sao chép ngay",
+    "cap4": "Trả lời chat một chạm",
+    "cap6": "Tin nhắn ban tổ chức sẵn sàng"
   }
 }

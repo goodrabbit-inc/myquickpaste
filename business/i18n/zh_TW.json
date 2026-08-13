@@ -29,7 +29,7 @@
   "hero": {
     "badge": "支援 Android 與 iPhone",
     "catch": "把常用的文字先存起來，一鍵就能複製。",
-    "lead": "專為那些不斷輸入相同回覆、地址、電話號碼或個人資料的人所設計。依分類整理好之後，點一下就能複製，隨時貼到郵件、聊天或任何地方。",
+    "lead": "常用語、地址、聯絡人、URL、表情符號、主題標籤。儲存反覆使用的內容，需要時從清單一鍵複製。",
     "platformLine": "Google Play 即將推出 · App Store 開發中",
     "trialTitle": "30 天免費體驗",
     "trialText": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "然後切換到常用 App，貼上即可。",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 天免費體驗",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "資料只保存在裝置內",
-    "text": "已保存的文字、個人資料卡與設定都只儲存在你的裝置上。我們不提供任何雲端同步服務，也不會收集你保存的常用語內容。",
+    "text": "在 MyQuickPaste 中儲存的文字和個人資料均在裝置內管理。不會自動將內容上傳到雲端。",
     "link": "閱讀隱私權政策",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "重要內容",
+    "titleLine2": "留在你的裝置裡。",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "今天就開始告別重複輸入同樣的文字吧",
-    "lead": "即將在 Google Play 推出。上線後可免費試用 30 天擴充容量、全部分類與備份。進階主題需購買 Pro。",
+    "lead": "儲存、點擊、貼上。用 MyQuickPaste 讓每日輸入更簡單一點。",
     "button": "在 Google Play 上取得",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "常用文字，",
+    "titleLine2": "更近在手邊。",
     "sub": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。"
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "不會自動將儲存的資料上傳到雲端。",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "別再每次都想",
+    "titleLine2": "「放哪了？」",
+    "lead": "經常用的資訊，卻每次都要翻備忘錄、長按重選、反覆輸入。這些小步驟每天都在累積。",
+    "p1Title": "查找",
+    "p1Text": "地址或常用語，不知道在哪則備忘錄裡。",
+    "p2Title": "選取",
+    "p2Text": "長按選取，只要需要的部分。",
+    "p3Title": "再次輸入",
+    "p3Text": "回覆語或個人簡介，反覆在鍵盤上重打。",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "這些場景也用得上。",
+    "titleLine2": "",
+    "lead": "旅行、二手交易、聊天、活動組織——常用文字，一鍵即達。",
+    "cap3": "二手平台常用語，立刻複製",
+    "cap4": "聊天回覆，一鍵貼上",
+    "cap6": "活動通知，隨時可用"
   }
 }

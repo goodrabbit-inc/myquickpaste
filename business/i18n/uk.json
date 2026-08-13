@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Для Android та iPhone",
     "catch": "Збережіть те, що використовуєте щодня. Копіюйте одним дотиком.",
-    "lead": "Створено для тих, хто знову і знову набирає ті самі відповіді, адреси, номери телефонів чи дані профілю. Розкладіть усе за категоріями, торкніться рядка — і вставляйте в лист, чат чи будь-де ще.",
+    "lead": "Шаблони, адреси, контакти, URL, емодзі, хештеги. Збережіть те, що часто використовуєте, і копіюйте одним натисканням зі списку.",
     "platformLine": "Google Play незабаром · App Store у розробці",
     "trialTitle": "30 днів безкоштовного пробного періоду",
     "trialText": "Протягом 30 днів після першого встановлення безкоштовно спробуйте підвищені ліміти збереження та резервне копіювання.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Потім перейдіть до звичного застосунку та вставте.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 днів безкоштовного пробного періоду",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Дані залишаються на вашому телефоні",
-    "text": "Збережені тексти, картки профілю та налаштування зберігаються лише на вашому пристрої. Ми не пропонуємо хмарну синхронізацію та не збираємо вміст ваших шаблонів фраз.",
+    "text": "Тексти та профілі в MyQuickPaste зберігаються на пристрої. Ми не надсилаємо ваш вміст у хмару автоматично.",
     "link": "Читати політику конфіденційності",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "Важливе залишається",
+    "titleLine2": "на вашому пристрої.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Час перестати набирати той самий текст на телефоні знову й знову?",
-    "lead": "Незабаром у Google Play. Після запуску 30 днів безкоштовно спробуйте розширену ємність, усі категорії та резервне копіювання. Преміум-теми потребують покупки Pro.",
+    "lead": "Зберегти, натиснути, вставити. Спростіть щоденне введення з MyQuickPaste.",
     "button": "Доступно в Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Часті тексти",
+    "titleLine2": "ближче під рукою.",
     "sub": "Протягом 30 днів після першого встановлення безкоштовно спробуйте підвищені ліміти та резервне копіювання."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Збережені дані не надсилаються в хмару автоматично.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Досить щоразу думати:",
+    "titleLine2": "«Де це було?»",
+    "lead": "Та сама інформація—але щоразу ви шукаєте в нотатках, знову виділяєте довгим натисканням або переписуєте. Дрібні кроки накопичуються щодня.",
+    "p1Title": "Шукати",
+    "p1Text": "Адреса чи шаблон—невідомо, у якій нотатці.",
+    "p2Title": "Виділяти",
+    "p2Text": "Довге натискання, щоб взяти лише потрібну частину.",
+    "p3Title": "Вводити знову",
+    "p3Text": "Той самий відповідь чи профіль набираєте знову і знову.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Корисно й у таких ситуаціях.",
+    "titleLine2": "",
+    "lead": "Подорожі, барахолки, чати, організація заходів—потрібний текст одним натисканням.",
+    "cap3": "Тексти оголошень—миттєво",
+    "cap4": "Відповіді в чаті одним натисканням",
+    "cap6": "Повідомлення організатора під рукою"
   }
 }

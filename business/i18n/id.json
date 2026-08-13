@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Untuk Android & iPhone",
     "catch": "Simpan yang sering Anda pakai. Salin dengan satu ketukan.",
-    "lead": "Dibuat untuk siapa saja yang terus-menerus mengetik ulang jawaban, alamat, nomor telepon, atau info profil yang sama. Atur berdasarkan kategori, ketuk barisnya, lalu tempel ke email, chat, atau di mana saja.",
+    "lead": "Teks baku, alamat, kontak, URL, emoji, hashtag. Simpan yang sering dipakai, lalu salin dengan satu ketuk dari daftar.",
     "platformLine": "Google Play segera hadir · App Store dalam pengembangan",
     "trialTitle": "Uji coba gratis 30 hari",
     "trialText": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Lalu beralih ke aplikasi biasa Anda dan tempel.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "Uji coba gratis 30 hari",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Data Anda tetap di ponsel Anda",
-    "text": "Teks tersimpan, kartu profil, dan pengaturan hanya disimpan di perangkat Anda. Kami tidak menyediakan layanan sinkronisasi cloud dan tidak mengumpulkan isi kalimat template Anda.",
+    "text": "Teks dan profil yang disimpan di MyQuickPaste dikelola di perangkat. Kami tidak mengirim konten Anda ke cloud secara otomatis.",
     "link": "Baca Kebijakan Privasi",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "Yang penting tetap",
+    "titleLine2": "di perangkat Anda.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Waktunya berhenti mengetik ulang teks yang sama di ponsel Anda",
-    "lead": "Segera di Google Play. Setelah rilis, coba kapasitas diperluas, semua kategori, dan cadangan gratis selama 30 hari. Tema premium memerlukan pembelian Pro.",
+    "lead": "Simpan, ketuk, tempel. Permudah pengetikan harian dengan MyQuickPaste.",
     "button": "Tersedia di Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Teks sehari-hari,",
+    "titleLine2": "lebih dekat.",
     "sub": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Data tersimpan tidak dikirim ke cloud secara otomatis.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Berhenti bertanya",
+    "titleLine2": "«Di mana tadi?»",
+    "lead": "Info yang sama—tapi setiap kali Anda cari di catatan, pilih ulang dengan tekan lama, atau ketik lagi. Langkah kecil menumpuk setiap hari.",
+    "p1Title": "Mencari",
+    "p1Text": "Alamat atau teks baku—tidak tahu di catatan mana.",
+    "p2Title": "Memilih",
+    "p2Text": "Tekan lama untuk mengambil bagian yang Anda butuhkan.",
+    "p3Title": "Mengetik lagi",
+    "p3Text": "Mengetik ulang balasan atau profil yang sama berkali-kali.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Berguna di momen ini juga.",
+    "titleLine2": "",
+    "lead": "Perjalanan, marketplace, chat, acara—teks favorit Anda satu ketuk saja.",
+    "cap3": "Teks iklan, langsung disalin",
+    "cap4": "Balasan chat, satu ketuk",
+    "cap6": "Pesan panitia siap pakai"
   }
 }

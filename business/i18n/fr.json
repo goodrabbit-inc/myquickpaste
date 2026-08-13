@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Pour Android et iPhone",
     "catch": "Enregistrez vos textes du quotidien. Copiez-les en un instant.",
-    "lead": "Conçu pour celles et ceux qui retapent sans cesse les mêmes réponses, adresses, numéros de téléphone ou informations de profil. Classez-les par catégorie, appuyez sur une ligne, et collez-la dans un e-mail, une conversation ou n'importe où ailleurs.",
+    "lead": "Textes types, adresses, contacts, URL, emoji, hashtags. Enregistrez ce que vous réutilisez, puis copiez d'un tap dans la liste.",
     "platformLine": "Google Play bientôt disponible · App Store en développement",
     "trialTitle": "30 jours d'essai gratuit",
     "trialText": "Pendant 30 jours après la première installation, essayez gratuitement des limites plus élevées et la sauvegarde.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Ensuite, basculez vers votre appli habituelle et collez.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 jours d'essai gratuit",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Vos données restent sur votre téléphone",
-    "text": "Les textes enregistrés, les fiches de profil et les réglages sont stockés uniquement sur votre appareil. Nous n'exploitons aucun service de synchronisation cloud et ne collectons pas le contenu de vos formules types.",
+    "text": "Les textes et profils enregistrés dans MyQuickPaste sont gérés sur l'appareil. Nous n'envoyons pas automatiquement vos contenus vers le cloud.",
     "link": "Lire la politique de confidentialité",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "L'essentiel reste",
+    "titleLine2": "sur votre appareil.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Et si vous arrêtiez de retaper le même texte sur votre téléphone ?",
-    "lead": "Bientôt sur Google Play. Après le lancement, testez gratuitement pendant 30 jours la capacité étendue, toutes les catégories et la sauvegarde. Les thèmes premium nécessitent l'achat Pro.",
+    "lead": "Enregistrer, toucher, coller. Simplifiez un peu la saisie au quotidien avec MyQuickPaste.",
     "button": "Disponible sur Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Vos textes du quotidien,",
+    "titleLine2": "plus près de vous.",
     "sub": "Pendant 30 jours après la première installation, essayez gratuitement des limites plus élevées et la sauvegarde."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Nous n'envoyons pas automatiquement vos données vers le cloud.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Fini de vous demander",
+    "titleLine2": "« Où c'était déjà ? »",
+    "lead": "Vous réutilisez les mêmes infos—pourtant à chaque fois vous cherchez dans vos notes, refaites une sélection au long appui ou retapez. Ces petites étapes s'accumulent.",
+    "p1Title": "Chercher",
+    "p1Text": "Vous ne savez plus quelle note contient l'adresse ou le texte type.",
+    "p2Title": "Sélectionner",
+    "p2Text": "Un long appui pour ne prendre que la partie utile.",
+    "p3Title": "Retaper",
+    "p3Text": "Vous retapez la même réponse ou le même profil encore et encore.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Utile dans ces situations aussi.",
+    "titleLine2": "",
+    "lead": "Voyage, vente entre particuliers, chat, organisation d'événements—vos textes favoris à portée de tap.",
+    "cap3": "Copiez vite vos textes pour les annonces",
+    "cap4": "Réponses de chat en un tap",
+    "cap6": "Messages d'organisateur prêts à l'emploi"
   }
 }

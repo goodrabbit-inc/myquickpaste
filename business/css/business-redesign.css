@@ -1,0 +1,417 @@
+/* ==================================================
+   LP Redesign overrides (2026-08)
+   Loaded after business.css
+================================================== */
+
+:root {
+  --max: 1200px;
+  --section-py: clamp(5rem, 6vw, 7.5rem);
+  --section-py-sm: clamp(4rem, 5vw, 6rem);
+  --heading-max: min(100%, 20em);
+  --scene-img-max: clamp(16rem, 36vw, 28.75rem);
+}
+
+.section-head {
+  max-width: var(--heading-max);
+  margin-bottom: clamp(1.75rem, 3vw, 2.75rem);
+}
+
+.section-head h2 {
+  font-size: clamp(2rem, 4.2vw, 3.25rem);
+  line-height: 1.14;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+
+.section-head--center {
+  text-align: center;
+  margin-inline: auto;
+}
+
+.section-head--center p {
+  margin-inline: auto;
+}
+
+/* Hero */
+.hero {
+  padding-block: clamp(3.5rem, 7vw, 6rem) clamp(3rem, 5vw, 4.5rem);
+}
+
+.hero-grid {
+  grid-template-columns: minmax(0, 0.46fr) minmax(0, 0.54fr);
+  gap: clamp(1.75rem, 3.5vw, 3rem);
+  align-items: center;
+}
+
+.hero-title {
+  font-size: clamp(2.375rem, 5.5vw, 4.25rem);
+  line-height: 1.1;
+  max-width: 11em;
+  text-wrap: balance;
+}
+
+.hero-lead {
+  font-size: clamp(1.0625rem, 1.5vw, 1.1875rem);
+  max-width: 36ch;
+}
+
+.hero-sub {
+  font-size: clamp(0.9375rem, 1.2vw, 1.0625rem);
+  max-width: 36ch;
+}
+
+.hero-visual {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.hero-feature-img {
+  width: 100%;
+  max-width: min(100%, 36rem);
+  margin-inline: 0 0;
+  margin-inline-start: auto;
+}
+
+[dir="rtl"] .hero-visual {
+  justify-content: flex-start;
+}
+
+[dir="rtl"] .hero-feature-img {
+  margin-inline-start: 0;
+  margin-inline-end: auto;
+}
+
+/* Trust strip */
+.trust-bar {
+  padding-block: clamp(1.75rem, 3vw, 2.5rem);
+  background: linear-gradient(180deg, var(--surface-soft), var(--surface));
+}
+
+.trust-grid {
+  gap: clamp(0.85rem, 2vw, 1.5rem);
+}
+
+.trust-item {
+  padding: clamp(1rem, 2vw, 1.35rem);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 18px rgba(16, 35, 56, 0.04);
+}
+
+.trust-item h3 {
+  font-size: clamp(0.9375rem, 1.3vw, 1.0625rem);
+  margin-bottom: 0.4rem;
+}
+
+.trust-item p {
+  max-width: none;
+  font-size: 0.8125rem;
+}
+
+/* Problem */
+.section-pain {
+  padding-block: var(--section-py-sm);
+}
+
+.pain-grid {
+  gap: clamp(0.85rem, 1.5vw, 1.25rem);
+  margin-bottom: clamp(2rem, 3vw, 2.75rem);
+}
+
+.pain-card {
+  padding: clamp(1.25rem, 2vw, 1.5rem);
+}
+
+/* Solution */
+.section-solution {
+  padding-block: var(--section-py-sm);
+  background: linear-gradient(180deg, var(--brand-050), transparent);
+}
+
+.solution-inner {
+  display: grid;
+  gap: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+.solution-copy h2 {
+  font-size: clamp(1.875rem, 3.8vw, 2.75rem);
+  line-height: 1.12;
+  margin-bottom: 0.75rem;
+  text-wrap: balance;
+}
+
+.solution-copy p {
+  color: var(--ink-600);
+  max-width: 38ch;
+  line-height: 1.85;
+}
+
+.flow-compare {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(0.85rem, 2vw, 1.25rem);
+  max-width: 42rem;
+}
+
+.flow-col {
+  padding: clamp(1.15rem, 2vw, 1.5rem);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.flow-col.is-app {
+  border-color: var(--brand-200);
+  background: linear-gradient(180deg, #fff, var(--brand-050));
+  box-shadow: var(--shadow-card);
+}
+
+/* Steps + guide image */
+.steps-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 0.9fr);
+  gap: clamp(1.5rem, 3vw, 2.75rem);
+  align-items: center;
+}
+
+.steps-grid {
+  gap: clamp(0.85rem, 1.5vw, 1.15rem);
+}
+
+.step-card {
+  padding: clamp(1.15rem, 2vw, 1.5rem);
+}
+
+.steps-visual img {
+  width: 100%;
+  max-width: var(--scene-img-max);
+  height: auto;
+  object-fit: contain;
+  margin-inline: auto;
+  display: block;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+}
+
+/* Scenes */
+.scene {
+  padding-block: var(--section-py-sm);
+}
+
+.scene-inner {
+  gap: clamp(1.25rem, 2.5vw, 2rem);
+}
+
+.scene-grid {
+  gap: clamp(1.5rem, 3vw, 3rem);
+  align-items: center;
+}
+
+.scene-media img.marketing-usecase-img {
+  max-width: var(--scene-img-max);
+  width: 100%;
+}
+
+.scene-title {
+  font-size: clamp(1.75rem, 3.2vw, 2.5rem);
+  line-height: 1.14;
+  text-wrap: balance;
+}
+
+.scene-points {
+  margin-top: clamp(1.25rem, 2.5vw, 2rem);
+}
+
+/* More scenes gallery */
+.section-scene-more {
+  padding-block: var(--section-py-sm);
+  background: var(--surface-soft);
+}
+
+.scene-more-carousel .shot-slide.is-marketing {
+  flex: 0 0 min(72vw, 14.5rem);
+  opacity: 0.82;
+}
+
+.scene-more-carousel .shot-slide.is-marketing.is-active {
+  opacity: 1;
+}
+
+.scene-more-caption {
+  margin-top: 0.65rem;
+  text-align: center;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--ink-700);
+}
+
+/* App screenshots carousel */
+.shots-section {
+  padding-block: var(--section-py-sm);
+}
+
+.shot-slide {
+  flex: 0 0 min(76vw, 18rem);
+  opacity: 0.78;
+  transform: scale(0.96);
+}
+
+.shot-slide.is-active {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.shot-slide.is-marketing {
+  flex: 0 0 min(76vw, 17rem);
+}
+
+.shot-slide .phone-frame {
+  width: min(100%, 17.5rem);
+  margin-inline: auto;
+}
+
+/* Features compact */
+#features {
+  padding-block: var(--section-py-sm);
+}
+
+.features-bento {
+  gap: clamp(0.75rem, 1.2vw, 1rem);
+}
+
+.feature-card {
+  padding: clamp(1.1rem, 1.8vw, 1.45rem);
+}
+
+.feature-card h3 {
+  font-size: 1rem;
+}
+
+.feature-card p {
+  font-size: 0.875rem;
+  line-height: 1.65;
+}
+
+/* Comparison */
+#comparison {
+  padding-block: var(--section-py-sm);
+}
+
+.compare-flow {
+  gap: clamp(0.85rem, 2vw, 1.25rem);
+}
+
+.compare-panel {
+  padding: clamp(1.25rem, 2vw, 1.75rem);
+}
+
+/* Privacy */
+.privacy-section {
+  padding-block: var(--section-py-sm);
+  background: linear-gradient(180deg, transparent, var(--surface-soft));
+}
+
+/* Pricing untouched spacing */
+#pricing {
+  padding-block: var(--section-py);
+}
+
+/* Final CTA */
+.final-cta {
+  padding-block: clamp(4rem, 7vw, 6rem);
+}
+
+.final-cta-inner h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  line-height: 1.12;
+  text-wrap: balance;
+}
+
+.final-cta-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+/* Responsive */
+@media (max-width: 960px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-copy {
+    max-width: none;
+    text-align: center;
+    margin-inline: auto;
+  }
+
+  .hero-title {
+    max-width: none;
+    margin-inline: auto;
+  }
+
+  .hero-lead,
+  .hero-sub {
+    margin-inline: auto;
+  }
+
+  .hero-actions,
+  .store-status {
+    justify-content: center;
+  }
+
+  .hero-visual {
+    justify-content: center;
+  }
+
+  .hero-feature-img {
+    max-width: min(100%, 32rem);
+    margin-inline: auto;
+  }
+
+  .steps-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .steps-visual {
+    order: -1;
+    max-width: 16rem;
+    margin-inline: auto;
+  }
+
+  .flow-compare {
+    max-width: none;
+  }
+}
+
+@media (max-width: 720px) {
+  .trust-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .flow-compare {
+    grid-template-columns: 1fr;
+  }
+
+  .shot-slide,
+  .shot-slide.is-marketing,
+  .scene-more-carousel .shot-slide.is-marketing {
+    flex-basis: min(84vw, 15.5rem);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  .shot-slide {
+    opacity: 1;
+    transform: none;
+  }
+}

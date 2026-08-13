@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Android और iPhone के लिए",
     "catch": "जो रोज़ काम आता है उसे सेव करें। एक टैप में कॉपी करें।",
-    "lead": "उन लोगों के लिए बनाया गया है जो बार-बार वही जवाब, पता, फ़ोन नंबर या प्रोफ़ाइल जानकारी टाइप करते रहते हैं। इन्हें श्रेणियों में व्यवस्थित करें, किसी पंक्ति पर टैप करें और उसे ईमेल, चैट या कहीं भी पेस्ट करें।",
+    "lead": "तैयार पाठ, पता, संपर्क, URL, इमोजी, हैशटैग। बार-बार इस्तेमाल होने वाला सेव करें, ज़रूरत पर सूची से एक टैप में कॉपी करें।",
     "platformLine": "Google Play जल्द आ रहा है · App Store विकास में",
     "trialTitle": "30 दिन का निःशुल्क परीक्षण",
     "trialText": "पहली इंस्टॉल के बाद 30 दिनों तक उच्च सहेज सीमा और बैकअप निःशुल्क आज़माएँ।",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "फिर अपने सामान्य ऐप में जाकर पेस्ट करें।",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 दिन का निःशुल्क परीक्षण",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "डेटा सिर्फ़ आपके फ़ोन में रहता है",
-    "text": "सेव किए गए टेक्स्ट, प्रोफ़ाइल कार्ड और सेटिंग्स केवल आपके डिवाइस में स्टोर होते हैं। हम कोई क्लाउड सिंक सेवा नहीं देते और न ही आपके टेम्पलेट वाक्यों की सामग्री इकट्ठा करते हैं।",
+    "text": "MyQuickPaste में सहेजे गए पाठ और प्रोफ़ाइल डिवाइस पर प्रबंधित होते हैं। हम आपकी सामग्री स्वचालित रूप से क्लाउड पर नहीं भेजते।",
     "link": "गोपनीयता नीति पढ़ें",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "महत्वपूर्ण सामग्री",
+    "titleLine2": "आपके डिवाइस में।",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "फ़ोन पर वही टेक्स्ट बार-बार टाइप करना, आज ही बंद करें",
-    "lead": "जल्द Google Play पर। लॉन्च के बाद 30 दिनों तक बढ़ी हुई क्षमता, सभी श्रेणियाँ और बैकअप मुफ़्त आज़माएँ। प्रीमियम थीम के लिए Pro खरीद आवश्यक है।",
+    "lead": "सेव करें, टैप करें, पेस्ट करें। MyQuickPaste से रोज़ की टाइपिंग थोड़ी आसान।",
     "button": "Google Play पर उपलब्ध",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "अक्सर इस्तेमाल होने वाला पाठ,",
+    "titleLine2": "और पास।",
     "sub": "पहली इंस्टॉल के बाद 30 दिनों तक उच्च सहेज सीमा और बैकअप निःशुल्क आज़माएँ।"
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "सहेजा डेटा स्वचालित रूप से क्लाउड पर नहीं भेजा जाता।",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "हर बार 「कहाँ था?」",
+    "titleLine2": "सोचना बंद करें।",
+    "lead": "वही जानकारी—फिर भी हर बार नोट्स खोजना, लंबा दबाकर फिर चुनना या दोबारा टाइप करना। छोटे-छोटे कदम रोज़ जुड़ते हैं।",
+    "p1Title": "खोजना",
+    "p1Text": "पता या तैयार पाठ—पता नहीं किस नोट में है।",
+    "p2Title": "चुनना",
+    "p2Text": "ज़रूरी हिस्सा लंबे दबाव से चुनना।",
+    "p3Title": "फिर टाइप",
+    "p3Text": "वही जवाब या प्रोफ़ाइल बार-बार टाइप करना।",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "इन क्षणों में भी।",
+    "titleLine2": "",
+    "lead": "यात्रा से लेकर सेकंड-हैंड ऐप, चैट, इवेंट तक—पसंदीदा पाठ एक टैप दूर।",
+    "cap3": "मार्केटप्लेस पाठ तुरंत कॉपी",
+    "cap4": "चैट जवाब एक टैप में",
+    "cap6": "आयोजक संदेश तुरंत तैयार"
   }
 }

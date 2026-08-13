@@ -29,7 +29,7 @@
   "hero": {
     "badge": "Dla Androida i iPhone'a",
     "catch": "Zapisz to, czego używasz na co dzień. Kopiuj jednym dotknięciem.",
-    "lead": "Stworzone dla osób, które wciąż na nowo wpisują te same odpowiedzi, adresy, numery telefonów czy dane profilowe. Uporządkuj je według kategorii, dotknij wiersza i wklej do e-maila, czatu lub gdziekolwiek indziej.",
+    "lead": "Szablony, adresy, kontakty, URL, emoji, hashtagi. Zapisz to, co powtarzasz, i kopiuj jednym dotknięciem z listy.",
     "platformLine": "Google Play wkrótce · App Store w opracowaniu",
     "trialTitle": "30 dni bezpłatnego okresu próbnego",
     "trialText": "Przez 30 dni po pierwszej instalacji wypróbuj bezpłatnie wyższe limity zapisu i kopię zapasową.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Potem przełącz się do zwykłej aplikacji i wklej.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 dni bezpłatnego okresu próbnego",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Twoje dane zostają na telefonie",
-    "text": "Zapisane teksty, karty profilu i ustawienia są przechowywane wyłącznie na Twoim urządzeniu. Nie oferujemy żadnej synchronizacji w chmurze i nie zbieramy treści Twoich gotowych zwrotów.",
+    "text": "Teksty i profile w MyQuickPaste są zarządzane na urządzeniu. Nie wysyłamy automatycznie treści do chmury.",
     "link": "Przeczytaj politykę prywatności",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "To, co ważne, zostaje",
+    "titleLine2": "na Twoim urządzeniu.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Czas przestać wpisywać ten sam tekst na telefonie od nowa?",
-    "lead": "Wkrótce w Google Play. Po premierze wypróbuj przez 30 dni bezpłatnie rozszerzoną pojemność, wszystkie kategorie i kopię zapasową. Motywy premium wymagają zakupu Pro.",
+    "lead": "Zapisz, dotknij, wklej. Uprość codzienne pisanie z MyQuickPaste.",
     "button": "Dostępne w Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Codzienne teksty",
+    "titleLine2": "bliżej pod ręką.",
     "sub": "Przez 30 dni po pierwszej instalacji wypróbuj bezpłatnie wyższe limity i kopię zapasową."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Zapisane dane nie są automatycznie wysyłane do chmury.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Koniec z pytaniem",
+    "titleLine2": "«Gdzie to było?»",
+    "lead": "Te same informacje—a za każdym razem szukasz w notatkach, zaznaczasz ponownie długim naciśnięciem lub przepisujesz. Małe kroki sumują się codziennie.",
+    "p1Title": "Szukać",
+    "p1Text": "Adres lub szablon—nie wiesz, w której notatce.",
+    "p2Title": "Zaznaczać",
+    "p2Text": "Długie naciśnięcie, by wziąć tylko potrzebną część.",
+    "p3Title": "Pisać ponownie",
+    "p3Text": "Piszesz tę samą odpowiedź lub profil w kółko.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Przydatne też w tych chwilach.",
+    "titleLine2": "",
+    "lead": "Podróże, marketplace, czat, organizacja wydarzeń—ulubiony tekst jednym dotknięciem.",
+    "cap3": "Teksty ogłoszeń od razu",
+    "cap4": "Odpowiedzi na czacie jednym dotknięciem",
+    "cap6": "Wiadomości organizatora gotowe"
   }
 }

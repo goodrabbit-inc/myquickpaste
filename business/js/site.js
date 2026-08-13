@@ -48,6 +48,10 @@
   }
 
   function initCarousel(root) {
+    if (root.getAttribute("data-carousel-ready") === "1") {
+      return;
+    }
+    root.setAttribute("data-carousel-ready", "1");
     var track = root.querySelector("[data-carousel-track]");
     var slides = Array.prototype.slice.call(
       root.querySelectorAll("[data-carousel-slide]")
@@ -173,7 +177,7 @@
   }
 
   document.addEventListener("mqp:i18n-ready", function () {
-    // Re-bind reveal for any newly injected content
     initReveal();
+    initCarousels();
   });
 })();

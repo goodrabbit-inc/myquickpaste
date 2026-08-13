@@ -29,7 +29,7 @@
   "hero": {
     "badge": "สำหรับ Android และ iPhone",
     "catch": "บันทึกสิ่งที่ใช้ทุกวัน แตะเดียวก็คัดลอกได้",
-    "lead": "ออกแบบมาสำหรับคนที่ต้องพิมพ์คำตอบ ที่อยู่ เบอร์โทร หรือข้อมูลโปรไฟล์ซ้ำๆ อยู่เสมอ จัดหมวดหมู่ไว้ แตะที่บรรทัดนั้น แล้ววางลงในอีเมล แชท หรือที่ไหนก็ได้",
+    "lead": "ข้อความสำเร็จรูป ที่อยู่ ติดต่อ URL อีโมจิ แฮชแท็ก บันทึกสิ่งที่ใช้บ่อย แล้วคัดลอกด้วยแตะครั้งเดียวจากรายการ",
     "platformLine": "Google Play เร็วๆ นี้ · App Store กำลังพัฒนา",
     "trialTitle": "ทดลองใช้ฟรี 30 วัน",
     "trialText": "ภายใน 30 วันหลังติดตั้งครั้งแรก ลองใช้ขีดจำกัดการบันทึกที่สูงขึ้นและการสำรองข้อมูลได้ฟรี",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "จากนั้นสลับไปแอปที่ใช้ประจำแล้ววาง",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "ทดลองใช้ฟรี 30 วัน",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "ข้อมูลของคุณอยู่ในมือถือของคุณเท่านั้น",
-    "text": "ข้อความที่บันทึก การ์ดโปรไฟล์ และการตั้งค่าจะถูกจัดเก็บไว้ในอุปกรณ์ของคุณเท่านั้น เราไม่มีบริการซิงค์ผ่านคลาวด์และไม่เก็บรวบรวมเนื้อหาประโยคสำเร็จรูปของคุณ",
+    "text": "ข้อความและโปรไฟล์ใน MyQuickPaste จัดการบนอุปกรณ์ เราไม่ส่งเนื้อหาไปคลาวด์โดยอัตโนมัติ",
     "link": "อ่านนโยบายความเป็นส่วนตัว",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "สิ่งสำคัญอยู่",
+    "titleLine2": "ในอุปกรณ์ของคุณ",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "ถึงเวลาเลิกพิมพ์ข้อความเดิมซ้ำๆ บนมือถือของคุณ",
-    "lead": "เร็วๆ นี้บน Google Play หลังเปิดตัว ลองใช้ความจุขยาย ทุกหมวดหมู่ และการสำรองข้อมูลฟรี 30 วัน ธีมพรีเมียมต้องซื้อ Pro",
+    "lead": "บันทึก แตะ วาง ทำให้การพิมพ์ประจำวันง่ายขึ้นด้วย MyQuickPaste",
     "button": "ดาวน์โหลดที่ Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "ข้อความที่ใช้บ่อย",
+    "titleLine2": "ใกล้มือขึ้น",
     "sub": "ภายใน 30 วันหลังติดตั้งครั้งแรก ลองใช้ขีดจำกัดที่สูงขึ้นและการสำรองข้อมูลได้ฟรี"
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "ไม่ส่งข้อมูลที่บันทึกไปคลาวด์โดยอัตโนมัติ",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "เลิกถามตัวเองว่า",
+    "titleLine2": "「อยู่ไหนนะ?」",
+    "lead": "ข้อมูลเดิมๆ—แต่ทุกครั้งต้องค้นบันทึก กดค้างเลือกใหม่ หรือพิมพ์ซ้ำ ขั้นตอนเล็กๆ สะสมทุกวัน",
+    "p1Title": "ค้นหา",
+    "p1Text": "ที่อยู่หรือข้อความสำเร็จรูป—ไม่รู้ว่าอยู่บันทึกไหน",
+    "p2Title": "เลือก",
+    "p2Text": "กดค้างเพื่อเลือกเฉพาะส่วนที่ต้องการ",
+    "p3Title": "พิมพ์ใหม่",
+    "p3Text": "พิมพ์คำตอบหรือโปรไฟล์เดิมซ้ำๆ",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "ใช้ได้ในโอกาสเหล่านี้ด้วย",
+    "titleLine2": "",
+    "lead": "ท่องเที่ยว ตลาดมือสอง แชท จัดงาน—ข้อความโปรดแตะครั้งเดียว",
+    "cap3": "ข้อความลงขาย คัดลอกทันที",
+    "cap4": "ตอบแชทด้วยแตะครั้งเดียว",
+    "cap6": "ข้อความผู้จัดงานพร้อมใช้"
   }
 }

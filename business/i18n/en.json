@@ -30,8 +30,8 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "lead": "Snippets, addresses, contacts, emoji, hashtags. Save what you reuse, then copy it when you need it.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "lead": "Snippets, addresses, contacts, URLs, emoji, hashtags. Save what you reuse, then copy with one tap from your list.",
+    "sub": "Then switch to your usual app and paste.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30-day free trial",
     "statusPlay": "Google Play coming soon",
@@ -62,20 +62,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "We don't auto-send your saved data to the cloud.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Stop asking yourself,",
+    "titleLine2": "\"Where was that?\"",
+    "lead": "You reuse the same info—yet every time you search notes, long-press to reselect, or retype. Those small steps add up every day.",
+    "p1Title": "Search",
+    "p1Text": "You can't find which note holds the address or snippet.",
+    "p2Title": "Select",
+    "p2Text": "Long-press again to grab just the part you need.",
+    "p3Title": "Type again",
+    "p3Text": "You retype the same reply or profile over and over.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -313,10 +313,10 @@
     "note": "Premium themes require a Pro purchase. They are not included in the 30-day trial."
   },
   "privacySection": {
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "What matters stays",
+    "titleLine2": "on your device.",
     "title": "On-device privacy",
-    "text": "Your text, profiles, and settings are stored on the device. MyQuickPaste does not save your content on our own servers.",
+    "text": "Text and profiles you save in MyQuickPaste are managed on your device. We don't auto-send your content to the cloud.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -397,10 +397,10 @@
     "link": "Windows edition homepage"
   },
   "cta": {
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Keep everyday text",
+    "titleLine2": "closer at hand.",
     "title": "Make typing simpler.",
-    "lead": "Save what you reuse once—then tap when you need it.",
+    "lead": "Save, tap, paste. Make daily typing a little simpler with MyQuickPaste.",
     "sub": "For 30 days after first install, try higher save limits and backup free of charge.",
     "button": "See how it works"
   },
@@ -596,5 +596,13 @@
         ]
       }
     ]
+  },
+  "sceneMore": {
+    "titleLine1": "Handy in these moments too.",
+    "titleLine2": "",
+    "lead": "From travel to resale apps, chat, and event planning—your go-to text is one tap away.",
+    "cap3": "Copy listing replies in a flash",
+    "cap4": "Paste chat replies with one tap",
+    "cap6": "Reuse organizer messages instantly"
   }
 }

@@ -29,7 +29,7 @@
   "hero": {
     "badge": "لأجهزة Android وiPhone",
     "catch": "احفظ ما تستخدمه كل يوم. انسخه بلمسة واحدة.",
-    "lead": "صُمم لمن يعيدون كتابة نفس الردود والعناوين وأرقام الهواتف وبيانات الملف الشخصي مرارًا وتكرارًا. رتّبها حسب الفئة، اضغط على السطر، والصقها في البريد الإلكتروني أو المحادثة أو أي مكان آخر.",
+    "lead": "نصوص جاهزة، عناوين، جهات اتصال، روابط، رموز تعبيرية، وسوم. احفظ ما تكرره وانسخه بنقرة واحدة من القائمة.",
     "platformLine": "Google Play قريبًا · App Store قيد التطوير",
     "trialTitle": "تجربة مجانية لمدة 30 يومًا",
     "trialText": "لمدة 30 يومًا بعد التثبيت الأول، جرّب حدود حفظ أعلى والنسخ الاحتياطي مجانًا.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "ثم انتقل إلى تطبيقك المعتاد والصق.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "تجربة مجانية لمدة 30 يومًا",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "بياناتك تبقى على هاتفك",
-    "text": "تُحفظ النصوص وبطاقات الملف الشخصي والإعدادات على جهازك فقط. نحن لا نقدم أي خدمة مزامنة سحابية ولا نجمع محتوى عباراتك الجاهزة.",
+    "text": "النصوص والملفات الشخصية في MyQuickPaste تُدار على الجهاز. لا نرسل محتواك تلقائيًا إلى السحابة.",
     "link": "اقرأ سياسة الخصوصية",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "المهم يبقى",
+    "titleLine2": "في جهازك.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "حان الوقت للتوقف عن إعادة كتابة نفس النص على هاتفك؟",
-    "lead": "قريبًا على Google Play. بعد الإطلاق، جرّب السعة الموسعة وجميع الفئات والنسخ الاحتياطي مجانًا لمدة 30 يومًا. تتطلب السمات المميزة شراء Pro.",
+    "lead": "احفظ، انقر، الصق. بسّط الكتابة اليومية قليلًا مع MyQuickPaste.",
     "button": "متوفر على Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "نصوصك اليومية",
+    "titleLine2": "أقرب إليك.",
     "sub": "لمدة 30 يومًا بعد التثبيت الأول، جرّب حدود حفظ أعلى والنسخ الاحتياطي مجانًا."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "لا نرسل البيانات المحفوظة تلقائيًا إلى السحابة.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "كف عن التساؤل",
+    "titleLine2": "«أين كان؟» في كل مرة.",
+    "lead": "نفس المعلومات—لكن في كل مرة تبحث في الملاحظات، أو تعيد التحديد بالضغط المطول، أو تعيد الكتابة. خطوات صغيرة تتراكم يومًا بعد يوم.",
+    "p1Title": "البحث",
+    "p1Text": "العنوان أو النص الجاهز—لا تعرف في أي ملاحظة.",
+    "p2Title": "التحديد",
+    "p2Text": "ضغطة مطولة لاختيار الجزء الذي تحتاجه فقط.",
+    "p3Title": "الكتابة مجددًا",
+    "p3Text": "تعيد كتابة نفس الرد أو الملف الشخصي مرارًا.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "مفيد في هذه المواقف أيضًا.",
+    "titleLine2": "",
+    "lead": "من السفر إلى تطبيقات البيع، الدردشة، تنظيم الفعاليات—نصك المفضل بنقرة واحدة.",
+    "cap3": "نصوص الإعلانات فورًا",
+    "cap4": "ردود الدردشة بنقرة",
+    "cap6": "رسائل المنظم جاهزة"
   }
 }

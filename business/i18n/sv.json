@@ -29,7 +29,7 @@
   "hero": {
     "badge": "För Android och iPhone",
     "catch": "Spara det du använder ofta. Kopiera med en knapptryckning.",
-    "lead": "Gjord för dig som gång på gång skriver samma svar, adresser, telefonnummer eller profiluppgifter. Sortera allt efter kategori, tryck på en rad och klistra in i e-post, chatt eller var du än behöver det.",
+    "lead": "Standardsvar, adresser, kontakter, URL:er, emoji, hashtags. Spara det du återanvänder och kopiera med ett tryck från listan.",
     "platformLine": "Google Play kommer snart · App Store under utveckling",
     "trialTitle": "30 dagars gratis provperiod",
     "trialText": "I 30 dagar efter första installationen kan du prova högre spargränser och säkerhetskopiering gratis.",
@@ -37,7 +37,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
+    "sub": "Byt sedan till din vanliga app och klistra in.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30 dagars gratis provperiod",
     "statusPlay": "Google Play coming soon",
@@ -258,10 +258,10 @@
   },
   "privacySection": {
     "title": "Din data stannar i mobilen",
-    "text": "Sparade texter, profilkort och inställningar lagras endast på din enhet. Vi erbjuder ingen molnsynkroniseringstjänst och samlar inte in innehållet i dina standardfraser.",
+    "text": "Texter och profiler i MyQuickPaste hanteras på enheten. Vi skickar inte ditt innehåll automatiskt till molnet.",
     "link": "Läs integritetspolicyn",
-    "titleLine1": "What you save",
-    "titleLine2": "stays on your device.",
+    "titleLine1": "Det viktiga stannar",
+    "titleLine2": "på din enhet.",
     "points": [
       "No automatic cloud sync",
       "Snippet content is not sent to our servers",
@@ -271,10 +271,10 @@
   },
   "cta": {
     "title": "Dags att sluta skriva samma text i mobilen om och om igen?",
-    "lead": "Kommer snart till Google Play. Efter lansering kan du testa utökad kapacitet, alla kategorier och säkerhetskopiering gratis i 30 dagar. Premiumteman kräver Pro-köp.",
+    "lead": "Spara, tryck, klistra in. Gör vardagsinmatning lite enklare med MyQuickPaste.",
     "button": "Finns på Google Play",
-    "titleLine1": "Make typing",
-    "titleLine2": "simpler.",
+    "titleLine1": "Vardagstexter",
+    "titleLine2": "närmare till hands.",
     "sub": "I 30 dagar efter första installationen kan du prova högre spargränser och säkerhetskopiering gratis."
   },
   "footer": {
@@ -437,20 +437,20 @@
     "t2Title": "One-time Pro",
     "t2Text": "No monthly fee.",
     "t3Title": "On-device storage",
-    "t3Text": "We don’t auto-send your content to the cloud.",
+    "t3Text": "Sparad data skickas inte automatiskt till molnet.",
     "t4Title": "21-language UI",
     "t4Text": "Use the app in many languages."
   },
   "pain": {
-    "titleLine1": "Still hunting",
-    "titleLine2": "just to copy?",
-    "lead": "You need the same info again and again—yet you dig through notes or history each time. Those tiny delays add up.",
-    "p1Title": "Searching notes",
-    "p1Text": "You’re not sure which note holds the address or reply.",
-    "p2Title": "Long-press selecting",
-    "p2Text": "You redo the selection to grab only what you need.",
-    "p3Title": "Typing it again",
-    "p3Text": "You retype the same reply or intro on a small keyboard.",
+    "titleLine1": "Sluta fråga dig",
+    "titleLine2": "«Var var det?»",
+    "lead": "Samma info—men varje gång letar du i anteckningar, markerar om med långtryck eller skriver igen. Små steg som staplas varje dag.",
+    "p1Title": "Söka",
+    "p1Text": "Adress eller standardsvar—du vet inte i vilken anteckning.",
+    "p2Title": "Markera",
+    "p2Text": "Långtryck för att få just den del du behöver.",
+    "p3Title": "Skriva igen",
+    "p3Text": "Du skriver samma svar eller profil om och om igen.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
     "resolveSub": "Save it once, then copy whenever you need it.",
@@ -596,5 +596,13 @@
     "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "Användbart i dessa stunder också.",
+    "titleLine2": "",
+    "lead": "Resor, second hand, chatt, event—din favorittext ett tryck bort.",
+    "cap3": "Annonsannonser kopieras direkt",
+    "cap4": "Chattsvar med ett tryck",
+    "cap6": "Organisatormeddelanden redo"
   }
 }

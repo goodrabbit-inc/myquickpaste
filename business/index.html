@@ -67,6 +67,7 @@
 
   <link rel="icon" href="images/icon.png" type="image/png">
   <link rel="stylesheet" href="css/business.css">
+  <link rel="stylesheet" href="css/business-redesign.css">
 </head>
 <body data-page="home">
   <a class="skip-link" href="#main">本文へスキップ</a>
@@ -153,28 +154,10 @@
             <span class="store-status-item" data-i18n="hero.statusPlay">Google Play 近日公開</span>
             <span class="store-status-item" data-i18n="hero.statusApp">App Store 開発中</span>
           </div>
-          <ul class="hero-pills" aria-label="Highlights">
-            <li class="pill">
-              <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"/></svg>
-              <span data-i18n="hero.pill1">30日間の無料体験</span>
-            </li>
-            <li class="pill">
-              <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
-              <span data-i18n="hero.pill2">Proは買い切り</span>
-            </li>
-            <li class="pill">
-              <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="5" y="2" width="14" height="20" rx="2"/><path d="M12 18h.01"/></svg>
-              <span data-i18n="hero.pill3">保存内容は端末内</span>
-            </li>
-            <li class="pill">
-              <svg aria-hidden="true" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/></svg>
-              <span data-i18n="hero.pill4">21言語対応</span>
-            </li>
-          </ul>
         </div>
 
         <div class="hero-visual reveal">
-          <img class="hero-feature-img" data-marketing-img="feature" src="images/marketing/feature-ja.png" width="1024" height="500" alt="MyQuickPaste feature graphic" loading="eager" decoding="async">
+          <img class="hero-feature-img" data-marketing-img="feature" src="images/marketing/feature-ja.png" width="1024" height="500" alt="MyQuickPaste feature graphic" loading="eager" fetchpriority="high" decoding="async">
         </div>
       </div>
     </section>
@@ -229,31 +212,39 @@
             <p data-i18n="pain.p3Text">返信文や自己紹介を、何度もキーボードで打ち直す。</p>
           </article>
         </div>
-        <div class="pain-resolve reveal">
-          <h3>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Solution
+    ================================================== -->
+    <section class="section section-solution" id="solution">
+      <div class="container solution-inner">
+        <div class="solution-copy reveal">
+          <h2>
             <span data-i18n="pain.resolveLine1">MyQuickPasteなら、</span><br>
             <span data-i18n="pain.resolveLine2">一覧から1回タップ。</span>
-          </h3>
+          </h2>
           <p data-i18n="pain.resolveSub">一度登録しておけば、必要なときにすぐコピーできます。</p>
-          <div class="flow-compare" aria-hidden="true">
-            <div class="flow-col">
-              <p class="compare-label" data-i18n="pain.flowOldLabel">従来</p>
-              <ol class="flow-steps">
-                <li data-i18n="pain.flowOld1">探す</li>
-                <li class="flow-arrow">↓</li>
-                <li data-i18n="pain.flowOld2">選ぶ</li>
-                <li class="flow-arrow">↓</li>
-                <li data-i18n="pain.flowOld3">コピー</li>
-              </ol>
-            </div>
-            <div class="flow-col is-app">
-              <p class="compare-label" data-i18n="pain.flowNewLabel">MyQuickPaste</p>
-              <ol class="flow-steps">
-                <li data-i18n="pain.flowNew1">タップ</li>
-                <li class="flow-arrow">↓</li>
-                <li data-i18n="pain.flowNew2">コピー</li>
-              </ol>
-            </div>
+        </div>
+        <div class="flow-compare reveal" aria-label="Comparison">
+          <div class="flow-col">
+            <p class="compare-label" data-i18n="pain.flowOldLabel">従来</p>
+            <ol class="flow-steps">
+              <li data-i18n="pain.flowOld1">探す</li>
+              <li class="flow-arrow" aria-hidden="true">↓</li>
+              <li data-i18n="pain.flowOld2">選ぶ</li>
+              <li class="flow-arrow" aria-hidden="true">↓</li>
+              <li data-i18n="pain.flowOld3">コピー</li>
+            </ol>
+          </div>
+          <div class="flow-col is-app">
+            <p class="compare-label" data-i18n="pain.flowNewLabel">MyQuickPaste</p>
+            <ol class="flow-steps">
+              <li data-i18n="pain.flowNew1">タップ</li>
+              <li class="flow-arrow" aria-hidden="true">↓</li>
+              <li data-i18n="pain.flowNew2">コピー</li>
+            </ol>
           </div>
         </div>
       </div>
@@ -271,8 +262,13 @@
           </h2>
           <p data-i18n="steps.subtitle">難しい設定は必要ありません。基本操作は3ステップです。</p>
         </div>
-        <div class="steps-grid" data-i18n-steps="steps.items">
-          <!-- JS fills; noscript fallback below via CSS still shows empty - static fallback: -->
+        <div class="steps-layout reveal">
+          <div class="steps-main">
+            <div class="steps-grid" data-i18n-steps="steps.items"></div>
+          </div>
+          <div class="steps-visual">
+            <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="7" src="images/marketing/usecase-ja-07.png" width="1080" height="1920" alt="MyQuickPaste usage guide" loading="lazy" decoding="async">
+          </div>
         </div>
         <noscript>
           <div class="steps-grid">
@@ -351,7 +347,45 @@
     </section>
 
     <!-- ==================================================
-         Screenshots
+         More Use Cases
+    ================================================== -->
+    <section class="section section-scene-more" id="scene-more">
+      <div class="container">
+        <div class="section-head section-head--center reveal">
+          <h2>
+            <span data-i18n="sceneMore.titleLine1">こんな場面でも。</span>
+          </h2>
+          <p data-i18n="sceneMore.lead">旅行からフリマ、チャット、幹事まで。よく使う文字は、場面を問わずタップひとつ。</p>
+        </div>
+
+        <div class="shots-carousel scene-more-carousel" data-carousel>
+          <button type="button" class="shots-btn shots-btn-prev" data-carousel-prev aria-label="Previous">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+          </button>
+          <div class="shots-track" data-carousel-track tabindex="0">
+            <figure class="shot-slide is-marketing is-active" data-carousel-slide>
+              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="3" src="images/marketing/usecase-ja-03.png" width="1080" height="1920" alt="MyQuickPaste marketplace use case" loading="lazy" decoding="async">
+              <figcaption class="scene-more-caption" data-i18n="sceneMore.cap3">フリマで定型文をすぐコピー</figcaption>
+            </figure>
+            <figure class="shot-slide is-marketing" data-carousel-slide>
+              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="4" src="images/marketing/usecase-ja-04.png" width="1080" height="1920" alt="MyQuickPaste chat use case" loading="lazy" decoding="async">
+              <figcaption class="scene-more-caption" data-i18n="sceneMore.cap4">チャットの返信もタップで</figcaption>
+            </figure>
+            <figure class="shot-slide is-marketing" data-carousel-slide>
+              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="6" src="images/marketing/usecase-ja-06.png" width="1080" height="1920" alt="MyQuickPaste event organizer use case" loading="lazy" decoding="async">
+              <figcaption class="scene-more-caption" data-i18n="sceneMore.cap6">幹事の案内文もすぐ使える</figcaption>
+            </figure>
+          </div>
+          <button type="button" class="shots-btn shots-btn-next" data-carousel-next aria-label="Next">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </button>
+          <div class="shots-dots" data-carousel-dots role="tablist" aria-label="More use cases"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         App Screens
     ================================================== -->
     <section class="section shots-section" id="screenshots">
       <div class="container">
@@ -368,32 +402,41 @@
             <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
           </button>
           <div class="shots-track" data-carousel-track tabindex="0">
-            <figure class="shot-slide is-marketing is-active" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="1" src="images/marketing/usecase-ja-01.png" width="1080" height="1920" alt="MyQuickPaste travel use case" loading="lazy" decoding="async">
+            <figure class="shot-slide is-active" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-freetext-ja.png" data-shot-img="freetext" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.freetextAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.freetextCap">よく使う文字を一覧で管理</figcaption>
             </figure>
-            <figure class="shot-slide is-marketing" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="2" src="images/marketing/usecase-ja-02.png" width="1080" height="1920" alt="MyQuickPaste airport lounge use case" loading="lazy" decoding="async">
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-snippets-ja.png" data-shot-img="snippets" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.snippetsAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.snippetsCap">いつもの返信をすぐコピー</figcaption>
             </figure>
-            <figure class="shot-slide is-marketing" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="3" src="images/marketing/usecase-ja-03.png" width="1080" height="1920" alt="MyQuickPaste marketplace use case" loading="lazy" decoding="async">
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-images-ja.png" data-shot-img="images" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.imagesAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.imagesCap">画像を保存・コピー・共有</figcaption>
             </figure>
-            <figure class="shot-slide is-marketing" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="4" src="images/marketing/usecase-ja-04.png" width="1080" height="1920" alt="MyQuickPaste chat use case" loading="lazy" decoding="async">
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-profile-ja.png" data-shot-img="profile" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.profileAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.profileCap">住所や連絡先を項目ごとにコピー</figcaption>
             </figure>
-            <figure class="shot-slide is-marketing" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="5" src="images/marketing/usecase-ja-05.png" width="1080" height="1920" alt="MyQuickPaste social media use case" loading="lazy" decoding="async">
-            </figure>
-            <figure class="shot-slide is-marketing" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="6" src="images/marketing/usecase-ja-06.png" width="1080" height="1920" alt="MyQuickPaste event organizer use case" loading="lazy" decoding="async">
-            </figure>
-            <figure class="shot-slide is-marketing" data-carousel-slide>
-              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="7" src="images/marketing/usecase-ja-07.png" width="1080" height="1920" alt="MyQuickPaste usage guide" loading="lazy" decoding="async">
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-profile-edit-ja.png" data-shot-img="profile-edit" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.profileEditAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.profileEditCap">必要な情報をまとめて登録</figcaption>
             </figure>
           </div>
           <button type="button" class="shots-btn shots-btn-next" data-carousel-next aria-label="Next">
             <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
           </button>
-          <div class="shots-dots" data-carousel-dots role="tablist" aria-label="Use cases"></div>
+          <div class="shots-dots" data-carousel-dots role="tablist" aria-label="App screens"></div>
         </div>
       </div>
     </section>
@@ -576,8 +619,12 @@
           <span data-i18n="cta.titleLine1">入力を、</span><br>
           <span data-i18n="cta.titleLine2">もっとシンプルに。</span>
         </h2>
-        <p data-i18n="cta.lead">よく使う内容を一度保存すれば、あとは必要なときにタップするだけ。</p>
+        <p data-i18n="cta.lead">保存して、タップして、貼り付ける。MyQuickPasteで毎日の入力を少しシンプルに。</p>
         <p data-i18n="cta.sub">初回インストール後30日間、保存件数の上限アップとバックアップ機能を無料で体験できます。</p>
+        <div class="final-cta-actions">
+          <a class="btn btn-primary" href="#pricing" data-i18n="nav.cta">30日間の無料体験</a>
+          <a class="btn btn-secondary" href="#how-it-works" data-i18n="hero.ctaPrimary">使い方を見る</a>
+        </div>
         <div class="store-badges">
           <span class="store-badge is-soon" aria-disabled="true">
             <img src="images/badges/google-play-ja.png" data-badge-img="google-play" alt="" width="155" height="60" loading="lazy" decoding="async">

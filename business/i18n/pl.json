@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "30 dni bezpłatnego okresu próbnego"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Zapisz to, czego używasz na co dzień. Kopiuj jednym dotknięciem.",
     "lead": "Stworzone dla osób, które wciąż na nowo wpisują te same odpowiedzi, adresy, numery telefonów czy dane profilowe. Uporządkuj je według kategorii, dotknij wiersza i wklej do e-maila, czatu lub gdziekolwiek indziej.",
     "platformLine": "Google Play wkrótce · App Store w opracowaniu",
-    "trialTitle": "30-dniowa wersja próbna Pro",
-    "trialText": "Przez 30 dni od instalacji możesz bezpłatnie wypróbować rozszerzoną pojemność, wszystkie kategorie i kopię zapasową. Motywy premium wymagają zakupu Pro.",
+    "trialTitle": "30 dni bezpłatnego okresu próbnego",
+    "trialText": "Przez 30 dni po pierwszej instalacji wypróbuj bezpłatnie wyższe limity zapisu i kopię zapasową.",
     "trust": "Dane pozostają na urządzeniu · 21 języków",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "30 dni bezpłatnego okresu próbnego",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "30 dni bezpłatnego okresu próbnego",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "Cennik",
-    "subtitle": "Zacznij od wersji bezpłatnej. Przejdź na Pro, gdy potrzebujesz więcej miejsca i kopii zapasowej.",
+    "subtitle": "Przez 30 dni po pierwszej instalacji — wyższe limity i kopia zapasowa bezpłatnie. Potem kontynuuj plan darmowy.",
     "freeTitle": "Bezpłatna",
     "freePrice": "0",
     "freeItems": [
-      "Do 5 pozycji w dowolnym tekście",
-      "Do 1 karty profilu",
-      "Zapisuj, kopiuj i udostępniaj obrazy w kategorii Obrazy",
-      "Szablony, e-mail, telefon i adres: tylko podgląd (użycie w Pro)",
-      "Kopiowanie jednym dotknięciem, zmiana kategorii",
-      "30-dniowa wersja próbna: pojemność, kategorie i kopia zapasowa (motywy premium wymagają zakupu Pro)"
+      "Kategorie tekstu: po 10",
+      "Obrazy: 10",
+      "Profile: 1",
+      "Wyszukiwanie",
+      "Zmiana kolejności",
+      "Szybkie zapisywanie"
     ],
     "proTitle": "Pro (zakup jednorazowy)",
     "proPrice": "Cenę sprawdź w sklepie",
     "proItems": [
-      "Do 200 elementów w każdej kategorii",
-      "Do 30 kart profilu",
-      "Eksport i import JSON",
-      "Motywy premium wyglądu",
-      "Jednorazowy zakup przez Google Play / App Store"
+      "Kategorie tekstu: do 200 w każdej",
+      "Obrazy: 50",
+      "Profile: 30",
+      "Eksport/import kopii zapasowej",
+      "Motywy premium",
+      "Własne nazwy i ikony kategorii"
     ],
     "note": "Aplikację można pobrać bezpłatnie. Pro to jednorazowy dodatek kupowany przez sklep z aplikacjami; cena może się różnić w zależności od regionu.",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "30 dni bezpłatnego okresu próbnego",
+    "trialText": "Kategorie tekstu: do 200 w każdej · Obrazy: 50 · Profile: 30 · Eksport/import kopii zapasowej",
+    "trialNote": "Motywy premium i dostosowanie nazw/ikon kategorii dostępne po zakupie Pro. Po okresie próbnym dane nie są usuwane. Dane powyżej limitu darmowego pozostają i znów stają się dostępne po zakupie Pro.",
+    "freeLead": "Podstawowe funkcje pozostają bezpłatne.",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "Dostępne w Google Play",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "Przez 30 dni po pierwszej instalacji wypróbuj bezpłatnie wyższe limity i kopię zapasową."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (wersja na PC)",
@@ -293,11 +294,11 @@
       },
       {
         "q": "Czym różni się wersja bezpłatna od Pro?",
-        "a": "Wersja bezpłatna obejmuje do 5 elementów dowolnego tekstu i 1 kartę profilu do kopiowania i edycji. Możesz przeglądać Szablony, E-mail i Telefon, ale ich użycie wymaga Pro. Kategoria Obrazy jest dostępna w wersji bezpłatnej. Pro odblokowuje wszystkie kategorie, zwiększa pojemność, dodaje eksport/import JSON i motywy premium. Nowe instalacje otrzymują 30-dniową wersję próbną rozszerzonej pojemności, wszystkich kategorii i kopii zapasowej (motywy premium wymagają zakupu Pro)."
+        "a": "Plan darmowy obejmuje 10 elementów na kategorię tekstu, 10 obrazów i 1 profil. Kopiowanie, dodawanie, wyszukiwanie, zmiana kolejności i szybkie zapisywanie są dostępne. Pro dodaje wyższe limity, kopię zapasową, motywy premium i dostosowanie kategorii. Nowa instalacja: 30 dni bezpłatnego okresu próbnego limitów i kopii (motywy premium i dostosowanie wymagają Pro)."
       },
       {
         "q": "Jak działa 30-dniowy okres próbny?",
-        "a": "Przez 30 dni od pierwszego uruchomienia dostępne są rozszerzona pojemność, wszystkie kategorie i kopia zapasowa. Motywy premium odblokowują się tylko po zakupie Pro. Po zakończeniu wersji próbnej możesz kontynuować z wersją bezpłatną lub kupić Pro w sklepie."
+        "a": "Przez 30 dni od pierwszego uruchomienia: do 200 elementów na kategorię tekstu, 50 obrazów, 30 profili i kopia zapasowa bezpłatnie. Motywy premium i dostosowanie wymagają Pro. Dane nie są usuwane po okresie próbnym."
       },
       {
         "q": "Gdzie przechowywane są moje dane?",
@@ -384,7 +385,7 @@
           "Kopiowanie jednym dotknięciem i podgląd po dłuższym dotknięciu",
           "Karty profilu z kopiowaniem pojedynczych pól",
           "Tryb zmiany kolejności dla list i profili",
-          "Wersja bezpłatna z 30-dniową wersją próbną Pro (pojemność, kategorie i kopia zapasowa)",
+          "Plan darmowy + 30 dni bezpłatnego okresu próbnego (wyższe limity i kopia zapasowa)",
           "Eksport i import JSON (Pro)",
           "Motywy jasny i ciemny; motywy premium z Pro",
           "Ustawienia potwierdzenia kopiowania, kategorii startowej i kopii zapasowej"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "Nie. Po okresie próbnym możesz kontynuować plan darmowy. Zapisane dane nie są usuwane. Dane powyżej limitu darmowego pozostają i znów stają się dostępne po zakupie Pro."
       },
       {
         "q": "Is Pro a monthly subscription?",

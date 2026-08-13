@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "30 gün ücretsiz deneme"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Her gün kullandığınızı kaydedin. Tek dokunuşla kopyalayın.",
     "lead": "Aynı yanıtı, adresi, telefon numarasını veya profil bilgisini defalarca yazmak zorunda kalan herkes için tasarlandı. Kategoriye göre düzenleyin, satıra dokunun ve e-postaya, sohbete veya istediğiniz yere yapıştırın.",
     "platformLine": "Google Play yakında · App Store geliştiriliyor",
-    "trialTitle": "30 günlük Pro denemesi",
-    "trialText": "Kurulumdan sonraki 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedeklemeyi ücretsiz deneyebilirsiniz. Premium temalar Pro satın alımı gerektirir.",
+    "trialTitle": "30 gün ücretsiz deneme",
+    "trialText": "İlk kurulumdan sonra 30 gün boyunca daha yüksek kayıt limitlerini ve yedeklemeyi ücretsiz deneyin.",
     "trust": "Veriler yalnızca cihazınızda kalır · 21 dil desteği",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "30 gün ücretsiz deneme",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "30 gün ücretsiz deneme",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "Fiyatlandırma",
-    "subtitle": "Ücretsiz sürümle başlayın, daha fazla alana ve yedeklemeye ihtiyaç duyduğunuzda Pro'ya yükseltin.",
+    "subtitle": "İlk kurulumdan sonra 30 gün boyunca daha yüksek limitler ve yedekleme ücretsiz. Sonrasında ücretsiz planda devam edin.",
     "freeTitle": "Ücretsiz",
     "freePrice": "0",
     "freeItems": [
-      "En fazla 5 serbest metin öğesi",
-      "En fazla 1 profil kartı",
-      "Görsel kategorisinde görselleri kaydetme, kopyalama ve paylaşma",
-      "Kalıp, e-posta, telefon ve adres: yalnızca görüntüleme (kullanım Pro ile)",
-      "Dokunarak kopyalama, kategori değiştirme",
-      "30 günlük deneme: kapasite, kategoriler ve yedekleme (premium temalar Pro satın alımı gerektirir)"
+      "Metin kategorileri: her biri 10",
+      "Görseller: 10",
+      "Profiller: 1",
+      "Arama",
+      "Sıralama",
+      "Hızlı kaydet"
     ],
     "proTitle": "Pro (tek seferlik satın alma)",
     "proPrice": "Fiyat için mağazaya bakın",
     "proItems": [
-      "Kategori başına 200 öğeye kadar",
-      "30 profil kartına kadar",
-      "JSON dışa/içe aktarma",
-      "Premium görünüm temaları",
-      "Google Play / App Store üzerinden tek seferlik satın alma"
+      "Metin kategorileri: her biri en fazla 200",
+      "Görseller: 50",
+      "Profiller: 30",
+      "Yedekleme dışa/içe aktarma",
+      "Premium temalar",
+      "Özel kategori adları ve simgeler"
     ],
     "note": "Uygulamanın kendisi ücretsiz indirilebilir. Pro, uygulama mağazası üzerinden satın alınan tek seferlik bir ek pakettir; fiyat bölgeye göre değişebilir.",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "30 gün ücretsiz deneme",
+    "trialText": "Metin kategorileri: her biri en fazla 200 · Görseller: 50 · Profiller: 30 · Yedekleme dışa/içe aktarma",
+    "trialNote": "Premium temalar ve kategori adı/simge özelleştirme Pro satın alımından sonra kullanılabilir. 30 gün sonrasında verileriniz silinmez. Ücretsiz limitin üzerindeki veriler saklanır ve Pro satın alındığında yeniden kullanılabilir.",
+    "freeLead": "Temel özellikler ücretsiz kullanılmaya devam eder.",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "Google Play'de",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "İlk kurulumdan sonra 30 gün boyunca daha yüksek limitler ve yedeklemeyi ücretsiz deneyin."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (Bilgisayar Sürümü)",
@@ -293,11 +294,11 @@
       },
       {
         "q": "Ücretsiz sürüm ile Pro arasındaki fark nedir?",
-        "a": "Ücretsiz sürüm en fazla 5 serbest metin öğesi ve kopyalayıp düzenleyebileceğiniz 1 profil kartı içerir. Kalıp, E-posta ve Telefon görüntülenebilir, ancak kullanım Pro gerektirir. Görsel kategorisi ücretsiz planda kullanılabilir. Pro tüm kategorileri açar, kapasiteyi artırır, JSON dışa/içe aktarmayı ve premium temaları ekler. Yeni kurulumlar 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedekleme denemesi alır (premium temalar Pro satın alımı gerektirir)."
+        "a": "Ücretsiz plan metin kategorisi başına 10 öğe, 10 görsel ve 1 profil içerir. Kopyalama, ekleme, arama, sıralama ve hızlı kaydet kullanılabilir. Pro daha yüksek limitler, yedekleme, premium temalar ve kategori özelleştirme ekler. Yeni kurulum: 30 gün ücretsiz limit ve yedekleme denemesi (premium temalar ve özelleştirme Pro gerektirir)."
       },
       {
         "q": "30 günlük deneme nasıl çalışır?",
-        "a": "İlk başlatmadan itibaren 30 gün boyunca genişletilmiş kapasite, tüm kategoriler ve yedekleme dahildir. Premium temalar yalnızca Pro satın alımıyla açılır. Bu sürenin ardından ücretsiz sürüme devam edebilir veya mağazadan Pro satın alabilirsiniz."
+        "a": "İlk açılıştan itibaren 30 gün: metin kategorisi başına 200 öğe, 50 görsel, 30 profil ve yedekleme ücretsiz. Premium temalar ve özelleştirme Pro gerektirir. Deneme sonrası veriler silinmez."
       },
       {
         "q": "Verilerim nerede saklanıyor?",
@@ -384,7 +385,7 @@
           "Tek dokunuşla kopyalama, uzun basarak önizleme",
           "Alan bazlı kopyalama özellikli profil kartları",
           "Listeler ve profiller için yeniden sıralama modu",
-          "Ücretsiz sürüm ve 30 günlük Pro denemesi (kapasite, kategoriler ve yedekleme)",
+          "Ücretsiz plan + 30 gün ücretsiz deneme (daha yüksek limitler ve yedekleme)",
           "JSON dışa/içe aktarma (Pro)",
           "Açık ve koyu temalar; premium temalar Pro ile",
           "Kopyalama onayı, başlangıç kategorisi ve yedekleme ayarları"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "Hayır. Deneme sonrasında ücretsiz planda devam edebilirsiniz. Kaydedilen veriler silinmez. Ücretsiz limitin üzerindeki veriler saklanır ve Pro satın alındığında yeniden kullanılabilir."
       },
       {
         "q": "Is Pro a monthly subscription?",

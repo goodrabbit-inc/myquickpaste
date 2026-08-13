@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "30일 무료 체험"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "자주 쓰는 문장을 저장해두고, 한 번만 눌러 복사하세요.",
     "lead": "같은 답장, 주소, 전화번호, 프로필 정보를 매번 다시 입력하는 분들을 위해 만들었습니다. 카테고리별로 정리해두면 항목을 누르기만 해도 복사되어 메일, 채팅 등 어디든 바로 붙여넣을 수 있습니다.",
     "platformLine": "Google Play 출시 예정 · App Store 개발 중",
-    "trialTitle": "30일 Pro 체험",
-    "trialText": "설치 후 30일 동안 용량 확대, 전체 카테고리, 백업을 무료로 체험할 수 있습니다. 프리미엄 테마는 Pro 구매가 필요합니다.",
+    "trialTitle": "30일 무료 체험",
+    "trialText": "첫 설치 후 30일 동안 저장 한도 확대와 백업 기능을 무료로 체험할 수 있습니다.",
     "trust": "기기 내에만 저장 · 21개 언어 지원",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "30일 무료 체험",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "30일 무료 체험",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "요금제",
-    "subtitle": "먼저 무료 버전으로 사용해보세요. 저장 개수나 백업이 부족해지면 Pro로 업그레이드할 수 있습니다.",
+    "subtitle": "첫 설치 후 30일 동안 저장 한도 확대와 백업을 무료로 체험할 수 있습니다. 이후에도 무료 플랜으로 계속 사용할 수 있습니다.",
     "freeTitle": "무료 버전",
     "freePrice": "0",
     "freeItems": [
-      "자유 텍스트 최대 5개",
-      "프로필 카드 최대 1장",
-      "상용구·메일·전화: 열람만 가능(사용은 Pro)",
-      "이미지 카테고리에서 이미지 저장·복사·공유",
-      "탭하여 복사, 카테고리 전환",
-      "30일 체험: 용량, 카테고리 및 백업(프리미엄 테마는 Pro 구매 필요)"
+      "텍스트 카테고리: 각 10개",
+      "이미지: 10개",
+      "프로필: 1개",
+      "검색",
+      "정렬",
+      "빠른 등록"
     ],
     "proTitle": "Pro (단품 구매)",
     "proPrice": "가격은 스토어에서 확인해주세요",
     "proItems": [
-      "카테고리당 최대 200개 저장",
-      "프로필 카드 최대 30장",
-      "JSON 내보내기/가져오기",
+      "텍스트 카테고리: 각 최대 200개",
+      "이미지: 최대 50개",
+      "프로필: 최대 30개",
+      "백업 내보내기/가져오기",
       "프리미엄 테마",
-      "Google Play / App Store에서 단품 구매"
+      "카테고리 이름·아이콘 사용자 지정"
     ],
     "note": "앱 본체는 무료로 다운로드할 수 있습니다. Pro는 스토어를 통해 구매하는 단품 애드온이며, 가격은 지역에 따라 다를 수 있습니다.",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "30일 무료 체험",
+    "trialText": "텍스트 카테고리: 각 최대 200개 · 이미지: 최대 50 · 프로필: 최대 30 · 백업 내보내기/가져오기",
+    "trialNote": "프리미엄 테마와 카테고리 이름/아이콘 변경은 Pro 구매 후 이용 가능합니다. 30일 체험 종료 후에도 등록 데이터는 삭제되지 않습니다. 무료 한도를 초과한 데이터도 보관되며 Pro 구매 후 다시 이용할 수 있습니다.",
+    "freeLead": "기본 기능은 무료로 계속 사용할 수 있습니다.",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "Google Play에서 다운로드",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "첫 설치 후 30일 동안 저장 한도 확대와 백업 기능을 무료로 체험할 수 있습니다."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (PC용)",
@@ -293,11 +294,11 @@
       },
       {
         "q": "무료 버전과 Pro는 무엇이 다른가요?",
-        "a": "무료 버전은 자유 텍스트 최대 5개와 프로필 카드 1장까지 복사·편집할 수 있습니다. 상용구·메일·전화 카테고리는 내용을 볼 수 있지만, 사용하려면 Pro가 필요합니다. 이미지 카테고리는 무료 버전에서 이용할 수 있습니다. Pro는 모든 카테고리 이용, 용량 확대, JSON보내기/가져오기, 프리미엄 테마를 제공합니다. 신규 설치 시 30일간 용량·전체 카테고리·백업을 체험할 수 있습니다(프리미엄 테마는 Pro 구매 필요)."
+        "a": "무료 플랜은 텍스트 카테고리 각 10개, 이미지 10개, 프로필 1개까지 저장할 수 있습니다. 복사, 등록, 검색, 정렬, 빠른 등록도 이용 가능합니다. Pro는 한도 확대, 백업, 프리미엄 테마, 카테고리 사용자 지정을 제공합니다. 신규 설치 시 30일간 한도 확대와 백업을 무료 체험(프리미엄 테마·카테고리 변경은 Pro 구매 후)."
       },
       {
         "q": "30일 무료 체험은 어떻게 진행되나요?",
-        "a": "최초 실행일로부터 30일 동안 용량 확대, 전체 카테고리, 백업을 이용할 수 있습니다. 프리미엄 테마는 Pro 구매 후에만 이용 가능합니다. 기간이 끝나면 무료 버전으로 계속 사용하거나 스토어에서 Pro를 구매할 수 있습니다."
+        "a": "첫 실행 후 30일 동안 텍스트 카테고리 각 최대 200개, 이미지 50개, 프로필 30개, 백업 내보내기/가져오기를 무료 체험할 수 있습니다. 프리미엄 테마와 카테고리 변경은 Pro 구매 후만 가능합니다. 체험 종료 후에도 데이터는 삭제되지 않습니다."
       },
       {
         "q": "데이터는 어디에 저장되나요?",
@@ -384,7 +385,7 @@
           "누르면 복사, 길게 눌러 미리보기",
           "항목별로 복사할 수 있는 프로필 카드",
           "목록 및 프로필 순서 변경",
-          "무료 버전 + 30일 Pro 체험(용량, 카테고리 및 백업)",
+          "무료 플랜 + 30일 무료 체험(저장 한도 확대·백업)",
           "JSON 내보내기/가져오기 (Pro)",
           "라이트/다크 테마, 프리미엄 테마는 Pro 구매 시",
           "복사 피드백, 시작 카테고리, 백업 설정"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "아니요. 체험 종료 후에도 무료 플랜으로 계속 사용할 수 있습니다. 등록 데이터는 삭제되지 않습니다. 무료 한도를 초과한 데이터도 보관되며 Pro 구매 후 다시 이용할 수 있습니다."
       },
       {
         "q": "Is Pro a monthly subscription?",

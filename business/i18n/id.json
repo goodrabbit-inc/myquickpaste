@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "Uji coba gratis 30 hari"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Simpan yang sering Anda pakai. Salin dengan satu ketukan.",
     "lead": "Dibuat untuk siapa saja yang terus-menerus mengetik ulang jawaban, alamat, nomor telepon, atau info profil yang sama. Atur berdasarkan kategori, ketuk barisnya, lalu tempel ke email, chat, atau di mana saja.",
     "platformLine": "Google Play segera hadir · App Store dalam pengembangan",
-    "trialTitle": "Uji coba Pro 30 hari",
-    "trialText": "Selama 30 hari setelah instalasi, coba kapasitas diperluas, semua kategori, dan cadangan secara gratis. Tema premium memerlukan pembelian Pro.",
+    "trialTitle": "Uji coba gratis 30 hari",
+    "trialText": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis.",
     "trust": "Data tetap di perangkat Anda · 21 bahasa",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "Uji coba gratis 30 hari",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "Uji coba gratis 30 hari",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "Harga",
-    "subtitle": "Mulai dengan edisi gratis, dan tingkatkan ke Pro saat Anda butuh lebih banyak slot dan backup.",
+    "subtitle": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan gratis. Setelah itu, lanjutkan paket gratis.",
     "freeTitle": "Gratis",
     "freePrice": "0",
     "freeItems": [
-      "Hingga 5 item teks bebas",
-      "Hingga 1 kartu profil",
-      "Simpan, salin, dan bagikan gambar di kategori Gambar",
-      "Cuplikan, email, telepon, dan alamat: hanya lihat (penggunaan perlu Pro)",
-      "Ketuk untuk salin, ganti kategori",
-      "Uji coba 30 hari: kapasitas, kategori, dan cadangan (tema premium memerlukan pembelian Pro)"
+      "Kategori teks: 10 masing-masing",
+      "Gambar: 10",
+      "Profil: 1",
+      "Pencarian",
+      "Urut ulang",
+      "Simpan cepat"
     ],
     "proTitle": "Pro (pembelian sekali)",
     "proPrice": "Lihat harga di toko",
     "proItems": [
-      "Hingga 200 item per kategori",
-      "Hingga 30 kartu profil",
-      "Ekspor/impor JSON",
-      "Tema tampilan premium",
-      "Pembelian sekali melalui Google Play / App Store"
+      "Kategori teks: hingga 200 masing-masing",
+      "Gambar: 50",
+      "Profil: 30",
+      "Ekspor/impor cadangan",
+      "Tema premium",
+      "Nama dan ikon kategori kustom"
     ],
     "note": "Aplikasi ini sendiri dapat diunduh gratis. Pro adalah add-on pembelian sekali melalui toko aplikasi; harga dapat berbeda tergantung wilayah.",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "Uji coba gratis 30 hari",
+    "trialText": "Kategori teks: hingga 200 masing-masing · Gambar: 50 · Profil: 30 · Ekspor/impor cadangan",
+    "trialNote": "Tema premium dan kustomisasi nama/ikon kategori tersedia setelah membeli Pro. Setelah uji coba, data Anda tidak dihapus. Data di atas batas gratis tetap tersimpan dan bisa digunakan lagi setelah membeli Pro.",
+    "freeLead": "Fitur inti tetap gratis digunakan.",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "Tersedia di Google Play",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (Edisi PC)",
@@ -293,11 +294,11 @@
       },
       {
         "q": "Apa bedanya edisi gratis dan Pro?",
-        "a": "Versi gratis mencakup hingga 5 item teks bebas dan 1 kartu profil untuk disalin dan diedit. Cuplikan, Email, Telepon, dan Alamat dapat dilihat, tetapi penggunaannya memerlukan Pro. Pro membuka semua kategori, menambah kapasitas, menambahkan ekspor/impor JSON, dan tema premium. Instalasi baru mendapat uji coba 30 hari kapasitas diperluas, semua kategori, dan cadangan (tema premium memerlukan pembelian Pro)."
+        "a": "Paket gratis mencakup 10 item per kategori teks, 10 gambar, dan 1 profil. Salin, tambah, cari, urut ulang, dan simpan cepat tersedia. Pro menambah batas lebih tinggi, cadangan, tema premium, dan kustomisasi kategori. Instal baru: uji coba gratis 30 hari batas dan cadangan (tema premium dan kustomisasi memerlukan Pro)."
       },
       {
         "q": "Bagaimana cara kerja uji coba 30 hari?",
-        "a": "Selama 30 hari sejak peluncuran pertama, kapasitas diperluas, semua kategori, dan cadangan disertakan. Tema premium hanya terbuka dengan pembelian Pro. Setelah itu, Anda dapat melanjutkan dengan edisi gratis atau membeli Pro dari toko."
+        "a": "Selama 30 hari dari peluncuran pertama: hingga 200 item per kategori teks, 50 gambar, 30 profil, dan cadangan gratis. Tema premium dan kustomisasi memerlukan Pro. Data tidak dihapus setelah uji coba."
       },
       {
         "q": "Di mana data saya disimpan?",
@@ -384,7 +385,7 @@
           "Salin satu ketukan, pratinjau tekan lama",
           "Kartu profil dengan penyalinan per bidang",
           "Mode urutkan ulang untuk daftar dan profil",
-          "Paket gratis dengan uji coba Pro 30 hari (kapasitas, kategori, dan cadangan)",
+          "Paket gratis + uji coba gratis 30 hari (batas lebih tinggi dan cadangan)",
           "Ekspor/impor JSON (Pro)",
           "Tema terang dan gelap; tema premium dengan Pro",
           "Pengaturan untuk konfirmasi salin, kategori awal, dan backup"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "Tidak. Setelah uji coba Anda bisa lanjut paket gratis. Data tersimpan tidak dihapus. Data di atas batas gratis tetap tersimpan dan bisa digunakan lagi setelah membeli Pro."
       },
       {
         "q": "Is Pro a monthly subscription?",

@@ -662,7 +662,18 @@ summary:focus-visible,
 
 .hero-visual {
   position: relative;
-  min-height: clamp(22rem, 42vw, 34rem);
+  min-height: auto;
+}
+
+.hero-feature-img {
+  width: 100%;
+  max-width: min(100%, 40rem);
+  height: auto;
+  object-fit: contain;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  margin-inline: auto;
+  display: block;
 }
 
 .hero-visual-placeholder {
@@ -1041,13 +1052,16 @@ summary:focus-visible,
   position: relative;
 }
 
-.scene-media-placeholder,
-.scene-media img {
+.scene-media img.marketing-usecase-img {
   width: 100%;
-  aspect-ratio: 4 / 5;
-  object-fit: cover;
+  max-width: min(100%, 20rem);
+  height: auto;
+  object-fit: contain;
+  aspect-ratio: auto;
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-soft);
+  margin-inline: auto;
+  display: block;
 }
 
 .scene-media-placeholder {
@@ -1166,9 +1180,15 @@ summary:focus-visible,
   transform: scale(1);
 }
 
-.shot-slide img {
+.shot-slide.is-marketing {
+  flex: 0 0 min(78vw, 16rem);
+}
+
+.shot-slide.is-marketing img.marketing-usecase-img {
   width: 100%;
-  border-radius: 1.75rem;
+  height: auto;
+  object-fit: contain;
+  border-radius: var(--radius-lg);
   background: var(--surface);
   box-shadow: var(--shadow-card);
 }
@@ -2083,7 +2103,11 @@ article.faq-item p {
   }
 
   .hero-visual {
-    min-height: clamp(18rem, 55vw, 24rem);
+    min-height: auto;
+  }
+
+  .hero-feature-img {
+    max-width: min(100%, 36rem);
   }
 
   .hero-phone {
@@ -2094,8 +2118,8 @@ article.faq-item p {
     width: min(72vw, 16rem);
   }
 
-  .shot-slide {
-    flex-basis: min(84vw, 18rem);
+  .shot-slide.is-marketing {
+    flex-basis: min(84vw, 15rem);
   }
 
   .section-head {

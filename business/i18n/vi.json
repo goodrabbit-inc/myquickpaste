@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "Dùng thử miễn phí 30 ngày"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Lưu những gì bạn dùng hằng ngày. Sao chép chỉ với một chạm.",
     "lead": "Được tạo ra cho những ai phải gõ đi gõ lại cùng một câu trả lời, địa chỉ, số điện thoại hoặc thông tin hồ sơ. Sắp xếp theo danh mục, chạm vào dòng đó, rồi dán vào email, tin nhắn hoặc bất cứ đâu.",
     "platformLine": "Google Play sắp ra mắt · App Store đang phát triển",
-    "trialTitle": "Dùng thử Pro 30 ngày",
-    "trialText": "Trong 30 ngày sau khi cài đặt, bạn có thể dùng thử miễn phí dung lượng mở rộng, tất cả danh mục và sao lưu. Giao diện cao cấp yêu cầu mua Pro.",
+    "trialTitle": "Dùng thử miễn phí 30 ngày",
+    "trialText": "Trong 30 ngày sau khi cài đặt lần đầu, hãy dùng thử miễn phí giới hạn lưu cao hơn và sao lưu.",
     "trust": "Dữ liệu chỉ lưu trên thiết bị của bạn · Hỗ trợ 21 ngôn ngữ",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "Dùng thử miễn phí 30 ngày",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "Dùng thử miễn phí 30 ngày",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "Giá",
-    "subtitle": "Bắt đầu với phiên bản miễn phí, và nâng cấp lên Pro khi bạn cần thêm dung lượng và sao lưu.",
+    "subtitle": "Trong 30 ngày sau khi cài đặt lần đầu, dùng thử miễn phí giới hạn cao hơn và sao lưu. Sau đó vẫn tiếp tục gói miễn phí.",
     "freeTitle": "Miễn phí",
     "freePrice": "0",
     "freeItems": [
-      "Tối đa 5 mục văn bản tự do",
-      "Tối đa 1 thẻ hồ sơ",
-      "Mẫu câu, email, điện thoại và địa chỉ: chỉ xem (dùng cần Pro)",
-      "Lưu, sao chép và chia sẻ hình ảnh trong danh mục Hình ảnh",
-      "Chạm để sao chép, chuyển danh mục",
-      "Dùng thử 30 ngày: dung lượng, danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)"
+      "Danh mục văn bản: 10 mỗi loại",
+      "Hình ảnh: 10",
+      "Hồ sơ: 1",
+      "Tìm kiếm",
+      "Sắp xếp",
+      "Lưu nhanh"
     ],
     "proTitle": "Pro (mua một lần)",
     "proPrice": "Xem giá trên cửa hàng",
     "proItems": [
-      "Tối đa 200 mục mỗi danh mục",
-      "Tối đa 30 thẻ hồ sơ",
-      "Xuất/nhập JSON",
-      "Giao diện cao cấp",
-      "Mua một lần qua Google Play / App Store"
+      "Danh mục văn bản: tối đa 200 mỗi loại",
+      "Hình ảnh: 50",
+      "Hồ sơ: 30",
+      "Xuất/nhập sao lưu",
+      "Chủ đề cao cấp",
+      "Tên và biểu tượng danh mục tùy chỉnh"
     ],
     "note": "Bản thân ứng dụng có thể tải miễn phí. Pro là gói mua thêm một lần qua cửa hàng ứng dụng; giá có thể khác nhau tùy khu vực.",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "Dùng thử miễn phí 30 ngày",
+    "trialText": "Danh mục văn bản: tối đa 200 mỗi loại · Hình ảnh: 50 · Hồ sơ: 30 · Xuất/nhập sao lưu",
+    "trialNote": "Chủ đề cao cấp và tùy chỉnh tên/biểu tượng danh mục có sau khi mua Pro. Sau 30 ngày dữ liệu không bị xóa. Dữ liệu vượt giới hạn miễn phí vẫn được giữ và dùng lại được khi mua Pro.",
+    "freeLead": "Các tính năng cốt lõi vẫn miễn phí.",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "Có trên Google Play",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "Trong 30 ngày sau khi cài đặt lần đầu, dùng thử miễn phí giới hạn cao hơn và sao lưu."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (Phiên bản PC)",
@@ -293,11 +294,11 @@
       },
       {
         "q": "Sự khác biệt giữa phiên bản miễn phí và Pro là gì?",
-        "a": "Phiên bản miễn phí bao gồm tối đa 5 mục văn bản tự do và 1 thẻ hồ sơ để sao chép và chỉnh sửa. Bạn có thể xem Mẫu, Email và Điện thoại, nhưng sử dụng cần Pro. Danh mục Hình ảnh có sẵn trong gói miễn phí. Pro mở khóa mọi danh mục, mở rộng dung lượng, thêm xuất/nhập JSON và giao diện cao cấp. Cài đặt mới nhận 30 ngày dùng thử dung lượng mở rộng, tất cả danh mục và sao lưu (giao diện cao cấp yêu cầu mua Pro)."
+        "a": "Gói miễn phí gồm 10 mục mỗi danh mục văn bản, 10 hình ảnh và 1 hồ sơ. Sao chép, thêm, tìm kiếm, sắp xếp và lưu nhanh đều có. Pro thêm giới hạn cao hơn, sao lưu, chủ đề cao cấp và tùy chỉnh danh mục. Cài mới: dùng thử miễn phí 30 ngày giới hạn và sao lưu (chủ đề cao cấp và tùy chỉnh cần mua Pro)."
       },
       {
         "q": "Thời gian dùng thử 30 ngày hoạt động như thế nào?",
-        "a": "Trong 30 ngày kể từ lần khởi chạy đầu tiên, dung lượng mở rộng, tất cả danh mục và sao lưu được bao gồm. Giao diện cao cấp chỉ mở khóa khi mua Pro. Sau đó, bạn có thể tiếp tục dùng phiên bản miễn phí hoặc mua Pro từ cửa hàng."
+        "a": "Trong 30 ngày từ lần mở đầu: tối đa 200 mục mỗi danh mục văn bản, 50 hình, 30 hồ sơ và sao lưu miễn phí. Chủ đề cao cấp và tùy chỉnh cần mua Pro. Dữ liệu không bị xóa sau dùng thử."
       },
       {
         "q": "Dữ liệu của tôi được lưu ở đâu?",
@@ -384,7 +385,7 @@
           "Sao chép một chạm, xem trước bằng nhấn giữ",
           "Thẻ hồ sơ với khả năng sao chép từng trường",
           "Chế độ sắp xếp lại cho danh sách và hồ sơ",
-          "Gói miễn phí với dùng thử Pro 30 ngày (dung lượng, danh mục và sao lưu)",
+          "Gói miễn phí + dùng thử miễn phí 30 ngày (giới hạn cao hơn và sao lưu)",
           "Xuất/nhập JSON (Pro)",
           "Chủ đề sáng và tối; chủ đề cao cấp với Pro",
           "Cài đặt xác nhận sao chép, danh mục khởi động và sao lưu"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "Không. Sau thời gian dùng thử bạn vẫn tiếp tục gói miễn phí. Dữ liệu đã lưu không bị xóa. Dữ liệu vượt giới hạn miễn phí vẫn được giữ và dùng lại được khi mua Pro."
       },
       {
         "q": "Is Pro a monthly subscription?",

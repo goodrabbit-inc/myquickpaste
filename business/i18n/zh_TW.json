@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "30 天免費體驗"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "把常用的文字先存起來，一鍵就能複製。",
     "lead": "專為那些不斷輸入相同回覆、地址、電話號碼或個人資料的人所設計。依分類整理好之後，點一下就能複製，隨時貼到郵件、聊天或任何地方。",
     "platformLine": "Google Play 即將推出 · App Store 開發中",
-    "trialTitle": "30 天 Pro 試用",
-    "trialText": "安裝後的 30 天內，可免費試用擴充容量、全部分類與備份。進階主題需購買 Pro。",
+    "trialTitle": "30 天免費體驗",
+    "trialText": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。",
     "trust": "資料保存在裝置內 · 支援 21 種語言",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "30 天免費體驗",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "30 天免費體驗",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "價格方案",
-    "subtitle": "先用免費版試試看，等保存數量或備份不夠用時，再升級為 Pro。",
+    "subtitle": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。之後仍可繼續使用免費版。",
     "freeTitle": "免費版",
     "freePrice": "0",
     "freeItems": [
-      "自由文字最多 5 筆",
-      "個人資料卡最多 1 張",
-      "範本、郵件、電話：僅可瀏覽（使用需 Pro）",
-      "在圖片分類中儲存、複製和分享圖片",
-      "點按複製、切換分類",
-      "30 天試用：容量、分類與備份（進階主題需購買 Pro）"
+      "文字分類：各類 10 則",
+      "圖片：10 張",
+      "個人資料：1 個",
+      "搜尋",
+      "排序",
+      "快速註冊"
     ],
     "proTitle": "Pro（一次性購買）",
     "proPrice": "價格請以商店頁面為準",
     "proItems": [
-      "每個分類最多可保存 200 筆",
-      "最多 30 張個人資料卡",
-      "支援 JSON 匯出／匯入",
-      "進階外觀主題",
-      "透過 Google Play / App Store 一次性購買"
+      "文字分類：各類最多 200 則",
+      "圖片：最多 50 張",
+      "個人資料：最多 30 個",
+      "備份匯出/匯入",
+      "進階主題",
+      "分類名稱與圖示自訂"
     ],
     "note": "應用程式本體可免費下載。Pro 是透過應用程式商店購買的一次性付費附加項目，價格可能因地區而異。",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "30 天免費體驗",
+    "trialText": "文字分類：各類最多 200 則 · 圖片：最多 50 · 個人資料：最多 30 · 備份匯出/匯入",
+    "trialNote": "進階主題以及分類名稱/圖示變更需購買 Pro 後使用。30 天體驗結束後，已註冊的資料不會刪除。超出免費上限的資料也會保留，購買 Pro 後可再次使用。",
+    "freeLead": "基本功能可永久免費使用。",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "在 Google Play 上取得",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。"
   },
   "footer": {
     "pcEdition": "MyQuickPaste（電腦版）",
@@ -293,11 +294,11 @@
       },
       {
         "q": "免費版和 Pro 版有什麼差異？",
-        "a": "免費版可儲存並編輯最多 5 條自由文字和 1 張個人資料卡。範本、郵件、電話分類可瀏覽內容，但使用需 Pro。圖片分類可在免費版使用。Pro 解鎖全部分類、擴大容量，提供 JSON 匯出/匯入和進階主題。新安裝可享受 30 天試用擴充容量、全部分類與備份（進階主題需購買 Pro）。"
+        "a": "免費版每類文字最多 10 則、圖片 10 張、個人資料 1 個。複製、註冊、搜尋、排序、快速註冊均可使用。Pro 提供更高上限、備份、進階主題和分類自訂。新安裝可 30 天免費體驗更高上限和備份（進階主題與分類更改需購買 Pro）。"
       },
       {
         "q": "30 天試用是如何運作的？",
-        "a": "首次啟動後的 30 天內，可使用擴充容量、全部分類與備份。進階主題僅可透過購買 Pro 解鎖。試用期結束後，可以繼續使用免費版，或在商店購買 Pro 版。"
+        "a": "首次啟動後 30 天內，可免費體驗每類文字最多 200 則、圖片 50 張、個人資料 30 個及備份匯出/匯入。進階主題與分類更改需購買 Pro。體驗結束後資料不會刪除。"
       },
       {
         "q": "資料會保存在哪裡？",
@@ -384,7 +385,7 @@
           "一鍵複製、長按預覽",
           "支援逐欄複製的個人資料卡",
           "支援清單與資料的排序",
-          "免費版 + 30 天 Pro 試用（容量、分類與備份）",
+          "免費版 + 30 天免費體驗（更高上限與備份）",
           "JSON 匯出／匯入（Pro）",
           "淺色/深色主題；進階主題需購買 Pro",
           "複製回饋、啟動分類、備份等設定項目"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "不會。體驗結束後仍可繼續使用免費版。已註冊的資料不會刪除。超出免費上限的資料也會保留，購買 Pro 後可再次使用。"
       },
       {
         "q": "Is Pro a monthly subscription?",

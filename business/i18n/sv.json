@@ -20,7 +20,7 @@
     "how": "How it works",
     "screens": "Screens",
     "pricing": "Pricing",
-    "cta": "30-day Pro trial"
+    "cta": "30 dagars gratis provperiod"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Spara det du använder ofta. Kopiera med en knapptryckning.",
     "lead": "Gjord för dig som gång på gång skriver samma svar, adresser, telefonnummer eller profiluppgifter. Sortera allt efter kategori, tryck på en rad och klistra in i e-post, chatt eller var du än behöver det.",
     "platformLine": "Google Play kommer snart · App Store under utveckling",
-    "trialTitle": "30 dagars Pro-provperiod",
-    "trialText": "Under 30 dagar efter installationen kan du testa utökad kapacitet, alla kategorier och säkerhetskopiering gratis. Premiumteman kräver Pro-köp.",
+    "trialTitle": "30 dagars gratis provperiod",
+    "trialText": "I 30 dagar efter första installationen kan du prova högre spargränser och säkerhetskopiering gratis.",
     "trust": "Sparas endast på din enhet · 21 språk",
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "30 dagars gratis provperiod",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "30 dagars gratis provperiod",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages"
@@ -223,34 +223,35 @@
   },
   "pricing": {
     "title": "Priser",
-    "subtitle": "Börja gratis. Uppgradera till Pro när du behöver mer utrymme och säkerhetskopiering.",
+    "subtitle": "I 30 dagar efter första installationen: högre gränser och säkerhetskopiering gratis. Fortsätt sedan med gratisplanen.",
     "freeTitle": "Gratis",
     "freePrice": "0",
     "freeItems": [
-      "Upp till 5 fria textposter",
-      "Upp till 1 profilkort",
-      "Spara, kopiera och dela bilder i bildkategorin",
-      "Mallar, e-post, telefon och adress: endast visning (användning med Pro)",
-      "Kopiera med ett tryck, byt kategori",
-      "30 dagars prov: kapacitet, kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)"
+      "Textkategorier: 10 vardera",
+      "Bilder: 10",
+      "Profiler: 1",
+      "Sök",
+      "Ordna om",
+      "Snabbspara"
     ],
     "proTitle": "Pro (engångsköp)",
     "proPrice": "Se priset i butiken",
     "proItems": [
-      "Upp till 200 poster per kategori",
-      "Upp till 30 profilkort",
-      "JSON-export och -import",
-      "Premiumteman för utseende",
-      "Engångsköp via Google Play / App Store"
+      "Textkategorier: upp till 200 vardera",
+      "Bilder: 50",
+      "Profiler: 30",
+      "Exportera/importera säkerhetskopia",
+      "Premiumteman",
+      "Anpassade kategorinamn och ikoner"
     ],
     "note": "Appen är gratis att ladda ner. Pro är ett engångstillägg som köps via appbutiken; priset kan variera mellan olika regioner.",
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
-    "freeLead": "Start simply.",
+    "trialTitle": "30 dagars gratis provperiod",
+    "trialText": "Textkategorier: upp till 200 vardera · Bilder: 50 · Profiler: 30 · Exportera/importera säkerhetskopia",
+    "trialNote": "Premiumteman och anpassade kategorinamn/ikoner finns efter Pro-köp. Efter provperioden raderas inte dina data. Data över gratisgränsen sparas och blir åter användbara när du köper Pro.",
+    "freeLead": "Grundfunktionerna fortsätter vara gratis.",
     "proTag": "One-time purchase",
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription"
@@ -274,7 +275,7 @@
     "button": "Finns på Google Play",
     "titleLine1": "Make typing",
     "titleLine2": "simpler.",
-    "sub": "Try key Pro features for 30 days after first install."
+    "sub": "I 30 dagar efter första installationen kan du prova högre spargränser och säkerhetskopiering gratis."
   },
   "footer": {
     "pcEdition": "MyQuickPaste (PC-version)",
@@ -293,11 +294,11 @@
       },
       {
         "q": "Vad är skillnaden mellan gratisversionen och Pro?",
-        "a": "Gratisversionen inkluderar upp till 5 fritextobjekt och 1 profilkort att kopiera och redigera. Du kan visa Mallar, E-post och Telefon, men användning kräver Pro. Bildkategorin ingår i gratisversionen. Pro låser upp alla kategorier, utökar kapaciteten, lägger till JSON-export/import och premiumteman. Nya installationer får 30 dagars prov av utökad kapacitet, alla kategorier och säkerhetskopiering (premiumteman kräver Pro-köp)."
+        "a": "Gratisplanen inkluderar 10 objekt per textkategori, 10 bilder och 1 profil. Kopiera, lägg till, sök, ordna om och snabbspara ingår. Pro lägger till högre gränser, säkerhetskopiering, premiumteman och kategorianpassning. Ny installation: 30 dagars gratis provperiod för gränser och säkerhetskopiering (premiumteman och anpassning kräver Pro)."
       },
       {
         "q": "Hur fungerar 30-dagarsperioden?",
-        "a": "I 30 dagar från första start ingår utökad kapacitet, alla kategorier och säkerhetskopiering. Premiumteman låses upp endast med Pro-köp. Efter provperioden kan du fortsätta med gratisversionen eller köpa Pro i butiken."
+        "a": "I 30 dagar från första start: upp till 200 objekt per textkategori, 50 bilder, 30 profiler och säkerhetskopiering gratis. Premiumteman och anpassning kräver Pro. Data raderas inte efter provperioden."
       },
       {
         "q": "Var lagras min data?",
@@ -384,7 +385,7 @@
           "Kopiera med en knapptryckning och förhandsvisning med långtryck",
           "Profilkort med fältvis kopiering",
           "Möjlighet att ändra ordning för listor och profiler",
-          "Gratisversion med 30 dagars Pro-prov (kapacitet, kategorier och säkerhetskopiering)",
+          "Gratisplan + 30 dagars gratis provperiod (högre gränser och säkerhetskopiering)",
           "JSON-export/-import (Pro)",
           "Ljusa och mörka teman; premiumteman med Pro",
           "Inställningar för kopieringsfeedback, startkategori och säkerhetskopiering"
@@ -573,7 +574,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "Nej. Efter provperioden kan du fortsätta med gratisplanen. Sparade data raderas inte. Data över gratisgränsen sparas och blir åter användbara när du köper Pro."
       },
       {
         "q": "Is Pro a monthly subscription?",

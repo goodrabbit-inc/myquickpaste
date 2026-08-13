@@ -20,7 +20,7 @@
     "support": "Support",
     "releaseNotes": "Release Notes",
     "privacy": "Privacy",
-    "cta": "30-day Pro trial"
+    "cta": "30-day free trial"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -33,18 +33,18 @@
     "lead": "Snippets, addresses, contacts, emoji, hashtags. Save what you reuse, then copy it when you need it.",
     "sub": "After copying, switch to the app you need and paste. Make daily typing simpler.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day Pro trial",
+    "ctaSecondary": "30-day free trial",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "Try Pro for 30 days",
+    "pill1": "30-day free trial",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages",
     "badge": "MyQuickPaste for smartphones",
     "catch": "Everyday text, one tap away.",
     "platformLine": "Google Play coming soon · App Store in development",
-    "trialTitle": "30-day Pro trial",
-    "trialText": "For 30 days after install, try expanded capacity, all categories, and backup for free. Premium themes require Pro.",
+    "trialTitle": "30-day free trial",
+    "trialText": "For 30 days after first install, try higher save limits and backup free of charge.",
     "trust": "21 languages"
   },
   "stores": {
@@ -329,22 +329,21 @@
     "titleLine1": "Try it for 30 days",
     "titleLine2": "and feel the difference.",
     "title": "Pricing",
-    "subtitle": "For 30 days after first install, try key Pro features free. After that, keep using the free plan.",
+    "subtitle": "For 30 days after first install, try higher save limits and backup free of charge. After that, keep using the free plan.",
     "trialLabel": "First install only",
-    "trialTitle": "Try Pro features for 30 days",
-    "trialText": "Expanded capacity, all categories, and backup.",
-    "trialNote": "Premium themes require a Pro purchase.",
+    "trialTitle": "30-day free trial",
+    "trialText": "Text categories: up to 200 items each · Images: up to 50 · Profiles: up to 30 · Backup export and import",
+    "trialNote": "Premium themes and custom category names/icons are available after Pro purchase. After the 30-day trial, your saved data is not deleted. Data above free limits stays on your device and becomes usable again when you buy Pro.",
     "freeTitle": "Free",
     "freePrice": "¥0",
-    "freeLead": "Start simply.",
+    "freeLead": "Core features stay free to use.",
     "freeItems": [
-      "Up to 5 free-text items",
-      "Up to 1 profile card",
-      "Snippets, Contact, and Link are view-only (Pro to edit)",
-      "Images category: save, copy, share",
-      "Basic tap-to-copy",
-      "Light / dark themes",
-      "30-day Pro feature trial"
+      "Text categories: 10 items each",
+      "Images: 10",
+      "Profiles: 1",
+      "Search",
+      "Reorder",
+      "Quick save"
     ],
     "proTitle": "Pro",
     "proTag": "One-time purchase",
@@ -352,12 +351,12 @@
     "proLead": "No monthly fee.",
     "notSub": "Not a subscription",
     "proItems": [
-      "Up to 200 items per category",
-      "Up to 30 profile cards",
-      "All categories unlocked",
-      "JSON export / import",
-      "Premium color themes",
-      "One-time purchase on Google Play / App Store"
+      "Text categories: up to 200 items each",
+      "Images: up to 50",
+      "Profiles: up to 30",
+      "Backup export and import",
+      "Premium themes",
+      "Custom category names and icons"
     ],
     "note": "The app is free to download. Pro is a one-time store add-on; prices may vary by region."
   },
@@ -374,7 +373,7 @@
       },
       {
         "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Buying Pro keeps expanded capacity, all categories, backup, and more."
+        "a": "No. After the trial you can keep using the free plan. Your saved data is not deleted. Data above free limits stays on your device and becomes usable again when you buy Pro."
       },
       {
         "q": "Is Pro a monthly subscription?",
@@ -402,7 +401,7 @@
     "titleLine2": "simpler.",
     "title": "Make typing simpler.",
     "lead": "Save what you reuse once—then tap when you need it.",
-    "sub": "Try key Pro features for 30 days after first install.",
+    "sub": "For 30 days after first install, try higher save limits and backup free of charge.",
     "button": "See how it works"
   },
   "footer": {
@@ -499,11 +498,11 @@
       },
       {
         "q": "What is the difference between Free and Pro?",
-        "a": "Free includes up to 5 freeword items and 1 profile card you can copy and edit. You can browse Snippets, Mail, and Phone, but using those categories requires Pro. The Image category is available on the free plan. The Image category is available on the free plan. Pro unlocks every category, expands capacity, adds JSON export and import, and premium themes. New installs receive a 30-day trial of expanded capacity, all categories, and backup (premium themes require Pro purchase)."
+        "a": "The free plan includes up to 10 items per text category, 10 images, and 1 profile. Copy, add data, search, reorder, and quick save are available. Pro adds higher limits, backup export/import, premium themes, and custom category names/icons. New installs get 30 days to try higher limits and backup free (premium themes and category customization require Pro purchase)."
       },
       {
         "q": "How does the 30-day trial work?",
-        "a": "For 30 days from first launch, expanded capacity, all categories, and backup are included. Premium themes unlock only with a Pro purchase. After the trial, continue on the free plan or purchase Pro in the store."
+        "a": "For 30 days from first launch, you can try up to 200 items per text category, 50 images, 30 profiles, and backup export/import free. Premium themes and category name/icon changes require Pro purchase. Your data is not deleted after the trial—you can stay on the free plan or buy Pro in the store."
       },
       {
         "q": "Where is my data stored?",
@@ -590,7 +589,7 @@
           "Tap to copy and long-press preview",
           "Profile cards with per-field copy",
           "Reorder mode for list and profile items",
-          "Free plan with 30-day trial (capacity, categories and backup)",
+          "Free plan + 30-day free trial (higher limits and backup)",
           "JSON export/import (Pro)",
           "Light and dark themes; premium themes with Pro",
           "Settings for copy feedback, startup category, and data backup"

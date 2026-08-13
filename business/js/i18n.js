@@ -679,6 +679,9 @@
         renderDynamicLists(document, messages);
         updateLangPicker(lang, messages);
         markActiveNav();
+        if (typeof window.mqpApplyMarketingImages === "function") {
+          window.mqpApplyMarketingImages(lang);
+        }
         if (typeof window.mqpApplyStoreBadges === "function") {
           window.mqpApplyStoreBadges(lang, messages);
         }

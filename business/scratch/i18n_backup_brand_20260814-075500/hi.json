@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "lang": "hi",
+    "title": "MyQuickPaste — स्मार्टफ़ोन संस्करण",
+    "description": "अपने अक्सर इस्तेमाल होने वाले टेक्स्ट को स्मार्टफ़ोन में सेव करें और एक टैप में कॉपी करें। MyQuickPaste टेम्पलेट वाक्य, पते, संपर्क और प्रोफ़ाइल कार्ड को श्रेणी के अनुसार व्यवस्थित करता है।",
+    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
+    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+  },
+  "lang": {
+    "label": "भाषा",
+    "ja": "日本語",
+    "en": "English"
+  },
+  "nav": {
+    "home": "होम",
+    "support": "सहायता",
+    "releaseNotes": "रिलीज़ नोट्स",
+    "privacy": "गोपनीयता",
+    "features": "Features",
+    "how": "How it works",
+    "screens": "Screens",
+    "pricing": "Pricing",
+    "cta": "30 दिन का निःशुल्क परीक्षण"
+  },
+  "brand": {
+    "name": "MyQuickPaste",
+    "edition": "स्मार्टफ़ोन संस्करण"
+  },
+  "hero": {
+    "badge": "Android और iPhone के लिए",
+    "catch": "जो रोज़ काम आता है उसे सेव करें। एक टैप में कॉपी करें।",
+    "lead": "तैयार पाठ, पता, संपर्क, URL, इमोजी, हैशटैग। बार-बार इस्तेमाल होने वाला सेव करें, ज़रूरत पर सूची से एक टैप में कॉपी करें।",
+    "platformLine": "Google Play जल्द आ रहा है · App Store विकास में",
+    "trialTitle": "30 दिन का निःशुल्क परीक्षण",
+    "trialText": "पहली इंस्टॉल के बाद 30 दिनों तक उच्च सहेज सीमा और बैकअप निःशुल्क आज़माएँ।",
+    "trust": "डेटा केवल आपके डिवाइस में रहता है · 21 भाषाएं",
+    "eyebrow": "MyQuickPaste for smartphones",
+    "catchLine1": "Everyday text,",
+    "catchLine2": "one tap away.",
+    "sub": "फिर अपने सामान्य ऐप में जाकर पेस्ट करें।",
+    "ctaPrimary": "See how it works",
+    "ctaSecondary": "30 दिन का निःशुल्क परीक्षण",
+    "statusPlay": "Google Play coming soon",
+    "statusApp": "App Store in development",
+    "pill1": "30 दिन का निःशुल्क परीक्षण",
+    "pill2": "Pro is a one-time purchase",
+    "pill3": "Stored on your device",
+    "pill4": "21 languages"
+  },
+  "stores": {
+    "googlePlay": "Google Play पर उपलब्ध",
+    "appStore": "App Store",
+    "comingSoon": "जल्द आ रहा है",
+    "inDevelopment": "विकास में",
+    "googlePlayBadgeAlt": "Google Play पर उपलब्ध",
+    "appStoreBadgeAlt": "App Store से डाउनलोड करें",
+    "microsoftBadgeAlt": "Microsoft Store से पाएं (Windows के लिए MyQuickPaste)"
+  },
+  "compare": {
+    "title": "MyQuickPaste परिवार",
+    "subtitle": "\"अक्सर इस्तेमाल होने वाली चीज़ को तुरंत पेस्ट करना\" — यही सोच पीसी और स्मार्टफ़ोन दोनों के लिए अलग-अलग तरीके से बनाई गई है।",
+    "pcTitle": "MyQuickPaste (Windows संस्करण)",
+    "pcText": "एक Windows ऐप जो स्क्रीन के किनारे मौजूद रहता है और एक क्लिक में सीधे पेस्ट कर देता है।",
+    "pcLink": "Windows संस्करण की वेबसाइट",
+    "mobileTitle": "MyQuickPaste (स्मार्टफ़ोन संस्करण)",
+    "mobileText": "स्मार्टफ़ोन पर अक्सर इस्तेमाल होने वाला टेक्स्ट सेव करें — और जब चाहें तुरंत वापस बुलाकर कॉपी करें।",
+    "note": "पीसी और स्मार्टफ़ोन संस्करण दो अलग ऐप हैं। ख़रीदारी और सेव किया गया डेटा दोनों के बीच साझा नहीं होता।"
+  },
+  "problem": {
+    "title": "क्या फ़ोन पर आपको भी ऐसा लगता है?",
+    "items": [
+      "हर बार वही पता या फ़ोन नंबर चाहिए होने पर पुरानी चैट या नोट्स में ढूंढना पड़ता है",
+      "छोटी स्क्रीन कीबोर्ड पर हस्ताक्षर या तय जवाब बार-बार टाइप करना पड़ता है",
+      "सिर्फ़ एक लाइन का टेक्स्ट दोबारा कॉपी करने के लिए ऐप बदलनी पड़ती है"
+    ],
+    "solution": "MyQuickPaste में एक बार सेव कर लें, फिर बस ऐप खोलें और टैप करें। ईमेल, चैट, मैप्स — जहां भी ज़रूरत हो वहां पेस्ट करें।"
+  },
+  "clipboardCompare": {
+    "title": "यह Gboard क्लिपबोर्ड से कैसे अलग है",
+    "subtitle": "अभी-अभी कॉपी किए गए टेक्स्ट के लिए Gboard तेज़ रहता है। लेकिन जो टेक्स्ट रोज़ या हर हफ़्ते चाहिए, उसके लिए यह ऐप ज़्यादा उपयोगी है।",
+    "clipboardTitle": "Gboard क्लिपबोर्ड",
+    "clipboardTag": "हाल की कॉपी हिस्ट्री",
+    "clipboardItems": [
+      "कीबोर्ड से चुनकर तुरंत पेस्ट करें — सबसे तेज़ तरीका",
+      "हाल ही में कॉपी किए गए टेक्स्ट को अपने-आप सेव कर लेता है",
+      "जो पिन नहीं किया गया, वह लगभग 5 आइटम या 1 घंटे बाद ग़ायब हो जाता है",
+      "मिली-जुली हिस्ट्री होने से पसंदीदा टेक्स्ट को व्यवस्थित रखना मुश्किल हो जाता है"
+    ],
+    "appTitle": "MyQuickPaste",
+    "appTag": "आपके ज़रूरी टेक्स्ट के लिए स्थायी जगह",
+    "appItems": [
+      "पते, हस्ताक्षर और तय जवाब को नाम देकर सेव करें",
+      "फ़्री टेक्स्ट, टेम्पलेट वाक्य, ईमेल, फ़ोन, छवियाँ, प्रोफ़ाइल — छह श्रेणियां",
+      "जब तक आप ख़ुद न मिटाएं, आइटम हमेशा बने रहते हैं, हिस्ट्री की तरह ग़ायब नहीं होते",
+      "जिस टेक्स्ट का बार-बार इस्तेमाल करते हैं, उसे तुरंत ढूंढने और कॉपी करने के लिए बनाया गया"
+    ],
+    "footer": "कुछ घंटे पहले कॉपी किया कुछ? तब Gboard काम आता है। लेकिन हर हफ़्ते इस्तेमाल होने वाला पता, हस्ताक्षर या तय जवाब? इसे यहां एक बार सेव कर लें, फिर कभी ढूंढना नहीं पड़ेगा।"
+  },
+  "steps": {
+    "title": "इस्तेमाल कैसे करें",
+    "subtitle": "सेव करें, टैप करें, पेस्ट करें — बस 3 आसान चरण।",
+    "items": [
+      {
+        "title": "Save what you reuse",
+        "text": "Add text or contact details with a clear name."
+      },
+      {
+        "title": "Tap the row you need",
+        "text": "One tap copies the content to your clipboard."
+      },
+      {
+        "title": "Paste in another app",
+        "text": "Switch to mail, social, chat, maps, and paste."
+      }
+    ],
+    "titleLine1": "Save, tap,",
+    "titleLine2": "then paste."
+  },
+  "benefits": {
+    "title": "सबसे ज़्यादा पसंद आने वाली बातें",
+    "items": [
+      {
+        "title": "एक हाथ से भी आसान",
+        "text": "बड़ी लाइनें, श्रेणी टैब और वर्टिकल लेआउट — चलते-फिरते भी तुरंत सही चीज़ चुनने के लिए डिज़ाइन किया गया।",
+        "icon": "📱"
+      },
+      {
+        "title": "आसानी से ढूंढना",
+        "text": "एक लंबे नोट में सब कुछ भरने के बजाय, टेम्पलेट वाक्य, संपर्क और प्रोफ़ाइल कार्ड को अलग-अलग सूचियों में रखें।",
+        "icon": "🗂️"
+      },
+      {
+        "title": "डेटा डिवाइस में ही रहता है",
+        "text": "आपके ज़रूरी टेम्पलेट वाक्य और संपर्क सिर्फ़ आपके फ़ोन में रहते हैं। हम कोई क्लाउड सिंक सेवा नहीं देते।",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "मुख्य फ़ीचर",
+    "subtitle": "फ़ोन पर रोज़मर्रा की कॉपी-पेस्ट को आसान बनाने वाले फ़ीचर।",
+    "items": [
+      {
+        "title": "Copy with one tap",
+        "text": "Tap a row to copy its content to the clipboard.",
+        "icon": "tap",
+        "large": true
+      },
+      {
+        "title": "Organize by use",
+        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "icon": "folder",
+        "large": true
+      },
+      {
+        "title": "Reorder favorites",
+        "text": "Move frequent items to the top so they’re easier to find.",
+        "icon": "sort"
+      },
+      {
+        "title": "Copy field by field",
+        "text": "Copy only the address, name, or phone number you need.",
+        "icon": "card"
+      },
+      {
+        "title": "Images ready to use",
+        "text": "Save logos or photos, then copy, share, or preview.",
+        "icon": "image"
+      },
+      {
+        "title": "Export and import",
+        "text": "Pro can export and import JSON backups.",
+        "icon": "backup"
+      },
+      {
+        "title": "Choose a look",
+        "text": "Light, dark, and premium color themes are available.",
+        "icon": "theme"
+      },
+      {
+        "title": "Stays on device",
+        "text": "Your text and profiles are managed on the phone.",
+        "icon": "lock"
+      }
+    ],
+    "categoriesLabel": "6 श्रेणियां",
+    "categories": [
+      "फ़्री टेक्स्ट",
+      "टेम्पलेट वाक्य",
+      "ईमेल",
+      "फ़ोन",
+      "छवियाँ",
+      "प्रोफ़ाइल"
+    ],
+    "titleLine1": "Simple,",
+    "titleLine2": "with the essentials."
+  },
+  "themesSection": {
+    "title": "14 रंग थीम",
+    "subtitle": "मुफ़्त में लाइट और डार्क शामिल। Pro व्यवसाय और दैनिक उपयोग के लिए प्रीमियम पैलेट खोलता है।",
+    "imageAlt": "MyQuickPaste की 14 थीम की ग्रिड: ऊपर सात लाइट, नीचे सात डार्क थीम।",
+    "caption": "ऊपरी पंक्ति: 7 लाइट थीम / निचली पंक्ति: 7 डार्क थीम",
+    "note": "प्रीमियम थीम के लिए Pro खरीद आवश्यक है।",
+    "titleLine1": "Match the look",
+    "titleLine2": "to where you use it."
+  },
+  "usecases": {
+    "title": "इनके लिए बेहतरीन",
+    "items": [
+      {
+        "title": "सेल्स और फ़ील्ड में काम करने वाले",
+        "text": "ग्राहक से मिलते समय पता, फ़ोन नंबर और तय जवाब तुरंत कॉपी करें।"
+      },
+      {
+        "title": "ऑफ़िस और सपोर्ट टीम",
+        "text": "तय जवाब और संपर्क जानकारी फ़ोन में तैयार रखें, बाहर रहते हुए भी तुरंत जवाब दें।"
+      },
+      {
+        "title": "व्यक्तिगत इस्तेमाल के लिए",
+        "text": "घर का पता, ईमेल हस्ताक्षर और अक्सर इस्तेमाल होने वाले वाक्य — रोज़मर्रा की \"ज़रूरी चीज़ें\" सेव रखें।"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "मूल्य",
+    "subtitle": "पहली इंस्टॉल के बाद 30 दिनों तक उच्च सहेज सीमा और बैकअप निःशुल्क। उसके बाद भी मुफ़्त प्लान जारी रखें।",
+    "freeTitle": "मुफ़्त संस्करण",
+    "freePrice": "0",
+    "freeItems": [
+      "टेक्स्ट श्रेणियाँ: प्रत्येक में 10",
+      "छवियाँ: 10",
+      "प्रोफ़ाइल: 1",
+      "खोज",
+      "क्रम बदलना",
+      "त्वरित सहेज"
+    ],
+    "proTitle": "Pro (एकमुश्त ख़रीद)",
+    "proPrice": "क़ीमत के लिए स्टोर देखें",
+    "proItems": [
+      "टेक्स्ट श्रेणियाँ: प्रत्येक में अधिकतम 200",
+      "छवियाँ: 50",
+      "प्रोफ़ाइल: 30",
+      "बैकअप निर्यात/आयात",
+      "प्रीमियम थीम",
+      "श्रेणी नाम और आइकन अनुकूलन"
+    ],
+    "note": "ऐप मुफ़्त में डाउनलोड की जा सकती है। Pro एक बार ख़रीदा जाने वाला ऐड-ऑन है, जो ऐप स्टोर के ज़रिए ख़रीदा जाता है; क़ीमत क्षेत्र के अनुसार अलग हो सकती है।",
+    "titleLine1": "Try it for 30 days",
+    "titleLine2": "and feel the difference.",
+    "trialLabel": "First install only",
+    "trialTitle": "30 दिन का निःशुल्क परीक्षण",
+    "trialText": "टेक्स्ट श्रेणियाँ: प्रत्येक में अधिकतम 200 · छवियाँ: 50 · प्रोफ़ाइल: 30 · बैकअप निर्यात/आयात",
+    "trialNote": "प्रीमियम थीम और श्रेणी नाम/आइकन बदलाव Pro खरीद के बाद उपलब्ध। 30 दिन बाद आपका डेटा हटाया नहीं जाता। मुफ़्त सीमा से अधिक डेटा रखा जाता है और Pro खरीदने पर फिर उपयोग हो सकता है।",
+    "freeLead": "मुख्य सुविधाएँ मुफ़्त में बनी रहती हैं।",
+    "proTag": "One-time purchase",
+    "proLead": "No monthly fee.",
+    "notSub": "Not a subscription"
+  },
+  "privacySection": {
+    "title": "डेटा सिर्फ़ आपके फ़ोन में रहता है",
+    "text": "MyQuickPaste में सहेजे गए पाठ और प्रोफ़ाइल डिवाइस पर प्रबंधित होते हैं। हम आपकी सामग्री स्वचालित रूप से क्लाउड पर नहीं भेजते।",
+    "link": "गोपनीयता नीति पढ़ें",
+    "titleLine1": "महत्वपूर्ण सामग्री",
+    "titleLine2": "आपके डिवाइस में।",
+    "points": [
+      "No automatic cloud sync",
+      "Snippet content is not sent to our servers",
+      "Data stays managed on device",
+      "Pro lets you export your own backup"
+    ]
+  },
+  "cta": {
+    "title": "फ़ोन पर वही टेक्स्ट बार-बार टाइप करना, आज ही बंद करें",
+    "lead": "सेव करें, टैप करें, पेस्ट करें। MyQuickPaste से रोज़ की टाइपिंग थोड़ी आसान।",
+    "button": "Google Play पर उपलब्ध",
+    "titleLine1": "अक्सर इस्तेमाल होने वाला पाठ,",
+    "titleLine2": "और पास।",
+    "sub": "पहली इंस्टॉल के बाद 30 दिनों तक उच्च सहेज सीमा और बैकअप निःशुल्क आज़माएँ।"
+  },
+  "footer": {
+    "pcEdition": "MyQuickPaste (पीसी संस्करण)",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. सर्वाधिकार सुरक्षित।",
+    "developer": "डेवलपर: Kazuhiro Suda",
+    "contact": "Contact"
+  },
+  "supportPage": {
+    "title": "सहायता",
+    "lead": "MyQuickPaste (स्मार्टफ़ोन संस्करण) के लिए मदद।",
+    "faqTitle": "अक्सर पूछे जाने वाले सवाल",
+    "items": [
+      {
+        "q": "क्या यह Windows के लिए MyQuickPaste जैसा ही ऐप है?",
+        "a": "नहीं। MyQuickPaste स्मार्टफ़ोन के लिए अलग ऐप है। इसकी सोच वही है, लेकिन यह अपने डेटा और स्टोर ख़रीदारी के साथ एक स्वतंत्र ऐप है।"
+      },
+      {
+        "q": "मुफ़्त संस्करण और Pro में क्या फ़र्क़ है?",
+        "a": "मुफ़्त प्लान में प्रत्येक टेक्स्ट श्रेणी में 10 आइटम, 10 छवियाँ और 1 प्रोफ़ाइल शामिल हैं। कॉपी, जोड़ना, खोज, क्रम बदलना और त्वरित सहेज उपलब्ध हैं। Pro उच्च सीमा, बैकअप, प्रीमियम थीम और श्रेणी अनुकूलन देता है। नई इंस्टॉल: 30 दिन निःशुल्क सीमा और बैकअप (प्रीमियम थीम और अनुकूलन Pro खरीद के बाद)।"
+      },
+      {
+        "q": "30 दिन का ट्रायल कैसे काम करता है?",
+        "a": "पहले लॉन्च से 30 दिन: प्रत्येक टेक्स्ट श्रेणी में 200, 50 छवियाँ, 30 प्रोफ़ाइल और बैकअप निःशुल्क। प्रीमियम थीम और अनुकूलन Pro खरीद चाहते। परीक्षण के बाद डेटा हटाया नहीं जाता।"
+      },
+      {
+        "q": "मेरा डेटा कहां सेव होता है?",
+        "a": "सेव किए गए टेक्स्ट, प्रोफ़ाइल कार्ड और सेटिंग्स केवल आपके डिवाइस में स्टोर होते हैं।"
+      },
+      {
+        "q": "मैं अपना डेटा बैकअप या ट्रांसफ़र कैसे करूं?",
+        "a": "Pro यूज़र सेटिंग्स से JSON बैकअप एक्सपोर्ट कर सकते हैं और इसे किसी दूसरे डिवाइस पर MyQuickPaste में इम्पोर्ट कर सकते हैं।"
+      },
+      {
+        "q": "iPhone संस्करण कब आएगा?",
+        "a": "iOS संस्करण तैयार किया जा रहा है। App Store पर उपलब्ध होते ही यह पेज अपडेट कर दिया जाएगा।"
+      },
+      {
+        "q": "Pro कैसे ख़रीदें?",
+        "a": "ऐप के अंदर अपग्रेड स्क्रीन खोलें, या स्टोर में Pro ऐड-ऑन खोजें। भुगतान पूरी तरह Google Play या App Store द्वारा संभाला जाता है।"
+      }
+    ],
+    "contactTitle": "संपर्क करें",
+    "contactText": "समस्या बताने या फ़ीचर सुझाव देने के लिए ईमेल करें:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "गोपनीयता नीति",
+    "lead": "MyQuickPaste (स्मार्टफ़ोन संस्करण)",
+    "updated": "Last updated: July 2026",
+    "sections": [
+      {
+        "h": "Overview",
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+      },
+      {
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+      },
+      {
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+      },
+      {
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+      },
+      {
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "रिलीज़ नोट्स",
+    "lead": "MyQuickPaste का वर्शन इतिहास।",
+    "latestPrefix": "नवीनतम वर्शन:",
+    "storeNote": "अपडेट Google Play के ज़रिए दिए जाते हैं (App Store पर उपलब्ध होने के बाद वहां भी दिए जाएंगे)।",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "पहली रिलीज़ (Android)",
+        "items": [
+          "श्रेणी-वार सूचियां: फ़्री टेक्स्ट, टेम्पलेट वाक्य, ईमेल, फ़ोन, छवियाँ, प्रोफ़ाइल",
+          "टैप करके कॉपी, लंबा दबाकर प्रीव्यू",
+          "फ़ील्ड-वार कॉपी की सुविधा वाले प्रोफ़ाइल कार्ड",
+          "सूचियों और प्रोफ़ाइल के लिए क्रम बदलने की सुविधा",
+          "मुफ़्त प्लान + 30 दिन निःशुल्क परीक्षण (उच्च सीमा और बैकअप)",
+          "JSON एक्सपोर्ट/इम्पोर्ट (Pro)",
+          "लाइट और डार्क थीम; Pro के साथ प्रीमियम थीम",
+          "कॉपी फ़ीडबैक, स्टार्टअप श्रेणी और बैकअप सेटिंग्स"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "ऐप का इंटरफ़ेस देखें",
+    "subtitle": "MyQuickPaste (Android) की असली स्क्रीन्स।",
+    "freetextAlt": "फ़्री टेक्स्ट सूची, हस्ताक्षर या URL आदि को एक टैप में कॉपी करें",
+    "snippetsAlt": "टेम्पलेट वाक्य श्रेणी, ईमेल जवाब के टेम्पलेट",
+    "profileAlt": "प्रोफ़ाइल कार्ड (घर, ऑफ़िस आदि)",
+    "profileEditAlt": "प्रोफ़ाइल एडिट स्क्रीन",
+    "cateAlt": "6 श्रेणी टैब (फ़्री टेक्स्ट, टेम्पलेट वाक्य, ईमेल, फ़ोन, छवियाँ, प्रोफ़ाइल)",
+    "items": [
+      {
+        "caption": "फ़्री टेक्स्ट — हस्ताक्षर, URL और खाता विवरण एक नज़र में"
+      },
+      {
+        "caption": "स्निपेट — ईमेल और चैट के लिए तैयार जवाब"
+      },
+      {
+        "caption": "छवियाँ — लोगो, फ़ोटो और स्क्रीनशॉट सहेजकर तुरंत कॉपी"
+      },
+      {
+        "caption": "प्रोफ़ाइल — पता, फ़ोन या सब कुछ एक टैप में कॉपी"
+      },
+      {
+        "caption": "प्रोफ़ाइल संपादन — घर, ऑफिस और क्लाइंट कार्ड अलग-अलग"
+      },
+      {
+        "caption": "श्रेणी टैब — छह सूचियों के बीच तुरंत स्विच"
+      }
+    ],
+    "imagesAlt": "छवियाँ श्रेणी — नमूना फ़ोटो को एक टैप में कॉपी या शेयर करें",
+    "titleLine1": "Clear enough",
+    "titleLine2": "to use right away.",
+    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
+    "freetextCap": "Manage reusable text in one list",
+    "snippetsCap": "Copy your usual replies fast",
+    "imagesCap": "Save, copy, and share images",
+    "profileCap": "Copy address or contact fields one by one",
+    "profileEditCap": "Register the details you need together"
+  },
+  "trust": {
+    "t1Title": "Tap to copy",
+    "t1Text": "One tap on a saved row.",
+    "t2Title": "One-time Pro",
+    "t2Text": "No monthly fee.",
+    "t3Title": "On-device storage",
+    "t3Text": "सहेजा डेटा स्वचालित रूप से क्लाउड पर नहीं भेजा जाता।",
+    "t4Title": "21-language UI",
+    "t4Text": "Use the app in many languages."
+  },
+  "pain": {
+    "titleLine1": "हर बार 「कहाँ था?」",
+    "titleLine2": "सोचना बंद करें।",
+    "lead": "वही जानकारी—फिर भी हर बार नोट्स खोजना, लंबा दबाकर फिर चुनना या दोबारा टाइप करना। छोटे-छोटे कदम रोज़ जुड़ते हैं।",
+    "p1Title": "खोजना",
+    "p1Text": "पता या तैयार पाठ—पता नहीं किस नोट में है।",
+    "p2Title": "चुनना",
+    "p2Text": "ज़रूरी हिस्सा लंबे दबाव से चुनना।",
+    "p3Title": "फिर टाइप",
+    "p3Text": "वही जवाब या प्रोफ़ाइल बार-बार टाइप करना।",
+    "resolveLine1": "With MyQuickPaste,",
+    "resolveLine2": "one tap from the list.",
+    "resolveSub": "Save it once, then copy whenever you need it.",
+    "flowOldLabel": "Typical flow",
+    "flowOld1": "Search",
+    "flowOld2": "Select",
+    "flowOld3": "Copy",
+    "flowNewLabel": "MyQuickPaste",
+    "flowNew1": "Tap",
+    "flowNew2": "Copy"
+  },
+  "sceneSocial": {
+    "eyebrow": "For social too",
+    "titleLine1": "Ready to post",
+    "titleLine2": "the moment you think of it.",
+    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "points": [
+      {
+        "title": "Emoji",
+        "text": "Keep favorites handy",
+        "icon": "heart"
+      },
+      {
+        "title": "Social posts",
+        "text": "Prep captions fast",
+        "icon": "camera"
+      },
+      {
+        "title": "Hashtags",
+        "text": "Copy as a set",
+        "icon": "tag"
+      },
+      {
+        "title": "Save time",
+        "text": "Less hunting around",
+        "icon": "clock"
+      }
+    ]
+  },
+  "sceneWork": {
+    "eyebrow": "At work too",
+    "titleLine1": "Cut the time",
+    "titleLine2": "spent searching.",
+    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "points": [
+      {
+        "title": "Snippets",
+        "text": "Your usual replies",
+        "icon": "doc"
+      },
+      {
+        "title": "Email",
+        "text": "Signatures & notices",
+        "icon": "mail"
+      },
+      {
+        "title": "Contacts",
+        "text": "Copy numbers fast",
+        "icon": "phone"
+      },
+      {
+        "title": "Quick copy",
+        "text": "Done in one tap",
+        "icon": "zap"
+      }
+    ]
+  },
+  "sceneDaily": {
+    "eyebrow": "In daily life",
+    "titleLine1": "Keep everyday info",
+    "titleLine2": "closer.",
+    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "points": [
+      {
+        "title": "Address",
+        "text": "Less retyping",
+        "icon": "home"
+      },
+      {
+        "title": "Profile",
+        "text": "Save your intro",
+        "icon": "user"
+      },
+      {
+        "title": "Go-to phrases",
+        "text": "Reuse anytime",
+        "icon": "note"
+      },
+      {
+        "title": "Find fast",
+        "text": "Stay organized",
+        "icon": "search"
+      }
+    ]
+  },
+  "comparison": {
+    "titleLine1": "Not just temporary copies—",
+    "titleLine2": "a home for what you reuse.",
+    "otherLabel": "Notes or clipboard history",
+    "other1": "Open",
+    "other2": "Search",
+    "other3": "Select what you need",
+    "other4": "Copy",
+    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "appLabel": "MyQuickPaste",
+    "app1": "Open",
+    "app2": "Tap a row",
+    "app3": "Copied",
+    "appText": "Keep reusable text and details organized with clear names."
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "Does a tap paste into another app automatically?",
+        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+      },
+      {
+        "q": "Where is my data stored?",
+        "a": "Text, profiles, and settings are stored on your smartphone."
+      },
+      {
+        "q": "Do I lose the app after the 30-day trial?",
+        "a": "नहीं। परीक्षण के बाद आप मुफ़्त प्लान पर जारी रख सकते हैं। आपका सहेजा डेटा हटाया नहीं जाता। मुफ़्त सीमा से अधिक डेटा रखा जाता है और Pro खरीदने पर फिर उपयोग हो सकता है।"
+      },
+      {
+        "q": "Is Pro a monthly subscription?",
+        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+      },
+      {
+        "q": "Can I share data with the Windows edition?",
+        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+      },
+      {
+        "q": "Can I move data when I change phones?",
+        "a": "With Pro you can export JSON and import it on another device."
+      }
+    ]
+  },
+  "windowsEdition": {
+    "titleLine1": "MyQuickPaste",
+    "titleLine2": "on Windows too.",
+    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
+    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
+    "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "इन क्षणों में भी।",
+    "titleLine2": "",
+    "lead": "यात्रा से लेकर सेकंड-हैंड ऐप, चैट, इवेंट तक—पसंदीदा पाठ एक टैप दूर।",
+    "cap3": "मार्केटप्लेस पाठ तुरंत कॉपी",
+    "cap4": "चैट जवाब एक टैप में",
+    "cap6": "आयोजक संदेश तुरंत तैयार"
+  }
+}

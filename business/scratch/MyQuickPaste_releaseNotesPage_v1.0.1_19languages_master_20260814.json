@@ -1,0 +1,116 @@
+{
+  "fr": {
+    "entries[0].date": "Juillet 2026",
+    "entries[0].title": "Catégorie Images",
+    "entries[0].items[0]": "Ajout de la catégorie Images (enregistrez des cartes de visite, des logos, etc.)",
+    "entries[0].items[1]": "Touchez pour copier, partager et prévisualiser les images"
+  },
+  "de": {
+    "entries[0].date": "Juli 2026",
+    "entries[0].title": "Kategorie „Bilder“",
+    "entries[0].items[0]": "Kategorie „Bilder“ hinzugefügt (Visitenkarten, Logos und mehr speichern)",
+    "entries[0].items[1]": "Antippen, um Bilder zu kopieren, zu teilen und in der Vorschau anzuzeigen"
+  },
+  "zh": {
+    "entries[0].date": "2026年7月",
+    "entries[0].title": "图片分类",
+    "entries[0].items[0]": "新增图片分类（可保存名片、徽标等）",
+    "entries[0].items[1]": "点击即可复制、分享和预览图片"
+  },
+  "zh_TW": {
+    "entries[0].date": "2026年7月",
+    "entries[0].title": "圖片分類",
+    "entries[0].items[0]": "新增圖片分類（可儲存名片、標誌等）",
+    "entries[0].items[1]": "點擊即可複製、分享及預覽圖片"
+  },
+  "ko": {
+    "entries[0].date": "2026년 7월",
+    "entries[0].title": "이미지 카테고리",
+    "entries[0].items[0]": "이미지 카테고리 추가(명함, 로고 등 저장)",
+    "entries[0].items[1]": "탭하여 이미지를 복사, 공유 및 미리보기"
+  },
+  "ru": {
+    "entries[0].date": "Июль 2026",
+    "entries[0].title": "Категория «Изображения»",
+    "entries[0].items[0]": "Добавлена категория «Изображения» (сохраняйте визитки, логотипы и многое другое)",
+    "entries[0].items[1]": "Нажмите, чтобы копировать, делиться и просматривать изображения"
+  },
+  "it": {
+    "entries[0].date": "Luglio 2026",
+    "entries[0].title": "Categoria Immagini",
+    "entries[0].items[0]": "Aggiunta la categoria Immagini (salva biglietti da visita, loghi e altro)",
+    "entries[0].items[1]": "Tocca per copiare, condividere e visualizzare in anteprima le immagini"
+  },
+  "es": {
+    "entries[0].date": "Julio de 2026",
+    "entries[0].title": "Categoría Imágenes",
+    "entries[0].items[0]": "Se añadió la categoría Imágenes (guarda tarjetas de visita, logotipos y más)",
+    "entries[0].items[1]": "Toca para copiar, compartir y previsualizar imágenes"
+  },
+  "pt": {
+    "entries[0].date": "Julho de 2026",
+    "entries[0].title": "Categoria Imagens",
+    "entries[0].items[0]": "Adicionada a categoria Imagens (salve cartões de visita, logotipos e muito mais)",
+    "entries[0].items[1]": "Toque para copiar, compartilhar e visualizar imagens"
+  },
+  "hi": {
+    "entries[0].date": "जुलाई 2026",
+    "entries[0].title": "इमेज श्रेणी",
+    "entries[0].items[0]": "इमेज श्रेणी जोड़ी गई (बिज़नेस कार्ड, लोगो और अन्य चीज़ें सहेजें)",
+    "entries[0].items[1]": "इमेज कॉपी करने, शेयर करने और प्रीव्यू देखने के लिए टैप करें"
+  },
+  "ar": {
+    "entries[0].date": "يوليو 2026",
+    "entries[0].title": "فئة الصور",
+    "entries[0].items[0]": "تمت إضافة فئة الصور (لحفظ بطاقات العمل والشعارات والمزيد)",
+    "entries[0].items[1]": "اضغط لنسخ الصور ومشاركتها ومعاينتها"
+  },
+  "id": {
+    "entries[0].date": "Juli 2026",
+    "entries[0].title": "Kategori Gambar",
+    "entries[0].items[0]": "Menambahkan kategori Gambar (simpan kartu nama, logo, dan lainnya)",
+    "entries[0].items[1]": "Ketuk untuk menyalin, membagikan, dan melihat pratinjau gambar"
+  },
+  "th": {
+    "entries[0].date": "กรกฎาคม 2026",
+    "entries[0].title": "หมวดหมู่รูปภาพ",
+    "entries[0].items[0]": "เพิ่มหมวดหมู่รูปภาพ (บันทึกนามบัตร โลโก้ และอื่น ๆ)",
+    "entries[0].items[1]": "แตะเพื่อคัดลอก แชร์ และดูตัวอย่างรูปภาพ"
+  },
+  "vi": {
+    "entries[0].date": "Tháng 7 năm 2026",
+    "entries[0].title": "Danh mục Hình ảnh",
+    "entries[0].items[0]": "Đã thêm danh mục Hình ảnh (lưu danh thiếp, logo và nhiều nội dung khác)",
+    "entries[0].items[1]": "Chạm để sao chép, chia sẻ và xem trước hình ảnh"
+  },
+  "tr": {
+    "entries[0].date": "Temmuz 2026",
+    "entries[0].title": "Görseller kategorisi",
+    "entries[0].items[0]": "Görseller kategorisi eklendi (kartvizitleri, logoları ve daha fazlasını kaydedin)",
+    "entries[0].items[1]": "Görselleri kopyalamak, paylaşmak ve önizlemek için dokunun"
+  },
+  "uk": {
+    "entries[0].date": "Липень 2026",
+    "entries[0].title": "Категорія «Зображення»",
+    "entries[0].items[0]": "Додано категорію «Зображення» (зберігайте візитівки, логотипи та інше)",
+    "entries[0].items[1]": "Натисніть, щоб копіювати, ділитися та переглядати зображення"
+  },
+  "nl": {
+    "entries[0].date": "Juli 2026",
+    "entries[0].title": "Categorie Afbeeldingen",
+    "entries[0].items[0]": "Categorie Afbeeldingen toegevoegd (bewaar visitekaartjes, logo's en meer)",
+    "entries[0].items[1]": "Tik om afbeeldingen te kopiëren, delen en als voorbeeld te bekijken"
+  },
+  "pl": {
+    "entries[0].date": "Lipiec 2026",
+    "entries[0].title": "Kategoria Obrazy",
+    "entries[0].items[0]": "Dodano kategorię Obrazy (zapisuj wizytówki, logo i inne materiały)",
+    "entries[0].items[1]": "Dotknij, aby kopiować, udostępniać i wyświetlać podgląd obrazów"
+  },
+  "sv": {
+    "entries[0].date": "Juli 2026",
+    "entries[0].title": "Bildkategori",
+    "entries[0].items[0]": "Lade till kategorin Bilder (spara visitkort, logotyper med mera)",
+    "entries[0].items[1]": "Tryck för att kopiera, dela och förhandsgranska bilder"
+  }
+}

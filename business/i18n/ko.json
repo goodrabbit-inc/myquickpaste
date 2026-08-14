@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "ko",
-    "title": "MyQuickPaste — 스마트폰용",
-    "description": "자주 쓰는 문장을 스마트폰에 저장해두고 한 번만 눌러 복사하세요. MyQuickPaste는 정형문, 주소, 연락처, 프로필 카드를 카테고리별로 정리해줍니다.",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | 일상 텍스트를 한 번 탭으로 복사",
+    "description": "상용구, 주소, 연락처, URL, 이모지, 해시태그 등 자주 쓰는 내용을 저장하고 탭 한 번에 복사하세요. 평소 쓰는 앱으로 전환해 붙여넣기만 하면 됩니다. MyQuickPaste는 스마트폰 입력을 더 간단하게 만듭니다.",
+    "ogTitle": "MyQuickPaste | 일상 텍스트를 한 번 탭으로 복사",
+    "ogDescription": "자주 쓰는 글과 정보를 저장하고, 필요할 때 탭 한 번에 복사하세요. 평소 쓰는 앱으로 전환해 붙여넣기만 하면 됩니다."
   },
   "lang": {
     "label": "언어",
@@ -15,46 +15,46 @@
     "home": "홈",
     "support": "지원",
     "releaseNotes": "릴리스 노트",
-    "privacy": "개인정보처리방침",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "privacy": "개인정보",
+    "features": "기능",
+    "how": "사용 방법",
+    "screens": "화면",
+    "pricing": "요금",
     "cta": "30일 무료 체험"
   },
   "brand": {
     "name": "MyQuickPaste",
-    "edition": "스마트폰용"
+    "edition": "스마트폰판"
   },
   "hero": {
-    "badge": "Android · iPhone 지원",
-    "catch": "자주 쓰는 문장을 저장해두고, 한 번만 눌러 복사하세요.",
-    "lead": "상용구, 주소, 연락처, URL, 이모지, 해시태그. 자주 쓰는 내용을 저장하고, 필요할 때 목록에서 한 번 탭해 복사.",
+    "badge": "MyQuickPaste 스마트폰판",
+    "catch": "자주 쓰는 글, 탭 한 번으로.",
+    "lead": "상용구, 주소, 연락처, URL, 이모지, 해시태그. 자주 쓰는 내용을 저장하고, 필요할 때 목록에서 탭 한 번에 복사.",
     "platformLine": "Google Play 출시 예정 · App Store 개발 중",
     "trialTitle": "30일 무료 체험",
     "trialText": "첫 설치 후 30일 동안 저장 한도 확대와 백업 기능을 무료로 체험할 수 있습니다.",
-    "trust": "기기 내에만 저장 · 21개 언어 지원",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21개 언어",
+    "eyebrow": "MyQuickPaste 스마트폰판",
+    "catchLine1": "자주 쓰는 글을,",
+    "catchLine2": "탭 한 번으로.",
     "sub": "그다음 평소 쓰는 앱으로 전환해 붙여넣기만 하면 됩니다.",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "사용 방법 보기",
     "ctaSecondary": "30일 무료 체험",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play 출시 예정",
+    "statusApp": "App Store 개발 중",
     "pill1": "30일 무료 체험",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro 일회성 구매",
+    "pill3": "기기에 저장",
+    "pill4": "21개 언어"
   },
   "stores": {
-    "googlePlay": "Google Play에서 다운로드",
+    "googlePlay": "Google Play에서 받기",
     "appStore": "App Store",
     "comingSoon": "출시 예정",
     "inDevelopment": "개발 중",
-    "googlePlayBadgeAlt": "Google Play에서 다운로드",
+    "googlePlayBadgeAlt": "Google Play에서 받기",
     "appStoreBadgeAlt": "App Store에서 다운로드",
-    "microsoftBadgeAlt": "Microsoft Store에서 다운로드 (Windows용 MyQuickPaste)"
+    "microsoftBadgeAlt": "Microsoft에서 받기(Windows판 MyQuickPaste)"
   },
   "compare": {
     "title": "MyQuickPaste 패밀리",
@@ -98,23 +98,23 @@
   },
   "steps": {
     "title": "사용 방법",
-    "subtitle": "저장하고, 누르고, 붙여넣기 — 단 3단계면 충분합니다.",
+    "subtitle": "복잡한 설정 없이 세 단계면 충분합니다.",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "자주 쓰는 내용 저장",
+        "text": "자주 쓰는 글, 연락처 등을 등록합니다."
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "필요한 항목 탭",
+        "text": "한 번 탭하면 클립보드에 복사됩니다."
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "다른 앱에 붙여넣기",
+        "text": "메일, SNS, 채팅, 지도 등으로 전환해 붙여넣습니다."
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "저장하고, 탭하고,",
+    "titleLine2": "붙여넣기."
   },
   "benefits": {
     "title": "이런 점이 좋습니다",
@@ -137,72 +137,72 @@
     ]
   },
   "features": {
-    "title": "주요 기능",
-    "subtitle": "스마트폰에서 자주 하는 복사·붙여넣기를 더 편리하게 만드는 기능들입니다.",
+    "title": "기능",
+    "subtitle": "매일의 입력을 가볍게 하는 도구.",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "한 번 탭으로 복사",
+        "text": "행을 탭하면 내용이 클립보드에 복사됩니다.",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "용도별 정리",
+        "text": "자유 입력, 상용구, 이메일, 전화, 이미지, 프로필로 나눠 관리할 수 있습니다.",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "즐겨찾기 순서 변경",
+        "text": "자주 쓰는 항목을 위로 옮겨 더 쉽게 찾을 수 있습니다.",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "필드별 복사",
+        "text": "필요한 주소, 이름, 전화번호만 복사합니다.",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "이미지 바로 사용",
+        "text": "로고나 사진을 저장하고 복사, 공유, 미리보기.",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "내보내기 및 가져오기",
+        "text": "백업을 내보내고 필요할 때 불러올 수 있습니다. 30일 무료 체험과 Pro에서 이용 가능합니다.",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "외관 선택",
+        "text": "라이트·다크 테마와 함께 Pro에서는 프리미엄 색상 테마를 사용할 수 있습니다.",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "기기에 보관",
+        "text": "텍스트와 프로필은 휴대폰에서 관리됩니다.",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "6가지 카테고리",
+    "categoriesLabel": "카테고리: 자유 입력, 상용구, 이메일, 전화, 이미지, 프로필",
     "categories": [
-      "자유 문장",
-      "정형문",
-      "메일",
+      "자유 입력",
+      "상용구",
+      "이메일",
       "전화",
       "이미지",
       "프로필"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "심플하지만",
+    "titleLine2": "필수 기능은 충실히."
   },
   "themesSection": {
-    "title": "14가지 컬러 테마",
-    "subtitle": "무료 버전은 라이트/다크. Pro 버전에서는 비즈니스용 프리미엄 테마를 추가로 선택할 수 있습니다.",
-    "imageAlt": "MyQuickPaste 14가지 테마 그리드: 위쪽 7개는 밝은 테마, 아래쪽 7개는 다크 테마.",
-    "caption": "상단: 밝은 테마 7종 / 하단: 다크 테마 7종",
-    "note": "프리미엄 테마는 Pro 구매가 필요합니다.",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "테마",
+    "subtitle": "라이트, 다크에 더해 Pro에서는 프리미엄 색상 테마를 이용할 수 있습니다.",
+    "imageAlt": "MyQuickPaste 테마 갤러리",
+    "caption": "라이트 / 다크 / 프리미엄 테마",
+    "note": "프리미엄 테마는 Pro 구매가 필요합니다. 30일 체험에는 포함되지 않습니다.",
+    "titleLine1": "사용 환경에 맞게",
+    "titleLine2": "외관을 선택."
   },
   "usecases": {
     "title": "이런 분들께 추천합니다",
@@ -245,43 +245,43 @@
       "카테고리 이름·아이콘 사용자 지정"
     ],
     "note": "앱 본체는 무료로 다운로드할 수 있습니다. Pro는 스토어를 통해 구매하는 단품 애드온이며, 가격은 지역에 따라 다를 수 있습니다.",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "먼저 30일,",
+    "titleLine2": "사용감을 체험해 보세요.",
+    "trialLabel": "최초 설치 한정",
     "trialTitle": "30일 무료 체험",
     "trialText": "텍스트 카테고리: 각 최대 200개 · 이미지: 최대 50 · 프로필: 최대 30 · 백업 내보내기/가져오기",
     "trialNote": "프리미엄 테마와 카테고리 이름/아이콘 변경은 Pro 구매 후 이용 가능합니다. 30일 체험 종료 후에도 등록 데이터는 삭제되지 않습니다. 무료 한도를 초과한 데이터도 보관되며 Pro 구매 후 다시 이용할 수 있습니다.",
     "freeLead": "기본 기능은 무료로 계속 사용할 수 있습니다.",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "일회성 구매",
+    "proLead": "월 요금 없음.",
+    "notSub": "구독이 아닙니다"
   },
   "privacySection": {
-    "title": "데이터는 기기 안에만",
-    "text": "MyQuickPaste에 등록한 글과 프로필은 기기 내에서 관리됩니다. 등록 내용을 클라우드로 자동 전송하지 않습니다.",
-    "link": "개인정보처리방침 보기",
+    "title": "기기 내 개인정보",
+    "text": "MyQuickPaste에 저장한 텍스트와 프로필은 기기에서 관리됩니다. 콘텐츠를 클라우드로 자동 전송하지 않습니다.",
+    "link": "개인정보처리방침 읽기",
     "titleLine1": "중요한 내용은",
     "titleLine2": "기기 안에.",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "자동 클라우드 동기화 없음",
+      "등록 내용을 외부 서버로 자동 전송하지 않음",
+      "데이터는 기기에서 관리",
+      "30일 무료 체험과 Pro에서 직접 백업을 내보낼 수 있습니다."
     ]
   },
   "cta": {
-    "title": "같은 문장 반복 입력, 오늘부터 그만두는 건 어떨까요?",
-    "lead": "저장하고, 탭하고, 붙여넣기. MyQuickPaste로 매일의 입력을 조금 더 간단하게.",
-    "button": "Google Play에서 다운로드",
-    "titleLine1": "자주 쓰는 글을",
-    "titleLine2": "더 가까이.",
+    "title": "자주 쓰는 글을, 탭 한 번으로.",
+    "lead": "저장하고, 탭하고, 붙여넣기만 하면 됩니다.",
+    "button": "30일 무료 체험",
+    "titleLine1": "자주 쓰는 글을,",
+    "titleLine2": "탭 한 번으로.",
     "sub": "첫 설치 후 30일 동안 저장 한도 확대와 백업 기능을 무료로 체험할 수 있습니다."
   },
   "footer": {
-    "pcEdition": "MyQuickPaste (PC용)",
+    "pcEdition": "Windows판",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "개발: Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "문의"
   },
   "supportPage": {
     "title": "지원",
@@ -322,41 +322,41 @@
     "contactEmail": "myquickpaste@hotmail.com"
   },
   "privacyPage": {
-    "title": "개인정보처리방침",
-    "lead": "MyQuickPaste (스마트폰용)",
-    "updated": "Last updated: July 2026",
+    "title": "개인정보 처리방침",
+    "lead": "MyQuickPaste(스마트폰 버전)",
+    "updated": "최종 업데이트: 2026년 8월 14일",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "개요",
+        "p": "MyQuickPaste는 Good Rabbit inc.(이하 “당사”)가 제공하는 스마트폰 앱입니다. 본 방침은 MyQuickPaste가 사용자의 기기에서 정보를 어떻게 처리하는지 설명합니다."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "당사의 데이터 수집",
+        "p": "MyQuickPaste에는 사용자가 앱에서 이용하는 자유 텍스트, 상용구, 이메일 주소, 전화번호, 프로필, 이미지 또는 클립보드 내용을 당사가 운영하는 서버로 수집·전송·저장하는 처리가 포함되어 있지 않습니다. 이러한 내용은 앱 기능을 제공하기 위해 사용자의 기기에서 처리됩니다. 다만 사용자가 직접 공유 기능을 실행하거나 Android 백업이 작동하거나 Google Play와 같은 스토어 서비스를 이용하는 경우에는 해당 운영체제 또는 서비스의 방식과 정책에 따라 데이터가 처리됩니다."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "기기 내 저장 및 Android 백업",
+        "p": "입력한 내용, 카테고리, 프로필, 앱 설정 및 등록 이미지는 기기의 앱 전용 비공개 저장 영역에 저장됩니다. 등록 이미지는 해당 앱 전용 저장 영역으로 복사되어 저장됩니다. Android에서 운영체제의 백업 기능이 활성화되어 있는 경우 일부 앱 데이터가 사용자의 Google 계정과 연결된 백업 저장소에 백업되거나 그곳에서 복원될 수 있습니다. 현재 앱의 백업 규칙상 등록 이미지 파일은 클라우드 백업 대상에서 제외됩니다. 기기 간 이전 시에는 운영체제 기능을 통해 데이터가 이전될 수 있습니다."
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "보안",
+        "p": "저장된 데이터는 운영체제가 보호하는 앱 전용 비공개 영역에 저장됩니다. 당사는 사용자가 등록한 내용을 보관하기 위한 자체 서버를 운영하지 않습니다. 다만 기기 자체의 보안, 운영체제 백업, 사용자가 내보낸 백업 파일의 보안은 해당 기기·서비스 및 사용자가 관리하는 저장 위치의 보안과 관리 상태에 따라 달라집니다."
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "클립보드 접근",
+        "p": "메인 화면의 미리보기 표시 및 관련 기능 제공을 위해 MyQuickPaste는 현재 기기의 클립보드에 저장된 텍스트 또는 이미지를 읽을 수 있습니다. 클립보드 내용은 기기에서 처리되며, 사용자가 명시적으로 등록하지 않는 한 자동으로 영구 저장되지 않습니다. 클립보드 이미지 미리보기를 위해 앱이 임시 캐시 파일을 생성할 수 있습니다. MyQuickPaste에는 클립보드 내용을 당사가 운영하는 서버로 전송하는 처리가 포함되어 있지 않습니다."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "데이터 보관, 삭제 및 백업",
+        "p": "저장된 데이터는 사용자가 앱에서 삭제하거나 앱을 제거할 때까지 기기의 앱 저장 영역에 보관됩니다. 앱을 제거하면 기기의 로컬 앱 데이터는 삭제되지만 Android 운영체제 백업 또는 사용자가 내보내 보관한 백업 파일에는 별도의 사본이 남아 있을 수 있습니다. 30일 무료 체험 기간 및 Pro에서는 데이터를 MyQuickPaste 백업 파일(.mqp)로 내보내고 가져올 수 있습니다. 내보낸 파일의 저장 위치는 사용자가 선택하며, 내보낸 백업 파일의 관리와 삭제도 사용자가 직접 담당합니다."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "앱 스토어, 구매 및 외부 서비스",
+        "p": "30일 무료 체험은 최초 설치 시간을 기준으로 앱 내부에서 관리됩니다. Android 버전 배포 및 Pro 구매는 Google Play를 통해 처리되며 구매 확인에는 Google Play Billing이 사용됩니다. Pro는 일회성 인앱 구매이며 구독이 아닙니다. 당사는 신용카드 번호 등 결제 카드 정보를 직접 수신하지 않습니다. 앱은 분석 또는 광고 목적의 타사 SDK를 사용하지 않습니다. Google Play의 구매 또는 리뷰 기능이나 사용자가 선택한 공유, 이메일, 웹 브라우저 등의 외부 기능을 이용하는 경우에는 해당 서비스의 개인정보 처리방침 및 약관이 적용됩니다. iOS 버전은 현재 개발 중이며 배포 및 구매 구현이 확정되면 필요에 따라 본 방침을 업데이트합니다."
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "문의",
+        "p": "본 방침에 관한 문의는 myquickpaste@hotmail.com 으로 연락해 주세요."
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "2026년 7월",
+        "title": "이미지 카테고리",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "이미지 카테고리 추가(명함, 로고 등 저장)",
+          "탭하여 이미지를 복사, 공유 및 미리보기",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,11 +394,11 @@
     ]
   },
   "screenshots": {
-    "title": "앱 화면 살펴보기",
-    "subtitle": "MyQuickPaste (Android)의 실제 화면입니다.",
-    "freetextAlt": "자유 문장 목록. 서명이나 URL 등을 한 번에 복사",
-    "snippetsAlt": "정형문 카테고리. 메일 답장 템플릿",
-    "profileAlt": "프로필 카드 (집, 회사 등)",
+    "title": "앱 화면",
+    "subtitle": "MyQuickPaste 실제 화면입니다.",
+    "freetextAlt": "자유 텍스트 목록 화면",
+    "snippetsAlt": "상용구 목록 화면",
+    "profileAlt": "프로필 카드 화면",
     "profileEditAlt": "프로필 편집 화면",
     "cateAlt": "6개 카테고리 탭 (자유 문장·정형문·메일·전화·주소·프로필)",
     "items": [
@@ -421,188 +421,188 @@
         "caption": "카테고리 탭 — 여섯 목록을 바로 전환"
       }
     ],
-    "imagesAlt": "이미지 카테고리. 샘플 사진을 한 번에 복사·공유",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "이미지 카테고리 화면",
+    "titleLine1": "보면 바로",
+    "titleLine2": "사용할 수 있습니다.",
+    "lead": "큰 행, 명확한 카테고리, 간단한 편집—일상 사용을 위해 설계했습니다.",
+    "freetextCap": "재사용 텍스트를 한 목록에서 관리",
+    "snippetsCap": "자주 쓰는 답장 빠르게 복사",
+    "imagesCap": "이미지 저장·복사·공유",
+    "profileCap": "주소나 연락처 필드별 복사",
+    "profileEditCap": "필요한 정보를 함께 등록"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "등록 데이터를 클라우드로 자동 전송하지 않습니다.",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "탭으로 복사",
+    "t1Text": "저장한 행을 탭하기만 하면 됩니다.",
+    "t2Title": "일회성 Pro",
+    "t2Text": "월별 결제가 없습니다.",
+    "t3Title": "기기 내 저장",
+    "t3Text": "등록한 내용은 기기 내에서 관리됩니다.",
+    "t4Title": "21개 언어 UI",
+    "t4Text": "21개 언어 화면을 지원합니다."
   },
   "pain": {
     "titleLine1": "매번 「어디 있더라?」",
     "titleLine2": "그만하세요.",
-    "lead": "자주 쓰는 정보인데 매번 메모를 찾고, 길게 눌러 다시 선택하고, 같은 글자를 다시 입력합니다. 작은 수고가 매일 쌓입니다.",
+    "lead": "자주 쓰는 정보인데 매번 메모를 찾고, 길게 눌러 다시 선택하고, 같은 글을 다시 입력합니다. 작은 수고가 매일 쌓입니다.",
     "p1Title": "찾기",
     "p1Text": "주소나 상용구가 어디에 있는지 모릅니다.",
     "p2Title": "선택",
     "p2Text": "필요한 부분만 길게 눌러 범위 선택.",
     "p3Title": "다시 입력",
     "p3Text": "답장이나 프로필을 키보드로 반복 입력.",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "MyQuickPaste라면",
+    "resolveLine2": "목록에서 한 번 탭.",
+    "resolveSub": "찾지 않습니다. 다시 입력하지 않습니다. 필요한 행을 탭하기만 하면 됩니다.",
+    "flowOldLabel": "일반적인 흐름",
+    "flowOld1": "찾기",
+    "flowOld2": "선택",
+    "flowOld3": "복사",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "탭",
+    "flowNew2": "복사"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "SNS에서도",
+    "titleLine1": "이모지와 해시태그—",
+    "titleLine2": "필요할 때 바로 복사.",
+    "lead": "즐겨찾는 이모지, 해시태그, 자주 쓰는 게시글을 저장하세요. 탭해서 복사하고 평소 쓰는 SNS에 붙여넣기만 하면 됩니다.",
     "points": [
       {
-        "title": "Emoji",
-        "text": "Keep favorites handy",
+        "title": "이모지",
+        "text": "즐겨찾기 저장",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "게시글",
+        "text": "자주 쓰는 글 저장",
         "icon": "camera"
       },
       {
-        "title": "Hashtags",
-        "text": "Copy as a set",
+        "title": "해시태그",
+        "text": "한꺼번에 복사",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "빠른 복사",
+        "text": "필요할 때 탭 한 번",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "업무에서도",
+    "titleLine1": "상용구와 연락처—",
+    "titleLine2": "필요할 때 바로 복사.",
+    "lead": "상용구, 이메일, 전화번호, URL 등 자주 쓰는 정보를 한곳에 모으세요. 행을 탭하면 바로 복사할 수 있습니다.",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "상용구",
+        "text": "평소 답장",
         "icon": "doc"
       },
       {
-        "title": "Email",
-        "text": "Signatures & notices",
+        "title": "이메일",
+        "text": "서명과 안내문 저장",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "연락처",
+        "text": "전화번호 빠르게 복사",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "빠른 복사",
+        "text": "탭 한 번으로 완료",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "일상에서도",
+    "titleLine1": "주소와 프로필—",
+    "titleLine2": "필요할 때 바로 복사.",
+    "lead": "집 주소, 이메일, 프로필 문구, 자주 쓰는 한마디. 필요할 때 탭해서 바로 복사할 수 있습니다.",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "주소",
+        "text": "재입력 줄이기",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "프로필",
+        "text": "자기소개 저장",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "자주 쓰는 문구",
+        "text": "언제든 재사용",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "빠르게 찾기",
+        "text": "깔끔하게 정리",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "일시적 복사가 아니라",
+    "titleLine2": "자주 쓰는 정보의 보관함.",
+    "otherLabel": "메모 또는 클립보드 기록",
+    "other1": "열기",
+    "other2": "찾기",
+    "other3": "필요한 부분 선택",
+    "other4": "복사",
+    "otherText": "최근 기록에는 편리합니다. 자주 쓰는 정보는 찾는 과정이 번거로워집니다.",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "열기",
+    "app2": "행 탭",
+    "app3": "복사 완료",
+    "appText": "자주 쓰는 글과 정보를 알기 쉽게 정리해 저장할 수 있습니다."
   },
   "faq": {
     "title": "FAQ",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "탭하면 다른 앱에 자동으로 붙여넣기되나요?",
+        "a": "행을 탭하면 클립보드에 복사됩니다. 그다음 메일, SNS, 채팅 앱으로 전환해 붙여넣으세요."
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "데이터는 어디에 저장되나요?",
+        "a": "텍스트, 프로필, 설정은 스마트폰에 저장됩니다."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "30일 체험 후 앱을 잃게 되나요?",
         "a": "아니요. 체험 종료 후에도 무료 플랜으로 계속 사용할 수 있습니다. 등록 데이터는 삭제되지 않습니다. 무료 한도를 초과한 데이터도 보관되며 Pro 구매 후 다시 이용할 수 있습니다."
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Pro는 월 구독인가요?",
+        "a": "아닙니다. Pro는 일회성 구매이며 월 요금이 없습니다."
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "Windows판과 데이터를 공유할 수 있나요?",
+        "a": "스마트폰판과 Windows판은 별도 앱입니다. 구매와 저장 데이터는 공유되지 않습니다."
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "기기 변경 시 데이터를 옮길 수 있나요?",
+        "a": "백업을 내보내고 필요할 때 불러올 수 있습니다. 30일 무료 체험과 Pro에서 이용 가능합니다."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "Windows에서도.",
+    "text": "Windows판은 화면 가장자리에 상주하며 등록한 텍스트를 클릭 한 번으로 붙여넣을 수 있는 별도 앱입니다.",
+    "note": "스마트폰판과 같은 앱이 아닙니다. 구매와 저장 데이터는 공유되지 않습니다.",
+    "link": "Windows판 홈페이지"
   },
   "sceneMore": {
-    "titleLine1": "이런 상황에서도.",
+    "titleLine1": "이런 순간에도 유용합니다.",
     "titleLine2": "",
-    "lead": "여행부터 중고 거래, 채팅, 행사 준비까지. 자주 쓰는 글은 한 번의 탭으로.",
+    "lead": "여행, 중고 거래, 채팅, 행사 준비까지. 어떤 상황에서도 자주 쓰는 글을 탭 한 번에 복사.",
     "cap3": "중고 거래 상용구, 바로 복사",
-    "cap4": "채팅 답장도 탭 한 번",
-    "cap6": "행사 안내문도 즉시 사용"
+    "cap4": "채팅 답장, 바로 복사",
+    "cap6": "행사 안내문, 바로 복사"
   }
 }

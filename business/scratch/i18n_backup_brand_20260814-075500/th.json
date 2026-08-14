@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "lang": "th",
+    "title": "MyQuickPaste — เวอร์ชันสมาร์ทโฟน",
+    "description": "บันทึกข้อความที่ใช้บ่อยไว้ในสมาร์ทโฟนแล้วคัดลอกได้ในแตะเดียว MyQuickPaste จัดหมวดหมู่ประโยคสำเร็จรูป ที่อยู่ รายชื่อผู้ติดต่อ และการ์ดโปรไฟล์ให้เป็นระเบียบ",
+    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
+    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+  },
+  "lang": {
+    "label": "ภาษา",
+    "ja": "日本語",
+    "en": "English"
+  },
+  "nav": {
+    "home": "หน้าแรก",
+    "support": "ช่วยเหลือ",
+    "releaseNotes": "บันทึกการอัปเดต",
+    "privacy": "ความเป็นส่วนตัว",
+    "features": "Features",
+    "how": "How it works",
+    "screens": "Screens",
+    "pricing": "Pricing",
+    "cta": "ทดลองใช้ฟรี 30 วัน"
+  },
+  "brand": {
+    "name": "MyQuickPaste",
+    "edition": "เวอร์ชันสมาร์ทโฟน"
+  },
+  "hero": {
+    "badge": "สำหรับ Android และ iPhone",
+    "catch": "บันทึกสิ่งที่ใช้ทุกวัน แตะเดียวก็คัดลอกได้",
+    "lead": "ข้อความสำเร็จรูป ที่อยู่ ติดต่อ URL อีโมจิ แฮชแท็ก บันทึกสิ่งที่ใช้บ่อย แล้วคัดลอกด้วยแตะครั้งเดียวจากรายการ",
+    "platformLine": "Google Play เร็วๆ นี้ · App Store กำลังพัฒนา",
+    "trialTitle": "ทดลองใช้ฟรี 30 วัน",
+    "trialText": "ภายใน 30 วันหลังติดตั้งครั้งแรก ลองใช้ขีดจำกัดการบันทึกที่สูงขึ้นและการสำรองข้อมูลได้ฟรี",
+    "trust": "ข้อมูลอยู่ในเครื่องของคุณเท่านั้น · รองรับ 21 ภาษา",
+    "eyebrow": "MyQuickPaste for smartphones",
+    "catchLine1": "Everyday text,",
+    "catchLine2": "one tap away.",
+    "sub": "จากนั้นสลับไปแอปที่ใช้ประจำแล้ววาง",
+    "ctaPrimary": "See how it works",
+    "ctaSecondary": "ทดลองใช้ฟรี 30 วัน",
+    "statusPlay": "Google Play coming soon",
+    "statusApp": "App Store in development",
+    "pill1": "ทดลองใช้ฟรี 30 วัน",
+    "pill2": "Pro is a one-time purchase",
+    "pill3": "Stored on your device",
+    "pill4": "21 languages"
+  },
+  "stores": {
+    "googlePlay": "ดาวน์โหลดที่ Google Play",
+    "appStore": "App Store",
+    "comingSoon": "เร็วๆ นี้",
+    "inDevelopment": "กำลังพัฒนา",
+    "googlePlayBadgeAlt": "ดาวน์โหลดที่ Google Play",
+    "appStoreBadgeAlt": "ดาวน์โหลดที่ App Store",
+    "microsoftBadgeAlt": "ดาวน์โหลดที่ Microsoft Store (MyQuickPaste เวอร์ชัน Windows)"
+  },
+  "compare": {
+    "title": "ตระกูลแอป MyQuickPaste",
+    "subtitle": "แนวคิดเดียวกัน คือการวางสิ่งที่ใช้บ่อยได้ทันที แต่ออกแบบต่างกันสำหรับพีซีและสมาร์ทโฟน",
+    "pcTitle": "MyQuickPaste (เวอร์ชัน Windows)",
+    "pcText": "แอป Windows ที่พร้อมใช้งานอยู่ริมหน้าจอตลอดเวลา วางข้อความได้ทันทีด้วยคลิกเดียว",
+    "pcLink": "เว็บไซต์เวอร์ชัน Windows",
+    "mobileTitle": "MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
+    "mobileText": "บันทึกข้อความที่ใช้บ่อยไว้ในสมาร์ทโฟน แล้วเรียกกลับมาคัดลอกใหม่ได้ทุกเมื่อ",
+    "note": "เวอร์ชันพีซีและสมาร์ทโฟนเป็นแอปคนละตัวกัน การซื้อและข้อมูลที่บันทึกไว้จะไม่ใช้ร่วมกันระหว่างสองเวอร์ชัน"
+  },
+  "problem": {
+    "title": "คุณเคยรู้สึกแบบนี้บนมือถือไหม?",
+    "items": [
+      "ต้องค้นหาในแชทหรือโน้ตเก่าทุกครั้งที่ต้องการที่อยู่หรือเบอร์โทรเดิม",
+      "ต้องพิมพ์ลายเซ็นหรือคำตอบสำเร็จรูปซ้ำๆ บนคีย์บอร์ดหน้าจอเล็ก",
+      "ต้องสลับแอปไปมาแค่เพื่อคัดลอกข้อความบรรทัดเดียวอีกครั้ง"
+    ],
+    "solution": "บันทึกไว้ครั้งเดียวใน MyQuickPaste แล้วแค่เปิดแอปและแตะ วางลงในอีเมล แชท แผนที่ ได้ทุกที่ที่ต้องการ"
+  },
+  "clipboardCompare": {
+    "title": "ต่างจากคลิปบอร์ดของ Gboard อย่างไร",
+    "subtitle": "สำหรับข้อความที่เพิ่งคัดลอก Gboard ยังคงเร็วกว่า แต่สำหรับข้อความที่ต้องใช้ทุกวันหรือทุกสัปดาห์ แอปนี้เหมาะกว่ามาก",
+    "clipboardTitle": "คลิปบอร์ดของ Gboard",
+    "clipboardTag": "ประวัติการคัดลอกล่าสุด",
+    "clipboardItems": [
+      "เลือกจากคีย์บอร์ดแล้ววางได้ทันที เป็นวิธีที่เร็วที่สุด",
+      "บันทึกสิ่งที่เพิ่งคัดลอกไว้โดยอัตโนมัติ",
+      "รายการที่ไม่ได้ปักหมุดจะหายไปหลังจากประมาณ 5 รายการหรือ 1 ชั่วโมง",
+      "ประวัติที่ปะปนกันทำให้จัดเก็บข้อความโปรดอย่างเป็นระเบียบได้ยาก"
+    ],
+    "appTitle": "MyQuickPaste",
+    "appTag": "ที่เก็บถาวรสำหรับข้อความสำคัญของคุณ",
+    "appItems": [
+      "บันทึกที่อยู่ ลายเซ็น และคำตอบสำเร็จรูปพร้อมตั้งชื่อได้",
+      "หกหมวดหมู่: ข้อความอิสระ ประโยคสำเร็จรูป อีเมล เบอร์โทร ที่อยู่ โปรไฟล์",
+      "รายการจะคงอยู่จนกว่าคุณจะลบเอง ไม่หายไปเองเหมือนประวัติ",
+      "ออกแบบมาให้ค้นหาและคัดลอกข้อความที่ใช้บ่อยที่สุดได้อย่างรวดเร็ว"
+    ],
+    "footer": "คัดลอกอะไรไปเมื่อไม่กี่ชั่วโมงก่อน? Gboard เหมาะกับสิ่งนั้น แต่ที่อยู่ ลายเซ็น หรือคำตอบสำเร็จรูปที่ใช้ทุกสัปดาห์? บันทึกไว้ที่นี่ครั้งเดียว แล้วคุณจะไม่ต้องค้นหามันอีกเลย"
+  },
+  "steps": {
+    "title": "วิธีใช้งาน",
+    "subtitle": "บันทึก แตะ วาง เพียง 3 ขั้นตอนง่ายๆ",
+    "items": [
+      {
+        "title": "Save what you reuse",
+        "text": "Add text or contact details with a clear name."
+      },
+      {
+        "title": "Tap the row you need",
+        "text": "One tap copies the content to your clipboard."
+      },
+      {
+        "title": "Paste in another app",
+        "text": "Switch to mail, social, chat, maps, and paste."
+      }
+    ],
+    "titleLine1": "Save, tap,",
+    "titleLine2": "then paste."
+  },
+  "benefits": {
+    "title": "สิ่งที่ผู้ใช้ชื่นชอบที่สุด",
+    "items": [
+      {
+        "title": "ใช้งานง่ายด้วยมือเดียว",
+        "text": "แถวขนาดใหญ่ แท็บหมวดหมู่ และเลย์เอาต์แนวตั้ง ออกแบบมาให้เลือกสิ่งที่ต้องการได้อย่างรวดเร็วแม้ขณะเดินทาง",
+        "icon": "📱"
+      },
+      {
+        "title": "ค้นหาง่าย",
+        "text": "แทนที่จะยัดทุกอย่างไว้ในโน้ตยาวๆ ให้เก็บประโยคสำเร็จรูป รายชื่อผู้ติดต่อ และการ์ดโปรไฟล์แยกเป็นรายการต่างหาก",
+        "icon": "🗂️"
+      },
+      {
+        "title": "อยู่ในเครื่องของคุณเท่านั้น",
+        "text": "ประโยคสำเร็จรูปและรายชื่อผู้ติดต่อสำคัญของคุณจะอยู่ในโทรศัพท์ของคุณเท่านั้น เราไม่มีบริการซิงค์ผ่านคลาวด์",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "ฟีเจอร์หลัก",
+    "subtitle": "ฟีเจอร์ที่ทำให้การคัดลอกและวางในชีวิตประจำวันบนมือถือของคุณง่ายขึ้น",
+    "items": [
+      {
+        "title": "Copy with one tap",
+        "text": "Tap a row to copy its content to the clipboard.",
+        "icon": "tap",
+        "large": true
+      },
+      {
+        "title": "Organize by use",
+        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "icon": "folder",
+        "large": true
+      },
+      {
+        "title": "Reorder favorites",
+        "text": "Move frequent items to the top so they’re easier to find.",
+        "icon": "sort"
+      },
+      {
+        "title": "Copy field by field",
+        "text": "Copy only the address, name, or phone number you need.",
+        "icon": "card"
+      },
+      {
+        "title": "Images ready to use",
+        "text": "Save logos or photos, then copy, share, or preview.",
+        "icon": "image"
+      },
+      {
+        "title": "Export and import",
+        "text": "Pro can export and import JSON backups.",
+        "icon": "backup"
+      },
+      {
+        "title": "Choose a look",
+        "text": "Light, dark, and premium color themes are available.",
+        "icon": "theme"
+      },
+      {
+        "title": "Stays on device",
+        "text": "Your text and profiles are managed on the phone.",
+        "icon": "lock"
+      }
+    ],
+    "categoriesLabel": "6 หมวดหมู่",
+    "categories": [
+      "ข้อความอิสระ",
+      "ประโยคสำเร็จรูป",
+      "อีเมล",
+      "เบอร์โทร",
+      "รูปภาพ",
+      "โปรไฟล์"
+    ],
+    "titleLine1": "Simple,",
+    "titleLine2": "with the essentials."
+  },
+  "themesSection": {
+    "title": "ธีมสี 14 แบบ",
+    "subtitle": "ฟรีมีโหมดสว่างและมืด Pro ปลดล็อกพาเลตพรีเมียมสำหรับธุรกิจและใช้งานประจำวัน",
+    "imageAlt": "ตารางธีม MyQuickPaste 14 แบบ: ด้านบน 7 ธีมสว่าง ด้านล่าง 7 ธีมมืด",
+    "caption": "แถวบน: ธีมสว่าง 7 แบบ / แถวล่าง: ธีมมืด 7 แบบ",
+    "note": "ธีมพรีเมียมต้องซื้อ Pro",
+    "titleLine1": "Match the look",
+    "titleLine2": "to where you use it."
+  },
+  "usecases": {
+    "title": "เหมาะสำหรับ",
+    "items": [
+      {
+        "title": "ทีมขายและพนักงานภาคสนาม",
+        "text": "คัดลอกที่อยู่ เบอร์โทร และคำตอบสำเร็จรูปได้ทันทีขณะไปพบลูกค้า"
+      },
+      {
+        "title": "พนักงานออฟฟิศและฝ่ายบริการลูกค้า",
+        "text": "เตรียมคำตอบสำเร็จรูปและข้อมูลติดต่อไว้ในมือถือ พร้อมตอบกลับได้อย่างรวดเร็วแม้อยู่นอกออฟฟิศ"
+      },
+      {
+        "title": "ใช้งานส่วนตัว",
+        "text": "บันทึกที่อยู่บ้าน ลายเซ็นอีเมล และประโยคที่ใช้บ่อย สิ่งจำเป็นในชีวิตประจำวัน"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "ราคา",
+    "subtitle": "ภายใน 30 วันหลังติดตั้งครั้งแรก ลองใช้ขีดจำกัดที่สูงขึ้นและการสำรองข้อมูลได้ฟรี หลังจากนั้นยังใช้แผนฟรีต่อได้",
+    "freeTitle": "ฟรี",
+    "freePrice": "0",
+    "freeItems": [
+      "หมวดข้อความ: 10 ต่อหมวด",
+      "รูปภาพ: 10",
+      "โปรไฟล์: 1",
+      "ค้นหา",
+      "จัดเรียง",
+      "บันทึกด่วน"
+    ],
+    "proTitle": "Pro (ซื้อครั้งเดียว)",
+    "proPrice": "ดูราคาในสโตร์",
+    "proItems": [
+      "หมวดข้อความ: สูงสุด 200 ต่อหมวด",
+      "รูปภาพ: 50",
+      "โปรไฟล์: 30",
+      "ส่งออก/นำเข้าข้อมูลสำรอง",
+      "ธีมพรีเมียม",
+      "ชื่อและไอคอนหมวดหมู่ที่กำหนดเอง"
+    ],
+    "note": "ตัวแอปดาวน์โหลดได้ฟรี ส่วน Pro เป็นแอดออนที่ซื้อครั้งเดียวผ่านสโตร์แอป ราคาอาจแตกต่างกันไปตามภูมิภาค",
+    "titleLine1": "Try it for 30 days",
+    "titleLine2": "and feel the difference.",
+    "trialLabel": "First install only",
+    "trialTitle": "ทดลองใช้ฟรี 30 วัน",
+    "trialText": "หมวดข้อความ: สูงสุด 200 ต่อหมวด · รูปภาพ: 50 · โปรไฟล์: 30 · ส่งออก/นำเข้าข้อมูลสำรอง",
+    "trialNote": "ธีมพรีเมียมและการเปลี่ยนชื่อ/ไอคอนหมวดหมู่ใช้ได้หลังซื้อ Pro หลังครบ 30 วัน ข้อมูลที่บันทึกจะไม่ถูกลบ ข้อมูลที่เกินขีดจำกัดฟรียังคงอยู่และใช้ได้อีกครั้งเมื่อซื้อ Pro",
+    "freeLead": "ฟีเจอร์หลักใช้ฟรีได้ต่อเนื่อง",
+    "proTag": "One-time purchase",
+    "proLead": "No monthly fee.",
+    "notSub": "Not a subscription"
+  },
+  "privacySection": {
+    "title": "ข้อมูลของคุณอยู่ในมือถือของคุณเท่านั้น",
+    "text": "ข้อความและโปรไฟล์ใน MyQuickPaste จัดการบนอุปกรณ์ เราไม่ส่งเนื้อหาไปคลาวด์โดยอัตโนมัติ",
+    "link": "อ่านนโยบายความเป็นส่วนตัว",
+    "titleLine1": "สิ่งสำคัญอยู่",
+    "titleLine2": "ในอุปกรณ์ของคุณ",
+    "points": [
+      "No automatic cloud sync",
+      "Snippet content is not sent to our servers",
+      "Data stays managed on device",
+      "Pro lets you export your own backup"
+    ]
+  },
+  "cta": {
+    "title": "ถึงเวลาเลิกพิมพ์ข้อความเดิมซ้ำๆ บนมือถือของคุณ",
+    "lead": "บันทึก แตะ วาง ทำให้การพิมพ์ประจำวันง่ายขึ้นด้วย MyQuickPaste",
+    "button": "ดาวน์โหลดที่ Google Play",
+    "titleLine1": "ข้อความที่ใช้บ่อย",
+    "titleLine2": "ใกล้มือขึ้น",
+    "sub": "ภายใน 30 วันหลังติดตั้งครั้งแรก ลองใช้ขีดจำกัดที่สูงขึ้นและการสำรองข้อมูลได้ฟรี"
+  },
+  "footer": {
+    "pcEdition": "MyQuickPaste (เวอร์ชันพีซี)",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. สงวนลิขสิทธิ์",
+    "developer": "ผู้พัฒนา: Kazuhiro Suda",
+    "contact": "Contact"
+  },
+  "supportPage": {
+    "title": "ช่วยเหลือ",
+    "lead": "ความช่วยเหลือสำหรับ MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
+    "faqTitle": "คำถามที่พบบ่อย",
+    "items": [
+      {
+        "q": "นี่คือแอปเดียวกับ MyQuickPaste เวอร์ชัน Windows หรือไม่?",
+        "a": "ไม่ใช่ MyQuickPaste เป็นเวอร์ชันแยกต่างหากสำหรับสมาร์ทโฟน มีแนวคิดเดียวกันแต่เป็นแอปอิสระที่มีข้อมูลและการซื้อในสโตร์ของตัวเอง"
+      },
+      {
+        "q": "เวอร์ชันฟรีกับ Pro ต่างกันอย่างไร?",
+        "a": "แผนฟรีรวม 10 รายการต่อหมวดข้อความ รูปภาพ 10 และโปรไฟล์ 1 คัดลอก เพิ่มข้อมูล ค้นหา จัดเรียง และบันทึกด่วนใช้ได้ Pro เพิ่มขีดจำกัด การสำรองข้อมูล ธีมพรีเมียม และการปรับหมวดหมู่ ติดตั้งใหม่: ทดลองใช้ฟรี 30 วันสำหรับขีดจำกัดและสำรอง (ธีมพรีเมียมและการปรับแต่งต้องซื้อ Pro)"
+      },
+      {
+        "q": "การทดลองใช้ 30 วันทำงานอย่างไร?",
+        "a": "ภายใน 30 วันจากการเปิดครั้งแรก: สูงสุด 200 รายการต่อหมวดข้อความ รูปภาพ 50 โปรไฟล์ 30 และสำรองข้อมูลฟรี ธีมพรีเมียมและการปรับแต่งต้องซื้อ Pro ข้อมูลไม่ถูกลบหลังทดลองใช้"
+      },
+      {
+        "q": "ข้อมูลของฉันถูกเก็บไว้ที่ไหน?",
+        "a": "ข้อความที่บันทึก การ์ดโปรไฟล์ และการตั้งค่าจะถูกจัดเก็บไว้ในอุปกรณ์ของคุณเท่านั้น"
+      },
+      {
+        "q": "ฉันจะสำรองหรือย้ายข้อมูลได้อย่างไร?",
+        "a": "ผู้ใช้ Pro สามารถส่งออกไฟล์สำรอง JSON จากการตั้งค่า แล้วนำเข้าไปยัง MyQuickPaste บนอุปกรณ์เครื่องอื่นได้"
+      },
+      {
+        "q": "เวอร์ชัน iPhone จะพร้อมใช้งานเมื่อไหร่?",
+        "a": "เวอร์ชัน iOS กำลังอยู่ระหว่างการพัฒนา หน้านี้จะได้รับการอัปเดตเมื่อพร้อมใช้งานบน App Store"
+      },
+      {
+        "q": "จะซื้อ Pro ได้อย่างไร?",
+        "a": "เปิดหน้าจออัปเกรดภายในแอป หรือค้นหาแอดออน Pro ในสโตร์ การชำระเงินจะดำเนินการทั้งหมดผ่าน Google Play หรือ App Store"
+      }
+    ],
+    "contactTitle": "ติดต่อเรา",
+    "contactText": "หากต้องการแจ้งปัญหาหรือเสนอฟีเจอร์ใหม่ กรุณาส่งอีเมลถึงเรา:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "นโยบายความเป็นส่วนตัว",
+    "lead": "MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
+    "updated": "Last updated: July 2026",
+    "sections": [
+      {
+        "h": "Overview",
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+      },
+      {
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+      },
+      {
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+      },
+      {
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+      },
+      {
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "บันทึกการอัปเดต",
+    "lead": "ประวัติเวอร์ชันของ MyQuickPaste",
+    "latestPrefix": "เวอร์ชันล่าสุด:",
+    "storeNote": "การอัปเดตจะเผยแพร่ผ่าน Google Play (และจะเผยแพร่ผ่าน App Store ด้วยหลังจากพร้อมใช้งาน)",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "เวอร์ชันแรก (Android)",
+        "items": [
+          "รายการแบ่งตามหมวดหมู่: ข้อความอิสระ ประโยคสำเร็จรูป อีเมล เบอร์โทร ที่อยู่ โปรไฟล์",
+          "คัดลอกในแตะเดียว ดูตัวอย่างด้วยการกดค้าง",
+          "การ์ดโปรไฟล์พร้อมคัดลอกแยกแต่ละช่องข้อมูล",
+          "โหมดจัดเรียงลำดับสำหรับรายการและโปรไฟล์",
+          "แผนฟรี + ทดลองใช้ฟรี 30 วัน (ขีดจำกัดสูงขึ้นและสำรองข้อมูล)",
+          "ส่งออก/นำเข้า JSON (Pro)",
+          "ธีมสว่างและมืด ธีมพรีเมียมเมื่อซื้อ Pro",
+          "การตั้งค่ายืนยันการคัดลอก หมวดหมู่เริ่มต้น และการสำรองข้อมูล"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "ดูแอปในการใช้งานจริง",
+    "subtitle": "ภาพหน้าจอจริงจาก MyQuickPaste (Android)",
+    "freetextAlt": "รายการข้อความอิสระพร้อมลายเซ็นที่บันทึกไว้และคัดลอกในแตะเดียว",
+    "snippetsAlt": "หมวดหมู่ประโยคสำเร็จรูปพร้อมเทมเพลตคำตอบอีเมล",
+    "profileAlt": "การ์ดโปรไฟล์สำหรับรายชื่อผู้ติดต่อที่บ้าน ที่ทำงาน และอื่นๆ",
+    "profileEditAlt": "หน้าจอแก้ไขโปรไฟล์พร้อมช่องที่อยู่และข้อมูลติดต่อ",
+    "cateAlt": "แท็บหมวดหมู่หกแท็บ: ข้อความอิสระ ประโยคสำเร็จรูป อีเมล เบอร์โทร ที่อยู่ โปรไฟล์",
+    "items": [
+      {
+        "caption": "ข้อความอิสระ — ลายเซ็น URL และข้อมูลบัญชีในพริบตา"
+      },
+      {
+        "caption": "ข้อความสำเร็จรูป — ตอบพร้อมใช้สำหรับอีเมลและแชท"
+      },
+      {
+        "caption": "รูปภาพ — โลโก้ รูปถ่าย และภาพหน้าจอ พร้อมคัดลอก"
+      },
+      {
+        "caption": "โปรไฟล์ — คัดลอกที่อยู่ โทรศัพท์ หรือทั้งหมดในแตะเดียว"
+      },
+      {
+        "caption": "แก้ไขโปรไฟล์ — แยกการ์ดบ้าน ที่ทำงาน และลูกค้า"
+      },
+      {
+        "caption": "แท็บหมวดหมู่ — สลับระหว่าง 6 รายการได้ทันที"
+      }
+    ],
+    "imagesAlt": "หมวดรูปภาพ พร้อมตัวอย่างให้คัดลอกหรือแชร์ได้ทันที",
+    "titleLine1": "Clear enough",
+    "titleLine2": "to use right away.",
+    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
+    "freetextCap": "Manage reusable text in one list",
+    "snippetsCap": "Copy your usual replies fast",
+    "imagesCap": "Save, copy, and share images",
+    "profileCap": "Copy address or contact fields one by one",
+    "profileEditCap": "Register the details you need together"
+  },
+  "trust": {
+    "t1Title": "Tap to copy",
+    "t1Text": "One tap on a saved row.",
+    "t2Title": "One-time Pro",
+    "t2Text": "No monthly fee.",
+    "t3Title": "On-device storage",
+    "t3Text": "ไม่ส่งข้อมูลที่บันทึกไปคลาวด์โดยอัตโนมัติ",
+    "t4Title": "21-language UI",
+    "t4Text": "Use the app in many languages."
+  },
+  "pain": {
+    "titleLine1": "เลิกถามตัวเองว่า",
+    "titleLine2": "「อยู่ไหนนะ?」",
+    "lead": "ข้อมูลเดิมๆ—แต่ทุกครั้งต้องค้นบันทึก กดค้างเลือกใหม่ หรือพิมพ์ซ้ำ ขั้นตอนเล็กๆ สะสมทุกวัน",
+    "p1Title": "ค้นหา",
+    "p1Text": "ที่อยู่หรือข้อความสำเร็จรูป—ไม่รู้ว่าอยู่บันทึกไหน",
+    "p2Title": "เลือก",
+    "p2Text": "กดค้างเพื่อเลือกเฉพาะส่วนที่ต้องการ",
+    "p3Title": "พิมพ์ใหม่",
+    "p3Text": "พิมพ์คำตอบหรือโปรไฟล์เดิมซ้ำๆ",
+    "resolveLine1": "With MyQuickPaste,",
+    "resolveLine2": "one tap from the list.",
+    "resolveSub": "Save it once, then copy whenever you need it.",
+    "flowOldLabel": "Typical flow",
+    "flowOld1": "Search",
+    "flowOld2": "Select",
+    "flowOld3": "Copy",
+    "flowNewLabel": "MyQuickPaste",
+    "flowNew1": "Tap",
+    "flowNew2": "Copy"
+  },
+  "sceneSocial": {
+    "eyebrow": "For social too",
+    "titleLine1": "Ready to post",
+    "titleLine2": "the moment you think of it.",
+    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "points": [
+      {
+        "title": "Emoji",
+        "text": "Keep favorites handy",
+        "icon": "heart"
+      },
+      {
+        "title": "Social posts",
+        "text": "Prep captions fast",
+        "icon": "camera"
+      },
+      {
+        "title": "Hashtags",
+        "text": "Copy as a set",
+        "icon": "tag"
+      },
+      {
+        "title": "Save time",
+        "text": "Less hunting around",
+        "icon": "clock"
+      }
+    ]
+  },
+  "sceneWork": {
+    "eyebrow": "At work too",
+    "titleLine1": "Cut the time",
+    "titleLine2": "spent searching.",
+    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "points": [
+      {
+        "title": "Snippets",
+        "text": "Your usual replies",
+        "icon": "doc"
+      },
+      {
+        "title": "Email",
+        "text": "Signatures & notices",
+        "icon": "mail"
+      },
+      {
+        "title": "Contacts",
+        "text": "Copy numbers fast",
+        "icon": "phone"
+      },
+      {
+        "title": "Quick copy",
+        "text": "Done in one tap",
+        "icon": "zap"
+      }
+    ]
+  },
+  "sceneDaily": {
+    "eyebrow": "In daily life",
+    "titleLine1": "Keep everyday info",
+    "titleLine2": "closer.",
+    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "points": [
+      {
+        "title": "Address",
+        "text": "Less retyping",
+        "icon": "home"
+      },
+      {
+        "title": "Profile",
+        "text": "Save your intro",
+        "icon": "user"
+      },
+      {
+        "title": "Go-to phrases",
+        "text": "Reuse anytime",
+        "icon": "note"
+      },
+      {
+        "title": "Find fast",
+        "text": "Stay organized",
+        "icon": "search"
+      }
+    ]
+  },
+  "comparison": {
+    "titleLine1": "Not just temporary copies—",
+    "titleLine2": "a home for what you reuse.",
+    "otherLabel": "Notes or clipboard history",
+    "other1": "Open",
+    "other2": "Search",
+    "other3": "Select what you need",
+    "other4": "Copy",
+    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "appLabel": "MyQuickPaste",
+    "app1": "Open",
+    "app2": "Tap a row",
+    "app3": "Copied",
+    "appText": "Keep reusable text and details organized with clear names."
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "Does a tap paste into another app automatically?",
+        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+      },
+      {
+        "q": "Where is my data stored?",
+        "a": "Text, profiles, and settings are stored on your smartphone."
+      },
+      {
+        "q": "Do I lose the app after the 30-day trial?",
+        "a": "ไม่ หลังทดลองใช้คุณยังใช้แผนฟรีต่อได้ ข้อมูลที่บันทึกจะไม่ถูกลบ ข้อมูลที่เกินขีดจำกัดฟรียังคงอยู่และใช้ได้อีกครั้งเมื่อซื้อ Pro"
+      },
+      {
+        "q": "Is Pro a monthly subscription?",
+        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+      },
+      {
+        "q": "Can I share data with the Windows edition?",
+        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+      },
+      {
+        "q": "Can I move data when I change phones?",
+        "a": "With Pro you can export JSON and import it on another device."
+      }
+    ]
+  },
+  "windowsEdition": {
+    "titleLine1": "MyQuickPaste",
+    "titleLine2": "on Windows too.",
+    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
+    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
+    "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "ใช้ได้ในโอกาสเหล่านี้ด้วย",
+    "titleLine2": "",
+    "lead": "ท่องเที่ยว ตลาดมือสอง แชท จัดงาน—ข้อความโปรดแตะครั้งเดียว",
+    "cap3": "ข้อความลงขาย คัดลอกทันที",
+    "cap4": "ตอบแชทด้วยแตะครั้งเดียว",
+    "cap6": "ข้อความผู้จัดงานพร้อมใช้"
+  }
+}

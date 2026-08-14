@@ -1,0 +1,107 @@
+{
+  "ja": {
+    "features.items[5].title": "データの書き出し・読み込み",
+    "features.items[6].text": "ライト、ダークに加え、Proではプレミアム配色テーマを利用できます。",
+    "privacySection.points[3]": "30日間の無料体験とProでは、自分でバックアップを書き出せます。"
+  },
+  "en": {
+    "features.items[5].title": "Export and import",
+    "features.items[6].text": "Light and dark, plus premium color themes with Pro.",
+    "privacySection.points[3]": "Export your own backup during the 30-day free trial and with Pro."
+  },
+  "fr": {
+    "features.items[5].title": "Exporter et importer",
+    "features.items[6].text": "Thèmes clair et sombre, plus des thèmes de couleurs premium avec Pro.",
+    "privacySection.points[3]": "Vous pouvez exporter votre propre sauvegarde pendant l’essai gratuit de 30 jours et avec Pro."
+  },
+  "de": {
+    "features.items[5].title": "Exportieren und importieren",
+    "features.items[6].text": "Helle und dunkle Themes sowie Premium-Farbthemen mit Pro.",
+    "privacySection.points[3]": "Eigene Backups lassen sich in der 30-tägigen kostenlosen Testphase und mit Pro exportieren."
+  },
+  "zh": {
+    "features.items[5].title": "导出与导入",
+    "features.items[6].text": "提供浅色和深色主题；使用 Pro 后还可使用高级配色主题。",
+    "privacySection.points[3]": "30 天免费体验和 Pro 均可导出自己的备份。"
+  },
+  "zh_TW": {
+    "features.items[5].title": "匯出與匯入",
+    "features.items[6].text": "提供淺色和深色主題；使用 Pro 後還可使用進階配色主題。",
+    "privacySection.points[3]": "30 天免費體驗和 Pro 均可匯出自己的備份。"
+  },
+  "ko": {
+    "features.items[5].title": "내보내기 및 가져오기",
+    "features.items[6].text": "라이트·다크 테마와 함께 Pro에서는 프리미엄 색상 테마를 사용할 수 있습니다.",
+    "privacySection.points[3]": "30일 무료 체험과 Pro에서 직접 백업을 내보낼 수 있습니다."
+  },
+  "ru": {
+    "features.items[5].title": "Экспорт и импорт",
+    "features.items[6].text": "Светлая и тёмная темы, а с Pro — премиальные цветовые темы.",
+    "privacySection.points[3]": "Собственную резервную копию можно экспортировать в течение 30-дневного бесплатного пробного периода и с Pro."
+  },
+  "it": {
+    "features.items[5].title": "Esporta e importa",
+    "features.items[6].text": "Temi chiaro e scuro, più temi colore premium con Pro.",
+    "privacySection.points[3]": "Puoi esportare il tuo backup durante la prova gratuita di 30 giorni e con Pro."
+  },
+  "es": {
+    "features.items[5].title": "Exportar e importar",
+    "features.items[6].text": "Temas claro y oscuro, además de temas de color premium con Pro.",
+    "privacySection.points[3]": "Puedes exportar tu propia copia de seguridad durante la prueba gratuita de 30 días y con Pro."
+  },
+  "pt": {
+    "features.items[5].title": "Exportar e importar",
+    "features.items[6].text": "Temas claro e escuro, além de temas de cores premium com o Pro.",
+    "privacySection.points[3]": "Você pode exportar seu próprio backup durante o teste gratuito de 30 dias e com o Pro."
+  },
+  "hi": {
+    "features.items[5].title": "एक्सपोर्ट और इम्पोर्ट",
+    "features.items[6].text": "लाइट और डार्क थीम के साथ, Pro में प्रीमियम कलर थीम भी उपलब्ध हैं।",
+    "privacySection.points[3]": "30-दिन के मुफ़्त ट्रायल और Pro में अपना बैकअप एक्सपोर्ट किया जा सकता है।"
+  },
+  "ar": {
+    "features.items[5].title": "التصدير والاستيراد",
+    "features.items[6].text": "سمات فاتحة وداكنة، بالإضافة إلى سمات ألوان مميزة مع Pro.",
+    "privacySection.points[3]": "يمكنك تصدير نسختك الاحتياطية خلال التجربة المجانية لمدة 30 يومًا ومع Pro."
+  },
+  "id": {
+    "features.items[5].title": "Ekspor dan impor",
+    "features.items[6].text": "Tema terang dan gelap, ditambah tema warna premium dengan Pro.",
+    "privacySection.points[3]": "Anda dapat mengekspor cadangan sendiri selama uji coba gratis 30 hari dan dengan Pro."
+  },
+  "th": {
+    "features.items[5].title": "ส่งออกและนำเข้า",
+    "features.items[6].text": "มีธีมสว่างและมืด พร้อมธีมสีพรีเมียมเมื่อใช้ Pro",
+    "privacySection.points[3]": "ส่งออกข้อมูลสำรองของคุณเองได้ในช่วงทดลองใช้ฟรี 30 วันและเมื่อใช้ Pro"
+  },
+  "vi": {
+    "features.items[5].title": "Xuất và nhập",
+    "features.items[6].text": "Theme sáng và tối, cùng các theme màu cao cấp với Pro.",
+    "privacySection.points[3]": "Bạn có thể xuất bản sao lưu của mình trong thời gian dùng thử miễn phí 30 ngày và với Pro."
+  },
+  "tr": {
+    "features.items[5].title": "Dışa ve içe aktarma",
+    "features.items[6].text": "Açık ve koyu temalara ek olarak Pro ile premium renk temaları.",
+    "privacySection.points[3]": "Kendi yedeğinizi 30 günlük ücretsiz deneme süresinde ve Pro ile dışa aktarabilirsiniz."
+  },
+  "uk": {
+    "features.items[5].title": "Експорт та імпорт",
+    "features.items[6].text": "Світла й темна теми, а з Pro — преміальні кольорові теми.",
+    "privacySection.points[3]": "Власну резервну копію можна експортувати під час 30-денного безкоштовного пробного періоду та з Pro."
+  },
+  "nl": {
+    "features.items[5].title": "Exporteren en importeren",
+    "features.items[6].text": "Lichte en donkere thema’s, plus premium kleurthema’s met Pro.",
+    "privacySection.points[3]": "Je kunt je eigen back-up exporteren tijdens de gratis proefperiode van 30 dagen en met Pro."
+  },
+  "pl": {
+    "features.items[5].title": "Eksport i import",
+    "features.items[6].text": "Jasny i ciemny motyw, a w Pro także motywy kolorystyczne premium.",
+    "privacySection.points[3]": "Własną kopię zapasową można wyeksportować podczas 30-dniowego bezpłatnego okresu próbnego oraz w Pro."
+  },
+  "sv": {
+    "features.items[5].title": "Exportera och importera",
+    "features.items[6].text": "Ljust och mörkt tema, plus premiumfärgteman med Pro.",
+    "privacySection.points[3]": "Du kan exportera din egen säkerhetskopia under den kostnadsfria 30-dagars provperioden och med Pro."
+  }
+}

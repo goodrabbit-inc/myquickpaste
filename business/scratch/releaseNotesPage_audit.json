@@ -1,0 +1,1849 @@
+{
+  "audit_meta": {
+    "title": "MyQuickPaste releaseNotesPage 21言語 事前監査",
+    "audited_at": "2026-08-14",
+    "i18n_changed": false,
+    "push_deploy": false,
+    "i18n_sha256_unchanged": true
+  },
+  "ja_en_comparison": {
+    "structure_match": true,
+    "version_count_ja": 2,
+    "version_count_en": 2,
+    "top_level_keys_ja": [
+      "title",
+      "lead",
+      "latestPrefix",
+      "storeNote",
+      "entries"
+    ],
+    "top_level_keys_en": [
+      "title",
+      "lead",
+      "latestPrefix",
+      "storeNote",
+      "entries"
+    ],
+    "field_comparison": {
+      "title": {
+        "ja": "リリースノート",
+        "en": "Release Notes",
+        "same_meaning_expected": true
+      },
+      "lead": {
+        "ja": "MyQuickPaste のバージョン履歴。",
+        "en": "Version history for MyQuickPaste.",
+        "same_meaning_expected": true
+      },
+      "latestPrefix": {
+        "ja": "最新リリース：",
+        "en": "Latest release:",
+        "same_meaning_expected": true
+      },
+      "storeNote": {
+        "ja": "更新は Google Play 経由で配信されます（App Store 公開後は同様に配信予定）。",
+        "en": "Updates are delivered through Google Play and, when available, the App Store.",
+        "same_meaning_expected": true
+      }
+    },
+    "entries_comparison": [
+      {
+        "index": 0,
+        "version_ja": "1.0.1",
+        "version_en": "1.0.1",
+        "date_ja": "2026年7月",
+        "date_en": "July 2026",
+        "title_ja": "画像カテゴリ",
+        "title_en": "Image category",
+        "items_count_ja": 3,
+        "items_count_en": 3,
+        "issues": []
+      },
+      {
+        "index": 1,
+        "version_ja": "1.0.0",
+        "version_en": "1.0.0",
+        "date_ja": "2026",
+        "date_en": "2026",
+        "title_ja": "初回公開（Android）",
+        "title_en": "Initial public release (Android)",
+        "items_count_ja": 8,
+        "items_count_en": 8,
+        "issues": []
+      }
+    ],
+    "issues": [
+      "note: ja 1.0.0 mentions JSON export/import (historical wording)",
+      "note: en 1.0.0 mentions JSON export/import (historical wording)"
+    ]
+  },
+  "key_structure": {
+    "consistent_across_21": true,
+    "releaseNotesPage_key_count": 21,
+    "per_locale_key_counts": {
+      "ja": 21,
+      "en": 21,
+      "fr": 21,
+      "de": 21,
+      "zh": 21,
+      "zh_TW": 21,
+      "ko": 21,
+      "ru": 21,
+      "it": 21,
+      "es": 21,
+      "pt": 21,
+      "hi": 21,
+      "ar": 21,
+      "id": 21,
+      "th": 21,
+      "vi": 21,
+      "tr": 21,
+      "uk": 21,
+      "nl": 21,
+      "pl": 21,
+      "sv": 21
+    }
+  },
+  "version_summary": {
+    "versions_in_ja": [
+      "1.0.1",
+      "1.0.0"
+    ],
+    "versions_in_en": [
+      "1.0.1",
+      "1.0.0"
+    ],
+    "entry_count": 2
+  },
+  "locales_19_status": {
+    "fr": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "de": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "zh": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "zh_TW": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "ko": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "ru": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "it": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "es": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "pt": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "hi": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "ar": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "id": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "th": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "vi": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "tr": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "uk": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "nl": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "pl": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    },
+    "sv": {
+      "status": "一部英語残存",
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys_count": 0,
+      "total_string_keys": 21
+    }
+  },
+  "locales_19_detail": [
+    {
+      "locale": "fr",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Notes de version",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Historique des versions de MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Dernière version :",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Les mises à jour sont diffusées via Google Play (et, à terme, via l'App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Première publication (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Listes par catégorie : mot libre, formules types, e-mail, téléphone, images, profil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Copie en un instant et aperçu par appui long",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Fiches de profil avec copie champ par champ",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Mode réorganisation pour les listes et les profils",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Forfait gratuit + 30 jours d'essai gratuit (limites et sauvegarde)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "Export et import JSON (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Thèmes clair et sombre ; thèmes premium avec Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Réglages pour le retour de copie, la catégorie de démarrage et la sauvegarde des données",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "de",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Versionshinweise",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Versionsverlauf von MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Neueste Version:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Updates werden über Google Play bereitgestellt (nach Veröffentlichung auch über den App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Erstveröffentlichung (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Kategorielisten: Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Kopieren mit einem Tipp und Vorschau bei langem Tippen",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Profilkarten mit Kopieren einzelner Felder",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Sortiermodus für Listen und Profile",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Kostenloser Plan + 30 Tage kostenlose Testphase (höhere Limits und Backup)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "JSON-Export/-Import (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Helle und dunkle Themes; Premium-Themes mit Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Einstellungen für Kopier-Feedback, Startkategorie und Datensicherung",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "zh",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "zh_TW",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "ko",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "ru",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "it",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Note di rilascio",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Cronologia delle versioni di MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Ultima versione:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Gli aggiornamenti vengono distribuiti tramite Google Play (e, quando disponibile, tramite l'App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Prima pubblicazione (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Liste per categoria: testo libero, frasi standard, email, telefono, indirizzo, profilo",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Copia con un tocco e anteprima con tocco prolungato",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Schede profilo con copia campo per campo",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Modalità riordino per liste e profili",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Piano gratuito + 30 giorni di prova gratuita (limiti e backup)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "Esportazione e importazione JSON (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Temi chiaro e scuro; temi premium con Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Impostazioni per feedback alla copia, categoria di avvio e backup dei dati",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "es",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "lead",
+          "current": "Historial de versiones de MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Última versión:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Las actualizaciones se distribuyen a través de Google Play (y, más adelante, también a través del App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Primera publicación (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Listas por categoría: texto libre, frases hechas, correo, teléfono, dirección, perfil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Copia con un toque y vista previa con toque largo",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Fichas de perfil con copia campo a campo",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Modo de reordenar para listas y perfiles",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Plan gratuito + 30 días de prueba gratis (límites y copia de seguridad)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "Exportación e importación en JSON (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Temas claro y oscuro; temas premium con Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        }
+      ]
+    },
+    {
+      "locale": "pt",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Notas de versão",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Histórico de versões do MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Última versão:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "As atualizações são distribuídas pelo Google Play (e, futuramente, também pela App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Lançamento inicial (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Listas por categoria: texto livre, frases prontas, e-mail, telefone, endereço, perfil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Copiar com um toque e prévia com toque longo",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Fichas de perfil com cópia campo a campo",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Modo de reordenar para listas e perfis",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Plano gratuito + 30 dias de teste grátis (limites e backup)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "Exportação e importação em JSON (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Temas claro e escuro; temas premium com Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Configurações para feedback de cópia, categoria inicial e backup de dados",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "hi",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "ar",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "id",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Catatan Rilis",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Riwayat versi MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Versi terbaru:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Pembaruan didistribusikan melalui Google Play (juga akan didistribusikan melalui App Store setelah tersedia).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Rilis pertama (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Daftar berbasis kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Salin satu ketukan, pratinjau tekan lama",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Kartu profil dengan penyalinan per bidang",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Mode urutkan ulang untuk daftar dan profil",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Paket gratis + uji coba gratis 30 hari (batas lebih tinggi dan cadangan)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "Ekspor/impor JSON (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Tema terang dan gelap; tema premium dengan Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Pengaturan untuk konfirmasi salin, kategori awal, dan backup",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "th",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "vi",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "tr",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "storeNote",
+          "current": "Güncellemeler Google Play üzerinden dağıtılır (kullanılabilir hale geldiğinde App Store üzerinden de dağıtılacaktır).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Kategoriye göre listeler: serbest metin, hazır cümleler, e-posta, telefon, adres, profil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Tek dokunuşla kopyalama, uzun basarak önizleme",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Alan bazlı kopyalama özellikli profil kartları",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Listeler ve profiller için yeniden sıralama modu",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Ücretsiz plan + 30 gün ücretsiz deneme (daha yüksek limitler ve yedekleme)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Açık ve koyu temalar; premium temalar Pro ile",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Kopyalama onayı, başlangıç kategorisi ve yedekleme ayarları",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "uk",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": []
+    },
+    {
+      "locale": "nl",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Release-opmerkingen",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Versiegeschiedenis van MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Nieuwste versie:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Updates worden verspreid via Google Play (en, zodra beschikbaar, ook via de App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Eerste release (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Categorielijsten: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Kopiëren met één tik en voorbeeld bij lang indrukken",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Profielkaarten met kopiëren per veld",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Volgorde aanpassen voor lijsten en profielen",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Gratis abonnement + 30 dagen gratis proefperiode (hogere limieten en back-up)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "JSON-export/-import (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Lichte en donkere thema's; premiumthema's met Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Instellingen voor kopieerfeedback, startcategorie en gegevensback-up",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "pl",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Informacje o wersji",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Historia wersji MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Najnowsza wersja:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Aktualizacje są dystrybuowane przez Google Play (a po publikacji — również przez App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Pierwsze wydanie (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Listy według kategorii: dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Kopiowanie jednym dotknięciem i podgląd po dłuższym dotknięciu",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Karty profilu z kopiowaniem pojedynczych pól",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Tryb zmiany kolejności dla list i profili",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Plan darmowy + 30 dni bezpłatnego okresu próbnego (wyższe limity i kopia zapasowa)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "Eksport i import JSON (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Motywy jasny i ciemny; motywy premium z Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Ustawienia potwierdzenia kopiowania, kategorii startowej i kopii zapasowej",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    },
+    {
+      "locale": "sv",
+      "status": "一部英語残存",
+      "total_string_keys": 21,
+      "translated_or_localized_count": 17,
+      "identical_to_en_count": 4,
+      "allowed_identical_to_en_count": 4,
+      "missing_keys": [],
+      "extra_keys": [],
+      "identical_to_en": [
+        {
+          "path": "entries[0].date",
+          "value": "July 2026"
+        },
+        {
+          "path": "entries[0].title",
+          "value": "Image category"
+        },
+        {
+          "path": "entries[0].items[0]",
+          "value": "Added Image category (save business cards, logos, and more)"
+        },
+        {
+          "path": "entries[0].items[1]",
+          "value": "Tap to copy, share, and preview images"
+        }
+      ],
+      "allowed_identical_to_en": [
+        {
+          "path": "entries[0].version",
+          "value": "1.0.1"
+        },
+        {
+          "path": "entries[0].items[2]",
+          "value": "Supports JPEG, PNG, WebP, and GIF"
+        },
+        {
+          "path": "entries[1].version",
+          "value": "1.0.0"
+        },
+        {
+          "path": "entries[1].date",
+          "value": "2026"
+        }
+      ],
+      "mostly_english_non_identical": [
+        {
+          "path": "title",
+          "current": "Versionsinformation",
+          "en_reference": "Release Notes"
+        },
+        {
+          "path": "lead",
+          "current": "Versionshistorik för MyQuickPaste.",
+          "en_reference": "Version history for MyQuickPaste."
+        },
+        {
+          "path": "latestPrefix",
+          "current": "Senaste version:",
+          "en_reference": "Latest release:"
+        },
+        {
+          "path": "storeNote",
+          "current": "Uppdateringar distribueras via Google Play (och, när det blir tillgängligt, även via App Store).",
+          "en_reference": "Updates are delivered through Google Play and, when available, the App Store."
+        },
+        {
+          "path": "entries[1].title",
+          "current": "Första lanseringen (Android)",
+          "en_reference": "Initial public release (Android)"
+        },
+        {
+          "path": "entries[1].items[0]",
+          "current": "Kategorilistor: fri text, standardfraser, e-post, telefon, adress, profil",
+          "en_reference": "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile"
+        },
+        {
+          "path": "entries[1].items[1]",
+          "current": "Kopiera med en knapptryckning och förhandsvisning med långtryck",
+          "en_reference": "Tap to copy and long-press preview"
+        },
+        {
+          "path": "entries[1].items[2]",
+          "current": "Profilkort med fältvis kopiering",
+          "en_reference": "Profile cards with per-field copy"
+        },
+        {
+          "path": "entries[1].items[3]",
+          "current": "Möjlighet att ändra ordning för listor och profiler",
+          "en_reference": "Reorder mode for list and profile items"
+        },
+        {
+          "path": "entries[1].items[4]",
+          "current": "Gratisplan + 30 dagars gratis provperiod (högre gränser och säkerhetskopiering)",
+          "en_reference": "Free plan + 30-day free trial (higher limits and backup)"
+        },
+        {
+          "path": "entries[1].items[5]",
+          "current": "JSON-export/-import (Pro)",
+          "en_reference": "JSON export/import (Pro)"
+        },
+        {
+          "path": "entries[1].items[6]",
+          "current": "Ljusa och mörka teman; premiumteman med Pro",
+          "en_reference": "Light and dark themes; premium themes with Pro"
+        },
+        {
+          "path": "entries[1].items[7]",
+          "current": "Inställningar för kopieringsfeedback, startkategori och säkerhetskopiering",
+          "en_reference": "Settings for copy feedback, startup category, and data backup"
+        }
+      ]
+    }
+  ],
+  "english_residual_summary": {
+    "total_key_locale_pairs_needing_translation": 76,
+    "unique_paths_needing_translation": [
+      "entries[0].date",
+      "entries[0].items[0]",
+      "entries[0].items[1]",
+      "entries[0].title"
+    ],
+    "unique_path_count": 4,
+    "locales_with_untranslated_identical_to_en": [
+      "fr",
+      "de",
+      "zh",
+      "zh_TW",
+      "ko",
+      "ru",
+      "it",
+      "es",
+      "pt",
+      "hi",
+      "ar",
+      "id",
+      "th",
+      "vi",
+      "tr",
+      "uk",
+      "nl",
+      "pl",
+      "sv"
+    ]
+  },
+  "current_spec_contradiction_candidates": [
+    {
+      "locale": "ja",
+      "path": "entries[1].items[5]",
+      "value": "JSON エクスポート／インポート（Pro）",
+      "candidate_reason": "JSON 形式エクスポート（現仕様は .mqp）",
+      "note": "過去履歴としてそのまま残すべき可能性がある項目"
+    },
+    {
+      "locale": "en",
+      "path": "entries[1].items[5]",
+      "value": "JSON export/import (Pro)",
+      "candidate_reason": "JSON 形式エクスポート（現仕様は .mqp）",
+      "note": "過去履歴としてそのまま残すべき可能性がある項目"
+    }
+  ],
+  "summary": {
+    "ja_en_structure_match": true,
+    "ja_en_issue_count": 2,
+    "version_count": 2,
+    "fully_translated_locales": [],
+    "partial_english_locales": [
+      "fr",
+      "de",
+      "zh",
+      "zh_TW",
+      "ko",
+      "ru",
+      "it",
+      "es",
+      "pt",
+      "hi",
+      "ar",
+      "id",
+      "th",
+      "vi",
+      "tr",
+      "uk",
+      "nl",
+      "pl",
+      "sv"
+    ],
+    "mostly_english_locales": [],
+    "missing_locales": []
+  }
+}

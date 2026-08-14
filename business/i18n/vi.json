@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "vi",
-    "title": "MyQuickPaste — Phiên bản Smartphone",
-    "description": "Lưu những đoạn văn bản bạn thường xuyên sử dụng trên điện thoại và sao chép chỉ với một chạm. MyQuickPaste sắp xếp các câu mẫu, địa chỉ, danh bạ và thẻ hồ sơ theo danh mục.",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | Sao chép văn bản hàng ngày bằng một chạm",
+    "description": "Lưu văn bản mẫu, địa chỉ, liên hệ, URL, emoji, hashtag và hơn thế—sao chép một chạm. Chuyển sang app quen dùng và dán. MyQuickPaste giúp gõ trên điện thoại đơn giản hơn.",
+    "ogTitle": "MyQuickPaste | Sao chép văn bản hàng ngày bằng một chạm",
+    "ogDescription": "Lưu văn bản và thông tin hay dùng, sao chép một chạm khi cần. Chuyển sang app quen dùng và dán."
   },
   "lang": {
     "label": "Ngôn ngữ",
@@ -16,45 +16,45 @@
     "support": "Hỗ trợ",
     "releaseNotes": "Ghi chú phát hành",
     "privacy": "Quyền riêng tư",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "features": "Tính năng",
+    "how": "Cách hoạt động",
+    "screens": "Màn hình",
+    "pricing": "Giá",
     "cta": "Dùng thử miễn phí 30 ngày"
   },
   "brand": {
     "name": "MyQuickPaste",
-    "edition": "Phiên bản Smartphone"
+    "edition": "Phiên bản smartphone"
   },
   "hero": {
-    "badge": "Dành cho Android & iPhone",
-    "catch": "Lưu những gì bạn dùng hằng ngày. Sao chép chỉ với một chạm.",
-    "lead": "Văn bản mẫu, địa chỉ, liên hệ, URL, emoji, hashtag. Lưu nội dung hay dùng, sao chép một chạm từ danh sách.",
+    "badge": "MyQuickPaste cho smartphone",
+    "catch": "Văn bản hàng ngày, một chạm là xong.",
+    "lead": "Văn bản mẫu, địa chỉ, liên hệ, URL, emoji, hashtag. Lưu nội dung hay dùng, sao chép một chạm từ danh sách khi cần.",
     "platformLine": "Google Play sắp ra mắt · App Store đang phát triển",
     "trialTitle": "Dùng thử miễn phí 30 ngày",
     "trialText": "Trong 30 ngày sau khi cài đặt lần đầu, hãy dùng thử miễn phí giới hạn lưu cao hơn và sao lưu.",
-    "trust": "Dữ liệu chỉ lưu trên thiết bị của bạn · Hỗ trợ 21 ngôn ngữ",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21 ngôn ngữ",
+    "eyebrow": "MyQuickPaste cho smartphone",
+    "catchLine1": "Văn bản hay dùng,",
+    "catchLine2": "một chạm là xong.",
     "sub": "Rồi chuyển sang app quen dùng và dán.",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "Xem cách hoạt động",
     "ctaSecondary": "Dùng thử miễn phí 30 ngày",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play sắp ra mắt",
+    "statusApp": "App Store đang phát triển",
     "pill1": "Dùng thử miễn phí 30 ngày",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro mua một lần",
+    "pill3": "Lưu trên thiết bị",
+    "pill4": "21 ngôn ngữ"
   },
   "stores": {
-    "googlePlay": "Có trên Google Play",
+    "googlePlay": "Tải trên Google Play",
     "appStore": "App Store",
     "comingSoon": "Sắp ra mắt",
     "inDevelopment": "Đang phát triển",
-    "googlePlayBadgeAlt": "Có trên Google Play",
+    "googlePlayBadgeAlt": "Tải trên Google Play",
     "appStoreBadgeAlt": "Tải trên App Store",
-    "microsoftBadgeAlt": "Tải trên Microsoft Store (MyQuickPaste cho Windows)"
+    "microsoftBadgeAlt": "Tải từ Microsoft (MyQuickPaste cho Windows)"
   },
   "compare": {
     "title": "Bộ ứng dụng MyQuickPaste",
@@ -97,24 +97,24 @@
     "footer": "Vừa sao chép gì đó vài giờ trước? Gboard phù hợp cho việc đó. Nhưng địa chỉ, chữ ký hay câu trả lời cố định bạn dùng mỗi tuần? Hãy lưu ở đây một lần, và bạn sẽ không bao giờ phải tìm lại nữa."
   },
   "steps": {
-    "title": "Cách sử dụng",
-    "subtitle": "Lưu, chạm, dán — chỉ với 3 bước đơn giản.",
+    "title": "Cách hoạt động",
+    "subtitle": "Không cần thiết lập phức tạp. Chỉ ba bước.",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "Lưu nội dung hay dùng",
+        "text": "Đăng ký văn bản hay dùng, liên hệ và hơn thế."
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "Chạm dòng bạn cần",
+        "text": "Một chạm sao chép nội dung vào clipboard."
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "Dán vào app khác",
+        "text": "Chuyển sang mail, mạng xã hội, chat, bản đồ và dán."
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "Lưu, chạm,",
+    "titleLine2": "rồi dán."
   },
   "benefits": {
     "title": "Điều người dùng thích nhất",
@@ -137,72 +137,72 @@
     ]
   },
   "features": {
-    "title": "Tính năng chính",
-    "subtitle": "Những tính năng giúp việc sao chép và dán hằng ngày trên điện thoại của bạn trở nên dễ dàng hơn.",
+    "title": "Tính năng",
+    "subtitle": "Công cụ giúp gõ phím hàng ngày nhẹ hơn.",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "Sao chép một chạm",
+        "text": "Chạm dòng để sao chép nội dung vào clipboard.",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "Sắp xếp theo mục đích",
+        "text": "Quản lý theo văn bản tự do, văn bản mẫu, email, điện thoại, hình ảnh và hồ sơ.",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "Sắp xếp mục yêu thích",
+        "text": "Đưa mục hay dùng lên trên để tìm dễ hơn.",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "Sao chép từng trường",
+        "text": "Chỉ sao chép địa chỉ, tên hoặc số cần dùng.",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "Hình ảnh sẵn sàng",
+        "text": "Lưu logo hoặc ảnh, rồi sao chép, chia sẻ hoặc xem trước.",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "Xuất và nhập",
+        "text": "Xuất sao lưu và nhập khi cần. Có trong dùng thử miễn phí 30 ngày và Pro.",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "Chọn giao diện",
+        "text": "Theme sáng và tối, cùng các theme màu cao cấp với Pro.",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "Ở trên thiết bị",
+        "text": "Văn bản và hồ sơ được quản lý trên điện thoại.",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "6 danh mục",
+    "categoriesLabel": "Danh mục: Văn bản tự do, Văn bản mẫu, Email, Điện thoại, Hình ảnh, Hồ sơ",
     "categories": [
       "Văn bản tự do",
-      "Câu mẫu",
+      "Văn bản mẫu",
       "Email",
       "Điện thoại",
       "Hình ảnh",
       "Hồ sơ"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "Đơn giản,",
+    "titleLine2": "đủ phần cần thiết."
   },
   "themesSection": {
-    "title": "14 chủ đề màu",
-    "subtitle": "Miễn phí gồm sáng và tối. Pro mở khóa bảng màu cao cấp cho công việc và dùng hàng ngày.",
-    "imageAlt": "Lưới 14 chủ đề MyQuickPaste: bảy chủ đề sáng ở trên và bảy tối ở dưới.",
-    "caption": "Hàng trên: 7 chủ đề sáng / Hàng dưới: 7 chủ đề tối",
-    "note": "Chủ đề cao cấp cần mua Pro.",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "Theme",
+    "subtitle": "Sáng và tối, cùng chủ đề màu cao cấp với Pro.",
+    "imageAlt": "Thư viện theme MyQuickPaste",
+    "caption": "Theme sáng / tối / premium",
+    "note": "Theme premium cần mua Pro. Không có trong dùng thử 30 ngày.",
+    "titleLine1": "Khớp giao diện",
+    "titleLine2": "với nơi bạn dùng."
   },
   "usecases": {
     "title": "Lý tưởng cho",
@@ -245,43 +245,43 @@
       "Tên và biểu tượng danh mục tùy chỉnh"
     ],
     "note": "Bản thân ứng dụng có thể tải miễn phí. Pro là gói mua thêm một lần qua cửa hàng ứng dụng; giá có thể khác nhau tùy khu vực.",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "Dùng thử 30 ngày,",
+    "titleLine2": "và cảm nhận sự khác biệt.",
+    "trialLabel": "Chỉ lần cài đặt đầu",
     "trialTitle": "Dùng thử miễn phí 30 ngày",
     "trialText": "Danh mục văn bản: tối đa 200 mỗi loại · Hình ảnh: 50 · Hồ sơ: 30 · Xuất/nhập sao lưu",
     "trialNote": "Chủ đề cao cấp và tùy chỉnh tên/biểu tượng danh mục có sau khi mua Pro. Sau 30 ngày dữ liệu không bị xóa. Dữ liệu vượt giới hạn miễn phí vẫn được giữ và dùng lại được khi mua Pro.",
     "freeLead": "Các tính năng cốt lõi vẫn miễn phí.",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "Mua một lần",
+    "proLead": "Không phí hàng tháng.",
+    "notSub": "Không phải đăng ký"
   },
   "privacySection": {
-    "title": "Dữ liệu của bạn chỉ ở trên điện thoại của bạn",
+    "title": "Quyền riêng tư trên thiết bị",
     "text": "Văn bản và hồ sơ lưu trong MyQuickPaste được quản lý trên thiết bị. Chúng tôi không tự động gửi nội dung lên cloud.",
-    "link": "Đọc Chính sách quyền riêng tư",
+    "link": "Đọc chính sách quyền riêng tư",
     "titleLine1": "Điều quan trọng ở",
-    "titleLine2": "trong thiết bị của bạn.",
+    "titleLine2": "trên thiết bị của bạn.",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "Không đồng bộ cloud tự động",
+      "Không tự động gửi nội dung đã lưu lên máy chủ bên ngoài",
+      "Dữ liệu quản lý trên thiết bị",
+      "Bạn có thể xuất bản sao lưu của mình trong thời gian dùng thử miễn phí 30 ngày và với Pro."
     ]
   },
   "cta": {
-    "title": "Đã đến lúc ngừng gõ lại cùng một văn bản trên điện thoại của bạn",
-    "lead": "Lưu, chạm, dán. Đơn giản hóa gõ phím hàng ngày với MyQuickPaste.",
-    "button": "Có trên Google Play",
+    "title": "Văn bản hay dùng, một chạm là xong.",
+    "lead": "Lưu, chạm, rồi dán.",
+    "button": "Dùng thử miễn phí 30 ngày",
     "titleLine1": "Văn bản hay dùng,",
-    "titleLine2": "gần tay hơn.",
+    "titleLine2": "một chạm là xong.",
     "sub": "Trong 30 ngày sau khi cài đặt lần đầu, dùng thử miễn phí giới hạn cao hơn và sao lưu."
   },
   "footer": {
-    "pcEdition": "MyQuickPaste (Phiên bản PC)",
+    "pcEdition": "Bản Windows",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Đã đăng ký bản quyền.",
     "developer": "Nhà phát triển: Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "Liên hệ"
   },
   "supportPage": {
     "title": "Hỗ trợ",
@@ -323,40 +323,40 @@
   },
   "privacyPage": {
     "title": "Chính sách quyền riêng tư",
-    "lead": "MyQuickPaste (Phiên bản Smartphone)",
-    "updated": "Last updated: July 2026",
+    "lead": "MyQuickPaste (phiên bản smartphone)",
+    "updated": "Cập nhật lần cuối: 14 tháng 8 năm 2026",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "Tổng quan",
+        "p": "MyQuickPaste là ứng dụng dành cho smartphone do Good Rabbit inc. (“chúng tôi”) cung cấp. Chính sách này giải thích cách MyQuickPaste xử lý thông tin trên thiết bị của bạn."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "Dữ liệu do chúng tôi thu thập",
+        "p": "MyQuickPaste không có quy trình thu thập, truyền hoặc lưu trữ trên máy chủ do chúng tôi vận hành các nội dung bạn sử dụng trong ứng dụng như văn bản tự do, đoạn văn mẫu, địa chỉ email, số điện thoại, hồ sơ, hình ảnh hoặc nội dung bảng tạm. Những nội dung này được xử lý trên thiết bị của bạn để cung cấp các tính năng của ứng dụng. Tuy nhiên, khi bạn chủ động sử dụng tính năng chia sẻ, khi tính năng sao lưu Android hoạt động hoặc khi bạn sử dụng dịch vụ cửa hàng như Google Play, dữ liệu sẽ được xử lý theo cơ chế và chính sách của hệ điều hành hoặc dịch vụ tương ứng."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "Lưu trữ trên thiết bị và sao lưu Android",
+        "p": "Nội dung đã nhập, danh mục, hồ sơ, cài đặt ứng dụng và hình ảnh đã đăng ký được lưu trong vùng lưu trữ riêng của ứng dụng trên thiết bị. Hình ảnh đã đăng ký được sao chép vào vùng lưu trữ riêng đó. Trên Android, nếu tính năng sao lưu của hệ điều hành được bật, một số dữ liệu ứng dụng có thể được sao lưu vào vùng lưu trữ sao lưu liên kết với Tài khoản Google của bạn và được khôi phục từ đó. Theo quy tắc sao lưu hiện tại của ứng dụng, các tệp hình ảnh đã đăng ký không được đưa vào sao lưu đám mây. Khi chuyển dữ liệu giữa các thiết bị, dữ liệu có thể được chuyển thông qua các tính năng của hệ điều hành."
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "Bảo mật",
+        "p": "Dữ liệu đã lưu được đặt trong vùng riêng của ứng dụng được hệ điều hành bảo vệ. Chúng tôi không vận hành máy chủ riêng để lưu trữ nội dung bạn đăng ký. Mức độ an toàn của thiết bị, bản sao lưu của hệ điều hành và tệp sao lưu do bạn xuất phụ thuộc vào mức độ bảo mật và cách quản lý của thiết bị, dịch vụ và vị trí lưu trữ do người dùng kiểm soát."
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "Truy cập bảng tạm",
+        "p": "Để hiển thị bản xem trước trên màn hình chính và cung cấp các tính năng liên quan, MyQuickPaste có thể đọc văn bản hoặc hình ảnh hiện đang được lưu trong bảng tạm của thiết bị. Nội dung bảng tạm được xử lý trên thiết bị và không tự động được lưu vĩnh viễn trừ khi bạn chủ động đăng ký nội dung đó. Ứng dụng có thể tạo tệp bộ nhớ đệm tạm thời để xem trước hình ảnh trong bảng tạm. MyQuickPaste không có quy trình gửi nội dung bảng tạm đến máy chủ do chúng tôi vận hành."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "Lưu giữ, xóa và sao lưu dữ liệu",
+        "p": "Dữ liệu đã lưu vẫn nằm trong vùng lưu trữ của ứng dụng trên thiết bị cho đến khi bạn xóa dữ liệu trong ứng dụng hoặc gỡ cài đặt ứng dụng. Việc gỡ cài đặt sẽ xóa dữ liệu cục bộ của ứng dụng khỏi thiết bị, nhưng các bản sao có thể vẫn tồn tại riêng trong bản sao lưu của hệ điều hành Android hoặc trong các tệp sao lưu mà bạn đã xuất và giữ lại. Trong thời gian dùng thử miễn phí 30 ngày và với Pro, bạn có thể xuất và nhập dữ liệu dưới dạng tệp sao lưu MyQuickPaste (.mqp). Bạn chọn nơi lưu tệp đã xuất và chịu trách nhiệm quản lý cũng như xóa các tệp sao lưu đã xuất."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "Cửa hàng ứng dụng, mua hàng và dịch vụ bên ngoài",
+        "p": "Thời gian dùng thử miễn phí 30 ngày được quản lý trong ứng dụng dựa trên thời điểm cài đặt lần đầu. Việc phân phối phiên bản Android và mua Pro được xử lý qua Google Play, và Google Play Billing được dùng để xác minh giao dịch mua. Pro là giao dịch mua trong ứng dụng một lần, không phải gói đăng ký. Chúng tôi không trực tiếp nhận số thẻ tín dụng hoặc thông tin thẻ thanh toán khác. Ứng dụng không sử dụng SDK của bên thứ ba cho mục đích phân tích hoặc quảng cáo. Khi bạn sử dụng tính năng mua hàng hoặc đánh giá của Google Play, hoặc các tính năng bên ngoài do bạn chọn như chia sẻ, email hoặc trình duyệt web, chính sách quyền riêng tư và điều khoản của các dịch vụ tương ứng sẽ được áp dụng. Phiên bản iOS hiện đang được phát triển và chính sách này sẽ được cập nhật khi cần thiết sau khi phương thức phân phối và triển khai mua hàng được hoàn thiện."
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "Liên hệ",
+        "p": "Nếu bạn có câu hỏi về chính sách này, vui lòng liên hệ với chúng tôi tại myquickpaste@hotmail.com."
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "Tháng 7 năm 2026",
+        "title": "Danh mục Hình ảnh",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "Đã thêm danh mục Hình ảnh (lưu danh thiếp, logo và nhiều nội dung khác)",
+          "Chạm để sao chép, chia sẻ và xem trước hình ảnh",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,12 +394,12 @@
     ]
   },
   "screenshots": {
-    "title": "Xem ứng dụng hoạt động",
-    "subtitle": "Ảnh chụp màn hình thực tế từ MyQuickPaste (Android).",
-    "freetextAlt": "Danh sách văn bản tự do với chữ ký đã lưu và sao chép một chạm",
-    "snippetsAlt": "Danh mục câu mẫu với các mẫu trả lời email",
-    "profileAlt": "Thẻ hồ sơ cho danh bạ nhà riêng, công việc và hơn thế nữa",
-    "profileEditAlt": "Màn hình chỉnh sửa hồ sơ với các trường địa chỉ và liên hệ",
+    "title": "Màn hình ứng dụng",
+    "subtitle": "Màn hình thực của MyQuickPaste.",
+    "freetextAlt": "Màn hình danh sách văn bản tự do",
+    "snippetsAlt": "Màn hình danh sách mẫu",
+    "profileAlt": "Màn hình thẻ hồ sơ",
+    "profileEditAlt": "Màn hình chỉnh sửa hồ sơ",
     "cateAlt": "Sáu tab danh mục: văn bản tự do, câu mẫu, email, điện thoại, địa chỉ, hồ sơ",
     "items": [
       {
@@ -421,188 +421,188 @@
         "caption": "Tab danh mục — chuyển nhanh giữa sáu danh sách"
       }
     ],
-    "imagesAlt": "Danh mục Hình ảnh với ảnh mẫu sẵn sàng sao chép hoặc chia sẻ",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "Màn hình danh mục Hình ảnh",
+    "titleLine1": "Đủ rõ ràng",
+    "titleLine2": "để dùng ngay.",
+    "lead": "Dòng lớn, danh mục rõ, chỉnh sửa đơn giản — cho dùng hàng ngày.",
+    "freetextCap": "Quản lý văn bản tái sử dụng trong một danh sách",
+    "snippetsCap": "Sao chép nhanh câu trả lời quen",
+    "imagesCap": "Lưu, sao chép và chia sẻ hình ảnh",
+    "profileCap": "Sao chép địa chỉ hoặc liên hệ từng trường",
+    "profileEditCap": "Đăng ký chi tiết cần thiết cùng lúc"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "Không tự động gửi dữ liệu đã lưu lên cloud.",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "Chạm để sao chép",
+    "t1Text": "Chỉ cần chạm vào dòng đã lưu.",
+    "t2Title": "Pro trả một lần",
+    "t2Text": "Không trả phí hàng tháng.",
+    "t3Title": "Lưu trên thiết bị",
+    "t3Text": "Nội dung đăng ký được quản lý trên thiết bị.",
+    "t4Title": "Giao diện 21 ngôn ngữ",
+    "t4Text": "Màn hình app bằng 21 ngôn ngữ."
   },
   "pain": {
     "titleLine1": "Đừng cứ hỏi",
     "titleLine2": "「Ở đâu nhỉ?」 mỗi lần.",
-    "lead": "Cùng thông tin—nhưng mỗi lần lại tìm ghi chú, chọn lại bằng nhấn giữ hoặc gõ lại. Những bước nhỏ cộng dồn mỗi ngày.",
+    "lead": "Cùng thông tin—nhưng mỗi lần lại tìm ghi chú, chọn lại bằng nhấn giữ hoặc gõ lại cùng văn bản. Những bước nhỏ cộng dồn mỗi ngày.",
     "p1Title": "Tìm",
     "p1Text": "Địa chỉ hay văn bản mẫu—không biết ở ghi chú nào.",
     "p2Title": "Chọn",
     "p2Text": "Nhấn giữ để chọn đúng phần cần dùng.",
     "p3Title": "Gõ lại",
     "p3Text": "Gõ lại cùng câu trả lời hoặc hồ sơ nhiều lần.",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "Với MyQuickPaste,",
+    "resolveLine2": "một chạm từ danh sách.",
+    "resolveSub": "Không tìm. Không gõ lại. Chỉ chạm dòng bạn cần.",
+    "flowOldLabel": "Quy trình thông thường",
+    "flowOld1": "Tìm",
+    "flowOld2": "Chọn",
+    "flowOld3": "Sao chép",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "Chạm",
+    "flowNew2": "Sao chép"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "Cả mạng xã hội",
+    "titleLine1": "Emoji và hashtag—",
+    "titleLine2": "sao chép khi cần.",
+    "lead": "Lưu emoji, hashtag và văn bản đăng yêu thích. Chạm để sao chép, rồi dán vào app mạng xã hội quen dùng.",
     "points": [
       {
         "title": "Emoji",
-        "text": "Keep favorites handy",
+        "text": "Lưu mục yêu thích",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "Bài đăng",
+        "text": "Lưu văn bản hay dùng",
         "icon": "camera"
       },
       {
-        "title": "Hashtags",
-        "text": "Copy as a set",
+        "title": "Hashtag",
+        "text": "Sao chép cả bộ",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "Sao chép nhanh",
+        "text": "Một chạm khi cần",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "Cả công việc",
+    "titleLine1": "Văn bản mẫu và liên hệ—",
+    "titleLine2": "sao chép khi cần.",
+    "lead": "Văn bản mẫu, email, số điện thoại, URL và thông tin hay dùng khác ở một nơi. Chạm dòng để sao chép ngay.",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "Văn bản mẫu",
+        "text": "Câu trả lời thường dùng",
         "icon": "doc"
       },
       {
         "title": "Email",
-        "text": "Signatures & notices",
+        "text": "Lưu chữ ký và thông báo",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "Liên hệ",
+        "text": "Sao chép số nhanh",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "Sao chép nhanh",
+        "text": "Xong bằng một chạm",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "Trong đời sống hàng ngày",
+    "titleLine1": "Địa chỉ và hồ sơ—",
+    "titleLine2": "sao chép khi cần.",
+    "lead": "Địa chỉ nhà, email, tiểu sử hồ sơ, câu yêu thích. Chạm và sao chép ngay khi cần.",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "Địa chỉ",
+        "text": "Ít gõ lại hơn",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "Hồ sơ",
+        "text": "Lưu phần giới thiệu",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "Cụm từ quen",
+        "text": "Dùng lại bất cứ lúc nào",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "Tìm nhanh",
+        "text": "Giữ gọn gàng",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "Không chỉ bản sao tạm —",
+    "titleLine2": "nơi cho nội dung hay dùng.",
+    "otherLabel": "Ghi chú hoặc lịch sử clipboard",
+    "other1": "Mở",
+    "other2": "Tìm",
+    "other3": "Chọn phần cần",
+    "other4": "Sao chép",
+    "otherText": "Tốt cho lịch sử gần đây. Với thông tin hay dùng, việc tìm trở thành trở ngại.",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "Mở",
+    "app2": "Chạm dòng",
+    "app3": "Đã sao chép",
+    "appText": "Sắp xếp và lưu rõ ràng văn bản và thông tin hay dùng."
   },
   "faq": {
     "title": "FAQ",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "Chạm có tự dán sang app khác không?",
+        "a": "Chạm dòng sẽ sao chép vào clipboard. Sau đó chuyển sang mail, mạng xã hội hoặc chat và dán."
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "Dữ liệu của tôi lưu ở đâu?",
+        "a": "Văn bản, hồ sơ và cài đặt lưu trên smartphone."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "Sau dùng thử 30 ngày tôi mất app không?",
         "a": "Không. Sau thời gian dùng thử bạn vẫn tiếp tục gói miễn phí. Dữ liệu đã lưu không bị xóa. Dữ liệu vượt giới hạn miễn phí vẫn được giữ và dùng lại được khi mua Pro."
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Pro có phải đăng ký tháng không?",
+        "a": "Không. Pro mua một lần, không có phí hàng tháng."
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "Có thể chia sẻ dữ liệu với bản Windows không?",
+        "a": "Bản smartphone và Windows là app riêng. Mua hàng và dữ liệu không chia sẻ."
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "Có thể chuyển dữ liệu khi đổi điện thoại không?",
+        "a": "Xuất sao lưu và nhập khi cần. Có trong dùng thử miễn phí 30 ngày và Pro."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "cũng có trên Windows.",
+    "text": "Bản Windows ở cạnh màn hình và dán văn bản đã đăng ký bằng một click — app riêng.",
+    "note": "Không cùng app với bản smartphone. Mua hàng và dữ liệu lưu không chia sẻ.",
+    "link": "Trang chủ bản Windows"
   },
   "sceneMore": {
     "titleLine1": "Hữu ích trong những lúc này.",
     "titleLine2": "",
-    "lead": "Du lịch, chợ đồ cũ, chat, tổ chức sự kiện—văn bản quen một chạm.",
+    "lead": "Du lịch, chợ đồ cũ, chat, tổ chức sự kiện—sao chép văn bản quen một chạm ở mọi tình huống.",
     "cap3": "Văn bản đăng bán, sao chép ngay",
-    "cap4": "Trả lời chat một chạm",
-    "cap6": "Tin nhắn ban tổ chức sẵn sàng"
+    "cap4": "Trả lời chat, sao chép ngay",
+    "cap6": "Tin nhắn ban tổ chức, sao chép ngay"
   }
 }

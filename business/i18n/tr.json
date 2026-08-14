@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "tr",
-    "title": "MyQuickPaste — Akıllı Telefon Sürümü",
-    "description": "Sık kullandığınız metinleri akıllı telefonunuza kaydedin ve tek dokunuşla kopyalayın. MyQuickPaste, hazır cümleleri, adresleri, kişileri ve profil kartlarını kategorilere ayırarak düzenler.",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | Günlük metinleri tek dokunuşla kopyalayın",
+    "description": "Hazır metinleri, adresleri, kişileri, URL'leri, emoji ve hashtag'leri kaydedin—tek dokunuşla kopyalayın. Alıştığınız uygulamaya geçip yapıştırın. MyQuickPaste akıllı telefonda yazmayı basitleştirir.",
+    "ogTitle": "MyQuickPaste | Günlük metinleri tek dokunuşla kopyalayın",
+    "ogDescription": "Sık kullandığınız metinleri ve bilgileri kaydedin, gerektiğinde tek dokunuşla kopyalayın. Alıştığınız uygulamaya geçip yapıştırın."
   },
   "lang": {
     "label": "Dil",
@@ -12,49 +12,49 @@
     "en": "English"
   },
   "nav": {
-    "home": "Ana Sayfa",
+    "home": "Ana sayfa",
     "support": "Destek",
-    "releaseNotes": "Sürüm Notları",
+    "releaseNotes": "Sürüm notları",
     "privacy": "Gizlilik",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "features": "Özellikler",
+    "how": "Nasıl çalışır",
+    "screens": "Ekranlar",
+    "pricing": "Fiyatlandırma",
     "cta": "30 gün ücretsiz deneme"
   },
   "brand": {
     "name": "MyQuickPaste",
-    "edition": "Akıllı Telefon Sürümü"
+    "edition": "Akıllı telefon sürümü"
   },
   "hero": {
-    "badge": "Android ve iPhone için",
-    "catch": "Her gün kullandığınızı kaydedin. Tek dokunuşla kopyalayın.",
-    "lead": "Hazır metinler, adresler, kişiler, URL, emoji, hashtag. Sık kullandıklarınızı kaydedin, listeden tek dokunuşla kopyalayın.",
+    "badge": "Akıllı telefonlar için MyQuickPaste",
+    "catch": "Günlük metinler, tek dokunuş uzağınızda.",
+    "lead": "Hazır metinler, adresler, kişiler, URL'ler, emoji, hashtag. Sık kullandıklarınızı kaydedin, gerektiğinde listeden tek dokunuşla kopyalayın.",
     "platformLine": "Google Play yakında · App Store geliştiriliyor",
     "trialTitle": "30 gün ücretsiz deneme",
     "trialText": "İlk kurulumdan sonra 30 gün boyunca daha yüksek kayıt limitlerini ve yedeklemeyi ücretsiz deneyin.",
-    "trust": "Veriler yalnızca cihazınızda kalır · 21 dil desteği",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21 dil",
+    "eyebrow": "Akıllı telefonlar için MyQuickPaste",
+    "catchLine1": "Sık kullandığınız metinler,",
+    "catchLine2": "tek dokunuş uzağınızda.",
     "sub": "Sonra alıştığınız uygulamaya geçip yapıştırın.",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "Nasıl çalıştığını görün",
     "ctaSecondary": "30 gün ücretsiz deneme",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play yakında",
+    "statusApp": "App Store geliştiriliyor",
     "pill1": "30 gün ücretsiz deneme",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro tek seferlik satın alma",
+    "pill3": "Cihazda saklanır",
+    "pill4": "21 dil"
   },
   "stores": {
-    "googlePlay": "Google Play'de",
+    "googlePlay": "Google Play'den edinin",
     "appStore": "App Store",
     "comingSoon": "Yakında",
     "inDevelopment": "Geliştiriliyor",
-    "googlePlayBadgeAlt": "Google Play'de mevcut",
+    "googlePlayBadgeAlt": "Google Play'den edinin",
     "appStoreBadgeAlt": "App Store'dan indirin",
-    "microsoftBadgeAlt": "Microsoft Store'dan edinin (Windows için MyQuickPaste)"
+    "microsoftBadgeAlt": "Microsoft'tan edinin (Windows için MyQuickPaste)"
   },
   "compare": {
     "title": "MyQuickPaste Uygulama Ailesi",
@@ -97,24 +97,24 @@
     "footer": "Birkaç saat önce bir şey mi kopyaladınız? Gboard bunun için idealdir. Peki ya her hafta kullandığınız bir adres, imza veya standart yanıt? Burada bir kez kaydedin, bir daha aramak zorunda kalmayın."
   },
   "steps": {
-    "title": "Nasıl Kullanılır",
-    "subtitle": "Kaydet, dokun, yapıştır — sadece 3 basit adım.",
+    "title": "Nasıl çalışır",
+    "subtitle": "Karmaşık kurulum yok. Sadece üç adım.",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "Tekrar kullandıklarınızı kaydedin",
+        "text": "Sık kullandığınız metinleri, kişileri ve daha fazlasını kaydedin."
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "İhtiyacınız olan satıra dokunun",
+        "text": "Tek dokunuş içeriği panoya kopyalar."
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "Başka uygulamaya yapıştırın",
+        "text": "Posta, sosyal, sohbet, haritalara geçip yapıştırın."
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "Kaydet, dokun,",
+    "titleLine2": "sonra yapıştır."
   },
   "benefits": {
     "title": "Kullanıcıların En Çok Sevdiği Özellikler",
@@ -137,72 +137,72 @@
     ]
   },
   "features": {
-    "title": "Ana Özellikler",
-    "subtitle": "Telefonunuzda günlük kopyala-yapıştır işlemlerini kolaylaştıran özellikler.",
+    "title": "Özellikler",
+    "subtitle": "Günlük yazmayı hafifleten araçlar.",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "Tek dokunuşla kopyala",
+        "text": "Satıra dokunarak içeriği panoya kopyalayın.",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "Kullanıma göre düzenle",
+        "text": "Serbest metin, hazır metinler, e-posta, telefon, görseller ve profile göre yönetin.",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "Favorileri yeniden sırala",
+        "text": "Sık kullanılan öğeleri üste taşıyın, bulması kolay olsun.",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "Alan alan kopyala",
+        "text": "Yalnızca ihtiyacınız olan adres, ad veya numarayı kopyalayın.",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "Görseller hazır",
+        "text": "Logo veya fotoğraf kaydedin, sonra kopyalayın, paylaşın veya önizleyin.",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "Dışa ve içe aktarma",
+        "text": "Yedekleri dışa aktarın ve gerektiğinde içe aktarın. 30 günlük ücretsiz deneme ve Pro ile kullanılabilir.",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "Görünüm seçin",
+        "text": "Açık ve koyu temalara ek olarak Pro ile premium renk temaları.",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "Cihazda kalır",
+        "text": "Metinler ve profiller telefonda yönetilir.",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "6 Kategori",
+    "categoriesLabel": "Kategoriler: Serbest metin, Hazır metinler, E-posta, Telefon, Görseller, Profil",
     "categories": [
-      "Serbest Metin",
-      "Hazır Cümleler",
+      "Serbest metin",
+      "Hazır metinler",
       "E-posta",
       "Telefon",
       "Görseller",
       "Profil"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "Basit,",
+    "titleLine2": "temel özelliklerle."
   },
   "themesSection": {
-    "title": "14 renk teması",
-    "subtitle": "Ücretsiz: açık ve koyu. Pro, iş ve günlük kullanım için premium paletlerin kilidini açar.",
-    "imageAlt": "14 MyQuickPaste temasının ızgarası: üstte yedi açık, altta yedi koyu tema.",
-    "caption": "Üst sıra: 7 açık tema / Alt sıra: 7 koyu tema",
-    "note": "Premium temalar Pro satın alımı gerektirir.",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "Temalar",
+    "subtitle": "Açık ve koyu, Pro ile premium renk temaları.",
+    "imageAlt": "MyQuickPaste tema galerisi",
+    "caption": "Açık / koyu / premium temalar",
+    "note": "Premium temalar Pro satın alma gerektirir. 30 günlük denemeye dahil değildir.",
+    "titleLine1": "Görünümü eşleştirin",
+    "titleLine2": "kullandığınız yere göre."
   },
   "usecases": {
     "title": "Şunlar İçin İdeal",
@@ -245,43 +245,43 @@
       "Özel kategori adları ve simgeler"
     ],
     "note": "Uygulamanın kendisi ücretsiz indirilebilir. Pro, uygulama mağazası üzerinden satın alınan tek seferlik bir ek pakettir; fiyat bölgeye göre değişebilir.",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "30 gün deneyin,",
+    "titleLine2": "farkı hissedin.",
+    "trialLabel": "Yalnızca ilk kurulum",
     "trialTitle": "30 gün ücretsiz deneme",
     "trialText": "Metin kategorileri: her biri en fazla 200 · Görseller: 50 · Profiller: 30 · Yedekleme dışa/içe aktarma",
     "trialNote": "Premium temalar ve kategori adı/simge özelleştirme Pro satın alımından sonra kullanılabilir. 30 gün sonrasında verileriniz silinmez. Ücretsiz limitin üzerindeki veriler saklanır ve Pro satın alındığında yeniden kullanılabilir.",
     "freeLead": "Temel özellikler ücretsiz kullanılmaya devam eder.",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "Tek seferlik satın alma",
+    "proLead": "Aylık ücret yok.",
+    "notSub": "Abonelik değil"
   },
   "privacySection": {
-    "title": "Verileriniz yalnızca telefonunuzda kalır",
-    "text": "MyQuickPaste'te kaydettiğiniz metinler ve profiller cihazda yönetilir. İçeriğinizi otomatik olarak buluta göndermiyoruz.",
-    "link": "Gizlilik Politikasını okuyun",
+    "title": "Cihazda gizlilik",
+    "text": "MyQuickPaste'te kaydedilen metinler ve profiller cihazda yönetilir. İçeriğinizi otomatik olarak buluta göndermiyoruz.",
+    "link": "Gizlilik politikasını okuyun",
     "titleLine1": "Önemli olan",
     "titleLine2": "cihazınızda kalır.",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "Otomatik bulut senkronizasyonu yok",
+      "Kayıtlı içeriği harici sunuculara otomatik göndermez",
+      "Veriler cihazda yönetilir",
+      "Kendi yedeğinizi 30 günlük ücretsiz deneme süresinde ve Pro ile dışa aktarabilirsiniz."
     ]
   },
   "cta": {
-    "title": "Telefonunuzda aynı metni tekrar tekrar yazmayı bırakma zamanı",
-    "lead": "Kaydet, dokun, yapıştır. MyQuickPaste ile günlük yazmayı biraz sadeleştirin.",
-    "button": "Google Play'de",
-    "titleLine1": "Sık kullandığınız metinler",
-    "titleLine2": "daha yakında.",
+    "title": "Sık kullandığınız metinler, tek dokunuş uzağınızda.",
+    "lead": "Kaydedin, dokunun, sonra yapıştırın.",
+    "button": "30 gün ücretsiz deneme",
+    "titleLine1": "Sık kullandığınız metinler,",
+    "titleLine2": "tek dokunuş uzağınızda.",
     "sub": "İlk kurulumdan sonra 30 gün boyunca daha yüksek limitler ve yedeklemeyi ücretsiz deneyin."
   },
   "footer": {
-    "pcEdition": "MyQuickPaste (Bilgisayar Sürümü)",
+    "pcEdition": "Windows sürümü",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Tüm hakları saklıdır.",
     "developer": "Geliştirici: Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "İletişim"
   },
   "supportPage": {
     "title": "Destek",
@@ -324,39 +324,39 @@
   "privacyPage": {
     "title": "Gizlilik Politikası",
     "lead": "MyQuickPaste (Akıllı Telefon Sürümü)",
-    "updated": "Last updated: July 2026",
+    "updated": "Son güncelleme: 14 Ağustos 2026",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "Genel bakış",
+        "p": "MyQuickPaste, Good Rabbit inc. (“biz”) tarafından sunulan bir akıllı telefon uygulamasıdır. Bu politika, MyQuickPaste’in cihazınızdaki bilgileri nasıl işlediğini açıklar."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "Tarafımızdan veri toplanması",
+        "p": "MyQuickPaste, uygulamada kullandığınız serbest metinleri, metin şablonlarını, e-posta adreslerini, telefon numaralarını, profilleri, görselleri veya pano içeriklerini tarafımızca işletilen sunucularda toplayan, ileten ya da saklayan herhangi bir işlem içermez. Bu içerikler uygulamanın özelliklerini sunmak amacıyla cihazınızda işlenir. Ancak bir paylaşım özelliğini açıkça kullandığınızda, Android yedekleme çalıştığında veya Google Play gibi mağaza hizmetlerini kullandığınızda veriler ilgili işletim sisteminin ya da hizmetin mekanizmaları ve politikaları doğrultusunda işlenir."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "Cihazda depolama ve Android yedekleme",
+        "p": "Girilen içerikler, kategoriler, profiller, uygulama ayarları ve kaydedilen görseller cihazınızdaki uygulamaya özel depolama alanında saklanır. Kaydedilen görseller bu özel uygulama depolama alanına kopyalanır. Android’de işletim sisteminin yedekleme özelliği etkinse bazı uygulama verileri Google Hesabınızla ilişkili yedekleme alanına yedeklenebilir ve buradan geri yüklenebilir. Uygulamanın mevcut yedekleme kurallarına göre kaydedilen görsel dosyaları bulut yedeklemesine dahil edilmez. Cihazdan cihaza aktarım sırasında veriler işletim sistemi özellikleri aracılığıyla aktarılabilir."
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "Güvenlik",
+        "p": "Kaydedilen veriler, işletim sistemi tarafından korunan uygulamaya özel bir alanda saklanır. Kaydettiğiniz içerikleri depolamak için kendi sunucumuzu işletmiyoruz. Cihazın kendisinin, işletim sistemi yedeklerinin ve dışa aktardığınız yedekleme dosyalarının güvenliği; ilgili cihazın, hizmetin ve kullanıcı tarafından yönetilen depolama alanının güvenliğine ve yönetimine bağlıdır."
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "Panoya erişim",
+        "p": "Ana ekranda önizleme göstermek ve ilgili özellikleri sağlamak için MyQuickPaste, cihazınızın panosunda o anda bulunan metinleri veya görselleri okuyabilir. Pano içeriği cihazda işlenir ve siz açıkça kaydetmediğiniz sürece otomatik olarak kalıcı biçimde saklanmaz. Uygulama, pano görsellerini önizlemek için geçici bir önbellek dosyası oluşturabilir. MyQuickPaste, pano içeriğini tarafımızca işletilen sunuculara gönderen herhangi bir işlem içermez."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "Verilerin saklanması, silinmesi ve yedeklenmesi",
+        "p": "Kaydedilen veriler, siz uygulama içinde silene veya uygulamayı kaldırana kadar cihazınızdaki uygulama depolama alanında kalır. Uygulamanın kaldırılması cihazdaki yerel uygulama verilerini siler; ancak kopyalar Android işletim sistemi yedeklerinde veya dışa aktarıp sakladığınız yedekleme dosyalarında ayrı olarak kalabilir. 30 günlük ücretsiz deneme süresince ve Pro ile verileri MyQuickPaste yedekleme dosyası (.mqp) olarak dışa ve içe aktarabilirsiniz. Dışa aktarılan dosyanın nereye kaydedileceğini siz seçersiniz ve dışa aktarılan yedekleme dosyalarının yönetilmesinden ve silinmesinden siz sorumlusunuz."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "Uygulama mağazaları, satın almalar ve harici hizmetler",
+        "p": "30 günlük ücretsiz deneme, ilk kurulum zamanı esas alınarak uygulama içinde yönetilir. Android sürümünün dağıtımı ve Pro satın almaları Google Play üzerinden işlenir ve satın alma doğrulaması için Google Play Billing kullanılır. Pro, tek seferlik bir uygulama içi satın almadır ve abonelik değildir. Kredi kartı numaralarını veya diğer ödeme kartı bilgilerini doğrudan almayız. Uygulama, analiz veya reklam amacıyla üçüncü taraf SDK kullanmaz. Google Play satın alma veya inceleme özelliklerini ya da paylaşım, e-posta veya web tarayıcısı gibi sizin seçtiğiniz harici özellikleri kullandığınızda ilgili hizmetlerin gizlilik politikaları ve koşulları geçerli olur. iOS sürümü şu anda geliştirilmektedir ve dağıtım ile satın alma uygulaması kesinleştikten sonra bu politika gerektiğinde güncellenecektir."
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "İletişim",
+        "p": "Bu politika hakkında sorularınız varsa lütfen myquickpaste@hotmail.com adresinden bizimle iletişime geçin."
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "Temmuz 2026",
+        "title": "Görseller kategorisi",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "Görseller kategorisi eklendi (kartvizitleri, logoları ve daha fazlasını kaydedin)",
+          "Görselleri kopyalamak, paylaşmak ve önizlemek için dokunun",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,12 +394,12 @@
     ]
   },
   "screenshots": {
-    "title": "Uygulamayı İş Başında Görün",
-    "subtitle": "MyQuickPaste'tan (Android) gerçek ekran görüntüleri.",
-    "freetextAlt": "Kaydedilmiş imzalar ve tek dokunuşla kopyalama içeren serbest metin listesi",
-    "snippetsAlt": "E-posta yanıt şablonlarıyla hazır cümleler kategorisi",
-    "profileAlt": "Ev, iş ve daha fazlası için kişilere yönelik profil kartları",
-    "profileEditAlt": "Adres ve iletişim alanlarıyla profil düzenleme ekranı",
+    "title": "Uygulama ekranları",
+    "subtitle": "MyQuickPaste'in gerçek ekranları.",
+    "freetextAlt": "Serbest metin listesi ekranı",
+    "snippetsAlt": "Hazır metin listesi ekranı",
+    "profileAlt": "Profil kartı ekranı",
+    "profileEditAlt": "Profil düzenleme ekranı",
     "cateAlt": "Altı kategori sekmesi: serbest metin, hazır cümleler, e-posta, telefon, adres, profil",
     "items": [
       {
@@ -421,188 +421,188 @@
         "caption": "Kategori sekmeleri — altı liste arasında anında geçiş"
       }
     ],
-    "imagesAlt": "Görseller kategorisi — örnek fotoğrafları kopyalayın veya paylaşın",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "Görsel kategorisi ekranı",
+    "titleLine1": "Yeterince net",
+    "titleLine2": "hemen kullanılabilir.",
+    "lead": "Büyük satırlar, net kategoriler, basit düzenleme — günlük kullanım için.",
+    "freetextCap": "Yeniden kullanılabilir metinleri tek listede yönetin",
+    "snippetsCap": "Alışık yanıtları hızlı kopyalayın",
+    "imagesCap": "Görselleri kaydedin, kopyalayın ve paylaşın",
+    "profileCap": "Adres veya iletişimi alan alan kopyalayın",
+    "profileEditCap": "Gerekli ayrıntıları birlikte kaydedin"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "Kaydedilen veriler otomatik olarak buluta gönderilmez.",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "Kopyalamak için dokunun",
+    "t1Text": "Kayıtlı satıra dokunmanız yeterli.",
+    "t2Title": "Tek seferlik Pro",
+    "t2Text": "Aylık ödeme yok.",
+    "t3Title": "Cihazda saklanır",
+    "t3Text": "Kayıtlı içerik cihazda yönetilir.",
+    "t4Title": "21 dilde arayüz",
+    "t4Text": "Uygulama ekranları 21 dilde."
   },
   "pain": {
     "titleLine1": "Her seferinde",
     "titleLine2": "«Neredeydi?» demeyin.",
-    "lead": "Aynı bilgi—ama her seferinde notlarda aramak, uzun basarak yeniden seçmek veya yeniden yazmak. Küçük adımlar her gün birikir.",
+    "lead": "Aynı bilgi—ama her seferinde notlarda aramak, uzun basarak yeniden seçmek veya aynı metni yeniden yazmak. Küçük adımlar her gün birikir.",
     "p1Title": "Aramak",
     "p1Text": "Adres veya hazır metin—hangi notta olduğu belli değil.",
     "p2Title": "Seçmek",
     "p2Text": "İhtiyacınız olan kısmı uzun basarak seçmek.",
     "p3Title": "Yeniden yazmak",
     "p3Text": "Aynı yanıtı veya profili tekrar tekrar yazmak.",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "MyQuickPaste ile",
+    "resolveLine2": "listeden tek dokunuş.",
+    "resolveSub": "Aramayın. Yeniden yazmayın. Sadece ihtiyacınız olan satıra dokunun.",
+    "flowOldLabel": "Tipik akış",
+    "flowOld1": "Ara",
+    "flowOld2": "Seç",
+    "flowOld3": "Kopyala",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "Dokun",
+    "flowNew2": "Kopyala"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "Sosyal medya için de",
+    "titleLine1": "Emoji ve hashtag—",
+    "titleLine2": "gerektiğinde hemen kopyalayın.",
+    "lead": "Favori emoji, hashtag ve gönderi metinlerinizi kaydedin. Dokunarak kopyalayın, alıştığınız sosyal uygulamalara yapıştırın.",
     "points": [
       {
         "title": "Emoji",
-        "text": "Keep favorites handy",
+        "text": "Favorileri kaydedin",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "Gönderiler",
+        "text": "Sık metinleri kaydedin",
         "icon": "camera"
       },
       {
-        "title": "Hashtags",
-        "text": "Copy as a set",
+        "title": "Hashtag",
+        "text": "Toplu kopyalayın",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "Hızlı kopya",
+        "text": "Gerektiğinde tek dokunuş",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "İş için de",
+    "titleLine1": "Hazır metinler ve kişiler—",
+    "titleLine2": "gerektiğinde hemen kopyalayın.",
+    "lead": "Hazır metinler, e-posta, telefon, URL ve diğer sık kullanılan bilgiler tek yerde. Satıra dokunarak anında kopyalayın.",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "Hazır metinler",
+        "text": "Alışık yanıtlarınız",
         "icon": "doc"
       },
       {
-        "title": "Email",
-        "text": "Signatures & notices",
+        "title": "E-posta",
+        "text": "İmza ve bildirimleri kaydedin",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "Kişiler",
+        "text": "Numaraları hızlı kopyalayın",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "Hızlı kopyalama",
+        "text": "Tek dokunuşla biter",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "Günlük hayatta",
+    "titleLine1": "Adres ve profil—",
+    "titleLine2": "gerektiğinde hemen kopyalayın.",
+    "lead": "Ev adresi, e-posta, profil metni, favori ifadeler. Gerektiğinde dokunarak anında kopyalayın.",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "Adres",
+        "text": "Daha az yeniden yazma",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "Profil",
+        "text": "Tanıtımınızı kaydedin",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "Sık kullanılan ifadeler",
+        "text": "İstediğiniz zaman yeniden kullanın",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "Hızlı bulun",
+        "text": "Düzenli kalın",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "Sadece geçici kopyalar değil —",
+    "titleLine2": "tekrar kullandıklarınız için bir yer.",
+    "otherLabel": "Notlar veya pano geçmişi",
+    "other1": "Aç",
+    "other2": "Ara",
+    "other3": "Gerekeni seç",
+    "other4": "Kopyala",
+    "otherText": "Son geçmiş için iyi. Sık kullanılan bilgilerde aramak sürtünme yaratır.",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "Aç",
+    "app2": "Satıra dokun",
+    "app3": "Kopyalandı",
+    "appText": "Sık kullandığınız metinleri ve bilgileri anlaşılır şekilde düzenleyip kaydedin."
   },
   "faq": {
-    "title": "FAQ",
+    "title": "SSS",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "Dokunmak otomatik olarak başka uygulamaya yapıştırır mı?",
+        "a": "Satıra dokunmak panoya kopyalar. Sonra posta, sosyal veya sohbete geçip yapıştırın."
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "Verilerim nerede saklanır?",
+        "a": "Metinler, profiller ve ayarlar akıllı telefonunuzda saklanır."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "30 günlük denemeden sonra uygulamayı kaybeder miyim?",
         "a": "Hayır. Deneme sonrasında ücretsiz planda devam edebilirsiniz. Kaydedilen veriler silinmez. Ücretsiz limitin üzerindeki veriler saklanır ve Pro satın alındığında yeniden kullanılabilir."
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Pro aylık abonelik mi?",
+        "a": "Hayır. Pro tekrarlayan aylık ücret olmadan tek seferlik satın almadır."
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "Windows sürümüyle veri paylaşabilir miyim?",
+        "a": "Hayır. Akıllı telefon ve Windows sürümleri ayrı uygulamalardır. Satın almalar ve veriler paylaşılmaz."
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "Telefon değiştirirken veri taşıyabilir miyim?",
+        "a": "Yedekleri dışa aktarın ve gerektiğinde içe aktarın. 30 günlük ücretsiz deneme ve Pro ile kullanılabilir."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "Windows'ta da.",
+    "text": "Windows sürümü ekran kenarında kalır ve kayıtlı metni tek tıkla yapıştırır — ayrı bir uygulamadır.",
+    "note": "Akıllı telefon sürümüyle aynı uygulama değildir. Satın almalar ve kayıtlı veriler paylaşılmaz.",
+    "link": "Windows sürümü ana sayfası"
   },
   "sceneMore": {
     "titleLine1": "Bu anlarda da işe yarar.",
     "titleLine2": "",
-    "lead": "Seyahat, ikinci el uygulamalar, sohbet, etkinlik—favori metniniz tek dokunuş uzağınızda.",
+    "lead": "Seyahat, ikinci el uygulamalar, sohbet, etkinlik—her durumda favori metninizi tek dokunuşla kopyalayın.",
     "cap3": "İlan metinleri anında kopyalanır",
-    "cap4": "Sohbet yanıtları tek dokunuş",
-    "cap6": "Organizatör mesajları hazır"
+    "cap4": "Sohbet yanıtları anında kopyalanır",
+    "cap6": "Organizatör mesajları anında kopyalanır"
   }
 }

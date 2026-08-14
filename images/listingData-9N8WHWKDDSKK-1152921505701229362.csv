@@ -1,0 +1,852 @@
+﻿Field,ID,Type (種類),default,en,ja,fr,de,zh-cn,zh-tw,ko,ru,it,es,pt,hi,ar,id,th,vi,tr,uk,en-us,nl,sv,pl
+Description,2,テキスト,,"Tired of copying and pasting the same text over and over?
+MyQuickPaste is a lightweight and powerful tool that lets you save your frequently used text and paste it instantly with just one click.
+Perfect for:
+
+AI prompts (ChatGPT, Claude, etc.)
+Programming code snippets
+Email templates
+Repetitive messages
+Any text you use regularly
+
+Features:
+
+Up to 100 saved snippets
+Organize with 5 tabs (A–E)
+Copy history (last 20 items)
+Clean and simple interface
+Works with any application
+
+Stop wasting time on repetitive typing.
+Save once, paste anywhere.","同じ文章を何度もコピペしてませんか？
+MyQuickPasteは、よく使うテキストを保存して、ワンクリックで素早く貼り付けできる軽量なツールです。
+特に便利な使い方：
+
+AIプロンプト（ChatGPT / Claudeなど）の保存
+プログラミングのコードスニペット
+メールの定型文
+繰り返し使うメッセージ
+その他、よく使う文章全般
+
+主な機能：
+
+最大100個のテキストを保存可能
+タブで整理できる（A〜Eの5タブ）
+コピー履歴（直近20件）
+シンプルで見やすい画面
+
+もう同じ文章を何度も打つ必要はありません。
+一度保存すれば、いつでもすぐ呼び出せます。","Fatigué de copier-coller le même texte encore et encore ?
+MyQuickPaste est un outil léger et puissant qui vous permet d'enregistrer vos textes fréquemment utilisés et de les coller en un seul clic.
+Idéal pour :
+
+Les prompts IA (ChatGPT, Claude, etc.)
+Les extraits de code de programmation
+Les modèles d'e-mails
+Les messages répétitifs
+Tout texte que vous utilisez régulièrement
+
+Fonctionnalités principales :
+
+Jusqu'à 100 textes enregistrés
+Organisation par onglets (A à E)
+Historique des copies (20 derniers éléments)
+Interface simple et épurée
+
+Arrêtez de perdre du temps avec la saisie répétitive.
+Enregistrez une fois, collez partout.","Müde, immer wieder denselben Text zu kopieren und einzufügen?
+MyQuickPaste ist ein leichtes und leistungsstarkes Tool, mit dem du deine häufig verwendeten Texte speichern und mit nur einem Klick einfügen kannst.
+Ideal für:
+
+KI-Prompts (ChatGPT, Claude etc.)
+Code-Snippets
+E-Mail-Vorlagen
+Wiederkehrende Nachrichten
+Alle Texte, die du regelmäßig brauchst
+
+Wichtige Funktionen:
+
+Bis zu 100 gespeicherte Texte
+Organisation in 5 Tabs (A–E)
+Kopierverlauf (letzte 20 Einträge)
+Saubere und übersichtliche Oberfläche
+
+Hör auf, Zeit mit ständigem Kopieren und Einfügen zu verschwenden.
+Einmal speichern. Überall einfügen.","厌倦了反复复制粘贴相同的文字吗？
+MyQuickPaste 是一款轻量高效的工具，让你保存常用文本，一键快速粘贴。
+特别适合：
+
+AI提示词（ChatGPT / Claude 等）
+编程代码片段
+邮件模板
+重复使用的消息
+任何经常使用的文字
+
+主要功能：
+
+最多保存 100 条文本
+5个标签页整理（A–E）
+复制历史记录（最近 20 条）
+简洁清晰的界面
+
+告别重复打字的烦恼。
+一次保存，随处粘贴。","厭倦了反覆複製貼上相同的文字嗎？
+MyQuickPaste 是一款輕量又強大的工具，能讓你把常用文字儲存起來，只需一鍵就能快速貼上。
+特別適合用來：
+
+AI 提示詞（ChatGPT / Claude 等）
+程式碼片段
+郵件模板
+重複使用的訊息
+任何經常需要輸入的文字
+
+主要功能：
+
+最多可儲存 100 條文字
+5 個標籤頁分類整理（A～E）
+複製歷史記錄（最近 20 筆）
+乾淨簡潔的操作介面
+
+不再浪費時間重複打字。
+一次儲存，隨處貼上。","같은 텍스트를 반복해서 복사-붙여넣기 하시나요?
+MyQuickPaste는 자주 쓰는 텍스트를 저장해 두고 한 번의 클릭으로 바로 붙여넣기할 수 있는 가볍고 강력한 도구입니다.
+특히 유용한 경우:
+
+AI 프롬프트 (ChatGPT, Claude 등)
+프로그래밍 코드 스니펫
+이메일 정형 문구
+반복해서 보내는 메시지
+기타 자주 사용하는 모든 텍스트
+
+주요 기능:
+
+최대 100개 텍스트 저장 가능
+5개 탭(A~E)으로 깔끔하게 정리
+복사 기록 (최근 20개)
+심플하고 직관적인 인터페이스
+
+반복 작업에서 벗어나세요.
+한 번 저장하면 어디서든 바로 사용 가능합니다.","Надоело постоянно копировать и вставлять один и тот же текст?
+MyQuickPaste — это лёгкий и мощный инструмент, который позволяет сохранять часто используемые тексты и вставлять их одним кликом.
+Отлично подходит для:
+
+AI-промптов (ChatGPT, Claude и другие)
+Фрагментов кода
+Шаблонов писем
+Повторяющихся сообщений
+Любых текстов, которые вы используете регулярно
+
+Основные возможности:
+
+До 100 сохранённых текстов
+Организация по 5 вкладкам (A–E)
+История копирования (последние 20 записей)
+Чистый и понятный интерфейс
+
+Хватит тратить время на повторяющийся набор текста.
+Сохраните один раз — вставляйте где угодно.","Stanco di copiare e incollare sempre lo stesso testo?
+MyQuickPaste è uno strumento leggero e potente che ti permette di salvare i testi che usi più spesso e incollarli con un solo clic.
+Perfetto per:
+
+Prompt AI (ChatGPT, Claude, ecc.)
+Frammenti di codice di programmazione
+Modelli di email
+Messaggi ripetitivi
+Qualsiasi testo che usi regolarmente
+
+Funzionalità principali:
+
+Fino a 100 testi salvati
+Organizzazione in 5 schede (A–E)
+Cronologia copie (ultimi 20 elementi)
+Interfaccia pulita e semplice
+
+Smetti di perdere tempo con operazioni ripetitive.
+Salva una volta, incolla ovunque.","¿Cansado de copiar y pegar el mismo texto una y otra vez?
+MyQuickPaste es una herramienta ligera y potente que te permite guardar los textos que usas frecuentemente y pegarlos con un solo clic.
+Ideal para:
+
+Prompts de IA (ChatGPT, Claude, etc.)
+Fragmentos de código
+Plantillas de correos
+Mensajes repetitivos
+Cualquier texto que uses regularmente
+
+Funcionalidades principales:
+
+Hasta 100 textos guardados
+Organización en 5 pestañas (A–E)
+Historial de copias (últimos 20 elementos)
+Interfaz limpia y sencilla
+
+Deja de perder tiempo con tareas repetitivas.
+Guarda una vez, pega en cualquier lugar.","Cansado de copiar e colar o mesmo texto repetidamente?
+MyQuickPaste é uma ferramenta leve e poderosa que permite guardar os textos que usa com frequência e colar com apenas um clique.
+Ideal para:
+
+Prompts de IA (ChatGPT, Claude, etc.)
+Trechos de código de programação
+Modelos de e-mail
+Mensagens repetitivas
+Qualquer texto que use regularmente
+
+Principais funcionalidades:
+
+Até 100 textos guardados
+Organização em 5 abas (A–E)
+Histórico de cópias (últimos 20 itens)
+Interface limpa e simples
+
+Pare de perder tempo com tarefas repetitivas.
+Guarde uma vez, cole em qualquer lugar.","क्या आप बार-बार एक ही टेक्स्ट को कॉपी-पेस्ट करते-करते थक गए हैं?
+MyQuickPaste एक हल्का और शक्तिशाली टूल है जो आपको अपने अक्सर इस्तेमाल होने वाले टेक्स्ट को सेव करने और एक क्लिक में तुरंत पेस्ट करने की सुविधा देता है।
+खासतौर पर उपयोगी:
+
+AI प्रॉम्प्ट (ChatGPT, Claude आदि)
+प्रोग्रामिंग कोड स्निपेट्स
+ईमेल टेम्प्लेट
+बार-बार भेजे जाने वाले मैसेज
+कोई भी टेक्स्ट जो आप नियमित रूप से इस्तेमाल करते हैं
+
+मुख्य विशेषताएं:
+
+100 तक टेक्स्ट सेव कर सकते हैं
+5 टैब (A–E) में व्यवस्था
+कॉपी इतिहास (आखिरी 20 आइटम)
+साफ-सुथरा और आसान इंटरफेस
+
+बार-बार टाइप करने की परेशानी खत्म करें।
+एक बार सेव करें, कहीं भी पेस्ट करें।","هل سئمت من نسخ ولصق نفس النص مرارًا وتكرارًا؟
+MyQuickPaste هو أداة خفيفة الوزن وقوية تتيح لك حفظ النصوص التي تستخدمها بشكل متكرر ولصقها بنقرة واحدة فقط.
+مثالي لـ
+
+موجهات الذكاء الاصطناعي (ChatGPT و Claude وغيرها)
+مقتطفات البرمجة
+قوالب البريد الإلكتروني
+الرسائل المتكررة
+أي نص تستخدمه بانتظام
+
+الميزات الرئيسية:
+
+حفظ حتى 100 نص
+تنظيم في 5 علامات تبويب (A–E)
+سجل النسخ (آخر 20 عنصر)
+واجهة بسيطة ونظيفة
+
+توقف عن إضاعة الوقت في الكتابة المتكررة.
+احفظ مرة واحدة، والصق في أي مكان.","Bosan menyalin dan menempel teks yang sama berulang-ulang?
+MyQuickPaste adalah alat ringan namun tangguh yang memungkinkan Anda menyimpan teks yang sering digunakan dan menempelkannya secara instan hanya dengan satu klik.
+Sangat cocok untuk:
+
+Prompt AI (ChatGPT, Claude, dll)
+Potongan kode pemrograman
+Template email
+Pesan berulang
+Teks apa pun yang Anda gunakan secara rutin
+
+Fitur Utama:
+
+Hingga 100 teks yang disimpan
+Organisasi dalam 5 tab (A–E)
+Riwayat salinan (20 item terakhir)
+Antarmuka yang bersih dan sederhana
+Dapat digunakan di semua aplikasi
+
+Hentikan pemborosan waktu untuk mengetik berulang.
+Simpan sekali, tempel di mana saja.","เบื่อกับการคัดลอกและวางข้อความเดิมซ้ำๆ อยู่บ่อยๆ ไหม?
+MyQuickPaste คือเครื่องมือที่เบาและทรงพลัง ช่วยให้คุณบันทึกข้อความที่ใช้บ่อยและวางได้ด้วยคลิกเดียว
+เหมาะสำหรับ:
+
+Prompt AI (ChatGPT, Claude ฯลฯ)
+ชิ้นส่วนโค้ดโปรแกรม
+แม่แบบอีเมล
+ข้อความที่ใช้ซ้ำๆ
+ข้อความใดๆ ที่คุณใช้เป็นประจำ
+
+คุณสมบัติหลัก:
+
+บันทึกได้สูงสุด 100 ข้อความ
+จัดระเบียบด้วย 5 แท็บ (A–E)
+ประวัติการคัดลอก (20 รายการล่าสุด)
+อินเทอร์เฟซที่สะอาดและเรียบง่าย
+
+หยุดเสียเวลากับการพิมพ์ซ้ำๆ ได้แล้ว
+บันทึกครั้งเดียว วางได้ทุกที่","Bạn có mệt mỏi vì phải copy-paste cùng một đoạn văn bản lặp đi lặp lại không?
+MyQuickPaste là một công cụ nhẹ và mạnh mẽ giúp bạn lưu các đoạn văn bản thường dùng và dán chỉ với một cú click.
+Hoàn hảo cho:
+
+Prompt AI (ChatGPT, Claude, v.v.)
+Đoạn code lập trình
+Mẫu email
+Tin nhắn lặp lại
+Bất kỳ văn bản nào bạn dùng thường xuyên
+
+Tính năng chính:
+
+Lưu tối đa 100 đoạn văn bản
+Tổ chức bằng 5 tab (A–E)
+Lịch sử sao chép (20 mục gần nhất)
+Giao diện sạch sẽ, dễ sử dụng
+
+Hãy ngừng lãng phí thời gian với việc gõ lặp lại.
+Lưu một lần, dán ở bất cứ đâu.","Aynı metni tekrar tekrar kopyalayıp yapıştırmaktan bıktınız mı?
+MyQuickPaste, sık kullandığınız metinleri kaydedip tek tıkla anında yapıştırmanızı sağlayan hafif ve güçlü bir araçtır.
+Özellikle şu işler için idealdir:
+
+AI prompt'ları (ChatGPT, Claude vb.)
+Programlama kod parçaları
+E-posta şablonları
+Tekrarlanan mesajlar
+Düzenli olarak kullandığınız her türlü metin
+
+Başlıca Özellikler:
+
+Maksimum 100 metin kaydetme
+5 sekme ile düzenleme (A–E)
+Kopyalama geçmişi (son 20 öğe)
+Temiz ve basit arayüz
+
+Tekrar eden yazma işlerine son verin.
+Bir kez kaydedin, her yerde yapıştırın.","Втомилися постійно копіювати та вставляти один і той самий текст?
+MyQuickPaste — це легкий та потужний інструмент, який дозволяє зберігати часто використовувані тексти та вставляти їх одним кліком.
+Ідеально підходить для:
+
+AI-промптів (ChatGPT, Claude тощо)
+Фрагментів коду
+Шаблонів листів
+Повторюваних повідомлень
+Будь-яких текстів, які ви використовуєте регулярно
+
+Основні функції:
+
+Збереження до 100 текстів
+Організація в 5 вкладках (A–E)
+Історія копіювання (останні 20 елементів)
+Чистий та простий інтерфейс
+
+Припиніть витрачати час на повторювані дії.
+Збережіть один раз — вставляйте будь-де.","Tired of copying and pasting the same text over and over?
+MyQuickPaste is a lightweight and powerful tool that lets you save your frequently used text and paste it instantly with just one click.
+Perfect for:
+
+AI prompts (ChatGPT, Claude, etc.)
+Programming code snippets
+Email templates
+Repetitive messages
+Any text you use regularly
+
+Key Features:
+
+Save up to 100 text snippets
+Organize with 5 tabs (A–E)
+Copy history (last 20 items)
+Clean and simple interface
+
+Stop wasting time on repetitive typing.
+Save once, paste anywhere.","Moe van steeds dezelfde tekst kopiëren en plakken?
+MyQuickPaste is een lichtgewicht en krachtige tool waarmee je veelgebruikte teksten kunt opslaan en met één klik kunt plakken.
+Ideaal voor:
+
+AI-prompts (ChatGPT, Claude, etc.)
+Code snippets
+E-mail templates
+Herhalende berichten
+Alle teksten die je regelmatig gebruikt
+
+Belangrijkste functies:
+
+Tot 100 teksten opslaan
+Organiseren in 5 tabbladen (A–E)
+Kopieergeschiedenis (laatste 20 items)
+Schone en eenvoudige interface
+
+Stop met tijd verspillen aan herhalend typen.
+Eén keer opslaan, overal plakken.","Trött på att kopiera och klistra in samma text om och om igen?
+MyQuickPaste är ett lätt och kraftfullt verktyg som låter dig spara ofta använda texter och klistra in dem med ett enda klick.
+Perfekt för:
+
+AI-prompter (ChatGPT, Claude m.fl.)
+Kodsnuttar
+E-postmallar
+Repetitiva meddelanden
+Alla texter du använder regelbundet
+
+Huvudfunktioner:
+
+Upp till 100 sparade texter
+Organisation i 5 flikar (A–E)
+Kopieringshistorik (senaste 20 posterna)
+Rent och enkelt gränssnitt
+
+Sluta slösa tid på repetitivt skrivande.
+Spara en gång, klistra in var som helst.","Masz dość ciągłego kopiowania i wklejania tego samego tekstu?
+MyQuickPaste to lekkie i potężne narzędzie, które pozwala zapisywać często używane teksty i wklejać je jednym kliknięciem.
+Idealne do:
+
+Promptów AI (ChatGPT, Claude itp.)
+Fragmentów kodu programistycznego
+Szablonów maili
+Powtarzających się wiadomości
+Wszelkich tekstów, których używasz regularnie
+
+Główne funkcje:
+
+Możliwość zapisania do 100 tekstów
+Organizacja w 5 zakładkach (A–E)
+Historia kopiowania (ostatnie 20 elementów)
+Czysty i prosty interfejs
+
+Przestań marnować czas na powtarzalne pisanie.
+Zapisz raz, wklejaj gdzie chcesz."
+ReleaseNotes,3,テキスト,,Complete rebuild in C# for blazing fast performance and stability. Now supports 18 languages globally. Introduction of MyQuickPaste Pro features with expanded slots.,C#への全面刷新により、動作速度と安定性が劇的に向上しました。世界18カ国語に対応。スロット制限を解除できるPro版（アドオン）機能を追加しました。,Reconstruction complète en C# pour des performances et une stabilité ultra-rapides. Supporte désormais 18 langues. Introduction des fonctionnalités MyQuickPaste Pro.,Komplette Neuentwicklung in C# für blitzschnelle Performance und Stabilität. Unterstützt jetzt weltweit 18 Sprachen. Einführung von MyQuickPaste Pro-Funktionen.,采用 C# 全面重构，显著提升性能与稳定性。现支持 18 种语言。新增 MyQuickPaste Pro 功能，解除槽位限制。,採用 C# 全面重構，顯著提升性能與穩定性。現支持 18 種語言。新增 MyQuickPaste Pro 功能，解除槽位限制。,C#으로의 전체 재구축을 통해 성능과 안정성이 크게 향상되었습니다. 이제 18개 언어를 지원합니다. 슬롯 제한을 해제하는 MyQuickPaste Pro 기능이 추가되었습니다.,Полное обновление на C# для сверхбыстрой работы и стабильности. Теперь поддерживает 18 языков. Добавлены функции MyQuickPaste Pro с неограниченными слотами.,Riscritto completamente in C# per prestazioni e stabilità fulminee. Ora supporta 18 lingue. Introduzione delle funzionalità MyQuickPaste Pro.,Reconstrucción completa en C# para un rendimiento y estabilidad ultrarrápidos. Ahora soporta 18 idiomas. Introducción de las funciones de MyQuickPaste Pro.,Reconstrução completa em C# para desempenho e estabilidade ultra-rápidos. Agora suporta 18 idiomas globalmente. Introdução dos recursos MyQuickPaste Pro.,बेहतर प्रदर्शन और स्थिरता के लिए C# में पूर्ण पुनर्निर्माण। अब 18 भाषाओं का समर्थन करता है। MyQuickPaste Pro सुविधाओं का परिचय।,إعادة بناء كاملة بلغة C# لتحقيق أداء فائق واستقرار عالٍ. يدعم الآن 18 لغة عالمية. تقديم ميزات MyQuickPaste Pro مع فتح المزيد من الخانات.,,สร้างใหม่ทั้งหมดด้วย C# เพื่อประสิทธิภาพและความเสถียรที่รวดเร็วขึ้น รองรับ 18 ภาษาทั่วโลก เพิ่มฟีเจอร์ MyQuickPaste Pro เพื่อปลดล็อกข้อจำกัด,Được xây dựng lại hoàn toàn bằng C# để mang lại hiệu suất và độ ổn định cực nhanh. Hiện hỗ trợ 18 ngôn ngữ. Giới thiệu các tính năng MyQuickPaste Pro.,Daha yüksek performans ve kararlılık için C# ile tamamen yeniden oluşturuldu. Artık 18 dili destekliyor. MyQuickPaste Pro özellikleri eklendi.,Повне оновлення на C# для надшвидкої роботи та стабільності. Тепер підтримує 18 мов. Додано функції MyQuickPaste Pro.,,Volledig herbouwd in C# voor razendsnelle prestaties en stabiliteit. Ondersteunt nu wereldwijd 18 talen. Introductie van MyQuickPaste Pro-functies met uitgebreide slots.,Helt omskriven i C# för blixtsnabb prestanda och stabilitet. Stöder nu 18 språk globalt. Introduktion av MyQuickPaste Pro-funktioner med fler platser.,Całkowita przebudowa w C# zapewniająca błyskawiczną wydajność i stabilność. Obsługuje teraz 18 języków na całym świecie. Wprowadzenie funkcji MyQuickPaste Pro z rozszerzoną liczbą slotów.
+Title,4,テキスト,,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste
+ShortTitle,5,テキスト,,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste
+SortTitle,6,テキスト,,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste
+VoiceTitle,7,テキスト,,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste
+ShortDescription,8,テキスト,,Save your frequently used text and paste it with one click.,よく使う文章を保存して、ワンクリックで貼り付け,Enregistrez vos textes fréquents et collez-les en un clic.,Häufig genutzte Texte speichern und mit einem Klick einfügen.,保存常用文字，一键快速粘贴,儲存常用文字，一鍵快速貼上,자주 쓰는 문장을 저장하고 한 번 클릭으로 붙여넣기,Сохраняйте часто используемые тексты и вставляйте одним кликом.,Salva i testi frequenti e incollali con un clic.,Guarda tus textos frecuentes y pégalos con un clic.,Guarde textos usados frequentemente e cole com um clique.,अक्सर इस्तेमाल होने वाले टेक्स्ट को सेव करें और एक क्लिक में पेस्ट करें,احفظ النصوص المستخدمة بانتظام والصقها بنقرة واحدة,Simpan teks yang sering digunakan dan tempel dengan satu klik,บันทึกข้อความที่ใช้บ่อยและวางด้วยคลิกเดียว,Lưu văn bản thường dùng và dán chỉ với một cú click,Sık kullandığınız metinleri kaydedin ve tek tıkla yapıştırın,Зберігайте часто використовувані тексти та вставляйте одним кліком,Save your frequently used text and paste it with one click.,Sla veelgebruikte teksten op en plak ze met één klik.,Spara ofta använda texter och klistra in med ett klick.,Zapisuj często używane teksty i wklejaj je jednym kliknięciem.
+DevStudio,9,テキスト,,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda,Kazuhiro Suda
+CopyrightTrademarkInformation,12,テキスト,,"Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved.","Copyright © 2025 GoodRabbit.inc, Japan. All rights reserved."
+AdditionalLicenseTerms,13,テキスト,,"This application is provided under the terms of the GNU General Public License version 3 (GPLv3). The source code of third-party libraries used in this application, such as PyQt6, is available upon request. For more details on other licenses, please refer to the help section within the application.",,"Cette application est fournie sous les termes de la Licence Publique Générale GNU version 3 (GPLv3). Le code source des bibliothèques tierces utilisées dans cette application, telles que PyQt6, est disponible sur demande. Pour plus de détails sur les autres licences, veuillez consulter la section d'aide de l'application.","Diese Anwendung wird unter den Bedingungen der GNU General Public License Version 3 (GPLv3) bereitgestellt. Der Quellcode von Drittanbieter-Bibliotheken, die in dieser Anwendung verwendet werden, wie z.B. PyQt6, ist auf Anfrage erhältlich. Weitere Details zu anderen Lizenzen finden Sie im Hilfe-Bereich innerhalb der Anwendung.",本应用程序依据 GNU 通用公共许可证条款版本 3 (GPLv3) 提供。本应用程序中使用的第三方库（例如 PyQt6）的源代码可应要求提供。有关其他许可的更多详细信息，请参阅应用程序内的帮助部分。,本應用程式依據 GNU 通用公共授權條款版本 3 (GPLv3) 提供。本應用程式中使用的第三方函式庫（例如 PyQt6）的原始碼可應要求提供。有關其他授權的更多詳細資訊，請參閱應用程式內的說明部分。,이 애플리케이션은 GNU 일반 공중 사용 허가서 버전 3 (GPLv3)의 조건에 따라 제공됩니다. PyQt6와 같이 이 애플리케이션에서 사용되는 제3자 라이브러리의 소스 코드는 요청 시 제공됩니다. 다른 라이선스에 대한 자세한 내용은 애플리케이션 내의 도움말 섹션을 참조하십시오.,"Это приложение предоставляется на условиях Стандартной общественной лицензии GNU версии 3 (GPLv3). Исходный код сторонних библиотек, используемых в этом приложении, таких как PyQt6, предоставляется по запросу. Для получения более подробной информации о других лицензиях, пожалуйста, обратитесь к разделу справки в приложении.","Questa applicazione è fornita secondo i termini della GNU General Public License versione 3 (GPLv3). Il codice sorgente delle librerie di terze parti utilizzate in questa applicazione, come PyQt6, è disponibile su richiesta. Per maggiori dettagli su altre licenze, si prega di fare riferimento alla sezione di aiuto all'interno dell'applicazione.","Esta aplicación se proporciona bajo los términos de la Licencia Pública General de GNU versión 3 (GPLv3). El código fuente de las bibliotecas de terceros utilizadas en esta aplicación, como PyQt6, está disponible bajo petición. Para más detalles sobre otras licencias, consulte la sección de ayuda dentro de la aplicación.","Este aplicativo é fornecido sob os termos da Licença Pública Geral GNU versão 3 (GPLv3). O código-fonte de bibliotecas de terceiros usadas neste aplicativo, como o PyQt6, está disponível mediante solicitação. Para mais detalhes sobre outras licenças, consulte a seção de ajuda dentro do aplicativo.","यह एप्लिकेशन जीएनयू जनरल पब्लिक लाइसेंस संस्करण 3 (जीपीएलवी3) की शर्तों के तहत प्रदान किया गया है। इस एप्लिकेशन में उपयोग की जाने वाली तीसरे पक्ष की लाइब्रेरी, जैसे कि PyQt6, का स्रोत कोड अनुरोध पर उपलब्ध है। अन्य लाइसेंसों पर अधिक विवरण के लिए, कृपया एप्लिकेशन के भीतर सहायता अनुभाग देखें।","This application is provided under the terms of the GNU General Public License version 3 (GPLv3). The source code of third-party libraries used in this application, such as PyQt6, is available upon request. For more details on other licenses, please refer to the help section within the application.","This application is provided under the terms of the GNU General Public License version 3 (GPLv3). The source code of third-party libraries used in this application, such as PyQt6, is available upon request. For more details on other licenses, please refer to the help section within the application.",แอปพลิเคชันนี้มีให้ภายใต้เงื่อนไขของ GNU General Public License เวอร์ชัน 3 (GPLv3) ซอร์สโค้ดของไลบรารีของบุคคลที่สามที่ใช้ในแอปพลิเคชันนี้ เช่น PyQt6 สามารถขอได้ สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับใบอนุญาตอื่น ๆ โปรดดูที่ส่วนช่วยเหลือภายในแอปพลิเคชัน,"Ứng dụng này được cung cấp theo các điều khoản của Giấy phép Công cộng Chung GNU phiên bản 3 (GPLv3). Mã nguồn của các thư viện của bên thứ ba được sử dụng trong ứng dụng này, chẳng hạn như PyQt6, có sẵn theo yêu cầu. Để biết thêm chi tiết về các giấy phép khác, vui lòng tham khảo phần trợ giúp trong ứng dụng.","Bu uygulama, GNU Genel Kamu Lisansı sürüm 3 (GPLv3) koşulları altında sağlanmaktadır. PyQt6 gibi bu uygulamada kullanılan üçüncü taraf kütüphanelerin kaynak kodu talep üzerine mevcuttur. Diğer lisanslar hakkında daha fazla ayrıntı için lütfen uygulama içindeki yardım bölümüne başvurun.","Ця програма надається на умовах Загальної публічної ліцензії GNU версії 3 (GPLv3). Вихідний код сторонніх бібліотек, що використовуються в цій програмі, таких як PyQt6, доступний за запитом. Для отримання додаткової інформації про інші ліцензії, будь ласка, зверніться до розділу довідки в програмі.",,"Deze applicatie wordt aangeboden onder de voorwaarden van de GNU General Public License versie 3 (GPLv3). De broncode van externe bibliotheken die in deze applicatie worden gebruikt, zoals PyQt6, is op verzoek beschikbaar. Raadpleeg de Help-sectie in de applicatie voor meer informatie over andere licenties.","Den här appen tillhandahålls enligt villkoren i GNU General Public License version 3 (GPLv3). Källkoden för tredjepartsbibliotek som används i appen, till exempel PyQt6, finns tillgänglig på begäran. Mer information om andra licenser finns i appens hjälpavsnitt.","Ta aplikacja jest udostępniana na warunkach GNU General Public License w wersji 3 (GPLv3). Kod źródłowy bibliotek stron trzecich używanych w tej aplikacji, takich jak PyQt6, jest dostępny na żądanie. Więcej informacji o innych licencjach znajduje się w sekcji pomocy w aplikacji."
+DesktopScreenshot1,100,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3065140788207357290,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3066137867309639375,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3007086012773208588,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3050290205891830943,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3041303084984865470,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3033654983333062351,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3017500351650039710,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3045373916039506990,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3045023249736264562,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3064547893995837276,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3064425691771322087,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3070970731096903008,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3050932159265407031,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3059991864528323365,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3009413040258277179,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3062457866151783611,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3050161859031446825,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3002868344578863703,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3028679767356521415,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3041032231668812567,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3041032231668812567,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3041032231668812567
+DesktopScreenshot2,101,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3041032231668812567,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3040610436456866094,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3065365266851088324,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3020890692941869550,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3016471982614115434,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3036414320054315556,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3038438044341395226,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3035416869623409182,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3011208012063256038,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3019103315661427051,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3070353879420041478,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3005031659751084184,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3025376463553857416,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3066770305927620409,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3001293345592513382,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3009370423908371828,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3001235532648843416,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3063575082393218731,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3001906641015910280,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3065140788207357290,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3065140788207357290,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3065140788207357290
+DesktopScreenshot3,102,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3017500351650039710,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3042322937205208069,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3027654199757863175,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3017500351650039710,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3070632293692734872,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3057096787284677301,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3006150071352217208,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3065594786667212557,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3058240880815363328,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3050392261035586683,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3020105403360318887,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3051541298839187645,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3049875043912525531,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3018656140514621796,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3008600002089672690,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3018620911741799296,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3034556673833230571,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3058191271494597687,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3000716313018874328,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3017500351650039710,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3017500351650039710,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3017500351650039710
+DesktopScreenshot4,103,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3001262452330891268,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3025599615069039760,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3067696865152720795,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3002669305137192875,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3033725506746103617,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3066296797162936106,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3007352569505298725,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3071860757076405811,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3058598216975902190,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3065626216188212402,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3011133793447010157,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3024917178128848384,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3015105061684655341,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3066586604154389619,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3035504239289722892,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3011731370773136054,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3046218576280074334,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3022606432727793946,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3049506681417514558,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3022992863884082427,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3022992863884082427,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3022992863884082427
+DesktopScreenshot5,104,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3022992863884082427,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3017500351650039710,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3058887292683395162,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3020955962418890225,,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3029971199402384262,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3040504518049373732,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3032570540956480648,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3062961752973917425,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3014330376593325825,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3007619000964696542,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3070995485641406915,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3071102872083255413,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3059686537416373136,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3007400691622421872,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3015794246691399758,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3016858009338276160,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3013810553869371752,,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3001262452330891268,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3001262452330891268,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3001262452330891268
+DesktopScreenshot6,105,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot7,106,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot8,107,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot9,108,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot10,109,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot11,110,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot12,111,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot13,112,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot14,113,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot15,114,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot16,115,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot17,116,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot18,117,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot19,118,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot20,119,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot21,120,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot22,121,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot23,122,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot24,123,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot25,124,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot26,125,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot27,126,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot28,127,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot29,128,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshot30,129,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption1,150,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption2,151,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption3,152,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption4,153,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption5,154,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption6,155,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption7,156,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption8,157,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption9,158,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption10,159,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption11,160,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption12,161,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption13,162,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption14,163,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption15,164,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption16,165,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption17,166,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption18,167,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption19,168,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption20,169,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption21,170,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption22,171,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption23,172,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption24,173,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption25,174,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption26,175,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption27,176,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption28,177,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption29,178,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+DesktopScreenshotCaption30,179,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot1,200,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot2,201,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot3,202,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot4,203,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot5,204,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot6,205,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot7,206,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot8,207,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot9,208,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot10,209,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot11,210,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot12,211,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot13,212,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot14,213,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot15,214,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot16,215,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot17,216,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot18,217,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot19,218,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot20,219,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot21,220,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot22,221,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot23,222,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot24,223,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot25,224,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot26,225,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot27,226,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot28,227,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot29,228,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshot30,229,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption1,250,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption2,251,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption3,252,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption4,253,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption5,254,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption6,255,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption7,256,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption8,257,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption9,258,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption10,259,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption11,260,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption12,261,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption13,262,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption14,263,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption15,264,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption16,265,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption17,266,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption18,267,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption19,268,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption20,269,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption21,270,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption22,271,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption23,272,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption24,273,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption25,274,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption26,275,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption27,276,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption28,277,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption29,278,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MobileScreenshotCaption30,279,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot1,300,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot2,301,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot3,302,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot4,303,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot5,304,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot6,305,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot7,306,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot8,307,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot9,308,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot10,309,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot11,310,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot12,311,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot13,312,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot14,313,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot15,314,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot16,315,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot17,316,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot18,317,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot19,318,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot20,319,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot21,320,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot22,321,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot23,322,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot24,323,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot25,324,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot26,325,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot27,326,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot28,327,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot29,328,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshot30,329,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption1,350,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption2,351,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption3,352,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption4,353,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption5,354,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption6,355,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption7,356,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption8,357,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption9,358,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption10,359,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption11,360,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption12,361,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption13,362,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption14,363,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption15,364,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption16,365,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption17,366,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption18,367,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption19,368,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption20,369,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption21,370,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption22,371,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption23,372,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption24,373,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption25,374,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption26,375,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption27,376,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption28,377,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption29,378,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+XboxScreenshotCaption30,379,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot1,400,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot2,401,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot3,402,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot4,403,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot5,404,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot6,405,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot7,406,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot8,407,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot9,408,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot10,409,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot11,410,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot12,411,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot13,412,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot14,413,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot15,414,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot16,415,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot17,416,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot18,417,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot19,418,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot20,419,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot21,420,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot22,421,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot23,422,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot24,423,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot25,424,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot26,425,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot27,426,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot28,427,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot29,428,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshot30,429,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption1,450,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption2,451,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption3,452,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption4,453,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption5,454,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption6,455,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption7,456,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption8,457,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption9,458,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption10,459,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption11,460,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption12,461,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption13,462,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption14,463,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption15,464,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption16,465,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption17,466,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption18,467,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption19,468,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption20,469,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption21,470,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption22,471,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption23,472,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption24,473,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption25,474,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption26,475,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption27,476,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption28,477,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption29,478,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+HolographicScreenshotCaption30,479,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot11,510,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot12,511,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot13,512,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot14,513,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot15,514,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot16,515,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot17,516,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot18,517,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot19,518,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot20,519,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot21,520,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot22,521,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot23,522,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot24,523,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot25,524,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot26,525,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot27,526,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot28,527,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot29,528,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshot30,529,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption11,560,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption12,561,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption13,562,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption14,563,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption15,564,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption16,565,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption17,566,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption18,567,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption19,568,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption20,569,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption21,570,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption22,571,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption23,572,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption24,573,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption25,574,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption26,575,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption27,576,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption28,577,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption29,578,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SurfaceHubScreenshotCaption30,579,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+StoreLogo720x1080,600,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3043423826543782931,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3010589554109409940,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3014705885530886238,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3016009895919552663,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3030128870903254965,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3050863030676303179,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3053612313673928690,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3027398124728936023,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3063372692535250091,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3023435808024315724,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3031957942598299291,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3066410100551846490,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3036693047769084251,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3043981578423504697,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3003615948330736596,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3070023518692391425,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3032706190455134687,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3036344410602419382,,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3043423826543782931,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3043423826543782931,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3043423826543782931
+StoreLogo1080x1080,601,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+StoreLogo300x300,602,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3027749037761973524,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3062206251990010605,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3037090013195771195,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3005891148394387358,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3064638466154207210,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3059924598660803812,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3064412016803728612,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3021436845145650317,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3060559459772070637,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3043356279058287353,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3035116828102369659,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3058149014660465030,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3036288085968981177,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3051306141305382086,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3064820062864400585,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3039110959093553095,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3070851785661805342,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3029074181606862829,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3017326622342566195,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673523/listingassets/3027749037761973524,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673525/listingassets/3027749037761973524,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700025673527/listingassets/3027749037761973524
+OverrideLogosForWin10,603,True/False,,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+StoreLogoOverride150x150,604,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3016880364074529401,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3039376976664715723,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3024100974265553455,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3072012270697239064,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3054407902209744952,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3028786020008199532,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3040773804786945851,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3064851039839926861,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3048065690433121837,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3032426653679128707,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3034371265587313010,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3004496290482618576,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3040785133303606375,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3069784003402716304,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3021830705303535370,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3058806828612543835,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3025726990644176723,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3071971685647950247,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3044800806916634891,,,
+StoreLogoOverride71x71,605,相対パス (またはパートナー センターにあるファイルへの URL),,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493121/listingassets/3033435884591643721,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493123/listingassets/3001769365886098365,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493125/listingassets/3009328199293970449,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493127/listingassets/3000351135581810269,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493129/listingassets/3031771762188723465,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493131/listingassets/3053414767943758091,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493133/listingassets/3029278084665201084,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493135/listingassets/3070435855507748419,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493137/listingassets/3015906507716506161,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493139/listingassets/3029830309921526676,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493141/listingassets/3000492267290444185,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493143/listingassets/3055634899440015251,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493145/listingassets/3048900235052882379,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493147/listingassets/3015006190158356999,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493569/listingassets/3050037411878236211,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493567/listingassets/3010516523057937303,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493541/listingassets/3066860889067771361,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700021493543/listingassets/3067417390801971852,https://developer.microsoft.com/en-us/dashboard/apps/9N8WHWKDDSKK/submissions/1152921505701229362/listings/1152922700024762023/listingassets/3009827084245245524,,,
+PromoImage1920x1080,606,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+PromoImage2400x1200,607,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxBrandedKeyArt584x800,608,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxTitledHero1920x1080,609,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+XboxFeaturedPromo1080x1080,610,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+OptionalPromo358x358,611,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+OptionalPromo1000x800,612,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+OptionalPromo414x180,613,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Feature1,700,テキスト,,,,,,,,,,,,,,,,,,,,Complete rebuild in C# for blazing fast performance and stability. Now supports 18 languages globally. Introduction of MyQuickPaste Pro features with expanded slots.,Volledig herbouwd in C# voor razendsnelle prestaties en stabiliteit. Ondersteunt nu wereldwijd 18 talen. Introductie van MyQuickPaste Pro-functies met uitgebreide slots.,Helt omskriven i C# för blixtsnabb prestanda och stabilitet. Stöder nu 18 språk globalt. Introduktion av MyQuickPaste Pro-funktioner med fler platser.,Całkowita przebudowa w C# zapewniająca błyskawiczną wydajność i stabilność. Obsługuje teraz 18 języków na całym świecie. Wprowadzenie funkcji MyQuickPaste Pro z rozszerzoną liczbą slotów.
+Feature2,701,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature3,702,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature4,703,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature5,704,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature6,705,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature7,706,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature8,707,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature9,708,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature10,709,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature11,710,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature12,711,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature13,712,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature14,713,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature15,714,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature16,715,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature17,716,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature18,717,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature19,718,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+Feature20,719,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq1,800,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq2,801,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq3,802,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq4,803,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq5,804,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq6,805,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq7,806,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq8,807,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq9,808,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq10,809,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+MinimumHardwareReq11,810,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq1,850,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq2,851,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq3,852,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq4,853,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq5,854,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq6,855,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq7,856,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq8,857,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq9,858,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq10,859,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+RecommendedHardwareReq11,860,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+SearchTerm1,900,テキスト,,clipboard manager,クリップボード,presse-papiers,Zwischenablage,剪贴板,剪貼簿,클립보드,буфер обмена,appunti,portapapeles,área de transferência,क्लिपबोर्ड,الحافظة,clipboard,คลิปบอร์ด,khay nhớ tạm,pano,буфер обмена,Clipboard Manager,Klembordbeheer,Urklippshanterare,Menedżer schowka
+SearchTerm2,901,テキスト,,text snippet,定型文,extrait de texte,Textbaustein,文本片段,文字片段,상용구,фрагмент текста,snippet di testo,fragmento de texto,trecho de texto,टेक्स्ट स्निपेट,مقتطفات نصية,cuplikan teks,ข้อความสั้น,đoạn văn bản,metin parçacığı,фрагмент тексту,AI Prompt Manager,AI-promptbeheer,AI-prompthanterare,Menedżer promptów AI
+SearchTerm3,902,テキスト,,copy paste tool,貼り付け,outil copier coller,Kopieren Einfügen,复制粘贴,複製貼上,복사 붙여넣기,копировать вставить,copia incolla,copiar pegar,copiar colar,कॉपी पेस्ट,نسخ لصق,salin tempel,คัดลอกวาง,sao chép dán,kopyala yapıştır,копіювати вставити,Text Snippets,Tekstfragmenten,Textsnippets,Fragmenty tekstu
+SearchTerm4,903,テキスト,,productivity,コピー＆ペースト,productivité,Produktivität,工作效率,工作效率,생산성,продуктивность,produttività,productividad,produtividade,उत्पादकता,إنتاجية,produktivitas,เพิ่มประสิทธิภาพ,năng suất,verimlilik,продуктивність,Copy and Paste,Kopiëren en plakken,Kopiera och klistra in,Kopiuj i wklej
+SearchTerm5,904,テキスト,,text expander,コピー履歴,text expander,Text Expander,文本扩展,文字擴展,텍스트 확장,расширитель текста,espansione testo,expansor de texto,expansor de texto,टेक्स्ट एक्सपैंडर,توسيع النص,pengembang teks,ขยายข้อความ,mở rộng văn bản,metin genişletici,розширювач тексту,Productivity Tool,Productiviteitstool,Produktivitetsverktyg,Narzędzie produktywności
+SearchTerm6,905,テキスト,,automation,マイクイックペースト,automatisation,Automatisierung,自动输入,自動輸入,자동화,автоматизация,automazione,automatización,automatização,स्वचालन,أتمتة,otomatisasi,อัตโนมัติ,tự động hóa,otomasyon,автоматизація,Workflow Efficiency,Workflow efficiëntie,Arbetseffektivitet,Efektywność pracy
+SearchTerm7,906,テキスト,,MyQuickPaste,MQP,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,MyQuickPaste,,,,
+TrailerToPlayAtTopOfListing,999,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer1,1000,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer2,1001,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer3,1002,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer4,1003,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer5,1004,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer6,1005,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer7,1006,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer8,1007,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer9,1008,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer10,1009,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer11,1010,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer12,1011,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer13,1012,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer14,1013,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+Trailer15,1014,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle1,1020,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle2,1021,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle3,1022,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle4,1023,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle5,1024,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle6,1025,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle7,1026,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle8,1027,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle9,1028,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle10,1029,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle11,1030,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle12,1031,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle13,1032,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle14,1033,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerTitle15,1034,テキスト,,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail1,1040,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail2,1041,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail3,1042,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail4,1043,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail5,1044,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail6,1045,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail7,1046,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail8,1047,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail9,1048,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail10,1049,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail11,1050,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail12,1051,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail13,1052,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail14,1053,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerThumbnail15,1054,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption1,1055,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption2,1056,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption3,1057,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption4,1058,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption5,1059,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption6,1060,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption7,1061,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption8,1062,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption9,1063,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption10,1064,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption11,1065,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption12,1066,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption13,1067,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption14,1068,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerClosedCaption15,1069,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription1,1070,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription2,1071,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription3,1072,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription4,1073,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription5,1074,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription6,1075,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription7,1076,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription8,1077,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription9,1078,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription10,1079,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription11,1080,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription12,1081,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription13,1082,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription14,1083,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+TrailerAudioDescription15,1084,相対パス (またはパートナー センターにあるファイルへの URL),,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "uk",
-    "title": "MyQuickPaste — версія для смартфонів",
-    "description": "Зберігайте текст, який часто використовуєте, на телефоні й копіюйте його одним дотиком. MyQuickPaste впорядковує шаблони фраз, адреси, контакти та картки профілю за категоріями.",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | Копіюйте щоденні тексти одним натисканням",
+    "description": "Зберігайте шаблони, адреси, контакти, URL, емодзі, хештеги та інше—копіюйте одним натисканням. Перейдіть до звичного застосунку та вставте. MyQuickPaste спрощує введення на смартфоні.",
+    "ogTitle": "MyQuickPaste | Копіюйте щоденні тексти одним натисканням",
+    "ogDescription": "Зберігайте часто використовувані тексти та дані, копіюйте одним натисканням, коли потрібно. Перейдіть до звичного застосунку та вставте."
   },
   "lang": {
     "label": "Мова",
@@ -14,12 +14,12 @@
   "nav": {
     "home": "Головна",
     "support": "Підтримка",
-    "releaseNotes": "Оновлення",
+    "releaseNotes": "Примітки до випуску",
     "privacy": "Конфіденційність",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "features": "Можливості",
+    "how": "Як це працює",
+    "screens": "Екрани",
+    "pricing": "Ціни",
     "cta": "30 днів безкоштовного пробного періоду"
   },
   "brand": {
@@ -27,34 +27,34 @@
     "edition": "Версія для смартфонів"
   },
   "hero": {
-    "badge": "Для Android та iPhone",
-    "catch": "Збережіть те, що використовуєте щодня. Копіюйте одним дотиком.",
-    "lead": "Шаблони, адреси, контакти, URL, емодзі, хештеги. Збережіть те, що часто використовуєте, і копіюйте одним натисканням зі списку.",
+    "badge": "MyQuickPaste для смартфонів",
+    "catch": "Щоденні тексти — одним натисканням.",
+    "lead": "Шаблони, адреси, контакти, URL, емодзі, хештеги. Збережіть те, що часто використовуєте, і копіюйте одним натисканням зі списку, коли потрібно.",
     "platformLine": "Google Play незабаром · App Store у розробці",
     "trialTitle": "30 днів безкоштовного пробного періоду",
     "trialText": "Протягом 30 днів після першого встановлення безкоштовно спробуйте підвищені ліміти збереження та резервне копіювання.",
-    "trust": "Зберігається лише на вашому пристрої · 21 мова",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21 мова",
+    "eyebrow": "MyQuickPaste для смартфонів",
+    "catchLine1": "Часті тексти—",
+    "catchLine2": "одним натисканням.",
     "sub": "Потім перейдіть до звичного застосунку та вставте.",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "Як це працює",
     "ctaSecondary": "30 днів безкоштовного пробного періоду",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play незабаром",
+    "statusApp": "App Store у розробці",
     "pill1": "30 днів безкоштовного пробного періоду",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro — разова покупка",
+    "pill3": "Зберігається на пристрої",
+    "pill4": "21 мова"
   },
   "stores": {
-    "googlePlay": "Доступно в Google Play",
+    "googlePlay": "Завантажити в Google Play",
     "appStore": "App Store",
     "comingSoon": "Незабаром",
     "inDevelopment": "У розробці",
-    "googlePlayBadgeAlt": "Доступно в Google Play",
+    "googlePlayBadgeAlt": "Завантажити в Google Play",
     "appStoreBadgeAlt": "Завантажити в App Store",
-    "microsoftBadgeAlt": "Завантажити в Microsoft Store (MyQuickPaste для Windows)"
+    "microsoftBadgeAlt": "Отримати в Microsoft (MyQuickPaste для Windows)"
   },
   "compare": {
     "title": "Родина застосунків MyQuickPaste",
@@ -98,23 +98,23 @@
   },
   "steps": {
     "title": "Як це працює",
-    "subtitle": "Зберегти, торкнутися, вставити — лише 3 кроки.",
+    "subtitle": "Без складного налаштування. Лише три кроки.",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "Збережіть те, що використовуєте знову",
+        "text": "Зареєструйте часто використовувані тексти, контакти та інше."
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "Натисніть потрібний рядок",
+        "text": "Одне натискання копіює вміст у буфер обміну."
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "Вставте в інший застосунок",
+        "text": "Перейдіть у пошту, соцмережі, чат, карти та вставте."
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "Зберегти, натиснути,",
+    "titleLine2": "потім вставити."
   },
   "benefits": {
     "title": "Що особливо подобається",
@@ -137,72 +137,72 @@
     ]
   },
   "features": {
-    "title": "Основні функції",
-    "subtitle": "Функції, які роблять щоденне копіювання та вставку на телефоні простішими.",
+    "title": "Можливості",
+    "subtitle": "Інструменти, що полегшують щоденне введення.",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "Копіювання одним натисканням",
+        "text": "Натисніть рядок, щоб скопіювати вміст у буфер обміну.",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "Організація за призначенням",
+        "text": "Керуйте за категоріями: вільний текст, шаблони, e-mail, телефон, зображення, профіль.",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "Сортування обраного",
+        "text": "Перемістіть часті елементи вгору для швидшого доступу.",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "Копіювання по полях",
+        "text": "Копіюйте лише потрібну адресу, ім'я або номер.",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "Зображення під рукою",
+        "text": "Зберігайте логотипи або фото, потім копіюйте, діліться або переглядайте.",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "Експорт та імпорт",
+        "text": "Експортуйте резервні копії та імпортуйте за потреби. Доступно в 30-денній пробній версії та Pro.",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "Вибір оформлення",
+        "text": "Світла й темна теми, а з Pro — преміальні кольорові теми.",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "Залишається на пристрої",
+        "text": "Тексти та профілі керуються на телефоні.",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "6 категорій",
+    "categoriesLabel": "Категорії: Вільний текст, Шаблони, E-mail, Телефон, Зображення, Профіль",
     "categories": [
-      "Довільний текст",
-      "Шаблони фраз",
-      "Пошта",
+      "Вільний текст",
+      "Шаблони",
+      "E-mail",
       "Телефон",
       "Зображення",
       "Профіль"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "Просто,",
+    "titleLine2": "але з необхідним."
   },
   "themesSection": {
-    "title": "14 кольорових тем",
-    "subtitle": "Безкоштовно: світла та темна. Pro відкриває преміальні палітри для роботи та щоденного використання.",
-    "imageAlt": "Сітка з 14 тем MyQuickPaste: зверху сім світлих, знизу сім темних.",
-    "caption": "Верхній ряд: 7 світлих тем / Нижній ряд: 7 темних тем",
-    "note": "Преміальні теми потребують покупки Pro.",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "Теми",
+    "subtitle": "Світла та темна теми, а також преміальні кольорові теми в Pro.",
+    "imageAlt": "Галерея тем MyQuickPaste",
+    "caption": "Світла / темна / преміальні теми",
+    "note": "Преміальні теми потребують покупки Pro. Не включені в 30-денну пробну версію.",
+    "titleLine1": "Підберіть вигляд",
+    "titleLine2": "під місце використання."
   },
   "usecases": {
     "title": "Підходить для",
@@ -245,43 +245,43 @@
       "Власні назви та значки категорій"
     ],
     "note": "Сам застосунок можна завантажити безкоштовно. Pro — це одноразове доповнення, яке купується через магазин застосунків; ціна може відрізнятися залежно від регіону.",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "Спробуйте 30 днів,",
+    "titleLine2": "і відчуйте зручність.",
+    "trialLabel": "Лише при першому встановленні",
     "trialTitle": "30 днів безкоштовного пробного періоду",
     "trialText": "Текстові категорії: до 200 у кожній · Зображення: 50 · Профілі: 30 · Експорт/імпорт резервної копії",
     "trialNote": "Преміум-теми та налаштування назв/значків категорій доступні після покупки Pro. Після пробного періоду ваші дані не видаляються. Дані понад безкоштовні ліміти зберігаються і знову стають доступними після покупки Pro.",
     "freeLead": "Основні функції залишаються безкоштовними.",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "Разова покупка",
+    "proLead": "Без щомісячної плати.",
+    "notSub": "Це не підписка"
   },
   "privacySection": {
-    "title": "Дані залишаються на вашому телефоні",
-    "text": "Тексти та профілі в MyQuickPaste зберігаються на пристрої. Ми не надсилаємо ваш вміст у хмару автоматично.",
+    "title": "Конфіденційність на пристрої",
+    "text": "Тексти та профілі в MyQuickPaste керуються на пристрої. Ми не надсилаємо ваш вміст у хмару автоматично.",
     "link": "Читати політику конфіденційності",
     "titleLine1": "Важливе залишається",
     "titleLine2": "на вашому пристрої.",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "Без автоматичної синхронізації з хмарою",
+      "Не надсилає збережений вміст автоматично на зовнішні сервери",
+      "Дані керуються на пристрої",
+      "Власну резервну копію можна експортувати під час 30-денного безкоштовного пробного періоду та з Pro."
     ]
   },
   "cta": {
-    "title": "Час перестати набирати той самий текст на телефоні знову й знову?",
-    "lead": "Зберегти, натиснути, вставити. Спростіть щоденне введення з MyQuickPaste.",
-    "button": "Доступно в Google Play",
-    "titleLine1": "Часті тексти",
-    "titleLine2": "ближче під рукою.",
+    "title": "Часті тексти—одним натисканням.",
+    "lead": "Зберегти, натиснути, потім вставити.",
+    "button": "30 днів безкоштовно",
+    "titleLine1": "Часті тексти—",
+    "titleLine2": "одним натисканням.",
     "sub": "Протягом 30 днів після першого встановлення безкоштовно спробуйте підвищені ліміти та резервне копіювання."
   },
   "footer": {
-    "pcEdition": "MyQuickPaste (версія для ПК)",
+    "pcEdition": "Версія для Windows",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Усі права захищено.",
     "developer": "Розробник: Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "Контакти"
   },
   "supportPage": {
     "title": "Підтримка",
@@ -324,39 +324,39 @@
   "privacyPage": {
     "title": "Політика конфіденційності",
     "lead": "MyQuickPaste (версія для смартфонів)",
-    "updated": "Last updated: July 2026",
+    "updated": "Останнє оновлення: 14 серпня 2026 р.",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "Огляд",
+        "p": "MyQuickPaste — це застосунок для смартфонів, який надає Good Rabbit inc. («ми»). Ця політика пояснює, як MyQuickPaste обробляє інформацію на вашому пристрої."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "Збір даних нами",
+        "p": "MyQuickPaste не містить процесів, які збирають, передають або зберігають на серверах, що керуються нами, вільний текст, шаблони, адреси електронної пошти, номери телефонів, профілі, зображення або вміст буфера обміну, якими ви користуєтеся в застосунку. Цей вміст обробляється на вашому пристрої для забезпечення функцій застосунку. Однак коли ви свідомо використовуєте функцію поширення, коли працює резервне копіювання Android або коли ви користуєтеся сервісами магазину, як-от Google Play, дані обробляються відповідно до механізмів і політик відповідної операційної системи або сервісу."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "Зберігання на пристрої та резервне копіювання Android",
+        "p": "Введений вміст, категорії, профілі, налаштування застосунку та зареєстровані зображення зберігаються у приватній області зберігання застосунку на вашому пристрої. Зареєстровані зображення копіюються до цієї приватної області. На Android, якщо ввімкнено функцію резервного копіювання операційної системи, деякі дані застосунку можуть резервуватися в сховище, пов’язане з вашим обліковим записом Google, і відновлюватися звідти. Згідно з поточними правилами резервного копіювання застосунку файли зареєстрованих зображень виключені з хмарного резервного копіювання. Під час перенесення між пристроями дані можуть передаватися за допомогою функцій операційної системи."
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "Безпека",
+        "p": "Збережені дані містяться у приватній області застосунку, захищеній операційною системою. Ми не використовуємо власний сервер для зберігання зареєстрованого вами вмісту. Безпека самого пристрою, резервних копій операційної системи та експортованих вами файлів резервних копій залежить від безпеки й керування відповідним пристроєм, сервісом і сховищем, яке контролює користувач."
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "Доступ до буфера обміну",
+        "p": "Щоб показувати попередній перегляд на головному екрані та забезпечувати пов’язані функції, MyQuickPaste може читати текст або зображення, які наразі містяться в буфері обміну вашого пристрою. Вміст буфера обміну обробляється на пристрої й не зберігається автоматично на постійній основі, якщо ви явно його не зареєструєте. Для попереднього перегляду зображень із буфера обміну застосунок може створювати тимчасовий файл кешу. MyQuickPaste не містить процесів, які надсилають вміст буфера обміну на сервери, що керуються нами."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "Зберігання, видалення та резервні копії даних",
+        "p": "Збережені дані залишаються в області зберігання застосунку на вашому пристрої, доки ви не видалите їх у застосунку або не видалите сам застосунок. Видалення застосунку прибирає локальні дані застосунку з пристрою, однак окремі копії можуть залишатися в резервних копіях операційної системи Android або у файлах резервних копій, які ви експортували та зберегли. Протягом 30-денного безкоштовного пробного періоду та з Pro ви можете експортувати й імпортувати дані як файл резервної копії MyQuickPaste (.mqp). Ви самі обираєте, де зберігати експортований файл, і відповідаєте за керування та видалення експортованих файлів резервних копій."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "Магазини застосунків, покупки та зовнішні сервіси",
+        "p": "30-денний безкоштовний пробний період керується всередині застосунку на основі часу першого встановлення. Розповсюдження Android-версії та покупки Pro обробляються через Google Play, а Google Play Billing використовується для перевірки покупок. Pro — це одноразова покупка в застосунку, а не підписка. Ми не отримуємо безпосередньо номери кредитних карток або інші дані платіжних карток. Застосунок не використовує сторонні SDK для аналітики чи реклами. Коли ви користуєтеся функціями покупок або відгуків Google Play чи обраними вами зовнішніми функціями, як-от поширення, електронна пошта або веббраузер, застосовуються політики конфіденційності та умови відповідних сервісів. Версія для iOS наразі розробляється, і ця політика буде оновлена за потреби після остаточного визначення способу її розповсюдження та реалізації покупок."
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "Контакти",
+        "p": "Якщо у вас є запитання щодо цієї політики, зв’яжіться з нами за адресою myquickpaste@hotmail.com."
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "Липень 2026",
+        "title": "Категорія «Зображення»",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "Додано категорію «Зображення» (зберігайте візитівки, логотипи та інше)",
+          "Натисніть, щоб копіювати, ділитися та переглядати зображення",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,12 +394,12 @@
     ]
   },
   "screenshots": {
-    "title": "Застосунок у дії",
-    "subtitle": "Реальні знімки екрана MyQuickPaste на Android.",
-    "freetextAlt": "Список довільного тексту зі збереженими фразами й копіюванням одним дотиком",
-    "snippetsAlt": "Категорія шаблонів фраз із заготовками для листів",
-    "profileAlt": "Картки профілю для дому та роботи",
-    "profileEditAlt": "Екран редагування профілю з полями адреси та контактів",
+    "title": "Екрани застосунку",
+    "subtitle": "Реальні екрани MyQuickPaste.",
+    "freetextAlt": "Екран списку вільного тексту",
+    "snippetsAlt": "Екран списку шаблонів",
+    "profileAlt": "Екран картки профілю",
+    "profileEditAlt": "Екран редагування профілю",
     "cateAlt": "Шість вкладок категорій: довільний текст, шаблони фраз, пошта, телефон, адреса, профіль",
     "items": [
       {
@@ -421,188 +421,188 @@
         "caption": "Вкладки категорій — миттєве перемикання між шістьма списками"
       }
     ],
-    "imagesAlt": "Категорія «Зображення» з прикладами для копіювання чи надсилання",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "Екран категорії зображень",
+    "titleLine1": "Достатньо зрозуміло,",
+    "titleLine2": "щоб одразу користуватися.",
+    "lead": "Великі рядки, чіткі категорії та просте редагування — для щоденного використання.",
+    "freetextCap": "Керуйте текстом, що повторно використовується, в одному списку",
+    "snippetsCap": "Швидко копіюйте звичні відповіді",
+    "imagesCap": "Зберігайте, копіюйте та діліться зображеннями",
+    "profileCap": "Копіюйте адресу або контакти по полях",
+    "profileEditCap": "Зареєструйте потрібні дані разом"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "Збережені дані не надсилаються в хмару автоматично.",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "Натисніть, щоб скопіювати",
+    "t1Text": "Просто натисніть збережений рядок.",
+    "t2Title": "Pro разово",
+    "t2Text": "Без щомісячних платежів.",
+    "t3Title": "Зберігання на пристрої",
+    "t3Text": "Збережений вміст керується на пристрої.",
+    "t4Title": "Інтерфейс 21 мовою",
+    "t4Text": "Екрани застосунку 21 мовою."
   },
   "pain": {
     "titleLine1": "Досить щоразу думати:",
     "titleLine2": "«Де це було?»",
-    "lead": "Та сама інформація—але щоразу ви шукаєте в нотатках, знову виділяєте довгим натисканням або переписуєте. Дрібні кроки накопичуються щодня.",
+    "lead": "Та сама інформація—але щоразу ви шукаєте в нотатках, знову виділяєте довгим натисканням або переписуєте той самий текст. Дрібні кроки накопичуються щодня.",
     "p1Title": "Шукати",
     "p1Text": "Адреса чи шаблон—невідомо, у якій нотатці.",
     "p2Title": "Виділяти",
     "p2Text": "Довге натискання, щоб взяти лише потрібну частину.",
     "p3Title": "Вводити знову",
     "p3Text": "Той самий відповідь чи профіль набираєте знову і знову.",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "З MyQuickPaste",
+    "resolveLine2": "одне натискання в списку.",
+    "resolveSub": "Не шукайте. Не переписуйте. Просто натисніть потрібний рядок.",
+    "flowOldLabel": "Звичний шлях",
+    "flowOld1": "Шукати",
+    "flowOld2": "Виділяти",
+    "flowOld3": "Копіювати",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "Натиснути",
+    "flowNew2": "Копіювати"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "І для соцмереж",
+    "titleLine1": "Емодзі та хештеги—",
+    "titleLine2": "копіюйте, коли потрібно.",
+    "lead": "Зберігайте улюблені емодзі, хештеги та тексти дописів. Натисніть, щоб скопіювати, і вставте у звичні соцзастосунки.",
     "points": [
       {
-        "title": "Emoji",
-        "text": "Keep favorites handy",
+        "title": "Емодзі",
+        "text": "Зберігайте обране",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "Дописи",
+        "text": "Зберігайте часті тексти",
         "icon": "camera"
       },
       {
-        "title": "Hashtags",
-        "text": "Copy as a set",
+        "title": "Хештеги",
+        "text": "Копіюйте набором",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "Швидке копіювання",
+        "text": "Одне натискання, коли потрібно",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "І на роботі",
+    "titleLine1": "Шаблони та контакти—",
+    "titleLine2": "копіюйте, коли потрібно.",
+    "lead": "Шаблони, e-mail, телефони, URL та інша часто використовувана інформація в одному місці. Натисніть рядок—і одразу скопіюйте.",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "Шаблони",
+        "text": "Ваші звичні відповіді",
         "icon": "doc"
       },
       {
-        "title": "Email",
-        "text": "Signatures & notices",
+        "title": "E-mail",
+        "text": "Зберігайте підписи та сповіщення",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "Контакти",
+        "text": "Швидко копіюйте номери",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "Швидке копіювання",
+        "text": "Готово одним натисканням",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "У повсякденному житті",
+    "titleLine1": "Адреса та профіль—",
+    "titleLine2": "копіюйте, коли потрібно.",
+    "lead": "Домашня адреса, e-mail, текст профілю, улюблені фрази. Натисніть і одразу скопіюйте, коли потрібно.",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "Адреса",
+        "text": "Менше повторного введення",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "Профіль",
+        "text": "Збережіть опис",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "Улюблені фрази",
+        "text": "Використовуйте знову будь-коли",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "Швидкий пошук",
+        "text": "Залишайтеся організованими",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "Не лише тимчасові копії —",
+    "titleLine2": "дім для частого використання.",
+    "otherLabel": "Нотатки або історія буфера",
+    "other1": "Відкрити",
+    "other2": "Шукати",
+    "other3": "Вибрати потрібне",
+    "other4": "Копіювати",
+    "otherText": "Зручно для недавньої історії. Для часто використовуваної інформації пошук стає перешкодою.",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "Відкрити",
+    "app2": "Натиснути рядок",
+    "app3": "Скопійовано",
+    "appText": "Зручно організуйте та зберігайте часто використовувані тексти та дані."
   },
   "faq": {
     "title": "FAQ",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "Чи вставляє натискання автоматично в інший застосунок?",
+        "a": "Натискання на рядок копіює його в буфер обміну. Потім перейдіть у пошту, соцмережі або чат і вставте."
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "Де зберігаються мої дані?",
+        "a": "Тексти, профілі та налаштування зберігаються на вашому смартфоні."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "Чи втрачу застосунок після 30-денної пробної версії?",
         "a": "Ні. Після пробного періоду можна продовжити безкоштовний план. Збережені дані не видаляються. Дані понад безкоштовні ліміти зберігаються і знову стають доступними після покупки Pro."
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Чи Pro — це щомісячна підписка?",
+        "a": "Ні. Pro — разова покупка без щомісячної плати."
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "Чи можна ділитися даними з версією для Windows?",
+        "a": "Ні. Версії для смартфона та Windows — окремі застосунки. Покупки та дані не спільні."
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "Чи можна перенести дані при зміні телефона?",
+        "a": "Експортуйте резервні копії та імпортуйте за потреби. Доступно в 30-денній пробній версії та Pro."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "і на Windows.",
+    "text": "Версія для Windows залишається біля краю екрана та вставляє зареєстрований текст одним кліком — окремий застосунок.",
+    "note": "Це не той самий застосунок, що версія для смартфона. Покупки та збережені дані не спільні.",
+    "link": "Домашня сторінка версії для Windows"
   },
   "sceneMore": {
     "titleLine1": "Корисно й у таких ситуаціях.",
     "titleLine2": "",
-    "lead": "Подорожі, барахолки, чати, організація заходів—потрібний текст одним натисканням.",
+    "lead": "Подорожі, барахолки, чати, організація заходів—копіюйте потрібний текст одним натисканням у будь-якій ситуації.",
     "cap3": "Тексти оголошень—миттєво",
-    "cap4": "Відповіді в чаті одним натисканням",
-    "cap6": "Повідомлення організатора під рукою"
+    "cap4": "Відповіді в чаті—миттєво",
+    "cap6": "Повідомлення організатора—миттєво"
   }
 }

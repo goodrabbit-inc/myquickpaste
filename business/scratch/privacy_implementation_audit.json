@@ -1,0 +1,475 @@
+{
+  "audit_meta": {
+    "title": "MyQuickPaste プライバシーポリシー実装事実監査",
+    "audited_at": "2026-08-14",
+    "app_repository": "C:/Users/gacha/Desktop/Clipee",
+    "hp_i18n_reference": "C:/Users/gacha/Desktop/myquickpaste-github/business/i18n/ja.json (privacyPage)",
+    "scope_note": "Android 実装を主に確認。iOS は PlatformServiceCollectionExtensions 上、Billing は NullStoreBillingService、初回インストール日時は settings.json フォールバック。StoreKit 課金実装は未確認。",
+    "changes_made": false,
+    "push_deploy": false
+  },
+  "items": [
+    {
+      "id": 1,
+      "topic": "30日間の無料体験の管理方法",
+      "questions": [
+        "初回インストール日時をどこに保存しているか",
+        "30日の計算をアプリ内部で行っているか",
+        "Google Play Billingが無料体験期間の管理に関与しているか",
+        "App Store側のトライアル機能を利用する設計なのか",
+        "ストアはPro購入処理だけを担当するのか",
+        "HP記述「ダウンロード、試用、Pro購入は Google Play または Apple App Store が処理します」との一致"
+      ],
+      "verdict": "一部誤り",
+      "actual_behavior": {
+        "trial_days": 30,
+        "trial_calculation": "アプリ内部。LicenseManager.IsTrialPeriodActive は firstInstallUtc.AddDays(30) と現在時刻を比較。IsProAvailable = IsProPurchased || IsWithinTrial。",
+        "first_install_android": "AndroidAppInstallTimeProvider が PackageManager.GetPackageInfo(...).FirstInstallTime（Unix ms）を UTC として返す。settings.json には初回インストール日時を保存しない。",
+        "first_install_ios": "SettingsAppInstallTimeProvider が settings.json の first_launch_date_utc を参照。未設定時は初回取得時刻を settings に書き込む（OS の FirstInstallTime 相当 API は未使用）。",
+        "google_play_billing_role": "Pro 買い切り（pro_unlock / ProductType.Inapp）の購入・照会・復元のみ。トライアル期間の開始・終了・残日数計算には未使用。",
+        "app_store_trial": "iOS は IStoreBillingService に NullStoreBillingService が登録されており、StoreKit 課金・ストア提供トライアルは現時点で未実装。30日体験は LicenseManager のアプリ内ロジック（SettingsAppInstallTimeProvider ベース）で動作する設計。",
+        "store_responsibilities": {
+          "download": "ストア配信（Google Play / 将来 App Store）",
+          "trial": "アプリ内部管理（Android: FirstInstallTime、iOS: settings.json）",
+          "pro_purchase_android": "Google Play Billing",
+          "pro_purchase_ios": "未実装（NullStoreBillingService）"
+        }
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Services/LicenseManager.cs",
+          "Clipee/Platforms/Android/Services/AndroidAppInstallTimeProvider.cs",
+          "Clipee/Services/Platform/SettingsAppInstallTimeProvider.cs",
+          "Clipee/Services/PlatformServiceCollectionExtensions.cs",
+          "Clipee/Platforms/Android/Services/AndroidStoreBillingService.cs"
+        ],
+        "symbols": [
+          "LicenseManager.TrialDays (line 32)",
+          "LicenseManager.BuildSnapshot (lines 283-301)",
+          "LicenseManager.IsTrialPeriodActive (lines 250-251)",
+          "AndroidAppInstallTimeProvider.GetFirstInstallUtc (lines 11-28)",
+          "SettingsAppInstallTimeProvider.GetFirstInstallUtc (lines 21-45)",
+          "AndroidStoreBillingService QueryProPurchaseAsync / PurchaseProAsync (ProductType.Inapp only)"
+        ]
+      },
+      "privacy_page_match": false,
+      "privacy_page_section": "アプリストアと購入",
+      "privacy_page_excerpt_ja": "ダウンロード、試用、Pro 購入は Google Play または Apple App Store が処理します",
+      "needs_correction": true,
+      "correction_notes": "「試用（30日無料体験）」はストアではなくアプリ内部（初回インストール日時 + 30日）で管理。ストアが担うのは配信と Pro 購入（Android のみ実装確認済み）が正確。"
+    },
+    {
+      "id": 2,
+      "topic": "バックアップ機能",
+      "questions": [
+        "書き出し可能なデータ",
+        "読み込み可能なデータ",
+        "ファイル形式",
+        "30日間の無料体験で利用可能か",
+        "Proで利用可能か",
+        "Freeでは利用不可か",
+        "書き出したファイルの保存先をアプリが管理するのか、ユーザーが管理するのか"
+      ],
+      "verdict": "正しい",
+      "actual_behavior": {
+        "gate": "DataTransferService.ExportAsync / ImportAsync は LicenseManager.IsProAvailable（= Pro購入済 OR 30日体験中）でない場合 UpgradeNavigation.OpenAsync(Backup) へ誘導し実行不可。体験終了後の Free では利用不可。",
+        "export_contents": "ClipeeStore: フリーワード・定型文・メール・電話・画像メタデータ（ImageId/MimeType等）・プロフィール。ClipeeExportSettings: カテゴリ表示（category_display）。画像バイナリは images/ フォルダとして同梱。",
+        "import_contents": "上記と同等。ReplaceAll / Add モード。インポート前に ImportUndoSnapshotService がローカルスナップショット保存。",
+        "file_format": ".mqp（application/octet-stream）。中身は ZIP アーカイブ: manifest.json（JSON）+ images/*。ExportVersion=3。レガシー .json 単体も Import 側で Parse 可能。",
+        "save_destination": "AndroidExportSaveService が Intent.ActionCreateDocument でユーザーが選択した URI（Downloads 等）へ書き込み。アプリはエクスポート先パスを永続管理しない。",
+        "product_spec_match": {
+          "trial": true,
+          "pro": true,
+          "free_after_trial": false
+        }
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Services/DataTransferService.cs",
+          "Clipee/Services/DataTransferService.ImportFlow.cs",
+          "Clipee/Models/ClipeeExportPackage.cs",
+          "Clipee/Services/ExportFileNameHelper.cs",
+          "Clipee/Services/ImageStorageService.cs (MqpArchiveHelper)",
+          "Clipee/Platforms/Android/Services/AndroidExportSaveService.cs",
+          "Clipee/ViewModels/SettingsViewModel.cs",
+          "Clipee/ViewModels/UpgradeViewModel.cs"
+        ],
+        "symbols": [
+          "DataTransferService.ExportAsync gate (lines 67-73)",
+          "DataTransferService.ImportAsync gate (lines 149-155)",
+          "CompactStoreForExport (lines 347-356)",
+          "MqpArchiveHelper.CreateArchiveAsync (lines 480-507)",
+          "AndroidExportSaveService.SaveAsync ActionCreateDocument (lines 85-91)",
+          "LicenseSnapshot.IsProAvailable (LicenseManager.cs lines 24, 69)"
+        ]
+      },
+      "privacy_page_match": false,
+      "privacy_page_section": "データの保持と削除",
+      "privacy_page_excerpt_ja": "Pro 版では JSON 形式でエクスポートできます",
+      "needs_correction": true,
+      "correction_notes": "製品仕様（体験/Pro可、Free不可）とは一致。ただし privacyPage は「Pro 版のみ」「JSON 形式」と記載しており、実装（体験期間も可、.mqp ZIP＋manifest.json）と不一致。"
+    },
+    {
+      "id": 3,
+      "topic": "クリップボードアクセス",
+      "questions": [
+        "クリップボードを読み取るか",
+        "いつ読み取るか",
+        "メイン画面でプレビューするか",
+        "読み取った内容を永続保存するか",
+        "ネットワークへ送信するコードがあるか",
+        "第三者へ渡す処理があるか"
+      ],
+      "verdict": "正しい",
+      "actual_behavior": {
+        "reads_clipboard": true,
+        "implementation": "AndroidClipboardContentService が ClipboardManager.PrimaryClip からテキストおよび画像 URI を読み取り。ClipboardService.ReadTextAsync は MAUI Clipboard API（主にコピー出力側）。メイン画面プレビューは IClipboardContentService 経由。",
+        "when_read": [
+          "MainViewModel.OnPageAppearingAsync → RefreshClipboardAsync",
+          "MainViewModel.OnAppResumed → RefreshClipboardAsync(retryIfEmpty: true)",
+          "コンテンツ初回ロード完了後 RefreshClipboardAsync",
+          "クリップボードプレビューモーダル表示前 RefreshClipboardAsync",
+          "クイック登録フロー内"
+        ],
+        "main_screen_preview": "ClipboardPreviewText / HasClipboardText / HasClipboardImage / クイック登録用 QuickRegisterClipboardDisplayText で表示。",
+        "persistence": {
+          "text": "ViewModel メモリ（_clipboardFullText）のみ。clipee_store.json へ自動保存しない。",
+          "image": "プレビュー用に FileSystem.CacheDirectory/clipboard_preview_{ticks}.{ext} へ一時書き込み。ユーザーがクイック登録で画像登録した場合のみ ImageStorageService へ永続保存。",
+          "network": "該当処理なし",
+          "third_party": "該当処理なし（ユーザー操作による共有は登録済み画像の ShareImageAsync のみ）"
+        }
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Platforms/Android/Services/AndroidImageServices.cs (AndroidClipboardContentService)",
+          "Clipee/Services/ClipboardService.cs",
+          "Clipee/ViewModels/MainViewModel.cs",
+          "Clipee/ClipboardPreviewPage.xaml.cs"
+        ],
+        "symbols": [
+          "AndroidClipboardContentService.ReadCoreAsync (lines 36-109)",
+          "MainViewModel.RefreshClipboardAsync (lines 1662-1666)",
+          "MainViewModel.ApplyClipboardPreview (lines 1668-1683)",
+          "MainViewModel.UpdateQuickRegisterImagePreviewFile cache write (lines 1705-1708)",
+          "MainViewModel.OnAppResumed (lines 1005-1008)"
+        ]
+      },
+      "privacy_page_match": true,
+      "privacy_page_section": "クリップボードへのアクセス",
+      "needs_correction": false,
+      "correction_notes": "画像クリップボードの読み取りも実装されているが、ポリシー記述の範囲内と解釈可能。永続保存・外部送信なしは一致。"
+    },
+    {
+      "id": 4,
+      "topic": "登録データの保存場所",
+      "questions": [
+        "フリーワード/定型文/メール/電話/画像/プロフィール/カテゴリ/アプリ設定の保存先"
+      ],
+      "verdict": "正しい",
+      "actual_behavior": {
+        "storage_root": "FileSystem.AppDataDirectory（Android: /data/data/com.goodrabbit.clipee/files/ 相当のアプリ専用内部ストレージ）",
+        "items": {
+          "freeword_snippets_mail_phone_profiles": "clipee_store.json（ClipStoreRepository.StoreFile）内 JSON。レガシー clipee_data.json からの移行あり。",
+          "image_metadata": "clipee_store.json の Image 配列（ImageId, Title, MimeType 等）",
+          "image_binary": "AppDataDirectory/images/{imageId}.{jpg|png|webp|gif}。サムネイルは images/thumbnails/。ギャラリー選択時はバイト列をコピー保存（URI 参照のみではない）。",
+          "category_display": "settings.json の category_display",
+          "app_settings": "settings.json（言語、テーマ、起動カテゴリ、コピー設定、レビュー依頼状態、iOS 用 first_launch_date_utc 等）",
+          "pro_purchase_cache": "MAUI Preferences（sharedpref 相当）mqp.pro_verified_purchased",
+          "import_undo": "AppDataDirectory/import_undo/（manifest.json + images/）"
+        },
+        "external_storage": "通常データの永続保存には未使用。エクスポート時のみユーザー選択先へ書き出し。",
+        "cloud": "当社サーバーへの送信・クラウド DB 保存の実装なし",
+        "android_auto_backup": "allowBackup=true。cloud-backup は files/sharedpref の大部分を含むが images/ と import_undo/ は exclude（後述項目8）"
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Services/ClipStoreRepository.cs",
+          "Clipee/Services/ImageStorageService.cs",
+          "Clipee/Models/ClipeeSettings.cs",
+          "Clipee/Services/ProPurchaseCache.cs",
+          "Clipee/Services/ImportUndoSnapshotService.cs"
+        ],
+        "symbols": [
+          "ClipStoreRepository StoreFile/SettingsFile (lines 12-14)",
+          "ImageStorageService.ImagesDirectory (line 17)",
+          "ImageStorageService.SaveFromBytesAsync / SaveFromFileAsync (lines 28-73)",
+          "MainViewModel.SavePickedPhotoAsync (lines 4246-4257)"
+        ]
+      },
+      "privacy_page_match": false,
+      "privacy_page_section": "ローカル保存",
+      "privacy_page_excerpt_ja": "入力内容、カテゴリ、プロフィールカード、アプリ設定は、スマートフォン上のアプリ専用領域に保存されます",
+      "needs_correction": true,
+      "correction_notes": "画像バイナリ（images/）の明示記載が privacyPage にない。Android Auto Backup による Google クラウドバックアップの可能性も未記載。"
+    },
+    {
+      "id": 5,
+      "topic": "ネットワーク通信（ユーザー登録データの外部送信）",
+      "questions": [
+        "テキスト/メール/電話/プロフィール/画像/クリップボードの外部サーバー送信"
+      ],
+      "verdict": "該当処理なし（ユーザー登録コンテンツ）",
+      "actual_behavior": {
+        "user_content_transmission": "該当処理なし。HttpClient / WebRequest 等によるユーザー登録データのアップロード実装はコードベース内に存在しない。",
+        "other_network_uses": [
+          {
+            "purpose": "Google Play Billing（Pro 購入・ライセンス照会）",
+            "data": "購入トークン、商品 ID（pro_unlock）。ユーザー定型文・画像等は送信しない。",
+            "library": "Xamarin.Android.Google.BillingClient 9.1.0.1"
+          },
+          {
+            "purpose": "Google Play In-App Review（評価依頼）",
+            "data": "Play Core Review API 呼び出し。ユーザーコンテンツ非送信。",
+            "library": "Xamarin.Google.Android.Play.Review 2.0.2.7"
+          },
+          {
+            "purpose": "ユーザー iniciated",
+            "examples": [
+              "mailto: サポート連絡（HelpViewModel / SupportContactEmailHelper）",
+              "画像共有 Intent（AndroidImageShareService — 登録済み画像、ユーザー操作）",
+              "ヘルプリンク・プライバシー URL ブラウザ起動（ClipeeHelpLinks）",
+              "Play Store ページ起動（AndroidInAppReviewService フォールバック）"
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Clipee.csproj",
+          "Clipee/Platforms/Android/Services/AndroidStoreBillingService.cs",
+          "Clipee/Platforms/Android/Services/AndroidInAppReviewService.cs",
+          "Clipee/ClipeeHelpLinks.cs",
+          "Clipee/Services/SupportContactEmailHelper.cs",
+          "Clipee/Platforms/Android/Services/AndroidImageServices.cs (AndroidImageShareService)"
+        ],
+        "symbols": [
+          "AndroidStoreBillingService.QueryOwnsProAsync",
+          "AndroidInAppReviewService.RequestReviewAsync",
+          "AndroidImageShareService.ShareImageAsync (lines 261-290)"
+        ]
+      },
+      "privacy_page_match": true,
+      "privacy_page_section": "収集しない情報",
+      "needs_correction": false,
+      "correction_notes": "Billing / In-App Review の通信はポリシー上「登録データをサーバーで収集しない」と矛盾しないが、明示はされていない。"
+    },
+    {
+      "id": 6,
+      "topic": "Analytics / Advertising SDK",
+      "questions": [
+        "Firebase Analytics, Google Analytics, AdMob, Meta, AppsFlyer, Adjust, Crashlytics 等"
+      ],
+      "verdict": "正しい（SDK 未使用）",
+      "actual_behavior": {
+        "analytics_ad_sdks": "未検出。Clipee.csproj の PackageReference は Microsoft.Maui.Controls, CommunityToolkit.Mvvm, Debug logging, Android Billing, SplashScreen, Play Review のみ。",
+        "manifest": "AndroidManifest.xml に Firebase / AdMob / analytics meta-data なし。",
+        "permissions": "INTERNET, ACCESS_NETWORK_STATE, VIBRATE, BILLING — 広告・分析 SDK 用の典型 permission セットではない。"
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Clipee.csproj",
+          "Clipee/Platforms/Android/AndroidManifest.xml"
+        ],
+        "symbols": []
+      },
+      "privacy_page_match": true,
+      "privacy_page_section": "アプリストアと購入（末尾）",
+      "privacy_page_excerpt_ja": "当社は第三者の分析・広告 SDK をアプリ内で使用しません",
+      "needs_correction": false,
+      "correction_notes": "Google Play Billing / Play In-App Review は分析・広告 SDK ではない。"
+    },
+    {
+      "id": 7,
+      "topic": "Billing",
+      "questions": [
+        "Google Play Billing 使用",
+        "処理対象",
+        "Pro 一回限り",
+        "サブスクなし",
+        "クレジットカード直接取得なし",
+        "iOS"
+      ],
+      "verdict": "正しい（Android）。iOS は未実装",
+      "actual_behavior": {
+        "android": {
+          "uses_google_play_billing": true,
+          "library_version": "Xamarin.Android.Google.BillingClient 9.1.0.1",
+          "product_id": "pro_unlock",
+          "purchase_option_id": "pro-unlock",
+          "product_type": "BillingClient.ProductType.Inapp（買い切り）",
+          "subscription": false,
+          "payment_card_in_app": false,
+          "offline_cache": "ProPurchaseCache が Preferences に購入確認済みフラグをキャッシュ（Billing 照会失敗時フォールバック）"
+        },
+        "ios": {
+          "status": "現時点では Android 実装のみ確認可能",
+          "implementation": "NullStoreBillingService — 購入・復元は常に失敗/未購入扱い"
+        }
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Platforms/Android/Services/AndroidStoreBillingService.cs",
+          "Clipee/Services/LicenseManager.cs",
+          "Clipee/Services/ProPurchaseCache.cs",
+          "Clipee/Services/Platform/NullStoreBillingService.cs",
+          "Clipee/Services/PlatformServiceCollectionExtensions.cs"
+        ],
+        "symbols": [
+          "AndroidStoreBillingService ProductType.Inapp (lines 160, 214)",
+          "LicenseManager.ProProductId / ProPurchaseOptionId (lines 33-34)",
+          "PlatformServiceCollectionExtensions ANDROID vs IOS billing registration (lines 17-18, 32-33)"
+        ]
+      },
+      "privacy_page_match": true,
+      "privacy_page_section": "アプリストアと購入",
+      "needs_correction": false,
+      "correction_notes": "Android 記述は概ね正確。iOS App Store Billing は未実装のため将来実装時に更新が必要。"
+    },
+    {
+      "id": 8,
+      "topic": "アンインストール時のデータ",
+      "questions": [
+        "Auto Backup / allowBackup / dataExtractionRules",
+        "アンインストールで全削除と言い切れるか"
+      ],
+      "verdict": "一部誤り",
+      "actual_behavior": {
+        "allow_backup": true,
+        "full_backup_content": "backup_rules.xml: file/sharedpref/database を include。import_undo/ と images/ を exclude。",
+        "data_extraction_rules": {
+          "cloud_backup": "file + sharedpref include。import_undo/ exclude。images/ exclude。cache exclude。",
+          "device_transfer": "file + sharedpref include。import_undo/ exclude。cache exclude。**images/ は exclude されていない**（端末間移行で画像含む可能性）。"
+        },
+        "on_uninstall": "Android 仕様上、アプリ専用内部ストレージ（AppDataDirectory, CacheDirectory, sharedpref）は端末から削除される。",
+        "caveats": [
+          "Google クラウドバックアップ（allowBackup=true）有効時、clipee_store.json / settings.json 等は Google アカウント経由で再インストール後に復元される可能性がある（images/ は cloud-backup から exclude）。",
+          "ユーザーが .mqp エクスポートファイルを保持している場合はアンインストール後も残る（ユーザー管理）。",
+          "「すべて確実に消える」とは言い切れない。"
+        ]
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Platforms/Android/AndroidManifest.xml",
+          "Clipee/Platforms/Android/Resources/xml/backup_rules.xml",
+          "Clipee/Platforms/Android/Resources/xml/data_extraction_rules.xml"
+        ],
+        "symbols": [
+          "AndroidManifest application allowBackup/fullBackupContent/dataExtractionRules (lines 3-12)",
+          "backup_rules.xml full-backup-content",
+          "data_extraction_rules.xml cloud-backup / device-transfer"
+        ]
+      },
+      "privacy_page_match": false,
+      "privacy_page_section": "データの保持と削除",
+      "privacy_page_excerpt_ja": "アンインストールすると端末からアプリのローカルデータは削除されます",
+      "needs_correction": true,
+      "correction_notes": "端末上の削除自体は妥当だが、Android Auto Backup によるクラウド復元可能性・エクスポートファイル残存・device-transfer による画像移行を考慮すると「確実にすべて消える」表現は不正確。Auto Backup 設定の開示が不足。"
+    },
+    {
+      "id": 9,
+      "topic": "画像データ",
+      "questions": [
+        "コピー保存 vs URI 保持",
+        "外部ストレージ参照",
+        "外部サーバー送信",
+        "バックアップ含有"
+      ],
+      "verdict": "事実確認完了（ポリシー本文への反映は別工程）",
+      "actual_behavior": {
+        "storage_mode": "ギャラリー/ファイルピッカー選択後、バイト列を読み込み AppDataDirectory/images/{guid}.{ext} へコピー保存。clipee_store.json には ImageId 等のメタデータのみ。",
+        "uri_only": false,
+        "external_storage_reference": "ピック時に Content URI / 一時パスから読み取るが、永続保存はアプリ内部 images/ のみ。",
+        "max_size": "MaxOriginalBytes = 5MB。超過時は JPEG 圧縮。",
+        "network_upload": "該当処理なし",
+        "backup": ".mqp エクスポート ZIP に images/* を同梱。Android cloud-backup では images/ フォルダは exclude。",
+        "share": "ユーザー操作時のみ AndroidImageShareService が FileProvider URI で他アプリへ共有。"
+      },
+      "evidence": {
+        "files": [
+          "Clipee/Services/ImageStorageService.cs",
+          "Clipee/ViewModels/MainViewModel.cs",
+          "Clipee/Services/DataTransferService.cs",
+          "Clipee/Platforms/Android/Resources/xml/data_extraction_rules.xml"
+        ],
+        "symbols": [
+          "ImageStorageService.SaveFromBytesAsync / SaveFromFileAsync",
+          "MqpArchiveHelper.CreateArchiveAsync images loop (lines 492-503)",
+          "MainViewModel.SavePickedPhotoAsync (lines 4246-4257)"
+        ]
+      },
+      "privacy_page_match": false,
+      "privacy_page_section": "ローカル保存 / 収集しない情報",
+      "needs_correction": true,
+      "correction_notes": "privacyPage に画像データの取扱い（内部コピー保存、バックアップ同梱、共有はユーザー操作）の明示がない。"
+    }
+  ],
+  "privacy_page_section_summary": {
+    "reference": "business/i18n/ja.json → privacyPage.sections",
+    "sections": [
+      {
+        "key": "収集しない情報",
+        "heading_ja": "収集しない情報",
+        "rating": "要確認",
+        "reason": "定型文・プロフィール・クリップボード非送信は実装と一致。ただし画像データへの言及がなく、ローカル保存・バックアップ・共有の説明が不足。"
+      },
+      {
+        "key": "ローカル保存",
+        "heading_ja": "ローカル保存",
+        "rating": "要修正",
+        "reason": "テキスト系・設定の AppData 保存は正確。画像バイナリ（images/）の記載なし。Android Auto Backup による Google クラウドバックアップ（JSON/settings 等）の可能性が未開示。"
+      },
+      {
+        "key": "セキュリティ",
+        "heading_ja": "セキュリティ",
+        "rating": "正確",
+        "reason": "当社サーバー非運用・OS 保護下のアプリ専用領域保存は実装と一致。"
+      },
+      {
+        "key": "クリップボードへのアクセス",
+        "heading_ja": "クリップボードへのアクセス",
+        "rating": "正確",
+        "reason": "メイン画面プレビュー・端末内処理・非送信は実装と一致。画像クリップボード読み取りもあるが記述と大きく矛盾しない。"
+      },
+      {
+        "key": "データの保持と削除",
+        "heading_ja": "データの保持と削除",
+        "rating": "要修正",
+        "reason": "「Pro 版では JSON 形式でエクスポート」→ 実際は体験期間も可、形式は .mqp（ZIP+JSON）。アンインストール削除は端末上は妥当だが Auto Backup 復元・エクスポートファイル残存があり「確実にすべて消える」とは言えない。"
+      },
+      {
+        "key": "アプリストアと購入",
+        "heading_ja": "アプリストアと購入",
+        "rating": "要修正",
+        "reason": "「試用をストアが処理」は誤り（アプリ内部30日管理）。Billing・非保持決済情報・分析/広告 SDK 不使用は正確。iOS Billing は未実装。"
+      },
+      {
+        "key": "分析・広告SDK",
+        "heading_ja": "分析・広告SDK（アプリストアと購入セクション内記述）",
+        "rating": "正確",
+        "reason": "Firebase/AdMob 等の分析・広告 SDK は依存関係・Manifest ともに未検出。"
+      }
+    ]
+  },
+  "executive_summary": {
+    "trial_management": "30日体験はアプリ内部管理（Android: PackageInfo.FirstInstallTime、iOS: settings.json first_launch_date_utc）。Google Play Billing / App Store トライアル機能は未使用。",
+    "backup_eligibility": "IsProAvailable（Pro購入 OR 30日体験中）のみ Export/Import 可。Free（体験終了後）は不可。形式 .mqp（ZIP: manifest.json + images/）。保存先はユーザー選択。",
+    "clipboard_behavior": "メイン画面表示・復帰時に読み取り。テキストはメモリ、画像プレビューは Cache 一時ファイル。自動永続保存・外部送信なし。",
+    "data_storage": "全登録データは FileSystem.AppDataDirectory（clipee_store.json, settings.json, images/）。外部ストレージ永続保存・当社サーバーなし。",
+    "external_transmission": "ユーザー登録コンテンツの外部送信なし。Billing・In-App Review・ユーザー iniciated 共有/ブラウザ/mailto のみ。",
+    "analytics_ads": "分析・広告 SDK なし（csproj/Manifest 確認）。",
+    "billing": "Android: Google Play Billing 買い切り pro_unlock のみ。サブスクなし。カード情報非取得。iOS: 未実装。",
+    "android_backup": "allowBackup=true。cloud-backup は images/import_undo 除外。再インストール時の Google 復元可能性あり。",
+    "image_handling": "アプリ内部へコピー保存。URI のみ保持ではない。バックアップ .mqp に同梱。外部送信なし。",
+    "privacy_page_sections_needing_fix": [
+      "ローカル保存",
+      "データの保持と削除",
+      "アプリストアと購入"
+    ],
+    "privacy_page_sections_needing_review": [
+      "収集しない情報"
+    ],
+    "audit_output_file": "business/scratch/privacy_implementation_audit.json",
+    "source_i18n_unchanged": true,
+    "push_deploy_done": false
+  }
+}

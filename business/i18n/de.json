@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "de",
-    "title": "MyQuickPaste — Smartphone-Edition",
-    "description": "Speichern Sie häufig verwendete Texte auf Ihrem Smartphone und kopieren Sie sie mit einem Tipp. MyQuickPaste ordnet Textbausteine, Adressen, Kontakte und Profilkarten nach Kategorien.",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | Alltagstexte mit einem Tipp kopieren",
+    "description": "Speichern Sie Textbausteine, Adressen, Kontakte, URLs, Emoji, Hashtags und mehr—kopieren Sie mit einem Tipp. Wechseln Sie zur gewohnten App und fügen ein. MyQuickPaste macht Smartphone-Tippen einfacher.",
+    "ogTitle": "MyQuickPaste | Alltagstexte mit einem Tipp kopieren",
+    "ogDescription": "Speichern Sie oft genutzte Texte und Infos und kopieren Sie sie bei Bedarf mit einem Tipp. Wechseln Sie zur gewohnten App und fügen ein."
   },
   "lang": {
     "label": "Sprache",
@@ -16,10 +16,10 @@
     "support": "Support",
     "releaseNotes": "Versionshinweise",
     "privacy": "Datenschutz",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "features": "Funktionen",
+    "how": "So funktioniert's",
+    "screens": "Bildschirme",
+    "pricing": "Preise",
     "cta": "30 Tage kostenlos testen"
   },
   "brand": {
@@ -27,25 +27,25 @@
     "edition": "Smartphone-Edition"
   },
   "hero": {
-    "badge": "Für Android und iPhone",
-    "catch": "Speichern Sie, was Sie oft brauchen. Kopieren Sie es mit einem Tipp.",
-    "lead": "Textbausteine, Adressen, Kontakte, URLs, Emoji, Hashtags. Speichern Sie Wiederholtes und kopieren Sie mit einem Tipp aus der Liste.",
+    "badge": "MyQuickPaste für Smartphones",
+    "catch": "Alltagstexte, ein Tipp entfernt.",
+    "lead": "Textbausteine, Adressen, Kontakte, URLs, Emoji, Hashtags. Speichern Sie Wiederholtes und kopieren Sie bei Bedarf mit einem Tipp aus der Liste.",
     "platformLine": "Google Play demnächst · App Store in Entwicklung",
     "trialTitle": "30 Tage kostenlose Testphase",
     "trialText": "30 Tage nach der Erstinstallation können Sie höhere Speichergrenzen und Backup kostenlos testen.",
-    "trust": "Wird auf Ihrem Gerät gespeichert · 21 Sprachen",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21 Sprachen",
+    "eyebrow": "MyQuickPaste für Smartphones",
+    "catchLine1": "Alltagstexte,",
+    "catchLine2": "ein Tipp entfernt.",
     "sub": "Dann wechseln Sie zur gewohnten App und fügen ein.",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "So funktioniert's",
     "ctaSecondary": "30 Tage kostenlos testen",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play demnächst",
+    "statusApp": "App Store in Entwicklung",
     "pill1": "30 Tage kostenlos testen",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro einmalig kaufen",
+    "pill3": "Auf dem Gerät gespeichert",
+    "pill4": "21 Sprachen"
   },
   "stores": {
     "googlePlay": "Bei Google Play",
@@ -98,23 +98,23 @@
   },
   "steps": {
     "title": "So funktioniert's",
-    "subtitle": "Speichern, antippen, einfügen — in nur 3 Schritten.",
+    "subtitle": "Keine komplexe Einrichtung. Nur drei Schritte.",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "Speichern Sie Wiederholtes",
+        "text": "Registrieren Sie häufig genutzte Texte, Kontakte und mehr."
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "Tippen Sie die Zeile, die Sie brauchen",
+        "text": "Ein Tipp kopiert den Inhalt in die Zwischenablage."
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "In einer anderen App einfügen",
+        "text": "Wechseln Sie zu Mail, Social, Chat, Karten und fügen ein."
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "Speichern, tippen,",
+    "titleLine2": "dann einfügen."
   },
   "benefits": {
     "title": "Das gefällt besonders",
@@ -137,53 +137,53 @@
     ]
   },
   "features": {
-    "title": "Die wichtigsten Funktionen",
-    "subtitle": "Funktionen, die Kopieren und Einfügen auf dem Smartphone im Alltag einfacher machen.",
+    "title": "Funktionen",
+    "subtitle": "Werkzeuge, die tägliches Tippen erleichtern.",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "Mit einem Tipp kopieren",
+        "text": "Tippen Sie eine Zeile, um den Inhalt in die Zwischenablage zu kopieren.",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "Nach Verwendung organisieren",
+        "text": "Verwalten Sie nach Freitext, Textbausteinen, E-Mail, Telefon, Bildern und Profil.",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "Favoriten sortieren",
+        "text": "Häufig genutzte Einträge nach oben verschieben, damit Sie sie leichter finden.",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "Feld für Feld kopieren",
+        "text": "Kopieren Sie nur die Adresse, den Namen oder die Nummer, die Sie brauchen.",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "Bilder sofort griffbereit",
+        "text": "Logos oder Fotos speichern, dann kopieren, teilen oder ansehen.",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "Exportieren und importieren",
+        "text": "Backups exportieren und bei Bedarf importieren. Verfügbar mit 30-tägiger Testphase und Pro.",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "Look wählen",
+        "text": "Helle und dunkle Themes sowie Premium-Farbthemen mit Pro.",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "Bleibt auf dem Gerät",
+        "text": "Texte und Profile werden auf dem Telefon verwaltet.",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "Kategorien",
+    "categoriesLabel": "Kategorien: Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil",
     "categories": [
       "Freitext",
       "Textbausteine",
@@ -192,17 +192,17 @@
       "Bilder",
       "Profil"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "Einfach,",
+    "titleLine2": "mit dem Wesentlichen."
   },
   "themesSection": {
-    "title": "14 Farbthemen",
-    "subtitle": "Kostenlos: Hell und Dunkel. Pro schaltet Premium-Paletten für Business und Alltag frei.",
-    "imageAlt": "Raster mit 14 MyQuickPaste-for-Business-Themen: oben sieben helle, unten sieben dunkle Themes.",
-    "caption": "Obere Reihe: 7 helle Themes / Untere Reihe: 7 dunkle Themes",
-    "note": "Premium-Themes erfordern einen Pro-Kauf.",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "Themes",
+    "subtitle": "Hell und dunkel, plus Premium-Farbthemen mit Pro.",
+    "imageAlt": "MyQuickPaste Theme-Galerie",
+    "caption": "Hell / dunkel / Premium-Themes",
+    "note": "Premium-Themes erfordern Pro-Kauf. Sie sind nicht in der 30-Tage-Testphase enthalten.",
+    "titleLine1": "Passen Sie das Design",
+    "titleLine2": "an den Einsatzort an."
   },
   "usecases": {
     "title": "Ideal für",
@@ -245,43 +245,43 @@
       "Kategorienamen und -symbole anpassen"
     ],
     "note": "Die App steht kostenlos zum Download bereit. Pro ist ein einmalig kaufbares Add-on über den jeweiligen App Store; der Preis kann je nach Region variieren.",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "Testen Sie 30 Tage,",
+    "titleLine2": "und spüren Sie den Unterschied.",
+    "trialLabel": "Nur bei Erstinstallation",
     "trialTitle": "30 Tage kostenlose Testphase",
     "trialText": "Textkategorien: je bis zu 200 · Bilder: bis zu 50 · Profile: bis zu 30 · Backup exportieren/importieren",
     "trialNote": "Premium-Themes und angepasste Kategorienamen/-symbole sind nach Pro-Kauf verfügbar. Nach der Testphase werden Ihre Daten nicht gelöscht. Daten über den Gratis-Grenzen bleiben erhalten und sind nach Pro-Kauf wieder nutzbar.",
     "freeLead": "Grundfunktionen bleiben kostenlos nutzbar.",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "Einmaliger Kauf",
+    "proLead": "Keine monatliche Gebühr.",
+    "notSub": "Kein Abonnement"
   },
   "privacySection": {
-    "title": "Ihre Daten bleiben auf dem Smartphone",
+    "title": "Datenschutz auf dem Gerät",
     "text": "In MyQuickPaste gespeicherte Texte und Profile werden auf dem Gerät verwaltet. Wir senden Ihre Inhalte nicht automatisch in die Cloud.",
-    "link": "Datenschutzerklärung lesen",
+    "link": "Datenschutzrichtlinie lesen",
     "titleLine1": "Wichtiges bleibt",
     "titleLine2": "auf Ihrem Gerät.",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "Keine automatische Cloud-Synchronisierung",
+      "Sendet gespeicherte Inhalte nicht automatisch an externe Server",
+      "Daten bleiben auf dem Gerät verwaltet",
+      "Eigene Backups lassen sich in der 30-tägigen kostenlosen Testphase und mit Pro exportieren."
     ]
   },
   "cta": {
-    "title": "Warum nicht heute damit aufhören, immer wieder denselben Text einzutippen?",
-    "lead": "Speichern, tippen, einfügen. Machen Sie tägliches Tippen mit MyQuickPaste etwas einfacher.",
-    "button": "Bei Google Play",
-    "titleLine1": "Alltagstexte",
-    "titleLine2": "griffbereiter.",
+    "title": "Alltagstexte, ein Tipp entfernt.",
+    "lead": "Speichern, tippen, dann einfügen.",
+    "button": "30 Tage kostenlos testen",
+    "titleLine1": "Alltagstexte,",
+    "titleLine2": "ein Tipp entfernt.",
     "sub": "30 Tage nach der Erstinstallation: höhere Speichergrenzen und Backup kostenlos testen."
   },
   "footer": {
-    "pcEdition": "MyQuickPaste (PC-Edition)",
+    "pcEdition": "Windows-Edition",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Alle Rechte vorbehalten.",
     "developer": "Entwickler: Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "Kontakt"
   },
   "supportPage": {
     "title": "Support",
@@ -324,39 +324,39 @@
   "privacyPage": {
     "title": "Datenschutzerklärung",
     "lead": "MyQuickPaste (Smartphone-Edition)",
-    "updated": "Last updated: July 2026",
+    "updated": "Letzte Aktualisierung: 14. August 2026",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "Überblick",
+        "p": "MyQuickPaste ist eine von Good Rabbit inc. („wir“ bzw. „uns“) bereitgestellte Smartphone-App. Diese Datenschutzerklärung erläutert, wie MyQuickPaste Informationen auf Ihrem Gerät verarbeitet."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "Datenerhebung durch uns",
+        "p": "MyQuickPaste enthält keinen Prozess, der von Ihnen in der App verwendete Freitexte, Textbausteine, E-Mail-Adressen, Telefonnummern, Profile, Bilder oder Inhalte der Zwischenablage erfasst, überträgt oder auf von uns betriebenen Servern speichert. Diese Inhalte werden auf Ihrem Gerät verarbeitet, um die Funktionen der App bereitzustellen. Wenn Sie jedoch ausdrücklich eine Teilen-Funktion verwenden, die Android-Sicherung ausgeführt wird oder Sie Store-Dienste wie Google Play nutzen, werden Daten entsprechend den Mechanismen und Richtlinien des jeweiligen Betriebssystems oder Dienstes verarbeitet."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "Speicherung auf dem Gerät und Android-Sicherung",
+        "p": "Eingegebene Inhalte, Kategorien, Profile, App-Einstellungen und registrierte Bilder werden im privaten App-Speicherbereich auf Ihrem Gerät gespeichert. Registrierte Bilder werden in diesen privaten App-Speicher kopiert. Wenn unter Android die Sicherungsfunktion des Betriebssystems aktiviert ist, können bestimmte App-Daten in dem mit Ihrem Google-Konto verknüpften Sicherungsspeicher gesichert und daraus wiederhergestellt werden. Nach den derzeitigen Sicherungsregeln der App sind registrierte Bilddateien von der Cloud-Sicherung ausgeschlossen. Bei der Übertragung zwischen Geräten können Daten über Funktionen des Betriebssystems übertragen werden."
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "Sicherheit",
+        "p": "Gespeicherte Daten werden in einem vom Betriebssystem geschützten privaten App-Bereich abgelegt. Wir betreiben keinen eigenen Server zur Speicherung Ihrer registrierten Inhalte. Die Sicherheit des Geräts selbst, von Betriebssystem-Sicherungen und von Ihnen exportierten Sicherungsdateien hängt von der Sicherheit und Verwaltung des jeweiligen Geräts, Dienstes und des vom Nutzer verwalteten Speicherorts ab."
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "Zugriff auf die Zwischenablage",
+        "p": "Zur Anzeige von Vorschauen auf dem Hauptbildschirm und für damit verbundene Funktionen kann MyQuickPaste Texte oder Bilder lesen, die sich aktuell in der Zwischenablage Ihres Geräts befinden. Inhalte der Zwischenablage werden auf dem Gerät verarbeitet und nicht automatisch dauerhaft gespeichert, sofern Sie sie nicht ausdrücklich registrieren. Für die Vorschau von Bildern aus der Zwischenablage kann die App eine temporäre Cache-Datei erstellen. MyQuickPaste enthält keinen Prozess, der Inhalte der Zwischenablage an von uns betriebene Server sendet."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "Datenaufbewahrung, Löschung und Sicherungen",
+        "p": "Gespeicherte Daten verbleiben im App-Speicherbereich auf Ihrem Gerät, bis Sie sie in der App löschen oder die App deinstallieren. Durch die Deinstallation werden die lokalen App-Daten vom Gerät entfernt; Kopien können jedoch separat in Android-Betriebssystem-Sicherungen oder in von Ihnen exportierten und aufbewahrten Sicherungsdateien verbleiben. Während der 30-tägigen kostenlosen Testphase und mit Pro können Sie Daten als MyQuickPaste-Sicherungsdatei (.mqp) exportieren und importieren. Sie wählen den Speicherort der exportierten Datei und sind selbst für die Verwaltung und Löschung exportierter Sicherungsdateien verantwortlich."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "App-Stores, Käufe und externe Dienste",
+        "p": "Die 30-tägige kostenlose Testphase wird in der App anhand des Zeitpunkts der Erstinstallation verwaltet. Die Bereitstellung der Android-Edition und Pro-Käufe werden über Google Play abgewickelt; zur Überprüfung von Käufen wird Google Play Billing verwendet. Pro ist ein einmaliger In-App-Kauf und kein Abonnement. Wir erhalten Kreditkartennummern oder andere Zahlungskartendaten nicht direkt. Die App verwendet keine Drittanbieter-SDKs für Analyse- oder Werbezwecke. Wenn Sie Kauf- oder Bewertungsfunktionen von Google Play oder von Ihnen gewählte externe Funktionen wie Teilen, E-Mail oder einen Webbrowser nutzen, gelten die Datenschutzrichtlinien und Bedingungen der jeweiligen Dienste. Die iOS-Edition befindet sich derzeit in Entwicklung. Diese Datenschutzerklärung wird bei Bedarf aktualisiert, sobald deren Bereitstellung und Kaufabwicklung finalisiert sind."
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "Kontakt",
+        "p": "Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte unter myquickpaste@hotmail.com."
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "Juli 2026",
+        "title": "Kategorie „Bilder“",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "Kategorie „Bilder“ hinzugefügt (Visitenkarten, Logos und mehr speichern)",
+          "Antippen, um Bilder zu kopieren, zu teilen und in der Vorschau anzuzeigen",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,12 +394,12 @@
     ]
   },
   "screenshots": {
-    "title": "Die App in Aktion",
-    "subtitle": "Echte Bildschirmfotos von MyQuickPaste auf Android.",
-    "freetextAlt": "Freitextliste mit gespeicherten Formulierungen und Kopieren mit einem Tipp",
-    "snippetsAlt": "Kategorie Textbausteine mit E-Mail-Vorlagen",
-    "profileAlt": "Profilkarten für private und geschäftliche Kontakte",
-    "profileEditAlt": "Profil bearbeiten mit Adress- und Kontaktfeldern",
+    "title": "App-Bildschirme",
+    "subtitle": "Echte Bildschirme aus MyQuickPaste.",
+    "freetextAlt": "Freitext-Listenbildschirm",
+    "snippetsAlt": "Textbausteine-Listenbildschirm",
+    "profileAlt": "Profilkarten-Bildschirm",
+    "profileEditAlt": "Profil bearbeiten",
     "cateAlt": "Sechs Kategorie-Tabs: Freitext, Textbausteine, E-Mail, Telefon, Bilder, Profil",
     "items": [
       {
@@ -421,188 +421,188 @@
         "caption": "Kategorie-Tabs — sofort zwischen sechs Listen wechseln"
       }
     ],
-    "imagesAlt": "Bilder-Kategorie mit Beispielbildern zum Kopieren oder Teilen",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "Bilder-Kategoriebildschirm",
+    "titleLine1": "Klar genug,",
+    "titleLine2": "sofort nutzbar.",
+    "lead": "Große Zeilen, klare Kategorien und einfache Bearbeitung—für den Alltag gemacht.",
+    "freetextCap": "Wiederverwendbare Texte in einer Liste verwalten",
+    "snippetsCap": "Übliche Antworten schnell kopieren",
+    "imagesCap": "Bilder speichern, kopieren und teilen",
+    "profileCap": "Adresse oder Kontaktfelder einzeln kopieren",
+    "profileEditCap": "Benötigte Details gemeinsam registrieren"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "Gespeicherte Daten werden nicht automatisch in die Cloud gesendet.",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "Tippen zum Kopieren",
+    "t1Text": "Einfach eine gespeicherte Zeile antippen.",
+    "t2Title": "Pro einmalig",
+    "t2Text": "Keine monatlichen Zahlungen.",
+    "t3Title": "Auf dem Gerät gespeichert",
+    "t3Text": "Gespeicherte Inhalte werden auf dem Gerät verwaltet.",
+    "t4Title": "UI in 21 Sprachen",
+    "t4Text": "App-Oberfläche in 21 Sprachen."
   },
   "pain": {
     "titleLine1": "Schluss mit",
     "titleLine2": "„Wo war das noch?“",
-    "lead": "Immer wieder dieselben Infos—doch jedes Mal suchen Sie in Notizen, wählen per Long-Press neu oder tippen erneut. Kleine Schritte, die sich summieren.",
+    "lead": "Immer wieder dieselben Infos—doch jedes Mal suchen Sie in Notizen, wählen per Long-Press neu oder tippen denselben Text erneut. Kleine Schritte, die sich summieren.",
     "p1Title": "Suchen",
     "p1Text": "Adresse oder Textbaustein—Sie wissen nicht, in welcher Notiz sie stehen.",
     "p2Title": "Auswählen",
     "p2Text": "Long-Press, um genau den Teil zu markieren, den Sie brauchen.",
     "p3Title": "Nochmal tippen",
     "p3Text": "Dieselbe Antwort oder dasselbe Profil tippen Sie immer wieder neu.",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "Mit MyQuickPaste",
+    "resolveLine2": "ein Tipp aus der Liste.",
+    "resolveSub": "Nicht suchen. Nicht neu tippen. Einfach die Zeile antippen, die Sie brauchen.",
+    "flowOldLabel": "Üblicher Ablauf",
+    "flowOld1": "Suchen",
+    "flowOld2": "Auswählen",
+    "flowOld3": "Kopieren",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "Tippen",
+    "flowNew2": "Kopieren"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "Auch für Social Media",
+    "titleLine1": "Emoji und Hashtags—",
+    "titleLine2": "kopieren, wenn Sie sie brauchen.",
+    "lead": "Speichern Sie Lieblings-Emoji, Hashtags und Beitragstexte. Antippen zum Kopieren, dann in Ihre Social Apps einfügen.",
     "points": [
       {
         "title": "Emoji",
-        "text": "Keep favorites handy",
+        "text": "Favoriten speichern",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "Beiträge",
+        "text": "Häufige Texte speichern",
         "icon": "camera"
       },
       {
         "title": "Hashtags",
-        "text": "Copy as a set",
+        "text": "Als Set kopieren",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "Schnell kopieren",
+        "text": "Ein Tipp bei Bedarf",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "Auch bei der Arbeit",
+    "titleLine1": "Textbausteine und Kontakte—",
+    "titleLine2": "kopieren, wenn Sie sie brauchen.",
+    "lead": "Textbausteine, E-Mail-Adressen, Telefonnummern, URLs und andere oft genutzte Infos an einem Ort. Zeile antippen und sofort kopieren.",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "Textbausteine",
+        "text": "Ihre üblichen Antworten",
         "icon": "doc"
       },
       {
-        "title": "Email",
-        "text": "Signatures & notices",
+        "title": "E-Mail",
+        "text": "Signaturen und Hinweise speichern",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "Kontakte",
+        "text": "Telefonnummern schnell kopieren",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "Schnell kopieren",
+        "text": "Mit einem Tipp erledigt",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "Im Alltag",
+    "titleLine1": "Adresse und Profil—",
+    "titleLine2": "kopieren, wenn Sie sie brauchen.",
+    "lead": "Heimadresse, E-Mail, Profiltext, Lieblingszeilen. Antippen und sofort kopieren, wenn Sie sie brauchen.",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "Adresse",
+        "text": "Weniger erneut tippen",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "Profil",
+        "text": "Intro speichern",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "Lieblingsphrasen",
+        "text": "Jederzeit wiederverwenden",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "Schnell finden",
+        "text": "Übersichtlich organisiert",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "Nicht nur temporäre Kopien—",
+    "titleLine2": "ein Zuhause für Wiederholtes.",
+    "otherLabel": "Notizen oder Zwischenablage-Verlauf",
+    "other1": "Öffnen",
+    "other2": "Suchen",
+    "other3": "Auswählen, was Sie brauchen",
+    "other4": "Kopieren",
+    "otherText": "Gut für kürzliche Historie. Für oft genutzte Infos wird Suchen zur Hürde.",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "Öffnen",
+    "app2": "Zeile antippen",
+    "app3": "Kopiert",
+    "appText": "Speichern Sie oft genutzte Texte und Infos übersichtlich und klar organisiert."
   },
   "faq": {
     "title": "FAQ",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "Fügt ein Tipp automatisch in eine andere App ein?",
+        "a": "Ein Tipp auf eine Zeile kopiert sie in die Zwischenablage. Wechseln Sie dann zu Mail, Social oder Chat und fügen ein."
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "Wo werden meine Daten gespeichert?",
+        "a": "Texte, Profile und Einstellungen werden auf Ihrem Smartphone gespeichert."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "Verliere ich die App nach der 30-Tage-Testphase?",
         "a": "Nein. Nach der Testphase können Sie den kostenlosen Plan weiter nutzen. Ihre Daten werden nicht gelöscht. Daten über den Gratis-Grenzen bleiben erhalten und sind nach Pro-Kauf wieder nutzbar."
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Ist Pro ein monatliches Abo?",
+        "a": "Nein. Pro ist ein einmaliger Kauf ohne monatliche Gebühr."
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "Kann ich Daten mit der Windows-Edition teilen?",
+        "a": "Nein. Smartphone- und Windows-Edition sind getrennte Apps. Käufe und Daten werden nicht geteilt."
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "Kann ich Daten beim Telefonwechsel übertragen?",
+        "a": "Backups exportieren und bei Bedarf importieren. Verfügbar mit 30-tägiger Testphase und Pro."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "auch unter Windows.",
+    "text": "Die Windows-Edition bleibt am Bildschirmrand und kann registrierten Text mit einem Klick einfügen—eine separate App.",
+    "note": "Nicht dieselbe App wie die Smartphone-Edition. Käufe und gespeicherte Daten werden nicht geteilt.",
+    "link": "Windows-Edition Homepage"
   },
   "sceneMore": {
-    "titleLine1": "Auch in diesen Situationen.",
+    "titleLine1": "Auch in diesen Momenten praktisch.",
     "titleLine2": "",
     "lead": "Reise, Flohmarkt-Apps, Chat, Eventplanung—Ihre Standardtexte immer nur einen Tipp entfernt.",
     "cap3": "Anzeigentexte blitzschnell kopieren",
-    "cap4": "Chat-Antworten mit einem Tipp",
-    "cap6": "Organisatortexte sofort parat"
+    "cap4": "Chat-Antworten sofort kopieren",
+    "cap6": "Organisatortexte sofort kopieren"
   }
 }

@@ -1,0 +1,41 @@
+{
+  "privacyPage": {
+    "title": "Privacy Policy",
+    "lead": "MyQuickPaste (Smartphone Edition)",
+    "updated": "Last updated: August 14, 2026",
+    "sections": [
+      {
+        "h": "Overview",
+        "p": "MyQuickPaste is a smartphone app provided by Good Rabbit inc. (\"we\", \"us\", or \"our\"). This policy explains how MyQuickPaste handles information on your device."
+      },
+      {
+        "h": "Data collection by us",
+        "p": "MyQuickPaste does not include any process that collects, transmits, or stores on servers operated by us the free text, snippets, email addresses, phone numbers, profiles, images, or clipboard contents you use in the app. This content is processed on your device to provide the app's features. However, when you explicitly use a sharing feature, when Android backup operates, or when you use store services such as Google Play, data is handled according to the mechanisms and policies of the relevant operating system or service."
+      },
+      {
+        "h": "On-device storage and Android backup",
+        "p": "Entered content, categories, profiles, app settings, and registered images are stored in the app's private storage area on your device. Registered images are copied into that private app storage. On Android, if the operating system's backup feature is enabled, some app data may be backed up to and restored from backup storage associated with your Google Account. Under the app's current backup rules, registered image files are excluded from cloud backup. During device-to-device transfer, data may be transferred through operating-system features."
+      },
+      {
+        "h": "Security",
+        "p": "Saved data is stored in an app-private area protected by the operating system. We do not operate our own server for storing your registered content. The security of the device itself, operating-system backups, and backup files you export depends on the security and management of the relevant device, service, and user-controlled storage."
+      },
+      {
+        "h": "Clipboard access",
+        "p": "To show previews on the main screen and provide related features, MyQuickPaste may read text or images currently stored in your device's clipboard. Clipboard content is processed on the device and is not automatically stored permanently unless you explicitly register it. The app may create a temporary cache file to preview clipboard images. MyQuickPaste does not include any process that sends clipboard content to servers operated by us."
+      },
+      {
+        "h": "Data retention, deletion, and backups",
+        "p": "Saved data remains in the app's storage area on your device until you delete it in the app or uninstall the app. Uninstalling removes the app's local data from the device, but copies may remain separately in Android operating-system backups or in backup files that you exported and retained. During the 30-day free trial and with Pro, you can export and import data as a MyQuickPaste backup file (.mqp). You choose where an exported file is saved, and you are responsible for managing and deleting exported backup files."
+      },
+      {
+        "h": "App stores, purchases, and external services",
+        "p": "The 30-day free trial is managed within the app based on the initial installation time. Distribution of the Android edition and Pro purchases are handled through Google Play, and Google Play Billing is used to verify purchases. Pro is a one-time in-app purchase and is not a subscription. We do not directly receive credit card numbers or other payment card details. The app does not use third-party SDKs for analytics or advertising. When you use Google Play purchase or review features, or external features you choose such as sharing, email, or a web browser, the privacy policies and terms of the relevant services apply. The iOS edition is currently in development, and this policy will be updated as needed when its distribution and purchase implementation is finalized."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have any questions about this policy, please contact us at myquickpaste@hotmail.com."
+      }
+    ]
+  }
+}

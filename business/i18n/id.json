@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "id",
-    "title": "MyQuickPaste — Edisi Smartphone",
-    "description": "Simpan teks yang sering Anda gunakan di smartphone dan salin hanya dengan satu ketukan. MyQuickPaste mengatur kalimat template, alamat, kontak, dan kartu profil berdasarkan kategori.",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | Salin teks sehari-hari dengan satu ketuk",
+    "description": "Simpan teks baku, alamat, kontak, URL, emoji, hashtag, dan lainnya—lalu salin dengan satu ketuk. Beralih ke aplikasi biasa Anda dan tempel. MyQuickPaste menyederhanakan pengetikan di smartphone.",
+    "ogTitle": "MyQuickPaste | Salin teks sehari-hari dengan satu ketuk",
+    "ogDescription": "Simpan teks dan info yang sering dipakai, lalu salin dengan satu ketuk saat diperlukan. Beralih ke aplikasi biasa Anda dan tempel."
   },
   "lang": {
     "label": "Bahasa",
@@ -14,47 +14,47 @@
   "nav": {
     "home": "Beranda",
     "support": "Dukungan",
-    "releaseNotes": "Catatan Rilis",
+    "releaseNotes": "Catatan rilis",
     "privacy": "Privasi",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "features": "Fitur",
+    "how": "Cara kerja",
+    "screens": "Layar",
+    "pricing": "Harga",
     "cta": "Uji coba gratis 30 hari"
   },
   "brand": {
     "name": "MyQuickPaste",
-    "edition": "Edisi Smartphone"
+    "edition": "Edisi smartphone"
   },
   "hero": {
-    "badge": "Untuk Android & iPhone",
-    "catch": "Simpan yang sering Anda pakai. Salin dengan satu ketukan.",
-    "lead": "Teks baku, alamat, kontak, URL, emoji, hashtag. Simpan yang sering dipakai, lalu salin dengan satu ketuk dari daftar.",
+    "badge": "MyQuickPaste untuk smartphone",
+    "catch": "Teks sehari-hari, satu ketuk saja.",
+    "lead": "Teks baku, alamat, kontak, URL, emoji, hashtag. Simpan yang sering dipakai, lalu salin dengan satu ketuk dari daftar saat diperlukan.",
     "platformLine": "Google Play segera hadir · App Store dalam pengembangan",
     "trialTitle": "Uji coba gratis 30 hari",
     "trialText": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis.",
-    "trust": "Data tetap di perangkat Anda · 21 bahasa",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21 bahasa",
+    "eyebrow": "MyQuickPaste untuk smartphone",
+    "catchLine1": "Teks sehari-hari,",
+    "catchLine2": "satu ketuk saja.",
     "sub": "Lalu beralih ke aplikasi biasa Anda dan tempel.",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "Lihat cara kerjanya",
     "ctaSecondary": "Uji coba gratis 30 hari",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play segera hadir",
+    "statusApp": "App Store dalam pengembangan",
     "pill1": "Uji coba gratis 30 hari",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro pembelian sekali",
+    "pill3": "Disimpan di perangkat",
+    "pill4": "21 bahasa"
   },
   "stores": {
-    "googlePlay": "Tersedia di Google Play",
+    "googlePlay": "Dapatkan di Google Play",
     "appStore": "App Store",
-    "comingSoon": "Segera Hadir",
+    "comingSoon": "Segera hadir",
     "inDevelopment": "Dalam pengembangan",
-    "googlePlayBadgeAlt": "Tersedia di Google Play",
+    "googlePlayBadgeAlt": "Dapatkan di Google Play",
     "appStoreBadgeAlt": "Unduh di App Store",
-    "microsoftBadgeAlt": "Dapatkan di Microsoft Store (MyQuickPaste untuk Windows)"
+    "microsoftBadgeAlt": "Dapatkan dari Microsoft (MyQuickPaste untuk Windows)"
   },
   "compare": {
     "title": "Keluarga Aplikasi MyQuickPaste",
@@ -97,24 +97,24 @@
     "footer": "Menyalin sesuatu beberapa jam lalu? Gboard cocok untuk itu. Tapi alamat, tanda tangan, atau balasan tetap yang Anda pakai setiap minggu? Simpan sekali di sini, dan Anda tidak perlu mencarinya lagi."
   },
   "steps": {
-    "title": "Cara Penggunaan",
-    "subtitle": "Simpan, ketuk, tempel — hanya 3 langkah.",
+    "title": "Cara kerja",
+    "subtitle": "Tanpa pengaturan rumit. Hanya tiga langkah.",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "Simpan yang sering dipakai",
+        "text": "Daftarkan teks favorit, kontak, dan lainnya."
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "Ketuk baris yang Anda butuhkan",
+        "text": "Satu ketuk menyalin konten ke clipboard."
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "Tempel di aplikasi lain",
+        "text": "Beralih ke email, sosial, chat, peta, lalu tempel."
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "Simpan, ketuk,",
+    "titleLine2": "lalu tempel."
   },
   "benefits": {
     "title": "Yang Paling Disukai Pengguna",
@@ -137,72 +137,72 @@
     ]
   },
   "features": {
-    "title": "Fitur Utama",
-    "subtitle": "Fitur yang membuat copy-paste sehari-hari di ponsel Anda lebih mudah.",
+    "title": "Fitur",
+    "subtitle": "Alat yang meringankan pengetikan sehari-hari.",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "Salin dengan satu ketuk",
+        "text": "Ketuk baris untuk menyalin isinya ke clipboard.",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "Atur menurut penggunaan",
+        "text": "Kelola menurut teks bebas, teks baku, email, telepon, gambar, dan profil.",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "Urutkan favorit",
+        "text": "Pindahkan item sering dipakai ke atas agar lebih mudah ditemukan.",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "Salin per kolom",
+        "text": "Salin hanya alamat, nama, atau nomor yang Anda butuhkan.",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "Gambar siap pakai",
+        "text": "Simpan logo atau foto, lalu salin, bagikan, atau pratinjau.",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "Ekspor dan impor",
+        "text": "Ekspor cadangan dan impor saat diperlukan. Tersedia dengan uji coba gratis 30 hari dan Pro.",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "Pilih tampilan",
+        "text": "Tema terang dan gelap, ditambah tema warna premium dengan Pro.",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "Tetap di perangkat",
+        "text": "Teks dan profil dikelola di ponsel.",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "6 Kategori",
+    "categoriesLabel": "Kategori: Teks bebas, Teks baku, Email, Telepon, Gambar, Profil",
     "categories": [
-      "Teks Bebas",
-      "Kalimat Template",
+      "Teks bebas",
+      "Teks baku",
       "Email",
       "Telepon",
       "Gambar",
       "Profil"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "Sederhana,",
+    "titleLine2": "dengan yang esensial."
   },
   "themesSection": {
-    "title": "14 tema warna",
-    "subtitle": "Gratis mencakup terang dan gelap. Pro membuka palet premium untuk bisnis dan penggunaan harian.",
-    "imageAlt": "Kisi 14 tema MyQuickPaste: tujuh tema terang di atas dan tujuh gelap di bawah.",
-    "caption": "Baris atas: 7 tema terang / Baris bawah: 7 tema gelap",
-    "note": "Tema premium memerlukan pembelian Pro.",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "Tema",
+    "subtitle": "Terang dan gelap, plus tema warna premium dengan Pro.",
+    "imageAlt": "Galeri tema MyQuickPaste",
+    "caption": "Tema terang / gelap / premium",
+    "note": "Tema premium memerlukan pembelian Pro. Tidak termasuk uji coba 30 hari.",
+    "titleLine1": "Sesuaikan tampilan",
+    "titleLine2": "dengan tempat pemakaian."
   },
   "usecases": {
     "title": "Cocok Untuk",
@@ -245,43 +245,43 @@
       "Nama dan ikon kategori kustom"
     ],
     "note": "Aplikasi ini sendiri dapat diunduh gratis. Pro adalah add-on pembelian sekali melalui toko aplikasi; harga dapat berbeda tergantung wilayah.",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "Coba selama 30 hari,",
+    "titleLine2": "dan rasakan pengalamannya.",
+    "trialLabel": "Hanya instal pertama",
     "trialTitle": "Uji coba gratis 30 hari",
     "trialText": "Kategori teks: hingga 200 masing-masing · Gambar: 50 · Profil: 30 · Ekspor/impor cadangan",
     "trialNote": "Tema premium dan kustomisasi nama/ikon kategori tersedia setelah membeli Pro. Setelah uji coba, data Anda tidak dihapus. Data di atas batas gratis tetap tersimpan dan bisa digunakan lagi setelah membeli Pro.",
     "freeLead": "Fitur inti tetap gratis digunakan.",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "Beli sekali",
+    "proLead": "Tanpa biaya bulanan.",
+    "notSub": "Bukan langganan"
   },
   "privacySection": {
-    "title": "Data Anda tetap di ponsel Anda",
+    "title": "Privasi di perangkat",
     "text": "Teks dan profil yang disimpan di MyQuickPaste dikelola di perangkat. Kami tidak mengirim konten Anda ke cloud secara otomatis.",
-    "link": "Baca Kebijakan Privasi",
+    "link": "Baca kebijakan privasi",
     "titleLine1": "Yang penting tetap",
     "titleLine2": "di perangkat Anda.",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "Tanpa sinkronisasi cloud otomatis",
+      "Tidak mengirim konten tersimpan secara otomatis ke server eksternal",
+      "Data tetap dikelola di perangkat",
+      "Anda dapat mengekspor cadangan sendiri selama uji coba gratis 30 hari dan dengan Pro."
     ]
   },
   "cta": {
-    "title": "Waktunya berhenti mengetik ulang teks yang sama di ponsel Anda",
-    "lead": "Simpan, ketuk, tempel. Permudah pengetikan harian dengan MyQuickPaste.",
-    "button": "Tersedia di Google Play",
+    "title": "Teks sehari-hari, satu ketuk saja.",
+    "lead": "Simpan, ketuk, lalu tempel.",
+    "button": "Uji coba gratis 30 hari",
     "titleLine1": "Teks sehari-hari,",
-    "titleLine2": "lebih dekat.",
+    "titleLine2": "satu ketuk saja.",
     "sub": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis."
   },
   "footer": {
-    "pcEdition": "MyQuickPaste (Edisi PC)",
+    "pcEdition": "Edisi Windows",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Hak cipta dilindungi.",
     "developer": "Pengembang: Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "Kontak"
   },
   "supportPage": {
     "title": "Dukungan",
@@ -324,39 +324,39 @@
   "privacyPage": {
     "title": "Kebijakan Privasi",
     "lead": "MyQuickPaste (Edisi Smartphone)",
-    "updated": "Last updated: July 2026",
+    "updated": "Terakhir diperbarui: 14 Agustus 2026",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "Ikhtisar",
+        "p": "MyQuickPaste adalah aplikasi smartphone yang disediakan oleh Good Rabbit inc. (“kami”). Kebijakan ini menjelaskan bagaimana MyQuickPaste menangani informasi di perangkat Anda."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "Pengumpulan data oleh kami",
+        "p": "MyQuickPaste tidak memiliki proses yang mengumpulkan, mengirimkan, atau menyimpan di server yang kami operasikan teks bebas, cuplikan teks, alamat email, nomor telepon, profil, gambar, atau isi papan klip yang Anda gunakan di aplikasi. Konten tersebut diproses di perangkat Anda untuk menyediakan fitur aplikasi. Namun, saat Anda secara aktif menggunakan fitur berbagi, saat pencadangan Android berjalan, atau saat Anda menggunakan layanan toko seperti Google Play, data ditangani sesuai mekanisme dan kebijakan sistem operasi atau layanan terkait."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "Penyimpanan di perangkat dan pencadangan Android",
+        "p": "Konten yang dimasukkan, kategori, profil, pengaturan aplikasi, dan gambar yang didaftarkan disimpan di area penyimpanan privat aplikasi pada perangkat Anda. Gambar yang didaftarkan disalin ke area penyimpanan privat tersebut. Di Android, jika fitur pencadangan sistem operasi diaktifkan, sebagian data aplikasi dapat dicadangkan ke penyimpanan cadangan yang terkait dengan Akun Google Anda dan dipulihkan dari sana. Berdasarkan aturan pencadangan aplikasi saat ini, file gambar yang didaftarkan dikecualikan dari pencadangan cloud. Saat melakukan pemindahan antarperangkat, data dapat dipindahkan melalui fitur sistem operasi."
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "Keamanan",
+        "p": "Data yang disimpan berada di area privat aplikasi yang dilindungi oleh sistem operasi. Kami tidak mengoperasikan server sendiri untuk menyimpan konten yang Anda daftarkan. Keamanan perangkat itu sendiri, cadangan sistem operasi, dan file cadangan yang Anda ekspor bergantung pada keamanan serta pengelolaan perangkat, layanan, dan lokasi penyimpanan yang dikendalikan pengguna."
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "Akses papan klip",
+        "p": "Untuk menampilkan pratinjau di layar utama dan menyediakan fitur terkait, MyQuickPaste dapat membaca teks atau gambar yang saat ini tersimpan di papan klip perangkat Anda. Isi papan klip diproses di perangkat dan tidak disimpan permanen secara otomatis kecuali Anda secara eksplisit mendaftarkannya. Aplikasi dapat membuat file cache sementara untuk menampilkan pratinjau gambar papan klip. MyQuickPaste tidak memiliki proses yang mengirimkan isi papan klip ke server yang kami operasikan."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "Penyimpanan, penghapusan, dan pencadangan data",
+        "p": "Data yang disimpan tetap berada di area penyimpanan aplikasi pada perangkat Anda sampai Anda menghapusnya di aplikasi atau menghapus instalasi aplikasi. Menghapus instalasi akan menghapus data lokal aplikasi dari perangkat, tetapi salinan dapat tetap tersimpan secara terpisah dalam cadangan sistem operasi Android atau dalam file cadangan yang telah Anda ekspor dan simpan. Selama uji coba gratis 30 hari dan dengan Pro, Anda dapat mengekspor dan mengimpor data sebagai file cadangan MyQuickPaste (.mqp). Anda memilih lokasi penyimpanan file yang diekspor dan bertanggung jawab untuk mengelola serta menghapus file cadangan yang telah diekspor."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "Toko aplikasi, pembelian, dan layanan eksternal",
+        "p": "Uji coba gratis 30 hari dikelola di dalam aplikasi berdasarkan waktu instalasi awal. Distribusi edisi Android dan pembelian Pro diproses melalui Google Play, dan Google Play Billing digunakan untuk memverifikasi pembelian. Pro adalah pembelian dalam aplikasi satu kali dan bukan langganan. Kami tidak menerima secara langsung nomor kartu kredit atau detail kartu pembayaran lainnya. Aplikasi tidak menggunakan SDK pihak ketiga untuk analitik atau periklanan. Saat Anda menggunakan fitur pembelian atau ulasan Google Play, atau fitur eksternal yang Anda pilih seperti berbagi, email, atau browser web, kebijakan privasi dan ketentuan layanan terkait berlaku. Edisi iOS saat ini sedang dikembangkan, dan kebijakan ini akan diperbarui bila diperlukan setelah distribusi dan implementasi pembeliannya ditetapkan."
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "Kontak",
+        "p": "Jika Anda memiliki pertanyaan tentang kebijakan ini, silakan hubungi kami di myquickpaste@hotmail.com."
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "Juli 2026",
+        "title": "Kategori Gambar",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "Menambahkan kategori Gambar (simpan kartu nama, logo, dan lainnya)",
+          "Ketuk untuk menyalin, membagikan, dan melihat pratinjau gambar",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,12 +394,12 @@
     ]
   },
   "screenshots": {
-    "title": "Lihat Aplikasi Beraksi",
-    "subtitle": "Tangkapan layar asli dari MyQuickPaste (Android).",
-    "freetextAlt": "Daftar teks bebas dengan tanda tangan tersimpan dan salin satu ketukan",
-    "snippetsAlt": "Kategori kalimat template dengan templat balasan email",
-    "profileAlt": "Kartu profil untuk kontak rumah, kantor, dan lainnya",
-    "profileEditAlt": "Layar edit profil dengan bidang alamat dan kontak",
+    "title": "Layar aplikasi",
+    "subtitle": "Layar nyata MyQuickPaste.",
+    "freetextAlt": "Layar daftar teks bebas",
+    "snippetsAlt": "Layar daftar teks baku",
+    "profileAlt": "Layar kartu profil",
+    "profileEditAlt": "Layar edit profil",
     "cateAlt": "Enam tab kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
     "items": [
       {
@@ -421,188 +421,188 @@
         "caption": "Tab kategori — beralih antar enam daftar seketika"
       }
     ],
-    "imagesAlt": "Kategori Gambar dengan foto contoh siap disalin atau dibagikan",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "Layar kategori Gambar",
+    "titleLine1": "Cukup jelas",
+    "titleLine2": "untuk langsung dipakai.",
+    "lead": "Baris besar, kategori jelas, dan edit sederhana — untuk pemakaian sehari-hari.",
+    "freetextCap": "Kelola teks yang dapat dipakai ulang dalam satu daftar",
+    "snippetsCap": "Salin balasan biasa dengan cepat",
+    "imagesCap": "Simpan, salin, dan bagikan gambar",
+    "profileCap": "Salin alamat atau kontak per kolom",
+    "profileEditCap": "Daftarkan detail yang dibutuhkan sekaligus"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "Data tersimpan tidak dikirim ke cloud secara otomatis.",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "Ketuk untuk menyalin",
+    "t1Text": "Cukup ketuk baris yang disimpan.",
+    "t2Title": "Pro sekali bayar",
+    "t2Text": "Tanpa pembayaran bulanan.",
+    "t3Title": "Disimpan di perangkat",
+    "t3Text": "Konten terdaftar dikelola di perangkat.",
+    "t4Title": "UI 21 bahasa",
+    "t4Text": "Layar aplikasi dalam 21 bahasa."
   },
   "pain": {
     "titleLine1": "Berhenti bertanya",
     "titleLine2": "«Di mana tadi?»",
-    "lead": "Info yang sama—tapi setiap kali Anda cari di catatan, pilih ulang dengan tekan lama, atau ketik lagi. Langkah kecil menumpuk setiap hari.",
+    "lead": "Info yang sama—tapi setiap kali Anda cari di catatan, pilih ulang dengan tekan lama, atau ketik ulang teks yang sama. Langkah kecil menumpuk setiap hari.",
     "p1Title": "Mencari",
     "p1Text": "Alamat atau teks baku—tidak tahu di catatan mana.",
     "p2Title": "Memilih",
     "p2Text": "Tekan lama untuk mengambil bagian yang Anda butuhkan.",
     "p3Title": "Mengetik lagi",
     "p3Text": "Mengetik ulang balasan atau profil yang sama berkali-kali.",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "Dengan MyQuickPaste,",
+    "resolveLine2": "satu ketuk dari daftar.",
+    "resolveSub": "Jangan cari. Jangan ketik ulang. Cukup ketuk baris yang Anda butuhkan.",
+    "flowOldLabel": "Alur biasa",
+    "flowOld1": "Cari",
+    "flowOld2": "Pilih",
+    "flowOld3": "Salin",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "Ketuk",
+    "flowNew2": "Salin"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "Untuk media sosial juga",
+    "titleLine1": "Emoji dan hashtag—",
+    "titleLine2": "salin saat diperlukan.",
+    "lead": "Simpan emoji, hashtag, dan teks posting favorit. Ketuk untuk menyalin, lalu tempel ke aplikasi sosial biasa Anda.",
     "points": [
       {
         "title": "Emoji",
-        "text": "Keep favorites handy",
+        "text": "Simpan favorit",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "Posting",
+        "text": "Simpan teks favorit",
         "icon": "camera"
       },
       {
-        "title": "Hashtags",
-        "text": "Copy as a set",
+        "title": "Hashtag",
+        "text": "Salin sekaligus",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "Salin cepat",
+        "text": "Satu ketuk saat perlu",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "Untuk pekerjaan juga",
+    "titleLine1": "Teks baku dan kontak—",
+    "titleLine2": "salin saat diperlukan.",
+    "lead": "Teks baku, email, nomor telepon, URL, dan info lain yang sering dipakai dalam satu tempat. Ketuk baris untuk menyalin segera.",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "Teks baku",
+        "text": "Balasan biasa Anda",
         "icon": "doc"
       },
       {
         "title": "Email",
-        "text": "Signatures & notices",
+        "text": "Simpan tanda tangan dan pemberitahuan",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "Kontak",
+        "text": "Salin nomor dengan cepat",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "Salin cepat",
+        "text": "Selesai dengan satu ketuk",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "Dalam kehidupan sehari-hari",
+    "titleLine1": "Alamat dan profil—",
+    "titleLine2": "salin saat diperlukan.",
+    "lead": "Alamat rumah, email, bio profil, frasa favorit. Ketuk dan salin segera saat diperlukan.",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "Alamat",
+        "text": "Kurangi mengetik ulang",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "Profil",
+        "text": "Simpan perkenalan Anda",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "Frasa favorit",
+        "text": "Pakai ulang kapan saja",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "Temukan cepat",
+        "text": "Tetap terorganisir",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "Bukan hanya salinan sementara —",
+    "titleLine2": "tempat untuk yang sering dipakai.",
+    "otherLabel": "Catatan atau riwayat clipboard",
+    "other1": "Buka",
+    "other2": "Cari",
+    "other3": "Pilih yang dibutuhkan",
+    "other4": "Salin",
+    "otherText": "Bagus untuk riwayat terbaru. Untuk info yang sering dipakai, pencarian jadi hambatan.",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "Buka",
+    "app2": "Ketuk baris",
+    "app3": "Tersalin",
+    "appText": "Atur dan simpan teks serta info yang sering dipakai dengan jelas."
   },
   "faq": {
     "title": "FAQ",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "Apakah ketuk menempel otomatis ke aplikasi lain?",
+        "a": "Mengetuk baris menyalinnya ke clipboard. Lalu beralih ke email, sosial, atau chat dan tempel."
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "Di mana data saya disimpan?",
+        "a": "Teks, profil, dan pengaturan disimpan di smartphone Anda."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "Apakah saya kehilangan aplikasi setelah uji coba 30 hari?",
         "a": "Tidak. Setelah uji coba Anda bisa lanjut paket gratis. Data tersimpan tidak dihapus. Data di atas batas gratis tetap tersimpan dan bisa digunakan lagi setelah membeli Pro."
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Apakah Pro langganan bulanan?",
+        "a": "Tidak. Pro adalah pembelian sekali tanpa biaya bulanan berulang."
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "Bisakah berbagi data dengan edisi Windows?",
+        "a": "Tidak. Edisi smartphone dan Windows adalah aplikasi terpisah. Pembelian dan data tidak dibagikan."
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "Bisakah memindahkan data saat ganti ponsel?",
+        "a": "Ekspor cadangan dan impor saat diperlukan. Tersedia dengan uji coba gratis 30 hari dan Pro."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "juga di Windows.",
+    "text": "Edisi Windows tetap di tepi layar dan menempelkan teks terdaftar dengan satu klik — aplikasi terpisah.",
+    "note": "Bukan aplikasi yang sama dengan edisi smartphone. Pembelian dan data tersimpan tidak dibagikan.",
+    "link": "Beranda edisi Windows"
   },
   "sceneMore": {
     "titleLine1": "Berguna di momen ini juga.",
     "titleLine2": "",
-    "lead": "Perjalanan, marketplace, chat, acara—teks favorit Anda satu ketuk saja.",
+    "lead": "Perjalanan, marketplace, chat, acara—salin teks favorit dengan satu ketuk di situasi apa pun.",
     "cap3": "Teks iklan, langsung disalin",
-    "cap4": "Balasan chat, satu ketuk",
-    "cap6": "Pesan panitia siap pakai"
+    "cap4": "Balasan chat, langsung disalin",
+    "cap6": "Pesan panitia, langsung disalin"
   }
 }

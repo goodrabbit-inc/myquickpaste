@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "lang": "ar",
+    "title": "MyQuickPaste — إصدار الهاتف الذكي",
+    "description": "احفظ النصوص الجاهزة والعناوين وجهات الاتصال والروابط والرموز التعبيرية والوسوم—ثم انسخ بنقرة واحدة. انتقل إلى تطبيقك المعتاد والصق. MyQuickPaste يبسّط الكتابة على الهاتف.",
+    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
+    "ogDescription": "احفظ النصوص والمعلومات التي تكررها، ثم انسخها بنقرة واحدة عند الحاجة. انتقل إلى تطبيقك المعتاد والصق."
+  },
+  "lang": {
+    "label": "اللغة",
+    "ja": "日本語",
+    "en": "English"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "support": "الدعم",
+    "releaseNotes": "ملاحظات الإصدار",
+    "privacy": "الخصوصية",
+    "features": "Features",
+    "how": "How it works",
+    "screens": "Screens",
+    "pricing": "Pricing",
+    "cta": "تجربة مجانية لمدة 30 يومًا"
+  },
+  "brand": {
+    "name": "MyQuickPaste",
+    "edition": "إصدار الهاتف الذكي"
+  },
+  "hero": {
+    "badge": "لأجهزة Android وiPhone",
+    "catch": "احفظ ما تستخدمه كل يوم. انسخه بلمسة واحدة.",
+    "lead": "نصوص جاهزة، عناوين، جهات اتصال، روابط، رموز تعبيرية، وسوم. احفظ ما تكرره وانسخه بنقرة واحدة من القائمة عند الحاجة.",
+    "platformLine": "Google Play قريبًا · App Store قيد التطوير",
+    "trialTitle": "تجربة مجانية لمدة 30 يومًا",
+    "trialText": "لمدة 30 يومًا بعد التثبيت الأول، جرّب حدود حفظ أعلى والنسخ الاحتياطي مجانًا.",
+    "trust": "يُحفظ على جهازك فقط · 21 لغة",
+    "eyebrow": "MyQuickPaste for smartphones",
+    "catchLine1": "نصوصك اليومية،",
+    "catchLine2": "بنقرة واحدة.",
+    "sub": "ثم انتقل إلى تطبيقك المعتاد والصق.",
+    "ctaPrimary": "See how it works",
+    "ctaSecondary": "تجربة مجانية لمدة 30 يومًا",
+    "statusPlay": "Google Play coming soon",
+    "statusApp": "App Store in development",
+    "pill1": "تجربة مجانية لمدة 30 يومًا",
+    "pill2": "Pro is a one-time purchase",
+    "pill3": "Stored on your device",
+    "pill4": "21 languages"
+  },
+  "stores": {
+    "googlePlay": "متوفر على Google Play",
+    "appStore": "App Store",
+    "comingSoon": "قريبًا",
+    "inDevelopment": "قيد التطوير",
+    "googlePlayBadgeAlt": "متوفر على Google Play",
+    "appStoreBadgeAlt": "التحميل من App Store",
+    "microsoftBadgeAlt": "التحميل من Microsoft Store (إصدار Windows من MyQuickPaste)"
+  },
+  "compare": {
+    "title": "عائلة تطبيقات MyQuickPaste",
+    "subtitle": "الفكرة نفسها — لصق ما تستخدمه كثيرًا في لحظة — لكن بتصميم مخصص لكل من الكمبيوتر والهاتف الذكي.",
+    "pcTitle": "MyQuickPaste (إصدار Windows)",
+    "pcText": "تطبيق Windows يبقى جاهزًا عند حافة الشاشة ويلصق النص بنقرة واحدة.",
+    "pcLink": "موقع إصدار Windows",
+    "mobileTitle": "MyQuickPaste (إصدار الهاتف الذكي)",
+    "mobileText": "احفظ على هاتفك النصوص التي تعيد استخدامها، ثم استرجعها وانسخها من جديد في أي وقت.",
+    "note": "إصدارا الكمبيوتر والهاتف الذكي تطبيقان منفصلان، ولا تتم مشاركة المشتريات أو البيانات المحفوظة بينهما."
+  },
+  "problem": {
+    "title": "هل تشعر بهذا على هاتفك؟",
+    "items": [
+      "البحث في المحادثات أو الملاحظات القديمة في كل مرة تحتاج فيها لنفس العنوان أو رقم الهاتف",
+      "إعادة كتابة التوقيع أو الرد الجاهز مرارًا على لوحة المفاتيح الصغيرة للهاتف",
+      "التنقل بين التطبيقات فقط لنسخ سطر واحد من النص مرة أخرى"
+    ],
+    "solution": "احفظه مرة واحدة في MyQuickPaste، ثم افتح التطبيق واضغط فقط. الصقه في البريد الإلكتروني أو المحادثة أو الخرائط — أينما احتجته."
+  },
+  "clipboardCompare": {
+    "title": "ما الفرق عن حافظة Gboard",
+    "subtitle": "بالنسبة لنص نسخته للتو، يبقى Gboard أسرع. أما بالنسبة للنصوص التي تحتاجها يوميًا أو أسبوعيًا، فهذا التطبيق هو الخيار الأنسب.",
+    "clipboardTitle": "حافظة Gboard",
+    "clipboardTag": "سجل النسخ الأخير",
+    "clipboardItems": [
+      "اختر من لوحة المفاتيح والصق مباشرة — أسرع طريقة",
+      "يحفظ تلقائيًا ما نسخته مؤخرًا",
+      "العناصر غير المثبتة تختفي بعد حوالي 5 عناصر أو ساعة واحدة تقريبًا",
+      "سجل مختلط لا يناسب حفظ النصوص المفضلة بشكل منظم"
+    ],
+    "appTitle": "MyQuickPaste",
+    "appTag": "مكان ثابت لنصوصك الأساسية",
+    "appItems": [
+      "احفظ العناوين والتوقيعات والردود الجاهزة، كلٌ باسمه الخاص",
+      "ست فئات: نص حر، عبارات جاهزة، بريد إلكتروني، هاتف، عنوان، ملف شخصي",
+      "تبقى العناصر محفوظة حتى تحذفها بنفسك، دون اختفاء تلقائي كما في السجل",
+      "صُمم للعثور على النصوص الأكثر استخدامًا ونسخها مرارًا وتكرارًا بسرعة"
+    ],
+    "footer": "نسخت شيئًا قبل ساعات؟ عندها يكون Gboard مناسبًا. أما عنوان أو توقيع أو رد جاهز تستخدمه كل أسبوع؟ احفظه هنا مرة واحدة، ولن تضطر للبحث عنه مجددًا."
+  },
+  "steps": {
+    "title": "طريقة الاستخدام",
+    "subtitle": "احفظ، اضغط، الصق — 3 خطوات فقط.",
+    "items": [
+      {
+        "title": "Save what you reuse",
+        "text": "سجّل النصوص المعتادة وجهات الاتصال والمزيد."
+      },
+      {
+        "title": "Tap the row you need",
+        "text": "One tap copies the content to your clipboard."
+      },
+      {
+        "title": "Paste in another app",
+        "text": "Switch to mail, social, chat, maps, and paste."
+      }
+    ],
+    "titleLine1": "Save, tap,",
+    "titleLine2": "then paste."
+  },
+  "benefits": {
+    "title": "أكثر ما يعجب المستخدمين",
+    "items": [
+      {
+        "title": "سهل الاستخدام بيد واحدة",
+        "text": "صفوف كبيرة وتبويبات فئات وتخطيط عمودي — كل ذلك مصمم لاختيار ما تحتاجه بسرعة حتى وأنت في حركة.",
+        "icon": "📱"
+      },
+      {
+        "title": "سهل التصفح",
+        "text": "بدلاً من ملاحظة واحدة لا نهائية، احتفظ بالعبارات الجاهزة وجهات الاتصال وبطاقات الملف الشخصي في قوائم منفصلة.",
+        "icon": "🗂️"
+      },
+      {
+        "title": "الحفظ على جهازك فقط",
+        "text": "تبقى عباراتك الجاهزة وجهات اتصالك على هاتفك فقط. نحن لا نقدم أي خدمة مزامنة سحابية.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "الميزات الرئيسية",
+    "subtitle": "ميزات تجعل النسخ واللصق اليومي على هاتفك أسهل.",
+    "items": [
+      {
+        "title": "Copy with one tap",
+        "text": "Tap a row to copy its content to the clipboard.",
+        "icon": "tap",
+        "large": true
+      },
+      {
+        "title": "Organize by use",
+        "text": "نظّم حسب النص الحر والنصوص الجاهزة والبريد والهاتف والصور والملف الشخصي.",
+        "icon": "folder",
+        "large": true
+      },
+      {
+        "title": "Reorder favorites",
+        "text": "Move frequent items to the top so they’re easier to find.",
+        "icon": "sort"
+      },
+      {
+        "title": "Copy field by field",
+        "text": "Copy only the address, name, or phone number you need.",
+        "icon": "card"
+      },
+      {
+        "title": "Images ready to use",
+        "text": "Save logos or photos, then copy, share, or preview.",
+        "icon": "image"
+      },
+      {
+        "title": "Export and import",
+        "text": "صدّر النسخ الاحتياطية واستوردها عند الحاجة. متاح مع التجربة المجانية 30 يومًا وPro.",
+        "icon": "backup"
+      },
+      {
+        "title": "Choose a look",
+        "text": "فاتح وداكن، بالإضافة إلى سمات ألوان مميزة مع Pro.",
+        "icon": "theme"
+      },
+      {
+        "title": "Stays on device",
+        "text": "Your text and profiles are managed on the phone.",
+        "icon": "lock"
+      }
+    ],
+    "categoriesLabel": "الفئات: نص حر، نصوص جاهزة، بريد، هاتف، صور، ملف شخصي",
+    "categories": [
+      "نص حر",
+      "نصوص جاهزة",
+      "بريد",
+      "هاتف",
+      "صور",
+      "ملف شخصي"
+    ],
+    "titleLine1": "Simple,",
+    "titleLine2": "with the essentials."
+  },
+  "themesSection": {
+    "title": "14 سمة لونية",
+    "subtitle": "فاتح وداكن، بالإضافة إلى سمات ألوان مميزة مع Pro.",
+    "imageAlt": "شبكة من 14 سمة لـ MyQuickPaste: سبع سمات فاتحة في الأعلى وسبع داكنة في الأسفل.",
+    "caption": "الصف العلوي: 7 سمات فاتحة / الصف السفلي: 7 سمات داكنة",
+    "note": "السمات المميزة تتطلب شراء Pro.",
+    "titleLine1": "Match the look",
+    "titleLine2": "to where you use it."
+  },
+  "usecases": {
+    "title": "مثالي لـ",
+    "items": [
+      {
+        "title": "فرق المبيعات والعاملين الميدانيين",
+        "text": "انسخ العناوين وأرقام الهواتف والردود الجاهزة فورًا أثناء زيارة العملاء."
+      },
+      {
+        "title": "الموظفين الإداريين وخدمة العملاء",
+        "text": "احتفظ بالردود الجاهزة وبيانات الاتصال جاهزة دائمًا على هاتفك."
+      },
+      {
+        "title": "الاستخدام الشخصي",
+        "text": "احفظ عنوان منزلك وتوقيع بريدك الإلكتروني والعبارات التي تستخدمها كثيرًا في حياتك اليومية."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "الأسعار",
+    "subtitle": "لمدة 30 يومًا بعد التثبيت الأول، جرّب حدود حفظ أعلى والنسخ الاحتياطي مجانًا. بعد ذلك استمر في الخطة المجانية.",
+    "freeTitle": "مجاني",
+    "freePrice": "0",
+    "freeItems": [
+      "فئات النص: 10 لكل فئة",
+      "الصور: 10",
+      "الملفات الشخصية: 1",
+      "البحث",
+      "إعادة الترتيب",
+      "الحفظ السريع"
+    ],
+    "proTitle": "Pro (شراء لمرة واحدة)",
+    "proPrice": "راجع السعر في المتجر",
+    "proItems": [
+      "فئات النص: حتى 200 لكل فئة",
+      "الصور: 50",
+      "الملفات الشخصية: 30",
+      "تصدير/استيراد النسخ الاحتياطي",
+      "السمات المميزة",
+      "أسماء وأيقونات فئات مخصّصة"
+    ],
+    "note": "التطبيق نفسه مجاني للتحميل. أما Pro فهو إضافة تُشترى مرة واحدة عبر متجر التطبيقات، وقد يختلف السعر حسب المنطقة.",
+    "titleLine1": "جرّب لمدة 30 يومًا،",
+    "titleLine2": "وانعم بتجربة الاستخدام.",
+    "trialLabel": "التثبيت الأول فقط",
+    "trialTitle": "تجربة مجانية لمدة 30 يومًا",
+    "trialText": "فئات النص: حتى 200 لكل فئة · الصور: 50 · الملفات الشخصية: 30 · تصدير/استيراد النسخ الاحتياطي",
+    "trialNote": "السمات المميزة وتخصيص أسماء/أيقونات الفئات متاح بعد شراء Pro. بعد التجربة لا تُحذف بياناتك. البيانات فوق حدود الخطة المجانية تبقى وتصبح قابلة للاستخدام مجددًا عند شراء Pro.",
+    "freeLead": "الميزات الأساسية تبقى مجانية.",
+    "proTag": "شراء لمرة واحدة",
+    "proLead": "بدون رسوم شهرية.",
+    "notSub": "ليس اشتراكًا"
+  },
+  "privacySection": {
+    "title": "بياناتك تبقى على هاتفك",
+    "text": "النصوص والملفات الشخصية في MyQuickPaste تُدار على الجهاز. لا نرسل محتواك تلقائيًا إلى السحابة.",
+    "link": "اقرأ سياسة الخصوصية",
+    "titleLine1": "المهم يبقى",
+    "titleLine2": "في جهازك.",
+    "points": [
+      "No automatic cloud sync",
+      "لا يرسل المحتوى المحفوظ تلقائيًا إلى خوادم خارجية",
+      "Data stays managed on device",
+      "Pro lets you export your own backup"
+    ]
+  },
+  "cta": {
+    "title": "نصوصك اليومية، بنقرة واحدة.",
+    "lead": "احفظ، انقر، ثم الصق.",
+    "button": "تجربة مجانية 30 يومًا",
+    "titleLine1": "نصوصك اليومية،",
+    "titleLine2": "بنقرة واحدة.",
+    "sub": "لمدة 30 يومًا بعد التثبيت الأول، جرّب حدود حفظ أعلى والنسخ الاحتياطي مجانًا."
+  },
+  "footer": {
+    "pcEdition": "MyQuickPaste (إصدار الكمبيوتر)",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. جميع الحقوق محفوظة.",
+    "developer": "المطوّر: Kazuhiro Suda",
+    "contact": "Contact"
+  },
+  "supportPage": {
+    "title": "الدعم",
+    "lead": "مساعدة حول MyQuickPaste (إصدار الهاتف الذكي).",
+    "faqTitle": "الأسئلة الشائعة",
+    "items": [
+      {
+        "q": "هل هذا نفس تطبيق MyQuickPaste لأجهزة Windows؟",
+        "a": "لا. MyQuickPaste هو إصدار مستقل مخصص للهاتف الذكي. يشترك في نفس الفكرة، لكنه تطبيق مستقل ببياناته الخاصة وعملية شراء خاصة به في المتجر."
+      },
+      {
+        "q": "ما الفرق بين الإصدار المجاني وPro؟",
+        "a": "تتضمن الخطة المجانية 10 عناصر لكل فئة نص، و10 صور، وملفًا شخصيًا واحدًا. النسخ والإضافة والبحث وإعادة الترتيب والحفظ السريع متاحة. يضيف Pro حدودًا أعلى والنسخ الاحتياطي والسمات المميزة وتخصيص الفئات. التثبيت الجديد: 30 يومًا تجربة مجانية للحدود والنسخ الاحتياطي (السمات المميزة والتخصيص يتطلبان شراء Pro)."
+      },
+      {
+        "q": "كيف تعمل تجربة الـ30 يومًا؟",
+        "a": "لمدة 30 يومًا من أول تشغيل: حتى 200 عنصر لكل فئة نص، و50 صورة، و30 ملفًا شخصيًا، والنسخ الاحتياطي مجانًا. السمات المميزة والتخصيص يتطلبان Pro. لا تُحذف البيانات بعد التجربة."
+      },
+      {
+        "q": "أين تُحفظ بياناتي؟",
+        "a": "تُحفظ النصوص وبطاقات الملف الشخصي والإعدادات على جهازك فقط."
+      },
+      {
+        "q": "كيف أقوم بعمل نسخة احتياطية أو نقل بياناتي؟",
+        "a": "يمكن لمستخدمي Pro تصدير نسخة احتياطية بصيغة JSON من الإعدادات واستيرادها على جهاز آخر يعمل بتطبيق MyQuickPaste."
+      },
+      {
+        "q": "متى سيتوفر إصدار iPhone؟",
+        "a": "إصدار iOS قيد التحضير حاليًا. سيتم تحديث هذه الصفحة فور إطلاقه على App Store."
+      },
+      {
+        "q": "كيف أشتري Pro؟",
+        "a": "افتح شاشة الترقية داخل التطبيق أو صفحة إضافة Pro في المتجر. تتم معالجة الدفع بالكامل عبر Google Play أو App Store."
+      }
+    ],
+    "contactTitle": "تواصل معنا",
+    "contactText": "للإبلاغ عن مشكلة أو اقتراح ميزة جديدة، راسلنا عبر البريد الإلكتروني:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "سياسة الخصوصية",
+    "lead": "MyQuickPaste (إصدار الهاتف الذكي)",
+    "updated": "Last updated: July 2026",
+    "sections": [
+      {
+        "h": "Overview",
+        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+      },
+      {
+        "h": "Information we do not collect",
+        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+      },
+      {
+        "h": "Local storage",
+        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+      },
+      {
+        "h": "Security",
+        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+      },
+      {
+        "h": "Clipboard access",
+        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+      },
+      {
+        "h": "Data retention and deletion",
+        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+      },
+      {
+        "h": "App stores and purchases",
+        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+      },
+      {
+        "h": "Contact",
+        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "ملاحظات الإصدار",
+    "lead": "سجل إصدارات MyQuickPaste.",
+    "latestPrefix": "أحدث إصدار:",
+    "storeNote": "يتم توزيع التحديثات عبر Google Play (وستُوزّع أيضًا عبر App Store بعد إطلاقه).",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "الإصدار الأول (Android)",
+        "items": [
+          "قوائم حسب الفئة: نص حر، عبارات جاهزة، بريد إلكتروني، هاتف، عنوان، ملف شخصي",
+          "النسخ بلمسة واحدة والمعاينة بالضغط المطوّل",
+          "بطاقات ملف شخصي مع إمكانية نسخ كل حقل على حدة",
+          "وضع إعادة الترتيب للقوائم والملفات الشخصية",
+          "الخطة المجانية + تجربة مجانية 30 يومًا (حدود أعلى ونسخ احتياطي)",
+          "تصدير واستيراد JSON (Pro)",
+          "سمات فاتحة وداكنة؛ سمات مميزة مع Pro",
+          "إعدادات لتأكيد النسخ وفئة البدء والنسخ الاحتياطي"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "شاهد التطبيق أثناء العمل",
+    "subtitle": "لقطات شاشة حقيقية من MyQuickPaste على Android.",
+    "freetextAlt": "قائمة نصوص حرة مع عبارات محفوظة ونسخ بلمسة واحدة",
+    "snippetsAlt": "فئة العبارات الجاهزة مع قوالب ردود البريد الإلكتروني",
+    "profileAlt": "بطاقات ملف شخصي لجهات اتصال المنزل والعمل",
+    "profileEditAlt": "شاشة تعديل الملف الشخصي مع حقول العنوان وجهة الاتصال",
+    "cateAlt": "ست تبويبات للفئات: نص حر، عبارات جاهزة، بريد إلكتروني، هاتف، عنوان، ملف شخصي",
+    "items": [
+      {
+        "caption": "نص حر — التوقيعات والروابط وبيانات الحساب بنظرة"
+      },
+      {
+        "caption": "مقتطفات — ردود جاهزة للبريد والدردشة"
+      },
+      {
+        "caption": "صور — شعارات وصور ولقطات جاهزة للنسخ"
+      },
+      {
+        "caption": "الملف الشخصي — انسخ العنوان أو الهاتف أو الكل بلمسة"
+      },
+      {
+        "caption": "تعديل الملف — بطاقات المنزل والعمل والعملاء منفصلة"
+      },
+      {
+        "caption": "علامات الفئات — بدّل بين ست قوائم فورًا"
+      }
+    ],
+    "imagesAlt": "فئة الصور مع أمثلة جاهزة للنسخ أو المشاركة",
+    "titleLine1": "Clear enough",
+    "titleLine2": "to use right away.",
+    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
+    "freetextCap": "Manage reusable text in one list",
+    "snippetsCap": "Copy your usual replies fast",
+    "imagesCap": "Save, copy, and share images",
+    "profileCap": "Copy address or contact fields one by one",
+    "profileEditCap": "Register the details you need together"
+  },
+  "trust": {
+    "t1Title": "انقر للنسخ",
+    "t1Text": "فقط انقر على الصف المحفوظ.",
+    "t2Title": "Pro دفعة واحدة",
+    "t2Text": "لا مدفوعات شهرية.",
+    "t3Title": "محفوظ على الجهاز",
+    "t3Text": "المحتوى المسجّل يُدار على الجهاز.",
+    "t4Title": "واجهة بـ 21 لغة",
+    "t4Text": "شاشات التطبيق بـ 21 لغة."
+  },
+  "pain": {
+    "titleLine1": "كف عن التساؤل",
+    "titleLine2": "«أين كان؟» في كل مرة.",
+    "lead": "نفس المعلومات—لكن في كل مرة تبحث في الملاحظات، أو تعيد التحديد بالضغط المطول، أو تعيد كتابة النفس النص. خطوات صغيرة تتراكم يومًا بعد يوم.",
+    "p1Title": "البحث",
+    "p1Text": "العنوان أو النص الجاهز—لا تعرف في أي ملاحظة.",
+    "p2Title": "التحديد",
+    "p2Text": "ضغطة مطولة لاختيار الجزء الذي تحتاجه فقط.",
+    "p3Title": "الكتابة مجددًا",
+    "p3Text": "تعيد كتابة نفس الرد أو الملف الشخصي مرارًا.",
+    "resolveLine1": "With MyQuickPaste,",
+    "resolveLine2": "one tap from the list.",
+    "resolveSub": "لا تبحث. لا تعِد الكتابة. فقط انقر الصف الذي تحتاجه.",
+    "flowOldLabel": "Typical flow",
+    "flowOld1": "Search",
+    "flowOld2": "Select",
+    "flowOld3": "Copy",
+    "flowNewLabel": "MyQuickPaste",
+    "flowNew1": "Tap",
+    "flowNew2": "Copy"
+  },
+  "sceneSocial": {
+    "eyebrow": "للتواصل الاجتماعي أيضًا",
+    "titleLine1": "الرموز التعبيرية والوسوم—",
+    "titleLine2": "انسخها عند الحاجة.",
+    "lead": "احفظ الرموز التعبيرية والوسوم ونصوص المنشورات المفضلة. انقر للنسخ ثم الصق في تطبيقاتك الاجتماعية المعتادة.",
+    "points": [
+      {
+        "title": "رموز تعبيرية",
+        "text": "احفظ المفضلة",
+        "icon": "heart"
+      },
+      {
+        "title": "منشورات",
+        "text": "احفظ النصوص المعتادة",
+        "icon": "camera"
+      },
+      {
+        "title": "وسوم",
+        "text": "انسخ دفعة واحدة",
+        "icon": "tag"
+      },
+      {
+        "title": "نسخ سريع",
+        "text": "نقرة واحدة عند الحاجة",
+        "icon": "clock"
+      }
+    ]
+  },
+  "sceneWork": {
+    "eyebrow": "في العمل أيضًا",
+    "titleLine1": "النصوص الجاهزة وجهات الاتصال—",
+    "titleLine2": "انسخها عند الحاجة.",
+    "lead": "النصوص الجاهزة والبريد الإلكتروني وأرقام الهاتف والروابط ومعلومات أخرى متكررة في مكان واحد. انقر صفًا للنسخ فورًا.",
+    "points": [
+      {
+        "title": "نصوص جاهزة",
+        "text": "ردودك المعتادة",
+        "icon": "doc"
+      },
+      {
+        "title": "بريد",
+        "text": "احفظ التوقيعات والإشعارات",
+        "icon": "mail"
+      },
+      {
+        "title": "جهات اتصال",
+        "text": "انسخ الأرقام بسرعة",
+        "icon": "phone"
+      },
+      {
+        "title": "Quick copy",
+        "text": "Done in one tap",
+        "icon": "zap"
+      }
+    ]
+  },
+  "sceneDaily": {
+    "eyebrow": "في الحياة اليومية",
+    "titleLine1": "العنوان والملف الشخصي—",
+    "titleLine2": "انسخهما عند الحاجة.",
+    "lead": "عنوان المنزل، البريد، نبذة الملف الشخصي، العبارات المفضلة. انقر وانسخ فورًا عند الحاجة.",
+    "points": [
+      {
+        "title": "Address",
+        "text": "Less retyping",
+        "icon": "home"
+      },
+      {
+        "title": "Profile",
+        "text": "Save your intro",
+        "icon": "user"
+      },
+      {
+        "title": "Go-to phrases",
+        "text": "Reuse anytime",
+        "icon": "note"
+      },
+      {
+        "title": "Find fast",
+        "text": "Stay organized",
+        "icon": "search"
+      }
+    ]
+  },
+  "comparison": {
+    "titleLine1": "Not just temporary copies—",
+    "titleLine2": "a home for what you reuse.",
+    "otherLabel": "Notes or clipboard history",
+    "other1": "Open",
+    "other2": "Search",
+    "other3": "Select what you need",
+    "other4": "Copy",
+    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "appLabel": "MyQuickPaste",
+    "app1": "Open",
+    "app2": "Tap a row",
+    "app3": "Copied",
+    "appText": "نظّم واحفظ بوضوح النصوص والمعلومات التي تكررها."
+  },
+  "faq": {
+    "title": "الأسئلة الشائعة",
+    "items": [
+      {
+        "q": "Does a tap paste into another app automatically?",
+        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+      },
+      {
+        "q": "Where is my data stored?",
+        "a": "Text, profiles, and settings are stored on your smartphone."
+      },
+      {
+        "q": "Do I lose the app after the 30-day trial?",
+        "a": "لا. بعد التجربة يمكنك الاستمرار في الخطة المجانية. بياناتك المحفوظة لا تُحذف. البيانات فوق حدود الخطة المجانية تبقى وتصبح قابلة للاستخدام مجددًا عند شراء Pro."
+      },
+      {
+        "q": "Is Pro a monthly subscription?",
+        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+      },
+      {
+        "q": "Can I share data with the Windows edition?",
+        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+      },
+      {
+        "q": "Can I move data when I change phones?",
+        "a": "صدّر النسخ الاحتياطية واستوردها عند الحاجة. متاح مع التجربة المجانية 30 يومًا وPro."
+      }
+    ]
+  },
+  "windowsEdition": {
+    "titleLine1": "MyQuickPaste",
+    "titleLine2": "on Windows too.",
+    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
+    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
+    "link": "Windows edition homepage"
+  },
+  "sceneMore": {
+    "titleLine1": "مفيد في هذه المواقف أيضًا.",
+    "titleLine2": "",
+    "lead": "السفر، تطبيقات البيع، الدردشة، تنظيم الفعاليات—انسخ نصك المفضل بنقرة واحدة في أي موقف.",
+    "cap3": "نصوص الإعلانات فورًا",
+    "cap4": "ردود الدردشة فورًا",
+    "cap6": "رسائل المنظم فورًا"
+  }
+}

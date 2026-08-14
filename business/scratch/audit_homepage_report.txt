@@ -1,0 +1,138 @@
+Homepage i18n audit
+JSON syntax OK: 21/21
+TOTAL EN-identical: 94
+
+
+ja (6):
+  pricing.proTitle
+  footer.copyright
+  comparison.appLabel
+  pricing.freePrice
+  brand.name
+  pain.flowNewLabel
+
+fr (6):
+  footer.contact
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+  features.titleLine1
+
+de (5):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  nav.support
+  pain.flowNewLabel
+
+zh (5):
+  windowsEdition.titleLine1
+  footer.copyright
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+zh_TW (5):
+  windowsEdition.titleLine1
+  footer.copyright
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+ko (5):
+  windowsEdition.titleLine1
+  footer.copyright
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+ru (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+it (5):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  nav.privacy
+  pain.flowNewLabel
+
+es (5):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+  features.titleLine1
+
+pt (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+hi (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+ar (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+id (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+th (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+vi (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+tr (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+uk (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+nl (7):
+  footer.contact
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  nav.support
+  nav.privacy
+  pain.flowNewLabel
+
+pl (4):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  pain.flowNewLabel
+
+sv (5):
+  windowsEdition.titleLine1
+  comparison.appLabel
+  brand.name
+  nav.support
+  pain.flowNewLabel

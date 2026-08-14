@@ -1,0 +1,743 @@
+{
+  "fr": {
+    "title": "Politique de confidentialité",
+    "lead": "MyQuickPaste (édition smartphone)",
+    "updated": "Dernière mise à jour : 14 août 2026",
+    "sections": [
+      {
+        "h": "Présentation",
+        "p": "MyQuickPaste est une application pour smartphone fournie par Good Rabbit inc. (ci-après « nous »). La présente politique explique comment MyQuickPaste traite les informations sur votre appareil."
+      },
+      {
+        "h": "Collecte des données par nos soins",
+        "p": "MyQuickPaste ne comporte aucun processus qui collecte, transmet ou stocke sur des serveurs que nous exploitons les textes libres, modèles de texte, adresses e-mail, numéros de téléphone, profils, images ou contenus du presse-papiers que vous utilisez dans l’application. Ces contenus sont traités sur votre appareil afin de fournir les fonctionnalités de l’application. Toutefois, lorsque vous utilisez explicitement une fonction de partage, lorsque la sauvegarde Android s’exécute ou lorsque vous utilisez des services de boutique tels que Google Play, les données sont traitées selon les mécanismes et politiques du système d’exploitation ou du service concerné."
+      },
+      {
+        "h": "Stockage sur l’appareil et sauvegarde Android",
+        "p": "Les contenus saisis, catégories, profils, paramètres de l’application et images enregistrées sont stockés dans l’espace de stockage privé de l’application sur votre appareil. Les images enregistrées sont copiées dans cet espace privé. Sur Android, si la fonction de sauvegarde du système d’exploitation est activée, certaines données de l’application peuvent être sauvegardées dans l’espace de sauvegarde associé à votre compte Google et restaurées depuis celui-ci. Selon les règles de sauvegarde actuelles de l’application, les fichiers d’images enregistrées sont exclus de la sauvegarde dans le cloud. Lors d’un transfert entre appareils, des données peuvent être transférées au moyen des fonctions du système d’exploitation."
+      },
+      {
+        "h": "Sécurité",
+        "p": "Les données enregistrées sont stockées dans un espace privé de l’application protégé par le système d’exploitation. Nous n’exploitons pas de serveur propre destiné à stocker vos contenus enregistrés. La sécurité de l’appareil lui-même, des sauvegardes du système d’exploitation et des fichiers de sauvegarde que vous exportez dépend de la sécurité et de la gestion de l’appareil, du service concerné et de l’espace de stockage contrôlé par l’utilisateur."
+      },
+      {
+        "h": "Accès au presse-papiers",
+        "p": "Afin d’afficher des aperçus sur l’écran principal et de fournir les fonctions associées, MyQuickPaste peut lire les textes ou images actuellement enregistrés dans le presse-papiers de votre appareil. Le contenu du presse-papiers est traité sur l’appareil et n’est pas automatiquement conservé de manière permanente, sauf si vous l’enregistrez explicitement. L’application peut créer un fichier cache temporaire pour afficher un aperçu des images du presse-papiers. MyQuickPaste ne comporte aucun processus qui envoie le contenu du presse-papiers à des serveurs que nous exploitons."
+      },
+      {
+        "h": "Conservation, suppression et sauvegardes des données",
+        "p": "Les données enregistrées restent dans l’espace de stockage de l’application sur votre appareil jusqu’à ce que vous les supprimiez dans l’application ou que vous désinstalliez l’application. La désinstallation supprime les données locales de l’application de l’appareil, mais des copies peuvent rester séparément dans les sauvegardes du système Android ou dans des fichiers de sauvegarde que vous avez exportés et conservés. Pendant l’essai gratuit de 30 jours et avec Pro, vous pouvez exporter et importer les données sous forme de fichier de sauvegarde MyQuickPaste (.mqp). Vous choisissez l’emplacement d’enregistrement du fichier exporté et vous êtes responsable de la gestion et de la suppression des fichiers de sauvegarde exportés."
+      },
+      {
+        "h": "Boutiques d’applications, achats et services externes",
+        "p": "L’essai gratuit de 30 jours est géré dans l’application à partir de l’heure de l’installation initiale. La distribution de l’édition Android et les achats Pro sont traités via Google Play, et Google Play Billing est utilisé pour vérifier les achats. Pro est un achat intégré unique et non un abonnement. Nous ne recevons pas directement les numéros de carte bancaire ni d’autres données de carte de paiement. L’application n’utilise aucun SDK tiers à des fins d’analyse ou de publicité. Lorsque vous utilisez les fonctions d’achat ou d’avis de Google Play, ou des fonctions externes que vous choisissez telles que le partage, l’e-mail ou un navigateur web, les politiques de confidentialité et conditions des services concernés s’appliquent. L’édition iOS est actuellement en cours de développement et la présente politique sera mise à jour si nécessaire lorsque sa distribution et son système d’achat seront finalisés."
+      },
+      {
+        "h": "Contact",
+        "p": "Pour toute question concernant la présente politique, veuillez nous contacter à l’adresse myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "de": {
+    "title": "Datenschutzerklärung",
+    "lead": "MyQuickPaste (Smartphone-Edition)",
+    "updated": "Letzte Aktualisierung: 14. August 2026",
+    "sections": [
+      {
+        "h": "Überblick",
+        "p": "MyQuickPaste ist eine von Good Rabbit inc. („wir“ bzw. „uns“) bereitgestellte Smartphone-App. Diese Datenschutzerklärung erläutert, wie MyQuickPaste Informationen auf Ihrem Gerät verarbeitet."
+      },
+      {
+        "h": "Datenerhebung durch uns",
+        "p": "MyQuickPaste enthält keinen Prozess, der von Ihnen in der App verwendete Freitexte, Textbausteine, E-Mail-Adressen, Telefonnummern, Profile, Bilder oder Inhalte der Zwischenablage erfasst, überträgt oder auf von uns betriebenen Servern speichert. Diese Inhalte werden auf Ihrem Gerät verarbeitet, um die Funktionen der App bereitzustellen. Wenn Sie jedoch ausdrücklich eine Teilen-Funktion verwenden, die Android-Sicherung ausgeführt wird oder Sie Store-Dienste wie Google Play nutzen, werden Daten entsprechend den Mechanismen und Richtlinien des jeweiligen Betriebssystems oder Dienstes verarbeitet."
+      },
+      {
+        "h": "Speicherung auf dem Gerät und Android-Sicherung",
+        "p": "Eingegebene Inhalte, Kategorien, Profile, App-Einstellungen und registrierte Bilder werden im privaten App-Speicherbereich auf Ihrem Gerät gespeichert. Registrierte Bilder werden in diesen privaten App-Speicher kopiert. Wenn unter Android die Sicherungsfunktion des Betriebssystems aktiviert ist, können bestimmte App-Daten in dem mit Ihrem Google-Konto verknüpften Sicherungsspeicher gesichert und daraus wiederhergestellt werden. Nach den derzeitigen Sicherungsregeln der App sind registrierte Bilddateien von der Cloud-Sicherung ausgeschlossen. Bei der Übertragung zwischen Geräten können Daten über Funktionen des Betriebssystems übertragen werden."
+      },
+      {
+        "h": "Sicherheit",
+        "p": "Gespeicherte Daten werden in einem vom Betriebssystem geschützten privaten App-Bereich abgelegt. Wir betreiben keinen eigenen Server zur Speicherung Ihrer registrierten Inhalte. Die Sicherheit des Geräts selbst, von Betriebssystem-Sicherungen und von Ihnen exportierten Sicherungsdateien hängt von der Sicherheit und Verwaltung des jeweiligen Geräts, Dienstes und des vom Nutzer verwalteten Speicherorts ab."
+      },
+      {
+        "h": "Zugriff auf die Zwischenablage",
+        "p": "Zur Anzeige von Vorschauen auf dem Hauptbildschirm und für damit verbundene Funktionen kann MyQuickPaste Texte oder Bilder lesen, die sich aktuell in der Zwischenablage Ihres Geräts befinden. Inhalte der Zwischenablage werden auf dem Gerät verarbeitet und nicht automatisch dauerhaft gespeichert, sofern Sie sie nicht ausdrücklich registrieren. Für die Vorschau von Bildern aus der Zwischenablage kann die App eine temporäre Cache-Datei erstellen. MyQuickPaste enthält keinen Prozess, der Inhalte der Zwischenablage an von uns betriebene Server sendet."
+      },
+      {
+        "h": "Datenaufbewahrung, Löschung und Sicherungen",
+        "p": "Gespeicherte Daten verbleiben im App-Speicherbereich auf Ihrem Gerät, bis Sie sie in der App löschen oder die App deinstallieren. Durch die Deinstallation werden die lokalen App-Daten vom Gerät entfernt; Kopien können jedoch separat in Android-Betriebssystem-Sicherungen oder in von Ihnen exportierten und aufbewahrten Sicherungsdateien verbleiben. Während der 30-tägigen kostenlosen Testphase und mit Pro können Sie Daten als MyQuickPaste-Sicherungsdatei (.mqp) exportieren und importieren. Sie wählen den Speicherort der exportierten Datei und sind selbst für die Verwaltung und Löschung exportierter Sicherungsdateien verantwortlich."
+      },
+      {
+        "h": "App-Stores, Käufe und externe Dienste",
+        "p": "Die 30-tägige kostenlose Testphase wird in der App anhand des Zeitpunkts der Erstinstallation verwaltet. Die Bereitstellung der Android-Edition und Pro-Käufe werden über Google Play abgewickelt; zur Überprüfung von Käufen wird Google Play Billing verwendet. Pro ist ein einmaliger In-App-Kauf und kein Abonnement. Wir erhalten Kreditkartennummern oder andere Zahlungskartendaten nicht direkt. Die App verwendet keine Drittanbieter-SDKs für Analyse- oder Werbezwecke. Wenn Sie Kauf- oder Bewertungsfunktionen von Google Play oder von Ihnen gewählte externe Funktionen wie Teilen, E-Mail oder einen Webbrowser nutzen, gelten die Datenschutzrichtlinien und Bedingungen der jeweiligen Dienste. Die iOS-Edition befindet sich derzeit in Entwicklung. Diese Datenschutzerklärung wird bei Bedarf aktualisiert, sobald deren Bereitstellung und Kaufabwicklung finalisiert sind."
+      },
+      {
+        "h": "Kontakt",
+        "p": "Wenn Sie Fragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte unter myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "zh": {
+    "title": "隐私政策",
+    "lead": "MyQuickPaste（手机版）",
+    "updated": "最后更新：2026年8月14日",
+    "sections": [
+      {
+        "h": "概述",
+        "p": "MyQuickPaste 是由 Good Rabbit inc.（以下简称“我们”）提供的智能手机应用。本政策说明 MyQuickPaste 如何处理您设备上的信息。"
+      },
+      {
+        "h": "我们收集的数据",
+        "p": "MyQuickPaste 不包含将您在应用中使用的自由文本、常用语、电子邮件地址、电话号码、个人资料、图片或剪贴板内容收集、传输或存储到我们运营的服务器上的处理。这些内容仅在您的设备上处理，以提供应用功能。但是，当您主动使用分享功能、Android 备份功能运行，或使用 Google Play 等应用商店服务时，相关数据将按照相应操作系统或服务的机制和政策进行处理。"
+      },
+      {
+        "h": "设备内存储与 Android 备份",
+        "p": "您输入的内容、分类、个人资料、应用设置和已注册图片均存储在设备上的应用专用私有存储区域。已注册图片会复制并保存到该私有存储区域。在 Android 上，如果启用了操作系统的备份功能，部分应用数据可能会备份到与您的 Google 账号关联的备份存储空间，并可从中恢复。根据应用当前的备份规则，已注册的图片文件不包含在云端备份中。在设备间迁移时，数据可能会通过操作系统提供的功能进行传输。"
+      },
+      {
+        "h": "安全性",
+        "p": "已保存的数据存储在受操作系统保护的应用专用私有区域中。我们不运营用于存储您所注册内容的自有服务器。设备本身、操作系统备份以及您导出的备份文件的安全性，取决于相关设备、服务以及由您控制的存储位置的安全与管理状况。"
+      },
+      {
+        "h": "剪贴板访问",
+        "p": "为了在主界面显示预览并提供相关功能，MyQuickPaste 可能会读取当前保存在您设备剪贴板中的文本或图片。剪贴板内容仅在设备上处理，除非您主动将其注册，否则不会自动永久保存。为了预览剪贴板中的图片，应用可能会创建临时缓存文件。MyQuickPaste 不包含将剪贴板内容发送到我们运营的服务器上的处理。"
+      },
+      {
+        "h": "数据保留、删除与备份",
+        "p": "已保存的数据会保留在您设备上的应用存储区域中，直到您在应用内将其删除或卸载应用。卸载应用会删除设备上的本地应用数据，但副本可能仍单独保存在 Android 操作系统备份中，或保存在您已导出并自行保留的备份文件中。在30天免费体验期间以及使用 Pro 时，您可以将数据导出和导入为 MyQuickPaste 备份文件（.mqp）。导出文件的保存位置由您自行选择，导出的备份文件也由您自行管理和删除。"
+      },
+      {
+        "h": "应用商店、购买与外部服务",
+        "p": "30天免费体验以首次安装时间为基准，由应用内部管理。Android 版的分发和 Pro 购买通过 Google Play 处理，并使用 Google Play Billing 验证购买。Pro 为一次性应用内购买，并非订阅。我们不会直接获取信用卡号码或其他支付卡信息。应用不使用第三方分析或广告 SDK。当您使用 Google Play 的购买或评价功能，或主动使用分享、电子邮件、网页浏览器等外部功能时，将适用相应服务的隐私政策和条款。iOS 版目前仍在开发中，其分发和购买实现最终确定后，我们将根据需要更新本政策。"
+      },
+      {
+        "h": "联系我们",
+        "p": "如果您对本政策有任何疑问，请通过 myquickpaste@hotmail.com 与我们联系。"
+      }
+    ]
+  },
+  "zh_TW": {
+    "title": "隱私權政策",
+    "lead": "MyQuickPaste（智慧型手機版）",
+    "updated": "最後更新：2026年8月14日",
+    "sections": [
+      {
+        "h": "概述",
+        "p": "MyQuickPaste 是由 Good Rabbit inc.（以下簡稱「我們」）提供的智慧型手機應用程式。本政策說明 MyQuickPaste 如何處理您裝置上的資訊。"
+      },
+      {
+        "h": "我們收集的資料",
+        "p": "MyQuickPaste 不包含將您在應用程式中使用的自由文字、常用語、電子郵件地址、電話號碼、個人資料、圖片或剪貼簿內容收集、傳送或儲存到我們營運的伺服器上的處理。這些內容僅在您的裝置上處理，以提供應用程式功能。不過，當您主動使用分享功能、Android 備份功能執行，或使用 Google Play 等應用程式商店服務時，相關資料將依照相應作業系統或服務的機制與政策處理。"
+      },
+      {
+        "h": "裝置內儲存與 Android 備份",
+        "p": "您輸入的內容、分類、個人資料、應用程式設定及已註冊圖片，都會儲存在裝置上的應用程式專用私有儲存空間。已註冊圖片會複製並儲存到該私有空間。在 Android 上，若作業系統的備份功能已啟用，部分應用程式資料可能會備份到與您的 Google 帳戶相關聯的備份儲存空間，並可從中還原。依照應用程式目前的備份規則，已註冊圖片檔案不包含在雲端備份中。進行裝置間移轉時，資料可能透過作業系統提供的功能進行傳輸。"
+      },
+      {
+        "h": "安全性",
+        "p": "已儲存的資料會存放在受作業系統保護的應用程式專用私有區域。我們不營運用於儲存您所註冊內容的自有伺服器。裝置本身、作業系統備份及您匯出的備份檔案之安全性，取決於相關裝置、服務以及由您管理的儲存位置之安全與管理狀況。"
+      },
+      {
+        "h": "剪貼簿存取",
+        "p": "為了在主畫面顯示預覽並提供相關功能，MyQuickPaste 可能會讀取目前儲存在您裝置剪貼簿中的文字或圖片。剪貼簿內容僅在裝置上處理，除非您主動註冊，否則不會自動永久儲存。為了預覽剪貼簿中的圖片，應用程式可能會建立暫時的快取檔案。MyQuickPaste 不包含將剪貼簿內容傳送到我們營運的伺服器上的處理。"
+      },
+      {
+        "h": "資料保留、刪除與備份",
+        "p": "已儲存的資料會保留在您裝置上的應用程式儲存區域，直到您在應用程式內刪除資料或解除安裝應用程式。解除安裝會刪除裝置上的本機應用程式資料，但副本可能仍另外保留在 Android 作業系統備份中，或保留在您已匯出並自行保存的備份檔案中。在30天免費體驗期間以及使用 Pro 時，您可以將資料匯出或匯入為 MyQuickPaste 備份檔案（.mqp）。匯出檔案的儲存位置由您自行選擇，匯出的備份檔案也由您自行管理與刪除。"
+      },
+      {
+        "h": "應用程式商店、購買與外部服務",
+        "p": "30天免費體驗以首次安裝時間為基準，由應用程式內部管理。Android 版的發佈與 Pro 購買透過 Google Play 處理，並使用 Google Play Billing 驗證購買。Pro 為一次性應用程式內購買，並非訂閱。我們不會直接取得信用卡號碼或其他付款卡資訊。應用程式不使用第三方分析或廣告 SDK。當您使用 Google Play 的購買或評論功能，或主動使用分享、電子郵件、網頁瀏覽器等外部功能時，將適用相應服務的隱私權政策與條款。iOS 版目前仍在開發中，其發佈與購買實作最終確定後，我們將視需要更新本政策。"
+      },
+      {
+        "h": "聯絡我們",
+        "p": "如對本政策有任何疑問，請透過 myquickpaste@hotmail.com 與我們聯絡。"
+      }
+    ]
+  },
+  "ko": {
+    "title": "개인정보 처리방침",
+    "lead": "MyQuickPaste(스마트폰 버전)",
+    "updated": "최종 업데이트: 2026년 8월 14일",
+    "sections": [
+      {
+        "h": "개요",
+        "p": "MyQuickPaste는 Good Rabbit inc.(이하 “당사”)가 제공하는 스마트폰 앱입니다. 본 방침은 MyQuickPaste가 사용자의 기기에서 정보를 어떻게 처리하는지 설명합니다."
+      },
+      {
+        "h": "당사의 데이터 수집",
+        "p": "MyQuickPaste에는 사용자가 앱에서 이용하는 자유 텍스트, 상용구, 이메일 주소, 전화번호, 프로필, 이미지 또는 클립보드 내용을 당사가 운영하는 서버로 수집·전송·저장하는 처리가 포함되어 있지 않습니다. 이러한 내용은 앱 기능을 제공하기 위해 사용자의 기기에서 처리됩니다. 다만 사용자가 직접 공유 기능을 실행하거나 Android 백업이 작동하거나 Google Play와 같은 스토어 서비스를 이용하는 경우에는 해당 운영체제 또는 서비스의 방식과 정책에 따라 데이터가 처리됩니다."
+      },
+      {
+        "h": "기기 내 저장 및 Android 백업",
+        "p": "입력한 내용, 카테고리, 프로필, 앱 설정 및 등록 이미지는 기기의 앱 전용 비공개 저장 영역에 저장됩니다. 등록 이미지는 해당 앱 전용 저장 영역으로 복사되어 저장됩니다. Android에서 운영체제의 백업 기능이 활성화되어 있는 경우 일부 앱 데이터가 사용자의 Google 계정과 연결된 백업 저장소에 백업되거나 그곳에서 복원될 수 있습니다. 현재 앱의 백업 규칙상 등록 이미지 파일은 클라우드 백업 대상에서 제외됩니다. 기기 간 이전 시에는 운영체제 기능을 통해 데이터가 이전될 수 있습니다."
+      },
+      {
+        "h": "보안",
+        "p": "저장된 데이터는 운영체제가 보호하는 앱 전용 비공개 영역에 저장됩니다. 당사는 사용자가 등록한 내용을 보관하기 위한 자체 서버를 운영하지 않습니다. 다만 기기 자체의 보안, 운영체제 백업, 사용자가 내보낸 백업 파일의 보안은 해당 기기·서비스 및 사용자가 관리하는 저장 위치의 보안과 관리 상태에 따라 달라집니다."
+      },
+      {
+        "h": "클립보드 접근",
+        "p": "메인 화면의 미리보기 표시 및 관련 기능 제공을 위해 MyQuickPaste는 현재 기기의 클립보드에 저장된 텍스트 또는 이미지를 읽을 수 있습니다. 클립보드 내용은 기기에서 처리되며, 사용자가 명시적으로 등록하지 않는 한 자동으로 영구 저장되지 않습니다. 클립보드 이미지 미리보기를 위해 앱이 임시 캐시 파일을 생성할 수 있습니다. MyQuickPaste에는 클립보드 내용을 당사가 운영하는 서버로 전송하는 처리가 포함되어 있지 않습니다."
+      },
+      {
+        "h": "데이터 보관, 삭제 및 백업",
+        "p": "저장된 데이터는 사용자가 앱에서 삭제하거나 앱을 제거할 때까지 기기의 앱 저장 영역에 보관됩니다. 앱을 제거하면 기기의 로컬 앱 데이터는 삭제되지만 Android 운영체제 백업 또는 사용자가 내보내 보관한 백업 파일에는 별도의 사본이 남아 있을 수 있습니다. 30일 무료 체험 기간 및 Pro에서는 데이터를 MyQuickPaste 백업 파일(.mqp)로 내보내고 가져올 수 있습니다. 내보낸 파일의 저장 위치는 사용자가 선택하며, 내보낸 백업 파일의 관리와 삭제도 사용자가 직접 담당합니다."
+      },
+      {
+        "h": "앱 스토어, 구매 및 외부 서비스",
+        "p": "30일 무료 체험은 최초 설치 시간을 기준으로 앱 내부에서 관리됩니다. Android 버전 배포 및 Pro 구매는 Google Play를 통해 처리되며 구매 확인에는 Google Play Billing이 사용됩니다. Pro는 일회성 인앱 구매이며 구독이 아닙니다. 당사는 신용카드 번호 등 결제 카드 정보를 직접 수신하지 않습니다. 앱은 분석 또는 광고 목적의 타사 SDK를 사용하지 않습니다. Google Play의 구매 또는 리뷰 기능이나 사용자가 선택한 공유, 이메일, 웹 브라우저 등의 외부 기능을 이용하는 경우에는 해당 서비스의 개인정보 처리방침 및 약관이 적용됩니다. iOS 버전은 현재 개발 중이며 배포 및 구매 구현이 확정되면 필요에 따라 본 방침을 업데이트합니다."
+      },
+      {
+        "h": "문의",
+        "p": "본 방침에 관한 문의는 myquickpaste@hotmail.com 으로 연락해 주세요."
+      }
+    ]
+  },
+  "ru": {
+    "title": "Политика конфиденциальности",
+    "lead": "MyQuickPaste (версия для смартфонов)",
+    "updated": "Последнее обновление: 14 августа 2026 г.",
+    "sections": [
+      {
+        "h": "Общие сведения",
+        "p": "MyQuickPaste — приложение для смартфонов, предоставляемое Good Rabbit inc. («мы»). Настоящая политика объясняет, как MyQuickPaste обрабатывает информацию на вашем устройстве."
+      },
+      {
+        "h": "Сбор данных нами",
+        "p": "MyQuickPaste не содержит процессов, которые собирают, передают или сохраняют на серверах, управляемых нами, свободный текст, шаблоны, адреса электронной почты, номера телефонов, профили, изображения или содержимое буфера обмена, используемые вами в приложении. Эти данные обрабатываются на вашем устройстве для предоставления функций приложения. Однако если вы явно используете функцию общего доступа, срабатывает резервное копирование Android либо вы используете сервисы магазина, например Google Play, данные обрабатываются в соответствии с механизмами и политиками соответствующей операционной системы или сервиса."
+      },
+      {
+        "h": "Хранение на устройстве и резервное копирование Android",
+        "p": "Введённые данные, категории, профили, настройки приложения и зарегистрированные изображения хранятся в закрытой области хранения приложения на вашем устройстве. Зарегистрированные изображения копируются в эту закрытую область приложения. На Android, если включена функция резервного копирования операционной системы, некоторые данные приложения могут сохраняться в резервном хранилище, связанном с вашей учётной записью Google, и восстанавливаться из него. Согласно текущим правилам резервного копирования приложения, файлы зарегистрированных изображений исключены из облачного резервного копирования. При переносе между устройствами данные могут передаваться средствами операционной системы."
+      },
+      {
+        "h": "Безопасность",
+        "p": "Сохранённые данные размещаются в закрытой области приложения, защищённой операционной системой. Мы не используем собственный сервер для хранения зарегистрированного вами содержимого. Безопасность самого устройства, резервных копий операционной системы и экспортированных вами файлов резервных копий зависит от безопасности и управления соответствующим устройством, сервисом и хранилищем, контролируемым пользователем."
+      },
+      {
+        "h": "Доступ к буферу обмена",
+        "p": "Для отображения предварительного просмотра на главном экране и работы связанных функций MyQuickPaste может читать текст или изображения, которые в данный момент находятся в буфере обмена вашего устройства. Содержимое буфера обмена обрабатывается на устройстве и не сохраняется автоматически на постоянной основе, если вы явно не зарегистрируете его. Для предварительного просмотра изображений из буфера обмена приложение может создавать временный файл кэша. MyQuickPaste не содержит процессов, отправляющих содержимое буфера обмена на серверы, управляемые нами."
+      },
+      {
+        "h": "Хранение, удаление и резервные копии данных",
+        "p": "Сохранённые данные остаются в области хранения приложения на вашем устройстве, пока вы не удалите их в приложении или не удалите само приложение. При удалении приложения локальные данные приложения удаляются с устройства, однако отдельные копии могут оставаться в резервных копиях операционной системы Android или в экспортированных и сохранённых вами файлах резервных копий. В течение 30-дневного бесплатного пробного периода и с Pro вы можете экспортировать и импортировать данные в виде файла резервной копии MyQuickPaste (.mqp). Место сохранения экспортированного файла выбираете вы; вы также самостоятельно отвечаете за управление и удаление экспортированных файлов резервных копий."
+      },
+      {
+        "h": "Магазины приложений, покупки и внешние сервисы",
+        "p": "30-дневный бесплатный пробный период управляется внутри приложения на основе времени первоначальной установки. Распространение Android-версии и покупки Pro обрабатываются через Google Play, а для проверки покупок используется Google Play Billing. Pro — это разовая встроенная покупка, а не подписка. Мы не получаем напрямую номера кредитных карт или другие платёжные реквизиты карт. Приложение не использует сторонние SDK для аналитики или рекламы. При использовании функций покупки или отзывов Google Play либо выбранных вами внешних функций, таких как общий доступ, электронная почта или веб-браузер, применяются политики конфиденциальности и условия соответствующих сервисов. Версия для iOS в настоящее время находится в разработке; настоящая политика будет обновлена при необходимости после окончательного определения способа её распространения и реализации покупок."
+      },
+      {
+        "h": "Контакты",
+        "p": "Если у вас есть вопросы по настоящей политике, свяжитесь с нами по адресу myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "it": {
+    "title": "Informativa sulla privacy",
+    "lead": "MyQuickPaste (edizione smartphone)",
+    "updated": "Ultimo aggiornamento: 14 agosto 2026",
+    "sections": [
+      {
+        "h": "Panoramica",
+        "p": "MyQuickPaste è un’app per smartphone fornita da Good Rabbit inc. (“noi”). La presente informativa spiega come MyQuickPaste tratta le informazioni sul tuo dispositivo."
+      },
+      {
+        "h": "Raccolta dei dati da parte nostra",
+        "p": "MyQuickPaste non include alcun processo che raccolga, trasmetta o memorizzi su server da noi gestiti i testi liberi, i testi predefiniti, gli indirizzi e-mail, i numeri di telefono, i profili, le immagini o i contenuti degli appunti che utilizzi nell’app. Questi contenuti vengono elaborati sul tuo dispositivo per fornire le funzionalità dell’app. Tuttavia, quando utilizzi esplicitamente una funzione di condivisione, quando viene eseguito il backup di Android o quando utilizzi servizi dello store come Google Play, i dati vengono trattati secondo i meccanismi e le politiche del relativo sistema operativo o servizio."
+      },
+      {
+        "h": "Archiviazione sul dispositivo e backup Android",
+        "p": "I contenuti inseriti, le categorie, i profili, le impostazioni dell’app e le immagini registrate sono memorizzati nell’area di archiviazione privata dell’app sul tuo dispositivo. Le immagini registrate vengono copiate in tale area privata. Su Android, se la funzione di backup del sistema operativo è attiva, alcuni dati dell’app possono essere sottoposti a backup nello spazio associato al tuo Account Google e ripristinati da lì. In base alle attuali regole di backup dell’app, i file delle immagini registrate sono esclusi dal backup cloud. Durante il trasferimento da un dispositivo all’altro, i dati possono essere trasferiti tramite le funzioni del sistema operativo."
+      },
+      {
+        "h": "Sicurezza",
+        "p": "I dati salvati sono memorizzati in un’area privata dell’app protetta dal sistema operativo. Non gestiamo un nostro server per archiviare i contenuti che registri. La sicurezza del dispositivo, dei backup del sistema operativo e dei file di backup esportati dipende dalla sicurezza e dalla gestione del relativo dispositivo, servizio e spazio di archiviazione controllato dall’utente."
+      },
+      {
+        "h": "Accesso agli appunti",
+        "p": "Per mostrare anteprime nella schermata principale e fornire le funzioni correlate, MyQuickPaste può leggere testi o immagini presenti negli appunti del dispositivo. Il contenuto degli appunti viene elaborato sul dispositivo e non viene salvato automaticamente in modo permanente, a meno che tu non lo registri esplicitamente. L’app può creare un file di cache temporaneo per mostrare l’anteprima delle immagini negli appunti. MyQuickPaste non include alcun processo che invii il contenuto degli appunti a server da noi gestiti."
+      },
+      {
+        "h": "Conservazione, eliminazione e backup dei dati",
+        "p": "I dati salvati rimangono nell’area di archiviazione dell’app sul dispositivo finché non li elimini nell’app o disinstalli l’app. La disinstallazione rimuove i dati locali dell’app dal dispositivo, ma eventuali copie possono rimanere separatamente nei backup del sistema operativo Android o nei file di backup che hai esportato e conservato. Durante la prova gratuita di 30 giorni e con Pro puoi esportare e importare i dati come file di backup MyQuickPaste (.mqp). Scegli tu dove salvare il file esportato e sei responsabile della gestione e dell’eliminazione dei file di backup esportati."
+      },
+      {
+        "h": "Store, acquisti e servizi esterni",
+        "p": "La prova gratuita di 30 giorni è gestita all’interno dell’app in base all’orario della prima installazione. La distribuzione dell’edizione Android e gli acquisti Pro vengono gestiti tramite Google Play e Google Play Billing viene utilizzato per verificare gli acquisti. Pro è un acquisto in-app una tantum e non un abbonamento. Non riceviamo direttamente numeri di carte di credito o altri dati delle carte di pagamento. L’app non utilizza SDK di terze parti per analisi o pubblicità. Quando utilizzi le funzioni di acquisto o recensione di Google Play oppure funzioni esterne da te scelte, come condivisione, e-mail o browser web, si applicano le informative sulla privacy e i termini dei relativi servizi. L’edizione iOS è attualmente in sviluppo e questa informativa verrà aggiornata, se necessario, quando saranno definite la distribuzione e l’implementazione degli acquisti."
+      },
+      {
+        "h": "Contatti",
+        "p": "Per qualsiasi domanda sulla presente informativa, contattaci all’indirizzo myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "es": {
+    "title": "Política de privacidad",
+    "lead": "MyQuickPaste (edición para smartphones)",
+    "updated": "Última actualización: 14 de agosto de 2026",
+    "sections": [
+      {
+        "h": "Descripción general",
+        "p": "MyQuickPaste es una aplicación para smartphones proporcionada por Good Rabbit inc. («nosotros»). Esta política explica cómo MyQuickPaste trata la información de tu dispositivo."
+      },
+      {
+        "h": "Recopilación de datos por nuestra parte",
+        "p": "MyQuickPaste no incluye ningún proceso que recopile, transmita o almacene en servidores operados por nosotros los textos libres, textos predefinidos, direcciones de correo electrónico, números de teléfono, perfiles, imágenes o contenidos del portapapeles que utilizas en la aplicación. Este contenido se procesa en tu dispositivo para ofrecer las funciones de la aplicación. No obstante, cuando utilizas expresamente una función para compartir, cuando se ejecuta la copia de seguridad de Android o cuando utilizas servicios de tienda como Google Play, los datos se tratan de acuerdo con los mecanismos y políticas del sistema operativo o servicio correspondiente."
+      },
+      {
+        "h": "Almacenamiento en el dispositivo y copia de seguridad de Android",
+        "p": "El contenido introducido, las categorías, los perfiles, los ajustes de la aplicación y las imágenes registradas se almacenan en el área privada de almacenamiento de la aplicación en tu dispositivo. Las imágenes registradas se copian en ese almacenamiento privado. En Android, si está activada la función de copia de seguridad del sistema operativo, algunos datos de la aplicación pueden guardarse en el espacio de copia de seguridad asociado a tu cuenta de Google y restaurarse desde allí. Según las reglas de copia de seguridad actuales de la aplicación, los archivos de imágenes registradas quedan excluidos de la copia de seguridad en la nube. Durante la transferencia entre dispositivos, los datos pueden transferirse mediante funciones del sistema operativo."
+      },
+      {
+        "h": "Seguridad",
+        "p": "Los datos guardados se almacenan en un área privada de la aplicación protegida por el sistema operativo. No operamos un servidor propio para almacenar el contenido que registras. La seguridad del propio dispositivo, de las copias de seguridad del sistema operativo y de los archivos de copia de seguridad que exportas depende de la seguridad y gestión del dispositivo, servicio y ubicación de almacenamiento controlada por el usuario correspondientes."
+      },
+      {
+        "h": "Acceso al portapapeles",
+        "p": "Para mostrar vistas previas en la pantalla principal y ofrecer funciones relacionadas, MyQuickPaste puede leer texto o imágenes almacenados actualmente en el portapapeles del dispositivo. El contenido del portapapeles se procesa en el dispositivo y no se guarda automáticamente de forma permanente salvo que lo registres expresamente. La aplicación puede crear un archivo de caché temporal para previsualizar imágenes del portapapeles. MyQuickPaste no incluye ningún proceso que envíe el contenido del portapapeles a servidores operados por nosotros."
+      },
+      {
+        "h": "Conservación, eliminación y copias de seguridad de los datos",
+        "p": "Los datos guardados permanecen en el área de almacenamiento de la aplicación en tu dispositivo hasta que los eliminas en la aplicación o desinstalas la aplicación. Al desinstalarla se eliminan los datos locales de la aplicación del dispositivo, pero pueden quedar copias por separado en las copias de seguridad del sistema operativo Android o en los archivos de copia de seguridad que hayas exportado y conservado. Durante la prueba gratuita de 30 días y con Pro puedes exportar e importar los datos como un archivo de copia de seguridad de MyQuickPaste (.mqp). Tú eliges dónde se guarda el archivo exportado y eres responsable de gestionar y eliminar los archivos de copia de seguridad exportados."
+      },
+      {
+        "h": "Tiendas de aplicaciones, compras y servicios externos",
+        "p": "La prueba gratuita de 30 días se gestiona dentro de la aplicación según la hora de la instalación inicial. La distribución de la edición para Android y las compras de Pro se gestionan a través de Google Play, y se utiliza Google Play Billing para verificar las compras. Pro es una compra dentro de la aplicación de pago único y no una suscripción. No recibimos directamente números de tarjetas de crédito ni otros datos de tarjetas de pago. La aplicación no utiliza SDK de terceros con fines de análisis o publicidad. Cuando utilizas las funciones de compra o reseñas de Google Play, o funciones externas que eliges, como compartir, correo electrónico o un navegador web, se aplican las políticas de privacidad y los términos de los servicios correspondientes. La edición para iOS se encuentra actualmente en desarrollo y esta política se actualizará cuando sea necesario una vez finalizados su sistema de distribución y la implementación de las compras."
+      },
+      {
+        "h": "Contacto",
+        "p": "Si tienes alguna pregunta sobre esta política, ponte en contacto con nosotros en myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "pt": {
+    "title": "Política de Privacidade",
+    "lead": "MyQuickPaste (edição para smartphone)",
+    "updated": "Última atualização: 14 de agosto de 2026",
+    "sections": [
+      {
+        "h": "Visão geral",
+        "p": "MyQuickPaste é um aplicativo para smartphone fornecido pela Good Rabbit inc. (“nós”). Esta política explica como o MyQuickPaste trata as informações no seu dispositivo."
+      },
+      {
+        "h": "Coleta de dados por nós",
+        "p": "O MyQuickPaste não inclui nenhum processo que colete, transmita ou armazene em servidores operados por nós os textos livres, textos predefinidos, endereços de e-mail, números de telefone, perfis, imagens ou conteúdos da área de transferência que você usa no aplicativo. Esses conteúdos são processados no seu dispositivo para fornecer os recursos do aplicativo. No entanto, quando você usa explicitamente uma função de compartilhamento, quando o backup do Android é executado ou quando usa serviços de loja como o Google Play, os dados são tratados de acordo com os mecanismos e políticas do respectivo sistema operacional ou serviço."
+      },
+      {
+        "h": "Armazenamento no dispositivo e backup do Android",
+        "p": "O conteúdo inserido, as categorias, os perfis, as configurações do aplicativo e as imagens registradas são armazenados na área de armazenamento privada do aplicativo no seu dispositivo. As imagens registradas são copiadas para essa área privada. No Android, se o recurso de backup do sistema operacional estiver ativado, alguns dados do aplicativo poderão ser salvos no armazenamento de backup associado à sua Conta do Google e restaurados a partir dele. De acordo com as regras atuais de backup do aplicativo, os arquivos de imagens registradas são excluídos do backup na nuvem. Durante a transferência entre dispositivos, os dados podem ser transferidos por recursos do sistema operacional."
+      },
+      {
+        "h": "Segurança",
+        "p": "Os dados salvos são armazenados em uma área privada do aplicativo protegida pelo sistema operacional. Não operamos um servidor próprio para armazenar o conteúdo que você registra. A segurança do próprio dispositivo, dos backups do sistema operacional e dos arquivos de backup exportados por você depende da segurança e do gerenciamento do respectivo dispositivo, serviço e local de armazenamento controlado pelo usuário."
+      },
+      {
+        "h": "Acesso à área de transferência",
+        "p": "Para mostrar prévias na tela principal e fornecer recursos relacionados, o MyQuickPaste pode ler textos ou imagens atualmente armazenados na área de transferência do seu dispositivo. O conteúdo da área de transferência é processado no dispositivo e não é armazenado automaticamente de forma permanente, a menos que você o registre explicitamente. O aplicativo pode criar um arquivo temporário de cache para visualizar imagens da área de transferência. O MyQuickPaste não inclui nenhum processo que envie o conteúdo da área de transferência para servidores operados por nós."
+      },
+      {
+        "h": "Retenção, exclusão e backups de dados",
+        "p": "Os dados salvos permanecem na área de armazenamento do aplicativo no seu dispositivo até que você os exclua no aplicativo ou desinstale o aplicativo. A desinstalação remove os dados locais do aplicativo do dispositivo, mas cópias podem permanecer separadamente em backups do sistema operacional Android ou em arquivos de backup que você exportou e manteve. Durante o teste gratuito de 30 dias e com o Pro, você pode exportar e importar os dados como um arquivo de backup do MyQuickPaste (.mqp). Você escolhe onde o arquivo exportado será salvo e é responsável por gerenciar e excluir os arquivos de backup exportados."
+      },
+      {
+        "h": "Lojas de aplicativos, compras e serviços externos",
+        "p": "O teste gratuito de 30 dias é gerenciado dentro do aplicativo com base no horário da instalação inicial. A distribuição da edição para Android e as compras do Pro são processadas pelo Google Play, e o Google Play Billing é usado para verificar as compras. O Pro é uma compra única dentro do aplicativo e não uma assinatura. Não recebemos diretamente números de cartão de crédito nem outros dados de cartões de pagamento. O aplicativo não usa SDKs de terceiros para análise ou publicidade. Quando você usa recursos de compra ou avaliação do Google Play ou recursos externos escolhidos por você, como compartilhamento, e-mail ou navegador, aplicam-se as políticas de privacidade e os termos dos respectivos serviços. A edição para iOS está atualmente em desenvolvimento, e esta política será atualizada conforme necessário quando sua distribuição e implementação de compras forem finalizadas."
+      },
+      {
+        "h": "Contato",
+        "p": "Se tiver alguma dúvida sobre esta política, entre em contato conosco pelo e-mail myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "hi": {
+    "title": "गोपनीयता नीति",
+    "lead": "MyQuickPaste (स्मार्टफ़ोन संस्करण)",
+    "updated": "अंतिम अपडेट: 14 अगस्त 2026",
+    "sections": [
+      {
+        "h": "परिचय",
+        "p": "MyQuickPaste, Good Rabbit inc. (“हम”) द्वारा प्रदान किया गया एक स्मार्टफ़ोन ऐप है। यह नीति बताती है कि MyQuickPaste आपके डिवाइस पर मौजूद जानकारी को कैसे संभालता है।"
+      },
+      {
+        "h": "हमारे द्वारा डेटा संग्रह",
+        "p": "MyQuickPaste में ऐसी कोई प्रक्रिया शामिल नहीं है जो ऐप में आपके द्वारा उपयोग किए जाने वाले फ्री टेक्स्ट, स्निपेट, ईमेल पते, फ़ोन नंबर, प्रोफ़ाइल, चित्र या क्लिपबोर्ड सामग्री को हमारे द्वारा संचालित सर्वरों पर एकत्र, प्रेषित या संग्रहीत करे। ऐप की सुविधाएँ प्रदान करने के लिए यह सामग्री आपके डिवाइस पर ही प्रोसेस की जाती है। हालांकि, जब आप स्वयं शेयरिंग सुविधा का उपयोग करते हैं, Android बैकअप काम करता है, या Google Play जैसी स्टोर सेवाओं का उपयोग करते हैं, तो डेटा संबंधित ऑपरेटिंग सिस्टम या सेवा की व्यवस्था और नीतियों के अनुसार संभाला जाता है।"
+      },
+      {
+        "h": "डिवाइस पर स्टोरेज और Android बैकअप",
+        "p": "आपके द्वारा दर्ज की गई सामग्री, श्रेणियाँ, प्रोफ़ाइल, ऐप सेटिंग्स और पंजीकृत चित्र आपके डिवाइस पर ऐप के निजी स्टोरेज क्षेत्र में संग्रहीत होते हैं। पंजीकृत चित्रों को उसी निजी ऐप स्टोरेज में कॉपी किया जाता है। Android पर, यदि ऑपरेटिंग सिस्टम की बैकअप सुविधा सक्षम है, तो ऐप का कुछ डेटा आपके Google खाते से जुड़े बैकअप स्टोरेज में बैकअप किया जा सकता है और वहाँ से पुनर्स्थापित किया जा सकता है। ऐप के वर्तमान बैकअप नियमों के अनुसार, पंजीकृत चित्र फ़ाइलें क्लाउड बैकअप से बाहर रखी जाती हैं। डिवाइस-से-डिवाइस ट्रांसफ़र के दौरान, ऑपरेटिंग सिस्टम की सुविधाओं के माध्यम से डेटा स्थानांतरित हो सकता है।"
+      },
+      {
+        "h": "सुरक्षा",
+        "p": "सहेजा गया डेटा ऑपरेटिंग सिस्टम द्वारा सुरक्षित ऐप के निजी क्षेत्र में रखा जाता है। हम आपकी पंजीकृत सामग्री को रखने के लिए अपना कोई सर्वर संचालित नहीं करते। डिवाइस की सुरक्षा, ऑपरेटिंग सिस्टम बैकअप और आपके द्वारा निर्यात की गई बैकअप फ़ाइलों की सुरक्षा संबंधित डिवाइस, सेवा और उपयोगकर्ता द्वारा नियंत्रित स्टोरेज की सुरक्षा व प्रबंधन पर निर्भर करती है।"
+      },
+      {
+        "h": "क्लिपबोर्ड तक पहुँच",
+        "p": "मुख्य स्क्रीन पर प्रीव्यू दिखाने और संबंधित सुविधाएँ प्रदान करने के लिए MyQuickPaste आपके डिवाइस के क्लिपबोर्ड में वर्तमान में संग्रहीत टेक्स्ट या चित्र पढ़ सकता है। क्लिपबोर्ड सामग्री डिवाइस पर ही प्रोसेस होती है और जब तक आप उसे स्पष्ट रूप से पंजीकृत नहीं करते, तब तक उसे स्वतः स्थायी रूप से संग्रहीत नहीं किया जाता। क्लिपबोर्ड चित्रों का प्रीव्यू दिखाने के लिए ऐप अस्थायी कैश फ़ाइल बना सकता है। MyQuickPaste में ऐसी कोई प्रक्रिया शामिल नहीं है जो क्लिपबोर्ड सामग्री को हमारे द्वारा संचालित सर्वरों पर भेजे।"
+      },
+      {
+        "h": "डेटा का रख-रखाव, हटाना और बैकअप",
+        "p": "सहेजा गया डेटा आपके डिवाइस के ऐप स्टोरेज क्षेत्र में तब तक रहता है जब तक आप उसे ऐप में हटा नहीं देते या ऐप को अनइंस्टॉल नहीं करते। अनइंस्टॉल करने पर डिवाइस से ऐप का स्थानीय डेटा हट जाता है, लेकिन प्रतियाँ Android ऑपरेटिंग सिस्टम बैकअप या आपके द्वारा निर्यात और सुरक्षित रखी गई बैकअप फ़ाइलों में अलग से रह सकती हैं। 30-दिन के मुफ़्त ट्रायल के दौरान और Pro के साथ, आप डेटा को MyQuickPaste बैकअप फ़ाइल (.mqp) के रूप में निर्यात और आयात कर सकते हैं। निर्यात की गई फ़ाइल कहाँ सहेजी जाएगी, यह आप चुनते हैं, और निर्यात की गई बैकअप फ़ाइलों का प्रबंधन व हटाना आपकी जिम्मेदारी है।"
+      },
+      {
+        "h": "ऐप स्टोर, खरीद और बाहरी सेवाएँ",
+        "p": "30-दिन का मुफ़्त ट्रायल शुरुआती इंस्टॉलेशन समय के आधार पर ऐप के भीतर प्रबंधित किया जाता है। Android संस्करण का वितरण और Pro की खरीद Google Play के माध्यम से होती है, और खरीद की पुष्टि के लिए Google Play Billing का उपयोग किया जाता है। Pro एक बार की इन-ऐप खरीद है, सदस्यता नहीं। हम क्रेडिट कार्ड नंबर या अन्य भुगतान कार्ड विवरण सीधे प्राप्त नहीं करते। ऐप एनालिटिक्स या विज्ञापन के लिए किसी तीसरे पक्ष के SDK का उपयोग नहीं करता। जब आप Google Play की खरीद या समीक्षा सुविधाओं, या अपनी पसंद की बाहरी सुविधाओं जैसे शेयरिंग, ईमेल या वेब ब्राउज़र का उपयोग करते हैं, तो संबंधित सेवाओं की गोपनीयता नीतियाँ और शर्तें लागू होती हैं। iOS संस्करण अभी विकासाधीन है, और इसके वितरण तथा खरीद व्यवस्था के अंतिम रूप लेने पर इस नीति को आवश्यकता अनुसार अपडेट किया जाएगा।"
+      },
+      {
+        "h": "संपर्क",
+        "p": "यदि इस नीति के बारे में आपका कोई प्रश्न है, तो कृपया myquickpaste@hotmail.com पर हमसे संपर्क करें।"
+      }
+    ]
+  },
+  "ar": {
+    "title": "سياسة الخصوصية",
+    "lead": "MyQuickPaste (إصدار الهاتف الذكي)",
+    "updated": "آخر تحديث: 14 أغسطس 2026",
+    "sections": [
+      {
+        "h": "نظرة عامة",
+        "p": "MyQuickPaste هو تطبيق للهواتف الذكية تقدمه Good Rabbit inc. («نحن»). توضح هذه السياسة كيفية تعامل MyQuickPaste مع المعلومات الموجودة على جهازك."
+      },
+      {
+        "h": "جمع البيانات من جانبنا",
+        "p": "لا يتضمن MyQuickPaste أي عملية تجمع أو تنقل أو تخزن على خوادم نديرها النصوص الحرة أو العبارات المحفوظة أو عناوين البريد الإلكتروني أو أرقام الهواتف أو الملفات الشخصية أو الصور أو محتويات الحافظة التي تستخدمها في التطبيق. تتم معالجة هذه المحتويات على جهازك لتوفير وظائف التطبيق. ومع ذلك، عند استخدامك صراحةً لوظيفة المشاركة، أو عند تشغيل النسخ الاحتياطي في Android، أو عند استخدام خدمات المتجر مثل Google Play، تتم معالجة البيانات وفقًا لآليات وسياسات نظام التشغيل أو الخدمة المعنية."
+      },
+      {
+        "h": "التخزين على الجهاز والنسخ الاحتياطي في Android",
+        "p": "يتم تخزين المحتوى المُدخل والفئات والملفات الشخصية وإعدادات التطبيق والصور المسجلة في مساحة التخزين الخاصة بالتطبيق على جهازك. وتُنسخ الصور المسجلة إلى مساحة التخزين الخاصة هذه. على Android، إذا كانت ميزة النسخ الاحتياطي في نظام التشغيل مفعلة، فقد يتم نسخ بعض بيانات التطبيق احتياطيًا إلى مساحة النسخ الاحتياطي المرتبطة بحساب Google الخاص بك واستعادتها منها. وفقًا لقواعد النسخ الاحتياطي الحالية للتطبيق، يتم استبعاد ملفات الصور المسجلة من النسخ الاحتياطي السحابي. وعند النقل من جهاز إلى جهاز، قد يتم نقل البيانات عبر ميزات نظام التشغيل."
+      },
+      {
+        "h": "الأمان",
+        "p": "تُخزن البيانات المحفوظة في مساحة خاصة بالتطبيق يحميها نظام التشغيل. نحن لا ندير خادمًا خاصًا بنا لتخزين المحتوى الذي تسجله. تعتمد سلامة الجهاز نفسه ونسخ نظام التشغيل الاحتياطية وملفات النسخ الاحتياطي التي تقوم بتصديرها على مستوى الأمان والإدارة في الجهاز والخدمة وموقع التخزين الذي يتحكم فيه المستخدم."
+      },
+      {
+        "h": "الوصول إلى الحافظة",
+        "p": "لعرض معاينات على الشاشة الرئيسية وتوفير الوظائف المرتبطة، قد يقرأ MyQuickPaste النصوص أو الصور المخزنة حاليًا في حافظة جهازك. تتم معالجة محتوى الحافظة على الجهاز ولا يتم حفظه تلقائيًا بشكل دائم ما لم تقم بتسجيله صراحةً. قد ينشئ التطبيق ملف ذاكرة مؤقتة مؤقتًا لعرض معاينة لصور الحافظة. لا يتضمن MyQuickPaste أي عملية ترسل محتوى الحافظة إلى خوادم نديرها."
+      },
+      {
+        "h": "الاحتفاظ بالبيانات وحذفها والنسخ الاحتياطية",
+        "p": "تبقى البيانات المحفوظة في مساحة تخزين التطبيق على جهازك حتى تحذفها من داخل التطبيق أو تزيل تثبيت التطبيق. تؤدي إزالة التثبيت إلى حذف بيانات التطبيق المحلية من الجهاز، لكن قد تبقى نسخ منفصلة ضمن النسخ الاحتياطية لنظام Android أو في ملفات النسخ الاحتياطي التي قمت بتصديرها والاحتفاظ بها. خلال التجربة المجانية لمدة 30 يومًا ومع Pro، يمكنك تصدير البيانات واستيرادها كملف نسخ احتياطي لـ MyQuickPaste (.mqp). أنت تختار مكان حفظ الملف المُصدَّر، وتتحمل مسؤولية إدارة ملفات النسخ الاحتياطي المُصدَّرة وحذفها."
+      },
+      {
+        "h": "متاجر التطبيقات والمشتريات والخدمات الخارجية",
+        "p": "تتم إدارة التجربة المجانية لمدة 30 يومًا داخل التطبيق استنادًا إلى وقت التثبيت الأول. يتم توزيع إصدار Android ومعالجة مشتريات Pro عبر Google Play، ويُستخدم Google Play Billing للتحقق من عمليات الشراء. Pro هو شراء داخل التطبيق لمرة واحدة وليس اشتراكًا. نحن لا نتلقى مباشرةً أرقام بطاقات الائتمان أو غيرها من بيانات بطاقات الدفع. لا يستخدم التطبيق أي SDK تابع لجهة خارجية لأغراض التحليلات أو الإعلانات. عند استخدام ميزات الشراء أو المراجعات في Google Play، أو ميزات خارجية تختارها مثل المشاركة أو البريد الإلكتروني أو متصفح الويب، تنطبق سياسات الخصوصية والشروط الخاصة بالخدمات المعنية. إصدار iOS قيد التطوير حاليًا، وسيتم تحديث هذه السياسة عند الحاجة بعد الانتهاء من آلية توزيعه وتنفيذ عمليات الشراء فيه."
+      },
+      {
+        "h": "التواصل",
+        "p": "إذا كانت لديك أي أسئلة حول هذه السياسة، يُرجى التواصل معنا على myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "id": {
+    "title": "Kebijakan Privasi",
+    "lead": "MyQuickPaste (Edisi Smartphone)",
+    "updated": "Terakhir diperbarui: 14 Agustus 2026",
+    "sections": [
+      {
+        "h": "Ikhtisar",
+        "p": "MyQuickPaste adalah aplikasi smartphone yang disediakan oleh Good Rabbit inc. (“kami”). Kebijakan ini menjelaskan bagaimana MyQuickPaste menangani informasi di perangkat Anda."
+      },
+      {
+        "h": "Pengumpulan data oleh kami",
+        "p": "MyQuickPaste tidak memiliki proses yang mengumpulkan, mengirimkan, atau menyimpan di server yang kami operasikan teks bebas, cuplikan teks, alamat email, nomor telepon, profil, gambar, atau isi papan klip yang Anda gunakan di aplikasi. Konten tersebut diproses di perangkat Anda untuk menyediakan fitur aplikasi. Namun, saat Anda secara aktif menggunakan fitur berbagi, saat pencadangan Android berjalan, atau saat Anda menggunakan layanan toko seperti Google Play, data ditangani sesuai mekanisme dan kebijakan sistem operasi atau layanan terkait."
+      },
+      {
+        "h": "Penyimpanan di perangkat dan pencadangan Android",
+        "p": "Konten yang dimasukkan, kategori, profil, pengaturan aplikasi, dan gambar yang didaftarkan disimpan di area penyimpanan privat aplikasi pada perangkat Anda. Gambar yang didaftarkan disalin ke area penyimpanan privat tersebut. Di Android, jika fitur pencadangan sistem operasi diaktifkan, sebagian data aplikasi dapat dicadangkan ke penyimpanan cadangan yang terkait dengan Akun Google Anda dan dipulihkan dari sana. Berdasarkan aturan pencadangan aplikasi saat ini, file gambar yang didaftarkan dikecualikan dari pencadangan cloud. Saat melakukan pemindahan antarperangkat, data dapat dipindahkan melalui fitur sistem operasi."
+      },
+      {
+        "h": "Keamanan",
+        "p": "Data yang disimpan berada di area privat aplikasi yang dilindungi oleh sistem operasi. Kami tidak mengoperasikan server sendiri untuk menyimpan konten yang Anda daftarkan. Keamanan perangkat itu sendiri, cadangan sistem operasi, dan file cadangan yang Anda ekspor bergantung pada keamanan serta pengelolaan perangkat, layanan, dan lokasi penyimpanan yang dikendalikan pengguna."
+      },
+      {
+        "h": "Akses papan klip",
+        "p": "Untuk menampilkan pratinjau di layar utama dan menyediakan fitur terkait, MyQuickPaste dapat membaca teks atau gambar yang saat ini tersimpan di papan klip perangkat Anda. Isi papan klip diproses di perangkat dan tidak disimpan permanen secara otomatis kecuali Anda secara eksplisit mendaftarkannya. Aplikasi dapat membuat file cache sementara untuk menampilkan pratinjau gambar papan klip. MyQuickPaste tidak memiliki proses yang mengirimkan isi papan klip ke server yang kami operasikan."
+      },
+      {
+        "h": "Penyimpanan, penghapusan, dan pencadangan data",
+        "p": "Data yang disimpan tetap berada di area penyimpanan aplikasi pada perangkat Anda sampai Anda menghapusnya di aplikasi atau menghapus instalasi aplikasi. Menghapus instalasi akan menghapus data lokal aplikasi dari perangkat, tetapi salinan dapat tetap tersimpan secara terpisah dalam cadangan sistem operasi Android atau dalam file cadangan yang telah Anda ekspor dan simpan. Selama uji coba gratis 30 hari dan dengan Pro, Anda dapat mengekspor dan mengimpor data sebagai file cadangan MyQuickPaste (.mqp). Anda memilih lokasi penyimpanan file yang diekspor dan bertanggung jawab untuk mengelola serta menghapus file cadangan yang telah diekspor."
+      },
+      {
+        "h": "Toko aplikasi, pembelian, dan layanan eksternal",
+        "p": "Uji coba gratis 30 hari dikelola di dalam aplikasi berdasarkan waktu instalasi awal. Distribusi edisi Android dan pembelian Pro diproses melalui Google Play, dan Google Play Billing digunakan untuk memverifikasi pembelian. Pro adalah pembelian dalam aplikasi satu kali dan bukan langganan. Kami tidak menerima secara langsung nomor kartu kredit atau detail kartu pembayaran lainnya. Aplikasi tidak menggunakan SDK pihak ketiga untuk analitik atau periklanan. Saat Anda menggunakan fitur pembelian atau ulasan Google Play, atau fitur eksternal yang Anda pilih seperti berbagi, email, atau browser web, kebijakan privasi dan ketentuan layanan terkait berlaku. Edisi iOS saat ini sedang dikembangkan, dan kebijakan ini akan diperbarui bila diperlukan setelah distribusi dan implementasi pembeliannya ditetapkan."
+      },
+      {
+        "h": "Kontak",
+        "p": "Jika Anda memiliki pertanyaan tentang kebijakan ini, silakan hubungi kami di myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "th": {
+    "title": "นโยบายความเป็นส่วนตัว",
+    "lead": "MyQuickPaste (เวอร์ชันสมาร์ทโฟน)",
+    "updated": "อัปเดตล่าสุด: 14 สิงหาคม 2026",
+    "sections": [
+      {
+        "h": "ภาพรวม",
+        "p": "MyQuickPaste เป็นแอปสมาร์ทโฟนที่ให้บริการโดย Good Rabbit inc. (“เรา”) นโยบายนี้อธิบายว่า MyQuickPaste จัดการข้อมูลบนอุปกรณ์ของคุณอย่างไร"
+      },
+      {
+        "h": "การเก็บรวบรวมข้อมูลโดยเรา",
+        "p": "MyQuickPaste ไม่มีกระบวนการที่เก็บรวบรวม ส่ง หรือจัดเก็บบนเซิร์ฟเวอร์ที่เราดำเนินการ ซึ่งข้อความอิสระ ข้อความสำเร็จรูป ที่อยู่อีเมล หมายเลขโทรศัพท์ โปรไฟล์ รูปภาพ หรือเนื้อหาในคลิปบอร์ดที่คุณใช้ในแอป เนื้อหาเหล่านี้ได้รับการประมวลผลบนอุปกรณ์ของคุณเพื่อให้บริการฟังก์ชันของแอป อย่างไรก็ตาม เมื่อคุณเลือกใช้ฟังก์ชันแชร์ด้วยตนเอง เมื่อระบบสำรองข้อมูลของ Android ทำงาน หรือเมื่อคุณใช้บริการของสโตร์ เช่น Google Play ข้อมูลจะถูกจัดการตามกลไกและนโยบายของระบบปฏิบัติการหรือบริการที่เกี่ยวข้อง"
+      },
+      {
+        "h": "การจัดเก็บบนอุปกรณ์และการสำรองข้อมูล Android",
+        "p": "เนื้อหาที่ป้อน หมวดหมู่ โปรไฟล์ การตั้งค่าแอป และรูปภาพที่ลงทะเบียน จะถูกเก็บไว้ในพื้นที่จัดเก็บส่วนตัวของแอปบนอุปกรณ์ของคุณ รูปภาพที่ลงทะเบียนจะถูกคัดลอกไปเก็บในพื้นที่ส่วนตัวดังกล่าว บน Android หากเปิดใช้งานฟังก์ชันสำรองข้อมูลของระบบปฏิบัติการ ข้อมูลบางส่วนของแอปอาจถูกสำรองไปยังพื้นที่สำรองข้อมูลที่เชื่อมโยงกับบัญชี Google ของคุณ และอาจถูกกู้คืนจากพื้นที่นั้น ตามกฎการสำรองข้อมูลปัจจุบันของแอป ไฟล์รูปภาพที่ลงทะเบียนจะไม่รวมอยู่ในการสำรองข้อมูลบนคลาวด์ ระหว่างการย้ายข้อมูลระหว่างอุปกรณ์ ข้อมูลอาจถูกโอนผ่านฟังก์ชันของระบบปฏิบัติการ"
+      },
+      {
+        "h": "ความปลอดภัย",
+        "p": "ข้อมูลที่บันทึกจะถูกเก็บไว้ในพื้นที่ส่วนตัวของแอปที่ได้รับการปกป้องโดยระบบปฏิบัติการ เราไม่ได้ดำเนินการเซิร์ฟเวอร์ของเราเองเพื่อจัดเก็บเนื้อหาที่คุณลงทะเบียน ความปลอดภัยของตัวอุปกรณ์ การสำรองข้อมูลของระบบปฏิบัติการ และไฟล์สำรองข้อมูลที่คุณส่งออก ขึ้นอยู่กับความปลอดภัยและการจัดการของอุปกรณ์ บริการ และพื้นที่จัดเก็บที่ผู้ใช้ควบคุม"
+      },
+      {
+        "h": "การเข้าถึงคลิปบอร์ด",
+        "p": "เพื่อแสดงตัวอย่างบนหน้าจอหลักและให้บริการฟังก์ชันที่เกี่ยวข้อง MyQuickPaste อาจอ่านข้อความหรือรูปภาพที่อยู่ในคลิปบอร์ดของอุปกรณ์ในขณะนั้น เนื้อหาในคลิปบอร์ดจะถูกประมวลผลบนอุปกรณ์ และจะไม่ถูกบันทึกถาวรโดยอัตโนมัติ เว้นแต่คุณจะลงทะเบียนเนื้อหานั้นอย่างชัดเจน แอปอาจสร้างไฟล์แคชชั่วคราวเพื่อแสดงตัวอย่างรูปภาพจากคลิปบอร์ด MyQuickPaste ไม่มีกระบวนการที่ส่งเนื้อหาในคลิปบอร์ดไปยังเซิร์ฟเวอร์ที่เราดำเนินการ"
+      },
+      {
+        "h": "การเก็บรักษา การลบ และการสำรองข้อมูล",
+        "p": "ข้อมูลที่บันทึกจะยังคงอยู่ในพื้นที่จัดเก็บของแอปบนอุปกรณ์ของคุณจนกว่าคุณจะลบข้อมูลนั้นภายในแอปหรือถอนการติดตั้งแอป การถอนการติดตั้งจะลบข้อมูลแอปภายในอุปกรณ์ แต่สำเนาอาจยังคงอยู่แยกต่างหากในข้อมูลสำรองของระบบปฏิบัติการ Android หรือในไฟล์สำรองข้อมูลที่คุณส่งออกและเก็บไว้ ในช่วงทดลองใช้ฟรี 30 วันและเมื่อใช้ Pro คุณสามารถส่งออกและนำเข้าข้อมูลเป็นไฟล์สำรองข้อมูล MyQuickPaste (.mqp) ได้ คุณเป็นผู้เลือกตำแหน่งที่จะบันทึกไฟล์ที่ส่งออก และเป็นผู้รับผิดชอบการจัดการและลบไฟล์สำรองข้อมูลที่ส่งออก"
+      },
+      {
+        "h": "แอปสโตร์ การซื้อ และบริการภายนอก",
+        "p": "การทดลองใช้ฟรี 30 วันได้รับการจัดการภายในแอปโดยอ้างอิงจากเวลาที่ติดตั้งครั้งแรก การเผยแพร่เวอร์ชัน Android และการซื้อ Pro ดำเนินการผ่าน Google Play และใช้ Google Play Billing เพื่อตรวจสอบการซื้อ Pro เป็นการซื้อภายในแอปแบบครั้งเดียว ไม่ใช่การสมัครสมาชิก เราไม่ได้รับหมายเลขบัตรเครดิตหรือรายละเอียดบัตรชำระเงินอื่นโดยตรง แอปไม่ใช้ SDK ของบุคคลที่สามเพื่อการวิเคราะห์หรือการโฆษณา เมื่อคุณใช้ฟังก์ชันการซื้อหรือรีวิวของ Google Play หรือฟังก์ชันภายนอกที่คุณเลือก เช่น การแชร์ อีเมล หรือเว็บเบราว์เซอร์ จะมีการใช้นโยบายความเป็นส่วนตัวและข้อกำหนดของบริการที่เกี่ยวข้อง เวอร์ชัน iOS อยู่ระหว่างการพัฒนา และเราจะอัปเดตนโยบายนี้ตามความจำเป็นเมื่อการเผยแพร่และระบบการซื้อได้รับการสรุปเรียบร้อยแล้ว"
+      },
+      {
+        "h": "ติดต่อ",
+        "p": "หากมีคำถามเกี่ยวกับนโยบายนี้ โปรดติดต่อเราที่ myquickpaste@hotmail.com"
+      }
+    ]
+  },
+  "vi": {
+    "title": "Chính sách quyền riêng tư",
+    "lead": "MyQuickPaste (phiên bản smartphone)",
+    "updated": "Cập nhật lần cuối: 14 tháng 8 năm 2026",
+    "sections": [
+      {
+        "h": "Tổng quan",
+        "p": "MyQuickPaste là ứng dụng dành cho smartphone do Good Rabbit inc. (“chúng tôi”) cung cấp. Chính sách này giải thích cách MyQuickPaste xử lý thông tin trên thiết bị của bạn."
+      },
+      {
+        "h": "Dữ liệu do chúng tôi thu thập",
+        "p": "MyQuickPaste không có quy trình thu thập, truyền hoặc lưu trữ trên máy chủ do chúng tôi vận hành các nội dung bạn sử dụng trong ứng dụng như văn bản tự do, đoạn văn mẫu, địa chỉ email, số điện thoại, hồ sơ, hình ảnh hoặc nội dung bảng tạm. Những nội dung này được xử lý trên thiết bị của bạn để cung cấp các tính năng của ứng dụng. Tuy nhiên, khi bạn chủ động sử dụng tính năng chia sẻ, khi tính năng sao lưu Android hoạt động hoặc khi bạn sử dụng dịch vụ cửa hàng như Google Play, dữ liệu sẽ được xử lý theo cơ chế và chính sách của hệ điều hành hoặc dịch vụ tương ứng."
+      },
+      {
+        "h": "Lưu trữ trên thiết bị và sao lưu Android",
+        "p": "Nội dung đã nhập, danh mục, hồ sơ, cài đặt ứng dụng và hình ảnh đã đăng ký được lưu trong vùng lưu trữ riêng của ứng dụng trên thiết bị. Hình ảnh đã đăng ký được sao chép vào vùng lưu trữ riêng đó. Trên Android, nếu tính năng sao lưu của hệ điều hành được bật, một số dữ liệu ứng dụng có thể được sao lưu vào vùng lưu trữ sao lưu liên kết với Tài khoản Google của bạn và được khôi phục từ đó. Theo quy tắc sao lưu hiện tại của ứng dụng, các tệp hình ảnh đã đăng ký không được đưa vào sao lưu đám mây. Khi chuyển dữ liệu giữa các thiết bị, dữ liệu có thể được chuyển thông qua các tính năng của hệ điều hành."
+      },
+      {
+        "h": "Bảo mật",
+        "p": "Dữ liệu đã lưu được đặt trong vùng riêng của ứng dụng được hệ điều hành bảo vệ. Chúng tôi không vận hành máy chủ riêng để lưu trữ nội dung bạn đăng ký. Mức độ an toàn của thiết bị, bản sao lưu của hệ điều hành và tệp sao lưu do bạn xuất phụ thuộc vào mức độ bảo mật và cách quản lý của thiết bị, dịch vụ và vị trí lưu trữ do người dùng kiểm soát."
+      },
+      {
+        "h": "Truy cập bảng tạm",
+        "p": "Để hiển thị bản xem trước trên màn hình chính và cung cấp các tính năng liên quan, MyQuickPaste có thể đọc văn bản hoặc hình ảnh hiện đang được lưu trong bảng tạm của thiết bị. Nội dung bảng tạm được xử lý trên thiết bị và không tự động được lưu vĩnh viễn trừ khi bạn chủ động đăng ký nội dung đó. Ứng dụng có thể tạo tệp bộ nhớ đệm tạm thời để xem trước hình ảnh trong bảng tạm. MyQuickPaste không có quy trình gửi nội dung bảng tạm đến máy chủ do chúng tôi vận hành."
+      },
+      {
+        "h": "Lưu giữ, xóa và sao lưu dữ liệu",
+        "p": "Dữ liệu đã lưu vẫn nằm trong vùng lưu trữ của ứng dụng trên thiết bị cho đến khi bạn xóa dữ liệu trong ứng dụng hoặc gỡ cài đặt ứng dụng. Việc gỡ cài đặt sẽ xóa dữ liệu cục bộ của ứng dụng khỏi thiết bị, nhưng các bản sao có thể vẫn tồn tại riêng trong bản sao lưu của hệ điều hành Android hoặc trong các tệp sao lưu mà bạn đã xuất và giữ lại. Trong thời gian dùng thử miễn phí 30 ngày và với Pro, bạn có thể xuất và nhập dữ liệu dưới dạng tệp sao lưu MyQuickPaste (.mqp). Bạn chọn nơi lưu tệp đã xuất và chịu trách nhiệm quản lý cũng như xóa các tệp sao lưu đã xuất."
+      },
+      {
+        "h": "Cửa hàng ứng dụng, mua hàng và dịch vụ bên ngoài",
+        "p": "Thời gian dùng thử miễn phí 30 ngày được quản lý trong ứng dụng dựa trên thời điểm cài đặt lần đầu. Việc phân phối phiên bản Android và mua Pro được xử lý qua Google Play, và Google Play Billing được dùng để xác minh giao dịch mua. Pro là giao dịch mua trong ứng dụng một lần, không phải gói đăng ký. Chúng tôi không trực tiếp nhận số thẻ tín dụng hoặc thông tin thẻ thanh toán khác. Ứng dụng không sử dụng SDK của bên thứ ba cho mục đích phân tích hoặc quảng cáo. Khi bạn sử dụng tính năng mua hàng hoặc đánh giá của Google Play, hoặc các tính năng bên ngoài do bạn chọn như chia sẻ, email hoặc trình duyệt web, chính sách quyền riêng tư và điều khoản của các dịch vụ tương ứng sẽ được áp dụng. Phiên bản iOS hiện đang được phát triển và chính sách này sẽ được cập nhật khi cần thiết sau khi phương thức phân phối và triển khai mua hàng được hoàn thiện."
+      },
+      {
+        "h": "Liên hệ",
+        "p": "Nếu bạn có câu hỏi về chính sách này, vui lòng liên hệ với chúng tôi tại myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "tr": {
+    "title": "Gizlilik Politikası",
+    "lead": "MyQuickPaste (Akıllı Telefon Sürümü)",
+    "updated": "Son güncelleme: 14 Ağustos 2026",
+    "sections": [
+      {
+        "h": "Genel bakış",
+        "p": "MyQuickPaste, Good Rabbit inc. (“biz”) tarafından sunulan bir akıllı telefon uygulamasıdır. Bu politika, MyQuickPaste’in cihazınızdaki bilgileri nasıl işlediğini açıklar."
+      },
+      {
+        "h": "Tarafımızdan veri toplanması",
+        "p": "MyQuickPaste, uygulamada kullandığınız serbest metinleri, metin şablonlarını, e-posta adreslerini, telefon numaralarını, profilleri, görselleri veya pano içeriklerini tarafımızca işletilen sunucularda toplayan, ileten ya da saklayan herhangi bir işlem içermez. Bu içerikler uygulamanın özelliklerini sunmak amacıyla cihazınızda işlenir. Ancak bir paylaşım özelliğini açıkça kullandığınızda, Android yedekleme çalıştığında veya Google Play gibi mağaza hizmetlerini kullandığınızda veriler ilgili işletim sisteminin ya da hizmetin mekanizmaları ve politikaları doğrultusunda işlenir."
+      },
+      {
+        "h": "Cihazda depolama ve Android yedekleme",
+        "p": "Girilen içerikler, kategoriler, profiller, uygulama ayarları ve kaydedilen görseller cihazınızdaki uygulamaya özel depolama alanında saklanır. Kaydedilen görseller bu özel uygulama depolama alanına kopyalanır. Android’de işletim sisteminin yedekleme özelliği etkinse bazı uygulama verileri Google Hesabınızla ilişkili yedekleme alanına yedeklenebilir ve buradan geri yüklenebilir. Uygulamanın mevcut yedekleme kurallarına göre kaydedilen görsel dosyaları bulut yedeklemesine dahil edilmez. Cihazdan cihaza aktarım sırasında veriler işletim sistemi özellikleri aracılığıyla aktarılabilir."
+      },
+      {
+        "h": "Güvenlik",
+        "p": "Kaydedilen veriler, işletim sistemi tarafından korunan uygulamaya özel bir alanda saklanır. Kaydettiğiniz içerikleri depolamak için kendi sunucumuzu işletmiyoruz. Cihazın kendisinin, işletim sistemi yedeklerinin ve dışa aktardığınız yedekleme dosyalarının güvenliği; ilgili cihazın, hizmetin ve kullanıcı tarafından yönetilen depolama alanının güvenliğine ve yönetimine bağlıdır."
+      },
+      {
+        "h": "Panoya erişim",
+        "p": "Ana ekranda önizleme göstermek ve ilgili özellikleri sağlamak için MyQuickPaste, cihazınızın panosunda o anda bulunan metinleri veya görselleri okuyabilir. Pano içeriği cihazda işlenir ve siz açıkça kaydetmediğiniz sürece otomatik olarak kalıcı biçimde saklanmaz. Uygulama, pano görsellerini önizlemek için geçici bir önbellek dosyası oluşturabilir. MyQuickPaste, pano içeriğini tarafımızca işletilen sunuculara gönderen herhangi bir işlem içermez."
+      },
+      {
+        "h": "Verilerin saklanması, silinmesi ve yedeklenmesi",
+        "p": "Kaydedilen veriler, siz uygulama içinde silene veya uygulamayı kaldırana kadar cihazınızdaki uygulama depolama alanında kalır. Uygulamanın kaldırılması cihazdaki yerel uygulama verilerini siler; ancak kopyalar Android işletim sistemi yedeklerinde veya dışa aktarıp sakladığınız yedekleme dosyalarında ayrı olarak kalabilir. 30 günlük ücretsiz deneme süresince ve Pro ile verileri MyQuickPaste yedekleme dosyası (.mqp) olarak dışa ve içe aktarabilirsiniz. Dışa aktarılan dosyanın nereye kaydedileceğini siz seçersiniz ve dışa aktarılan yedekleme dosyalarının yönetilmesinden ve silinmesinden siz sorumlusunuz."
+      },
+      {
+        "h": "Uygulama mağazaları, satın almalar ve harici hizmetler",
+        "p": "30 günlük ücretsiz deneme, ilk kurulum zamanı esas alınarak uygulama içinde yönetilir. Android sürümünün dağıtımı ve Pro satın almaları Google Play üzerinden işlenir ve satın alma doğrulaması için Google Play Billing kullanılır. Pro, tek seferlik bir uygulama içi satın almadır ve abonelik değildir. Kredi kartı numaralarını veya diğer ödeme kartı bilgilerini doğrudan almayız. Uygulama, analiz veya reklam amacıyla üçüncü taraf SDK kullanmaz. Google Play satın alma veya inceleme özelliklerini ya da paylaşım, e-posta veya web tarayıcısı gibi sizin seçtiğiniz harici özellikleri kullandığınızda ilgili hizmetlerin gizlilik politikaları ve koşulları geçerli olur. iOS sürümü şu anda geliştirilmektedir ve dağıtım ile satın alma uygulaması kesinleştikten sonra bu politika gerektiğinde güncellenecektir."
+      },
+      {
+        "h": "İletişim",
+        "p": "Bu politika hakkında sorularınız varsa lütfen myquickpaste@hotmail.com adresinden bizimle iletişime geçin."
+      }
+    ]
+  },
+  "uk": {
+    "title": "Політика конфіденційності",
+    "lead": "MyQuickPaste (версія для смартфонів)",
+    "updated": "Останнє оновлення: 14 серпня 2026 р.",
+    "sections": [
+      {
+        "h": "Огляд",
+        "p": "MyQuickPaste — це застосунок для смартфонів, який надає Good Rabbit inc. («ми»). Ця політика пояснює, як MyQuickPaste обробляє інформацію на вашому пристрої."
+      },
+      {
+        "h": "Збір даних нами",
+        "p": "MyQuickPaste не містить процесів, які збирають, передають або зберігають на серверах, що керуються нами, вільний текст, шаблони, адреси електронної пошти, номери телефонів, профілі, зображення або вміст буфера обміну, якими ви користуєтеся в застосунку. Цей вміст обробляється на вашому пристрої для забезпечення функцій застосунку. Однак коли ви свідомо використовуєте функцію поширення, коли працює резервне копіювання Android або коли ви користуєтеся сервісами магазину, як-от Google Play, дані обробляються відповідно до механізмів і політик відповідної операційної системи або сервісу."
+      },
+      {
+        "h": "Зберігання на пристрої та резервне копіювання Android",
+        "p": "Введений вміст, категорії, профілі, налаштування застосунку та зареєстровані зображення зберігаються у приватній області зберігання застосунку на вашому пристрої. Зареєстровані зображення копіюються до цієї приватної області. На Android, якщо ввімкнено функцію резервного копіювання операційної системи, деякі дані застосунку можуть резервуватися в сховище, пов’язане з вашим обліковим записом Google, і відновлюватися звідти. Згідно з поточними правилами резервного копіювання застосунку файли зареєстрованих зображень виключені з хмарного резервного копіювання. Під час перенесення між пристроями дані можуть передаватися за допомогою функцій операційної системи."
+      },
+      {
+        "h": "Безпека",
+        "p": "Збережені дані містяться у приватній області застосунку, захищеній операційною системою. Ми не використовуємо власний сервер для зберігання зареєстрованого вами вмісту. Безпека самого пристрою, резервних копій операційної системи та експортованих вами файлів резервних копій залежить від безпеки й керування відповідним пристроєм, сервісом і сховищем, яке контролює користувач."
+      },
+      {
+        "h": "Доступ до буфера обміну",
+        "p": "Щоб показувати попередній перегляд на головному екрані та забезпечувати пов’язані функції, MyQuickPaste може читати текст або зображення, які наразі містяться в буфері обміну вашого пристрою. Вміст буфера обміну обробляється на пристрої й не зберігається автоматично на постійній основі, якщо ви явно його не зареєструєте. Для попереднього перегляду зображень із буфера обміну застосунок може створювати тимчасовий файл кешу. MyQuickPaste не містить процесів, які надсилають вміст буфера обміну на сервери, що керуються нами."
+      },
+      {
+        "h": "Зберігання, видалення та резервні копії даних",
+        "p": "Збережені дані залишаються в області зберігання застосунку на вашому пристрої, доки ви не видалите їх у застосунку або не видалите сам застосунок. Видалення застосунку прибирає локальні дані застосунку з пристрою, однак окремі копії можуть залишатися в резервних копіях операційної системи Android або у файлах резервних копій, які ви експортували та зберегли. Протягом 30-денного безкоштовного пробного періоду та з Pro ви можете експортувати й імпортувати дані як файл резервної копії MyQuickPaste (.mqp). Ви самі обираєте, де зберігати експортований файл, і відповідаєте за керування та видалення експортованих файлів резервних копій."
+      },
+      {
+        "h": "Магазини застосунків, покупки та зовнішні сервіси",
+        "p": "30-денний безкоштовний пробний період керується всередині застосунку на основі часу першого встановлення. Розповсюдження Android-версії та покупки Pro обробляються через Google Play, а Google Play Billing використовується для перевірки покупок. Pro — це одноразова покупка в застосунку, а не підписка. Ми не отримуємо безпосередньо номери кредитних карток або інші дані платіжних карток. Застосунок не використовує сторонні SDK для аналітики чи реклами. Коли ви користуєтеся функціями покупок або відгуків Google Play чи обраними вами зовнішніми функціями, як-от поширення, електронна пошта або веббраузер, застосовуються політики конфіденційності та умови відповідних сервісів. Версія для iOS наразі розробляється, і ця політика буде оновлена за потреби після остаточного визначення способу її розповсюдження та реалізації покупок."
+      },
+      {
+        "h": "Контакти",
+        "p": "Якщо у вас є запитання щодо цієї політики, зв’яжіться з нами за адресою myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "nl": {
+    "title": "Privacybeleid",
+    "lead": "MyQuickPaste (smartphone-editie)",
+    "updated": "Laatst bijgewerkt: 14 augustus 2026",
+    "sections": [
+      {
+        "h": "Overzicht",
+        "p": "MyQuickPaste is een smartphone-app van Good Rabbit inc. (“wij”). Dit beleid legt uit hoe MyQuickPaste informatie op je apparaat verwerkt."
+      },
+      {
+        "h": "Gegevensverzameling door ons",
+        "p": "MyQuickPaste bevat geen proces dat vrije tekst, tekstfragmenten, e-mailadressen, telefoonnummers, profielen, afbeeldingen of klembordinhoud die je in de app gebruikt verzamelt, verzendt of opslaat op servers die door ons worden beheerd. Deze inhoud wordt op je apparaat verwerkt om de functies van de app te leveren. Wanneer je echter bewust een deelfunctie gebruikt, Android-back-up wordt uitgevoerd of je winkelservices zoals Google Play gebruikt, worden gegevens verwerkt volgens de mechanismen en het beleid van het betreffende besturingssysteem of de betreffende service."
+      },
+      {
+        "h": "Opslag op het apparaat en Android-back-up",
+        "p": "Ingevoerde inhoud, categorieën, profielen, app-instellingen en geregistreerde afbeeldingen worden opgeslagen in de privéopslag van de app op je apparaat. Geregistreerde afbeeldingen worden naar deze privéopslag van de app gekopieerd. Als de back-upfunctie van het besturingssysteem op Android is ingeschakeld, kunnen sommige appgegevens worden geback-upt naar en hersteld vanuit de back-upopslag die aan je Google-account is gekoppeld. Volgens de huidige back-upregels van de app zijn geregistreerde afbeeldingsbestanden uitgesloten van cloudback-up. Bij overdracht tussen apparaten kunnen gegevens via functies van het besturingssysteem worden overgedragen."
+      },
+      {
+        "h": "Beveiliging",
+        "p": "Opgeslagen gegevens worden bewaard in een privégebied van de app dat door het besturingssysteem wordt beschermd. Wij beheren geen eigen server om door jou geregistreerde inhoud op te slaan. De beveiliging van het apparaat zelf, back-ups van het besturingssysteem en door jou geëxporteerde back-upbestanden hangt af van de beveiliging en het beheer van het betreffende apparaat, de betreffende service en de door de gebruiker beheerde opslaglocatie."
+      },
+      {
+        "h": "Toegang tot het klembord",
+        "p": "Om voorbeelden op het hoofdscherm te tonen en gerelateerde functies te bieden, kan MyQuickPaste tekst of afbeeldingen lezen die op dat moment in het klembord van je apparaat staan. Klembordinhoud wordt op het apparaat verwerkt en niet automatisch permanent opgeslagen, tenzij je deze uitdrukkelijk registreert. De app kan een tijdelijk cachebestand maken om klembordafbeeldingen vooraf te bekijken. MyQuickPaste bevat geen proces dat klembordinhoud naar door ons beheerde servers verzendt."
+      },
+      {
+        "h": "Bewaren, verwijderen en back-ups van gegevens",
+        "p": "Opgeslagen gegevens blijven in de opslagruimte van de app op je apparaat totdat je ze in de app verwijdert of de app verwijdert. Door de app te verwijderen worden lokale appgegevens van het apparaat verwijderd, maar kopieën kunnen afzonderlijk aanwezig blijven in back-ups van het Android-besturingssysteem of in back-upbestanden die je hebt geëxporteerd en bewaard. Tijdens de gratis proefperiode van 30 dagen en met Pro kun je gegevens exporteren en importeren als een MyQuickPaste-back-upbestand (.mqp). Je kiest zelf waar het geëxporteerde bestand wordt opgeslagen en bent verantwoordelijk voor het beheren en verwijderen van geëxporteerde back-upbestanden."
+      },
+      {
+        "h": "Appstores, aankopen en externe diensten",
+        "p": "De gratis proefperiode van 30 dagen wordt binnen de app beheerd op basis van het tijdstip van de eerste installatie. De distributie van de Android-editie en Pro-aankopen worden via Google Play afgehandeld, en Google Play Billing wordt gebruikt om aankopen te verifiëren. Pro is een eenmalige in-app-aankoop en geen abonnement. Wij ontvangen niet rechtstreeks creditcardnummers of andere betaalkaartgegevens. De app gebruikt geen SDK’s van derden voor analyse of advertenties. Wanneer je aankoop- of beoordelingsfuncties van Google Play gebruikt, of externe functies die je zelf kiest, zoals delen, e-mail of een webbrowser, gelden het privacybeleid en de voorwaarden van de betreffende diensten. De iOS-editie is momenteel in ontwikkeling en dit beleid wordt indien nodig bijgewerkt zodra de distributie en aankoopimplementatie zijn afgerond."
+      },
+      {
+        "h": "Contact",
+        "p": "Heb je vragen over dit beleid, neem dan contact met ons op via myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "pl": {
+    "title": "Polityka prywatności",
+    "lead": "MyQuickPaste (wersja na smartfony)",
+    "updated": "Ostatnia aktualizacja: 14 sierpnia 2026 r.",
+    "sections": [
+      {
+        "h": "Informacje ogólne",
+        "p": "MyQuickPaste to aplikacja na smartfony udostępniana przez Good Rabbit inc. („my”). Niniejsza polityka wyjaśnia, w jaki sposób MyQuickPaste przetwarza informacje na Twoim urządzeniu."
+      },
+      {
+        "h": "Gromadzenie danych przez nas",
+        "p": "MyQuickPaste nie zawiera żadnego procesu, który zbiera, przesyła lub przechowuje na obsługiwanych przez nas serwerach teksty swobodne, szablony tekstu, adresy e-mail, numery telefonów, profile, obrazy ani zawartość schowka używane przez Ciebie w aplikacji. Treści te są przetwarzane na Twoim urządzeniu w celu zapewnienia funkcji aplikacji. Jednak gdy świadomie korzystasz z funkcji udostępniania, gdy działa kopia zapasowa Androida lub gdy korzystasz z usług sklepu, takich jak Google Play, dane są przetwarzane zgodnie z mechanizmami i zasadami odpowiedniego systemu operacyjnego lub usługi."
+      },
+      {
+        "h": "Przechowywanie na urządzeniu i kopia zapasowa Androida",
+        "p": "Wprowadzone treści, kategorie, profile, ustawienia aplikacji i zarejestrowane obrazy są przechowywane w prywatnym obszarze aplikacji na Twoim urządzeniu. Zarejestrowane obrazy są kopiowane do tego prywatnego obszaru aplikacji. W systemie Android, jeśli funkcja kopii zapasowej systemu operacyjnego jest włączona, część danych aplikacji może zostać zapisana w przestrzeni kopii zapasowej powiązanej z Twoim kontem Google i z niej przywrócona. Zgodnie z aktualnymi regułami kopii zapasowej aplikacji pliki zarejestrowanych obrazów są wyłączone z kopii zapasowej w chmurze. Podczas przenoszenia między urządzeniami dane mogą być przekazywane za pośrednictwem funkcji systemu operacyjnego."
+      },
+      {
+        "h": "Bezpieczeństwo",
+        "p": "Zapisane dane są przechowywane w prywatnym obszarze aplikacji chronionym przez system operacyjny. Nie prowadzimy własnego serwera do przechowywania treści rejestrowanych przez użytkownika. Bezpieczeństwo samego urządzenia, kopii zapasowych systemu operacyjnego oraz eksportowanych przez Ciebie plików kopii zapasowych zależy od bezpieczeństwa i sposobu zarządzania odpowiednim urządzeniem, usługą oraz miejscem przechowywania kontrolowanym przez użytkownika."
+      },
+      {
+        "h": "Dostęp do schowka",
+        "p": "Aby wyświetlać podgląd na ekranie głównym i zapewniać powiązane funkcje, MyQuickPaste może odczytywać tekst lub obrazy znajdujące się obecnie w schowku urządzenia. Zawartość schowka jest przetwarzana na urządzeniu i nie jest automatycznie trwale zapisywana, chyba że wyraźnie ją zarejestrujesz. Aplikacja może utworzyć tymczasowy plik pamięci podręcznej w celu podglądu obrazów ze schowka. MyQuickPaste nie zawiera żadnego procesu wysyłającego zawartość schowka na serwery obsługiwane przez nas."
+      },
+      {
+        "h": "Przechowywanie, usuwanie i kopie zapasowe danych",
+        "p": "Zapisane dane pozostają w obszarze przechowywania aplikacji na Twoim urządzeniu do czasu ich usunięcia w aplikacji lub odinstalowania aplikacji. Odinstalowanie usuwa lokalne dane aplikacji z urządzenia, jednak ich kopie mogą pozostać oddzielnie w kopiach zapasowych systemu Android lub w plikach kopii zapasowych, które wyeksportowałeś i zachowałeś. W okresie 30-dniowego bezpłatnego okresu próbnego oraz z Pro możesz eksportować i importować dane jako plik kopii zapasowej MyQuickPaste (.mqp). Sam wybierasz miejsce zapisania eksportowanego pliku i odpowiadasz za zarządzanie eksportowanymi plikami kopii zapasowych oraz ich usuwanie."
+      },
+      {
+        "h": "Sklepy z aplikacjami, zakupy i usługi zewnętrzne",
+        "p": "30-dniowy bezpłatny okres próbny jest zarządzany wewnątrz aplikacji na podstawie czasu pierwszej instalacji. Dystrybucja wersji na Androida i zakupy Pro są obsługiwane przez Google Play, a do weryfikacji zakupów używany jest Google Play Billing. Pro to jednorazowy zakup w aplikacji, a nie subskrypcja. Nie otrzymujemy bezpośrednio numerów kart kredytowych ani innych danych kart płatniczych. Aplikacja nie korzysta z zewnętrznych SDK do celów analitycznych ani reklamowych. Gdy korzystasz z funkcji zakupów lub opinii w Google Play albo z wybranych przez siebie funkcji zewnętrznych, takich jak udostępnianie, e-mail czy przeglądarka internetowa, obowiązują polityki prywatności i warunki odpowiednich usług. Wersja na iOS jest obecnie w fazie rozwoju, a niniejsza polityka zostanie w razie potrzeby zaktualizowana po sfinalizowaniu sposobu dystrybucji i obsługi zakupów."
+      },
+      {
+        "h": "Kontakt",
+        "p": "Jeśli masz pytania dotyczące niniejszej polityki, skontaktuj się z nami pod adresem myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "sv": {
+    "title": "Integritetspolicy",
+    "lead": "MyQuickPaste (smartphone-version)",
+    "updated": "Senast uppdaterad: 14 augusti 2026",
+    "sections": [
+      {
+        "h": "Översikt",
+        "p": "MyQuickPaste är en smartphone-app som tillhandahålls av Good Rabbit inc. (”vi”). Den här policyn förklarar hur MyQuickPaste hanterar information på din enhet."
+      },
+      {
+        "h": "Datainsamling från vår sida",
+        "p": "MyQuickPaste innehåller ingen process som samlar in, överför eller lagrar på servrar som vi driver den fritext, de textmallar, e-postadresser, telefonnummer, profiler, bilder eller det urklippsinnehåll som du använder i appen. Innehållet behandlas på din enhet för att tillhandahålla appens funktioner. När du däremot uttryckligen använder en delningsfunktion, när Android-säkerhetskopiering körs eller när du använder butikstjänster som Google Play behandlas data enligt mekanismerna och policyerna för det aktuella operativsystemet eller den aktuella tjänsten."
+      },
+      {
+        "h": "Lagring på enheten och Android-säkerhetskopiering",
+        "p": "Inmatat innehåll, kategorier, profiler, appinställningar och registrerade bilder lagras i appens privata lagringsutrymme på din enhet. Registrerade bilder kopieras till detta privata apputrymme. På Android kan vissa appdata, om operativsystemets säkerhetskopieringsfunktion är aktiverad, säkerhetskopieras till och återställas från lagringsutrymme som är kopplat till ditt Google-konto. Enligt appens nuvarande regler för säkerhetskopiering undantas registrerade bildfiler från molnsäkerhetskopiering. Vid överföring mellan enheter kan data överföras via operativsystemets funktioner."
+      },
+      {
+        "h": "Säkerhet",
+        "p": "Sparade data lagras i ett privat appområde som skyddas av operativsystemet. Vi driver ingen egen server för att lagra innehåll som du registrerar. Säkerheten för själva enheten, operativsystemets säkerhetskopior och de säkerhetskopieringsfiler som du exporterar beror på säkerheten och hanteringen av den aktuella enheten, tjänsten och den lagringsplats som användaren kontrollerar."
+      },
+      {
+        "h": "Åtkomst till urklipp",
+        "p": "För att visa förhandsgranskningar på huvudskärmen och tillhandahålla relaterade funktioner kan MyQuickPaste läsa text eller bilder som för närvarande finns i enhetens urklipp. Urklippsinnehållet behandlas på enheten och lagras inte automatiskt permanent om du inte uttryckligen registrerar det. Appen kan skapa en tillfällig cachefil för att förhandsgranska bilder från urklippet. MyQuickPaste innehåller ingen process som skickar urklippsinnehåll till servrar som vi driver."
+      },
+      {
+        "h": "Lagring, radering och säkerhetskopiering av data",
+        "p": "Sparade data finns kvar i appens lagringsutrymme på din enhet tills du raderar dem i appen eller avinstallerar appen. Vid avinstallation tas appens lokala data bort från enheten, men kopior kan finnas kvar separat i säkerhetskopior från Android-operativsystemet eller i säkerhetskopieringsfiler som du har exporterat och sparat. Under den kostnadsfria 30-dagars provperioden och med Pro kan du exportera och importera data som en MyQuickPaste-säkerhetskopieringsfil (.mqp). Du väljer var den exporterade filen ska sparas och ansvarar själv för att hantera och radera exporterade säkerhetskopieringsfiler."
+      },
+      {
+        "h": "Appbutiker, köp och externa tjänster",
+        "p": "Den kostnadsfria 30-dagars provperioden hanteras i appen utifrån tidpunkten för den första installationen. Distributionen av Android-versionen och Pro-köp hanteras via Google Play, och Google Play Billing används för att verifiera köp. Pro är ett engångsköp i appen och inte en prenumeration. Vi tar inte direkt emot kreditkortsnummer eller andra uppgifter om betalkort. Appen använder inga SDK:er från tredje part för analys eller annonsering. När du använder köp- eller recensionsfunktioner i Google Play eller externa funktioner som du själv väljer, till exempel delning, e-post eller webbläsare, gäller respektive tjänsts integritetspolicy och villkor. iOS-versionen är för närvarande under utveckling och den här policyn kommer vid behov att uppdateras när distributionen och köplösningen har slutförts."
+      },
+      {
+        "h": "Kontakt",
+        "p": "Om du har frågor om den här policyn kan du kontakta oss på myquickpaste@hotmail.com."
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "ja_full": {
+    "title": "リリースノート",
+    "lead": "MyQuickPaste のバージョン履歴。",
+    "latestPrefix": "最新リリース：",
+    "storeNote": "更新は Google Play 経由で配信されます（App Store 公開後は同様に配信予定）。",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "2026年7月",
+        "title": "画像カテゴリ",
+        "items": [
+          "画像カテゴリを追加（名刺・ロゴなどを保存）",
+          "画像のタップコピー、共有、プレビュー",
+          "JPEG / PNG / WebP / GIF に対応"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "初回公開（Android）",
+        "items": [
+          "カテゴリ別リスト：フリーワード、定型文、メール、電話、画像、プロフィール",
+          "タップでコピー、長押しプレビュー",
+          "項目ごとにコピーできるプロフィールカード",
+          "リストとプロフィールの並べ替え",
+          "無料版＋30日間の無料体験（保存上限アップ・バックアップ）",
+          "JSON エクスポート／インポート（Pro）",
+          "ライト／ダーク、プレミアムテーマは Pro 購入限定",
+          "コピー時フィードバック、起動時カテゴリ、バックアップ設定"
+        ]
+      }
+    ]
+  },
+  "en_full": {
+    "title": "Release Notes",
+    "lead": "Version history for MyQuickPaste.",
+    "latestPrefix": "Latest release:",
+    "storeNote": "Updates are delivered through Google Play and, when available, the App Store.",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "July 2026",
+        "title": "Image category",
+        "items": [
+          "Added Image category (save business cards, logos, and more)",
+          "Tap to copy, share, and preview images",
+          "Supports JPEG, PNG, WebP, and GIF"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "Initial public release (Android)",
+        "items": [
+          "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile",
+          "Tap to copy and long-press preview",
+          "Profile cards with per-field copy",
+          "Reorder mode for list and profile items",
+          "Free plan + 30-day free trial (higher limits and backup)",
+          "JSON export/import (Pro)",
+          "Light and dark themes; premium themes with Pro",
+          "Settings for copy feedback, startup category, and data backup"
+        ]
+      }
+    ]
+  },
+  "locales_needing_translation": {
+    "fr": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "de": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "zh": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "zh_TW": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "ko": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "ru": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "it": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "es": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "pt": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "hi": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "ar": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "id": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "th": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "vi": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "tr": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "uk": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "nl": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "pl": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ],
+    "sv": [
+      {
+        "path": "entries[0].date",
+        "current_value": "July 2026",
+        "en_reference": "July 2026",
+        "ja_reference": "2026年7月"
+      },
+      {
+        "path": "entries[0].title",
+        "current_value": "Image category",
+        "en_reference": "Image category",
+        "ja_reference": "画像カテゴリ"
+      },
+      {
+        "path": "entries[0].items[0]",
+        "current_value": "Added Image category (save business cards, logos, and more)",
+        "en_reference": "Added Image category (save business cards, logos, and more)",
+        "ja_reference": "画像カテゴリを追加（名刺・ロゴなどを保存）"
+      },
+      {
+        "path": "entries[0].items[1]",
+        "current_value": "Tap to copy, share, and preview images",
+        "en_reference": "Tap to copy, share, and preview images",
+        "ja_reference": "画像のタップコピー、共有、プレビュー"
+      }
+    ]
+  },
+  "unique_paths_needing_translation": [
+    "entries[0].date",
+    "entries[0].items[0]",
+    "entries[0].items[1]",
+    "entries[0].title"
+  ],
+  "meta": {
+    "note": "翻訳文は未作成。ja/en 全文と他19言語で en と同一の未翻訳キーのみ（許容英語残存は除外済み）。",
+    "total_key_locale_pairs_needing_translation": 76,
+    "unique_path_count": 4
+  }
+}

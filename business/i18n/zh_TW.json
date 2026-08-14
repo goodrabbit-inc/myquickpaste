@@ -1,10 +1,10 @@
 {
   "meta": {
     "lang": "zh-TW",
-    "title": "MyQuickPaste — 手機版",
-    "description": "把常用的文字保存在手機裡，一鍵複製。MyQuickPaste 依分類整理常用語、地址、聯絡方式與個人資料卡。",
-    "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "title": "MyQuickPaste | 一鍵複製日常文字",
+    "description": "儲存常用語、地址、聯絡人、URL、表情符號、主題標籤等內容，一鍵複製。切換到常用 App 貼上即可。MyQuickPaste 讓手機輸入更簡單。",
+    "ogTitle": "MyQuickPaste | 一鍵複製日常文字",
+    "ogDescription": "儲存常用文字和資訊，需要時一鍵複製。切換到常用 App 貼上即可。"
   },
   "lang": {
     "label": "語言",
@@ -14,38 +14,38 @@
   "nav": {
     "home": "首頁",
     "support": "支援",
-    "releaseNotes": "更新紀錄",
+    "releaseNotes": "更新日誌",
     "privacy": "隱私權",
-    "features": "Features",
-    "how": "How it works",
-    "screens": "Screens",
-    "pricing": "Pricing",
+    "features": "功能",
+    "how": "使用方法",
+    "screens": "畫面",
+    "pricing": "價格",
     "cta": "30 天免費體驗"
   },
   "brand": {
     "name": "MyQuickPaste",
-    "edition": "手機版"
+    "edition": "智慧型手機版"
   },
   "hero": {
-    "badge": "支援 Android 與 iPhone",
-    "catch": "把常用的文字先存起來，一鍵就能複製。",
+    "badge": "MyQuickPaste 智慧型手機版",
+    "catch": "常用文字，一鍵複製。",
     "lead": "常用語、地址、聯絡人、URL、表情符號、主題標籤。儲存反覆使用的內容，需要時從清單一鍵複製。",
     "platformLine": "Google Play 即將推出 · App Store 開發中",
     "trialTitle": "30 天免費體驗",
     "trialText": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。",
-    "trust": "資料保存在裝置內 · 支援 21 種語言",
-    "eyebrow": "MyQuickPaste for smartphones",
-    "catchLine1": "Everyday text,",
-    "catchLine2": "one tap away.",
+    "trust": "21 種語言",
+    "eyebrow": "MyQuickPaste 智慧型手機版",
+    "catchLine1": "常用文字，",
+    "catchLine2": "一鍵複製。",
     "sub": "然後切換到常用 App，貼上即可。",
-    "ctaPrimary": "See how it works",
+    "ctaPrimary": "了解使用方法",
     "ctaSecondary": "30 天免費體驗",
-    "statusPlay": "Google Play coming soon",
-    "statusApp": "App Store in development",
+    "statusPlay": "Google Play 即將推出",
+    "statusApp": "App Store 開發中",
     "pill1": "30 天免費體驗",
-    "pill2": "Pro is a one-time purchase",
-    "pill3": "Stored on your device",
-    "pill4": "21 languages"
+    "pill2": "Pro 買斷制",
+    "pill3": "儲存在裝置內",
+    "pill4": "21 種語言"
   },
   "stores": {
     "googlePlay": "在 Google Play 上取得",
@@ -54,7 +54,7 @@
     "inDevelopment": "開發中",
     "googlePlayBadgeAlt": "在 Google Play 上取得",
     "appStoreBadgeAlt": "在 App Store 下載",
-    "microsoftBadgeAlt": "在 Microsoft Store 取得（Windows 版 MyQuickPaste）"
+    "microsoftBadgeAlt": "從 Microsoft 取得（Windows 版 MyQuickPaste）"
   },
   "compare": {
     "title": "MyQuickPaste 系列",
@@ -97,24 +97,24 @@
     "footer": "幾小時前才複製的內容？用 Gboard 很方便。但每週都要用的地址、簽名或固定回覆？把它保存在這裡，從此不用再費心尋找。"
   },
   "steps": {
-    "title": "使用方式",
-    "subtitle": "保存、點一下、貼上——只要 3 個步驟。",
+    "title": "使用方法",
+    "subtitle": "無需複雜設定，只需三個步驟。",
     "items": [
       {
-        "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "title": "儲存常用內容",
+        "text": "註冊常用文字、聯絡人等內容。"
       },
       {
-        "title": "Tap the row you need",
-        "text": "One tap copies the content to your clipboard."
+        "title": "點擊需要的項目",
+        "text": "點一下即可複製到剪貼簿。"
       },
       {
-        "title": "Paste in another app",
-        "text": "Switch to mail, social, chat, maps, and paste."
+        "title": "在其他 App 中貼上",
+        "text": "切換到郵件、社群、聊天、地圖等 App 後貼上。"
       }
     ],
-    "titleLine1": "Save, tap,",
-    "titleLine2": "then paste."
+    "titleLine1": "儲存、點擊，",
+    "titleLine2": "然後貼上。"
   },
   "benefits": {
     "title": "深受喜愛的特點",
@@ -137,72 +137,72 @@
     ]
   },
   "features": {
-    "title": "主要功能",
-    "subtitle": "讓手機上日常的複製貼上更輕鬆的各項功能。",
+    "title": "功能",
+    "subtitle": "減輕日常輸入負擔的工具。",
     "items": [
       {
-        "title": "Copy with one tap",
-        "text": "Tap a row to copy its content to the clipboard.",
+        "title": "一鍵複製",
+        "text": "點擊列即可將內容複製到剪貼簿。",
         "icon": "tap",
         "large": true
       },
       {
-        "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "title": "依用途整理",
+        "text": "可按自由文字、常用語、郵件、電話、圖片、個人資料分類管理。",
         "icon": "folder",
         "large": true
       },
       {
-        "title": "Reorder favorites",
-        "text": "Move frequent items to the top so they’re easier to find.",
+        "title": "重新排序常用項目",
+        "text": "將常用項目移到上方，更容易找到。",
         "icon": "sort"
       },
       {
-        "title": "Copy field by field",
-        "text": "Copy only the address, name, or phone number you need.",
+        "title": "逐欄位複製",
+        "text": "只複製需要的地址、姓名或電話號碼。",
         "icon": "card"
       },
       {
-        "title": "Images ready to use",
-        "text": "Save logos or photos, then copy, share, or preview.",
+        "title": "圖片隨時可用",
+        "text": "儲存標誌或照片，然後複製、分享或預覽。",
         "icon": "image"
       },
       {
-        "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "title": "匯出與匯入",
+        "text": "可匯出備份並在需要時匯入。30 天免費體驗與 Pro 可用。",
         "icon": "backup"
       },
       {
-        "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "title": "選擇外觀",
+        "text": "提供淺色和深色主題；使用 Pro 後還可使用進階配色主題。",
         "icon": "theme"
       },
       {
-        "title": "Stays on device",
-        "text": "Your text and profiles are managed on the phone.",
+        "title": "保存在裝置內",
+        "text": "文字和個人資料在裝置內管理。",
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "6 個分類",
+    "categoriesLabel": "分類：自由文字、常用語、郵件、電話、圖片、個人資料",
     "categories": [
       "自由文字",
       "常用語",
       "郵件",
       "電話",
       "圖片",
-      "資料"
+      "個人資料"
     ],
-    "titleLine1": "Simple,",
-    "titleLine2": "with the essentials."
+    "titleLine1": "簡潔，",
+    "titleLine2": "但功能齊全。"
   },
   "themesSection": {
-    "title": "14 種配色主題",
-    "subtitle": "免費版含淺色與深色。Pro 版可解鎖適合商務與日常使用的 premium 主題。",
-    "imageAlt": "MyQuickPaste 14 種主題網格：上方 7 個淺色主題，下方 7 個深色主題。",
-    "caption": "上排：7 個淺色主題 / 下排：7 個深色主題",
-    "note": "Premium 主題需購買 Pro 版。",
-    "titleLine1": "Match the look",
-    "titleLine2": "to where you use it."
+    "title": "主題",
+    "subtitle": "淺色與深色，Pro 還可使用進階配色主題。",
+    "imageAlt": "MyQuickPaste 主題庫",
+    "caption": "淺色 / 深色 / 進階主題",
+    "note": "進階主題需購買 Pro，不包含在 30 天體驗中。",
+    "titleLine1": "配合外觀",
+    "titleLine2": "適應使用場景。"
   },
   "usecases": {
     "title": "適合這樣的你",
@@ -245,43 +245,43 @@
       "分類名稱與圖示自訂"
     ],
     "note": "應用程式本體可免費下載。Pro 是透過應用程式商店購買的一次性付費附加項目，價格可能因地區而異。",
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
-    "trialLabel": "First install only",
+    "titleLine1": "先體驗 30 天，",
+    "titleLine2": "感受使用體驗。",
+    "trialLabel": "僅限首次安裝",
     "trialTitle": "30 天免費體驗",
     "trialText": "文字分類：各類最多 200 則 · 圖片：最多 50 · 個人資料：最多 30 · 備份匯出/匯入",
     "trialNote": "進階主題以及分類名稱/圖示變更需購買 Pro 後使用。30 天體驗結束後，已註冊的資料不會刪除。超出免費上限的資料也會保留，購買 Pro 後可再次使用。",
     "freeLead": "基本功能可永久免費使用。",
-    "proTag": "One-time purchase",
-    "proLead": "No monthly fee.",
-    "notSub": "Not a subscription"
+    "proTag": "一次性購買",
+    "proLead": "無月費。",
+    "notSub": "不是訂閱制"
   },
   "privacySection": {
-    "title": "資料只保存在裝置內",
-    "text": "在 MyQuickPaste 中儲存的文字和個人資料均在裝置內管理。不會自動將內容上傳到雲端。",
+    "title": "裝置內隱私",
+    "text": "在 MyQuickPaste 中儲存的文字和個人資料在裝置上管理。我們不會自動將內容傳送到雲端。",
     "link": "閱讀隱私權政策",
     "titleLine1": "重要內容",
-    "titleLine2": "留在你的裝置裡。",
+    "titleLine2": "留在你的裝置上。",
     "points": [
-      "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
-      "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "無自動雲端同步",
+      "不會自動將註冊內容傳送到外部伺服器",
+      "資料在裝置上管理",
+      "30 天免費體驗和 Pro 均可匯出自己的備份。"
     ]
   },
   "cta": {
-    "title": "今天就開始告別重複輸入同樣的文字吧",
-    "lead": "儲存、點擊、貼上。用 MyQuickPaste 讓每日輸入更簡單一點。",
-    "button": "在 Google Play 上取得",
+    "title": "常用文字，一鍵複製。",
+    "lead": "儲存、點擊，然後貼上。",
+    "button": "30 天免費體驗",
     "titleLine1": "常用文字，",
-    "titleLine2": "更近在手邊。",
+    "titleLine2": "一鍵複製。",
     "sub": "首次安裝後 30 天內，可免費體驗更高的保存上限和備份功能。"
   },
   "footer": {
-    "pcEdition": "MyQuickPaste（電腦版）",
+    "pcEdition": "Windows 版",
     "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.",
     "developer": "開發者：Kazuhiro Suda",
-    "contact": "Contact"
+    "contact": "聯絡我們"
   },
   "supportPage": {
     "title": "支援",
@@ -323,40 +323,40 @@
   },
   "privacyPage": {
     "title": "隱私權政策",
-    "lead": "MyQuickPaste（手機版）",
-    "updated": "Last updated: July 2026",
+    "lead": "MyQuickPaste（智慧型手機版）",
+    "updated": "最後更新：2026年8月14日",
     "sections": [
       {
-        "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "h": "概述",
+        "p": "MyQuickPaste 是由 Good Rabbit inc.（以下簡稱「我們」）提供的智慧型手機應用程式。本政策說明 MyQuickPaste 如何處理您裝置上的資訊。"
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "我們收集的資料",
+        "p": "MyQuickPaste 不包含將您在應用程式中使用的自由文字、常用語、電子郵件地址、電話號碼、個人資料、圖片或剪貼簿內容收集、傳送或儲存到我們營運的伺服器上的處理。這些內容僅在您的裝置上處理，以提供應用程式功能。不過，當您主動使用分享功能、Android 備份功能執行，或使用 Google Play 等應用程式商店服務時，相關資料將依照相應作業系統或服務的機制與政策處理。"
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "裝置內儲存與 Android 備份",
+        "p": "您輸入的內容、分類、個人資料、應用程式設定及已註冊圖片，都會儲存在裝置上的應用程式專用私有儲存空間。已註冊圖片會複製並儲存到該私有空間。在 Android 上，若作業系統的備份功能已啟用，部分應用程式資料可能會備份到與您的 Google 帳戶相關聯的備份儲存空間，並可從中還原。依照應用程式目前的備份規則，已註冊圖片檔案不包含在雲端備份中。進行裝置間移轉時，資料可能透過作業系統提供的功能進行傳輸。"
       },
       {
-        "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "h": "安全性",
+        "p": "已儲存的資料會存放在受作業系統保護的應用程式專用私有區域。我們不營運用於儲存您所註冊內容的自有伺服器。裝置本身、作業系統備份及您匯出的備份檔案之安全性，取決於相關裝置、服務以及由您管理的儲存位置之安全與管理狀況。"
       },
       {
-        "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "h": "剪貼簿存取",
+        "p": "為了在主畫面顯示預覽並提供相關功能，MyQuickPaste 可能會讀取目前儲存在您裝置剪貼簿中的文字或圖片。剪貼簿內容僅在裝置上處理，除非您主動註冊，否則不會自動永久儲存。為了預覽剪貼簿中的圖片，應用程式可能會建立暫時的快取檔案。MyQuickPaste 不包含將剪貼簿內容傳送到我們營運的伺服器上的處理。"
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "資料保留、刪除與備份",
+        "p": "已儲存的資料會保留在您裝置上的應用程式儲存區域，直到您在應用程式內刪除資料或解除安裝應用程式。解除安裝會刪除裝置上的本機應用程式資料，但副本可能仍另外保留在 Android 作業系統備份中，或保留在您已匯出並自行保存的備份檔案中。在30天免費體驗期間以及使用 Pro 時，您可以將資料匯出或匯入為 MyQuickPaste 備份檔案（.mqp）。匯出檔案的儲存位置由您自行選擇，匯出的備份檔案也由您自行管理與刪除。"
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "應用程式商店、購買與外部服務",
+        "p": "30天免費體驗以首次安裝時間為基準，由應用程式內部管理。Android 版的發佈與 Pro 購買透過 Google Play 處理，並使用 Google Play Billing 驗證購買。Pro 為一次性應用程式內購買，並非訂閱。我們不會直接取得信用卡號碼或其他付款卡資訊。應用程式不使用第三方分析或廣告 SDK。當您使用 Google Play 的購買或評論功能，或主動使用分享、電子郵件、網頁瀏覽器等外部功能時，將適用相應服務的隱私權政策與條款。iOS 版目前仍在開發中，其發佈與購買實作最終確定後，我們將視需要更新本政策。"
       },
       {
-        "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "h": "聯絡我們",
+        "p": "如對本政策有任何疑問，請透過 myquickpaste@hotmail.com 與我們聯絡。"
       }
     ]
   },
@@ -368,11 +368,11 @@
     "entries": [
       {
         "version": "1.0.1",
-        "date": "July 2026",
-        "title": "Image category",
+        "date": "2026年7月",
+        "title": "圖片分類",
         "items": [
-          "Added Image category (save business cards, logos, and more)",
-          "Tap to copy, share, and preview images",
+          "新增圖片分類（可儲存名片、標誌等）",
+          "點擊即可複製、分享及預覽圖片",
           "Supports JPEG, PNG, WebP, and GIF"
         ]
       },
@@ -394,11 +394,11 @@
     ]
   },
   "screenshots": {
-    "title": "應用程式畫面預覽",
-    "subtitle": "以下為 MyQuickPaste（Android 版）的實際畫面截圖。",
-    "freetextAlt": "自由文字清單，簽名、網址等內容可一鍵複製",
-    "snippetsAlt": "常用語分類，包含郵件回覆範本",
-    "profileAlt": "個人資料卡（住家、公司等）",
+    "title": "App 畫面",
+    "subtitle": "MyQuickPaste 的實際畫面。",
+    "freetextAlt": "自由文字清單畫面",
+    "snippetsAlt": "常用語清單畫面",
+    "profileAlt": "個人資料卡片畫面",
     "profileEditAlt": "個人資料編輯畫面",
     "cateAlt": "6 個分類頁籤（自由文字、常用語、郵件、電話、圖片、資料）",
     "items": [
@@ -421,188 +421,188 @@
         "caption": "分類標籤 — 在六個清單間瞬間切換"
       }
     ],
-    "imagesAlt": "圖片分類，範例圖片可一鍵複製或分享",
-    "titleLine1": "Clear enough",
-    "titleLine2": "to use right away.",
-    "lead": "Large rows, clear categories, and simple edit actions—built for everyday use.",
-    "freetextCap": "Manage reusable text in one list",
-    "snippetsCap": "Copy your usual replies fast",
-    "imagesCap": "Save, copy, and share images",
-    "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together"
+    "imagesAlt": "圖片分類畫面",
+    "titleLine1": "一看就懂，",
+    "titleLine2": "馬上就能用。",
+    "lead": "大列、清楚分類、簡單編輯操作——為日常使用而設計。",
+    "freetextCap": "在一個清單中管理可重複使用的文字",
+    "snippetsCap": "快速複製常用回覆",
+    "imagesCap": "儲存、複製並分享圖片",
+    "profileCap": "逐欄位複製地址或聯絡方式",
+    "profileEditCap": "一併註冊所需資訊"
   },
   "trust": {
-    "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
-    "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "不會自動將儲存的資料上傳到雲端。",
-    "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t1Title": "點擊複製",
+    "t1Text": "只需點擊已儲存的列。",
+    "t2Title": "Pro 買斷",
+    "t2Text": "無需按月付費。",
+    "t3Title": "儲存在裝置內",
+    "t3Text": "註冊內容在裝置內管理。",
+    "t4Title": "21 種語言介面",
+    "t4Text": "支援 21 種語言的畫面顯示。"
   },
   "pain": {
     "titleLine1": "別再每次都想",
     "titleLine2": "「放哪了？」",
-    "lead": "經常用的資訊，卻每次都要翻備忘錄、長按重選、反覆輸入。這些小步驟每天都在累積。",
+    "lead": "經常用的資訊，卻每次都要翻備忘錄、長按重選、反覆輸入相同文字。這些小步驟每天都在累積。",
     "p1Title": "查找",
     "p1Text": "地址或常用語，不知道在哪則備忘錄裡。",
     "p2Title": "選取",
     "p2Text": "長按選取，只要需要的部分。",
     "p3Title": "再次輸入",
     "p3Text": "回覆語或個人簡介，反覆在鍵盤上重打。",
-    "resolveLine1": "With MyQuickPaste,",
-    "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
-    "flowOldLabel": "Typical flow",
-    "flowOld1": "Search",
-    "flowOld2": "Select",
-    "flowOld3": "Copy",
+    "resolveLine1": "使用 MyQuickPaste，",
+    "resolveLine2": "從清單一鍵複製。",
+    "resolveSub": "不用找。不用重打。點擊需要的列即可。",
+    "flowOldLabel": "一般流程",
+    "flowOld1": "搜尋",
+    "flowOld2": "選取",
+    "flowOld3": "複製",
     "flowNewLabel": "MyQuickPaste",
-    "flowNew1": "Tap",
-    "flowNew2": "Copy"
+    "flowNew1": "點擊",
+    "flowNew2": "複製"
   },
   "sceneSocial": {
-    "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "eyebrow": "社群媒體也適用",
+    "titleLine1": "表情符號和主題標籤—",
+    "titleLine2": "需要時立刻複製。",
+    "lead": "儲存常用表情符號、主題標籤和貼文文字。點擊複製，貼到常用社群 App 即可。",
     "points": [
       {
-        "title": "Emoji",
-        "text": "Keep favorites handy",
+        "title": "表情符號",
+        "text": "儲存收藏",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "貼文",
+        "text": "儲存常用文字",
         "icon": "camera"
       },
       {
-        "title": "Hashtags",
-        "text": "Copy as a set",
+        "title": "主題標籤",
+        "text": "整組複製",
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "快速複製",
+        "text": "需要時一鍵完成",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
-    "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "eyebrow": "工作也適用",
+    "titleLine1": "常用語和聯絡人—",
+    "titleLine2": "需要時立刻複製。",
+    "lead": "常用語、電子郵件、電話號碼、URL 等反覆使用的資訊集中管理。點擊列即可立即複製。",
     "points": [
       {
-        "title": "Snippets",
-        "text": "Your usual replies",
+        "title": "常用語",
+        "text": "日常回覆語",
         "icon": "doc"
       },
       {
-        "title": "Email",
-        "text": "Signatures & notices",
+        "title": "郵件",
+        "text": "儲存簽名和說明",
         "icon": "mail"
       },
       {
-        "title": "Contacts",
-        "text": "Copy numbers fast",
+        "title": "聯絡人",
+        "text": "快速複製電話號碼",
         "icon": "phone"
       },
       {
-        "title": "Quick copy",
-        "text": "Done in one tap",
+        "title": "快速複製",
+        "text": "一鍵完成",
         "icon": "zap"
       }
     ]
   },
   "sceneDaily": {
-    "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "eyebrow": "日常生活中",
+    "titleLine1": "地址和個人簡介—",
+    "titleLine2": "需要時立刻複製。",
+    "lead": "住家地址、電子郵件、個人簡介、常用短語。需要時點擊即可立即複製。",
     "points": [
       {
-        "title": "Address",
-        "text": "Less retyping",
+        "title": "地址",
+        "text": "減少重複輸入",
         "icon": "home"
       },
       {
-        "title": "Profile",
-        "text": "Save your intro",
+        "title": "個人資料",
+        "text": "儲存自我介紹",
         "icon": "user"
       },
       {
-        "title": "Go-to phrases",
-        "text": "Reuse anytime",
+        "title": "常用語",
+        "text": "隨時重複使用",
         "icon": "note"
       },
       {
-        "title": "Find fast",
-        "text": "Stay organized",
+        "title": "快速找到",
+        "text": "清楚整理",
         "icon": "search"
       }
     ]
   },
   "comparison": {
-    "titleLine1": "Not just temporary copies—",
-    "titleLine2": "a home for what you reuse.",
-    "otherLabel": "Notes or clipboard history",
-    "other1": "Open",
-    "other2": "Search",
-    "other3": "Select what you need",
-    "other4": "Copy",
-    "otherText": "Great for recent history. For information you reuse often, searching becomes friction.",
+    "titleLine1": "不只是暫時複製——",
+    "titleLine2": "常用資訊的固定存放處。",
+    "otherLabel": "備忘錄或剪貼簿歷史",
+    "other1": "開啟",
+    "other2": "搜尋",
+    "other3": "選取所需部分",
+    "other4": "複製",
+    "otherText": "適合最近的歷史記錄。對於經常重複使用的資訊，搜尋會變成負擔。",
     "appLabel": "MyQuickPaste",
-    "app1": "Open",
-    "app2": "Tap a row",
-    "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "app1": "開啟",
+    "app2": "點擊列",
+    "app3": "已複製",
+    "appText": "清晰整理並儲存反覆使用的文字和資訊。"
   },
   "faq": {
-    "title": "FAQ",
+    "title": "常見問題",
     "items": [
       {
-        "q": "Does a tap paste into another app automatically?",
-        "a": "Tapping a row copies it to the clipboard. Then switch to mail, social, or chat and paste there."
+        "q": "點擊後會自動貼到其他 App 嗎？",
+        "a": "點擊列會複製到剪貼簿。然後切換到郵件、社群或聊天 App 後貼上。"
       },
       {
-        "q": "Where is my data stored?",
-        "a": "Text, profiles, and settings are stored on your smartphone."
+        "q": "我的資料儲存在哪裡？",
+        "a": "文字、個人資料和設定儲存在智慧型手機上。"
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
+        "q": "30 天體驗結束後還能使用 App 嗎？",
         "a": "不會。體驗結束後仍可繼續使用免費版。已註冊的資料不會刪除。超出免費上限的資料也會保留，購買 Pro 後可再次使用。"
       },
       {
-        "q": "Is Pro a monthly subscription?",
-        "a": "No. Pro is a one-time purchase with no recurring monthly fee."
+        "q": "Pro 是按月訂閱嗎？",
+        "a": "不是。Pro 為買斷制，沒有按月續費。"
       },
       {
-        "q": "Can I share data with the Windows edition?",
-        "a": "No. The smartphone and Windows editions are separate apps. Purchases and saved data are not shared."
+        "q": "可以與 Windows 版共享資料嗎？",
+        "a": "智慧型手機版與 Windows 版是獨立 App，購買記錄和儲存的資料不共享。"
       },
       {
-        "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "q": "換手機時可以移轉資料嗎？",
+        "a": "可匯出備份並在需要時匯入。30 天免費體驗與 Pro 可用。"
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
-    "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
-    "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
-    "link": "Windows edition homepage"
+    "titleLine2": "也有 Windows 版。",
+    "text": "Windows 版常駐螢幕邊緣，可一鍵貼上已註冊的文字——這是獨立 App。",
+    "note": "與智慧型手機版不是同一 App，購買記錄和儲存的資料不共享。",
+    "link": "Windows 版首頁"
   },
   "sceneMore": {
     "titleLine1": "這些場景也用得上。",
     "titleLine2": "",
-    "lead": "旅行、二手交易、聊天、活動組織——常用文字，一鍵即達。",
+    "lead": "旅行、二手交易、聊天、活動組織—任何場景都能一鍵複製常用文字。",
     "cap3": "二手平台常用語，立刻複製",
-    "cap4": "聊天回覆，一鍵貼上",
-    "cap6": "活動通知，隨時可用"
+    "cap4": "聊天回覆，立刻複製",
+    "cap6": "活動通知，立刻複製"
   }
 }

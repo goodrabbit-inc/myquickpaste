@@ -2,9 +2,9 @@
   "meta": {
     "lang": "en",
     "title": "MyQuickPaste | Copy everyday text with one tap",
-    "description": "Save snippets, addresses, contacts, emoji, and hashtags—then copy with one tap. MyQuickPaste makes phone typing simpler.",
+    "description": "Save snippets, addresses, contacts, URLs, emoji, hashtags, and more—then copy with one tap. Switch to your usual app and paste. MyQuickPaste makes smartphone typing simpler.",
     "ogTitle": "MyQuickPaste | Copy everyday text with one tap",
-    "ogDescription": "Save the text you reuse and copy it with one tap on your smartphone."
+    "ogDescription": "Save the text and info you reuse, then copy with one tap when you need it. Switch to your usual app and paste."
   },
   "lang": {
     "label": "Language",
@@ -30,7 +30,7 @@
     "eyebrow": "MyQuickPaste for smartphones",
     "catchLine1": "Everyday text,",
     "catchLine2": "one tap away.",
-    "lead": "Snippets, addresses, contacts, URLs, emoji, hashtags. Save what you reuse, then copy with one tap from your list.",
+    "lead": "Snippets, addresses, contacts, URLs, emoji, hashtags. Save what you reuse, then copy with one tap from your list when you need it.",
     "sub": "Then switch to your usual app and paste.",
     "ctaPrimary": "See how it works",
     "ctaSecondary": "30-day free trial",
@@ -58,18 +58,18 @@
   },
   "trust": {
     "t1Title": "Tap to copy",
-    "t1Text": "One tap on a saved row.",
+    "t1Text": "Just tap a saved row.",
     "t2Title": "One-time Pro",
-    "t2Text": "No monthly fee.",
-    "t3Title": "On-device storage",
-    "t3Text": "We don't auto-send your saved data to the cloud.",
+    "t2Text": "No monthly payments.",
+    "t3Title": "Stored on device",
+    "t3Text": "Your saved content is managed on device.",
     "t4Title": "21-language UI",
-    "t4Text": "Use the app in many languages."
+    "t4Text": "App screens in 21 languages."
   },
   "pain": {
     "titleLine1": "Stop asking yourself,",
     "titleLine2": "\"Where was that?\"",
-    "lead": "You reuse the same info—yet every time you search notes, long-press to reselect, or retype. Those small steps add up every day.",
+    "lead": "You reuse the same info—yet every time you search notes, long-press to reselect, or retype the same text. Those small steps add up every day.",
     "p1Title": "Search",
     "p1Text": "You can't find which note holds the address or snippet.",
     "p2Title": "Select",
@@ -78,7 +78,7 @@
     "p3Text": "You retype the same reply or profile over and over.",
     "resolveLine1": "With MyQuickPaste,",
     "resolveLine2": "one tap from the list.",
-    "resolveSub": "Save it once, then copy whenever you need it.",
+    "resolveSub": "Don't search. Don't retype. Just tap the row you need.",
     "flowOldLabel": "Typical flow",
     "flowOld1": "Search",
     "flowOld2": "Select",
@@ -95,7 +95,7 @@
     "items": [
       {
         "title": "Save what you reuse",
-        "text": "Add text or contact details with a clear name."
+        "text": "Register your go-to text, contacts, and more."
       },
       {
         "title": "Tap the row you need",
@@ -109,18 +109,18 @@
   },
   "sceneSocial": {
     "eyebrow": "For social too",
-    "titleLine1": "Ready to post",
-    "titleLine2": "the moment you think of it.",
-    "lead": "Save favorite emoji and hashtags. Copy the text you need, then paste into your usual social apps.",
+    "titleLine1": "Emoji and hashtags—",
+    "titleLine2": "copy when you need them.",
+    "lead": "Save favorite emoji, hashtags, and go-to posts. Tap to copy what you need, then paste into your usual social apps.",
     "points": [
       {
         "title": "Emoji",
-        "text": "Keep favorites handy",
+        "text": "Save favorites",
         "icon": "heart"
       },
       {
-        "title": "Social posts",
-        "text": "Prep captions fast",
+        "title": "Posts",
+        "text": "Save go-to captions",
         "icon": "camera"
       },
       {
@@ -129,17 +129,17 @@
         "icon": "tag"
       },
       {
-        "title": "Save time",
-        "text": "Less hunting around",
+        "title": "Quick copy",
+        "text": "One tap when needed",
         "icon": "clock"
       }
     ]
   },
   "sceneWork": {
     "eyebrow": "At work too",
-    "titleLine1": "Cut the time",
-    "titleLine2": "spent searching.",
-    "lead": "Keep replies, addresses, and contacts in one place. Tap a row when you need a quick copy.",
+    "titleLine1": "Snippets and contacts—",
+    "titleLine2": "copy when you need them.",
+    "lead": "Keep snippets, email addresses, phone numbers, URLs, and other info you reuse in one place. Tap a row to copy instantly.",
     "points": [
       {
         "title": "Snippets",
@@ -148,12 +148,12 @@
       },
       {
         "title": "Email",
-        "text": "Signatures & notices",
+        "text": "Save signatures and notices",
         "icon": "mail"
       },
       {
         "title": "Contacts",
-        "text": "Copy numbers fast",
+        "text": "Copy phone numbers fast",
         "icon": "phone"
       },
       {
@@ -165,9 +165,9 @@
   },
   "sceneDaily": {
     "eyebrow": "In daily life",
-    "titleLine1": "Keep everyday info",
-    "titleLine2": "closer.",
-    "lead": "Home address, email, profile bio, favorite lines. Call them up when you need them.",
+    "titleLine1": "Address and profile—",
+    "titleLine2": "copy when you need them.",
+    "lead": "Home address, email, profile bio, favorite lines. Tap when you need them and copy instantly.",
     "points": [
       {
         "title": "Address",
@@ -234,12 +234,12 @@
     "titleLine2": "with the essentials.",
     "title": "Features",
     "subtitle": "Tools that lighten everyday typing.",
-    "categoriesLabel": "Categories include Free text, Snippets, Contact, Link, Images, and Profile",
+    "categoriesLabel": "Categories: Free text, Snippets, Email, Phone, Images, Profile",
     "categories": [
       "Free text",
       "Snippets",
-      "Contact",
-      "Link",
+      "Email",
+      "Phone",
       "Images",
       "Profile"
     ],
@@ -252,7 +252,7 @@
       },
       {
         "title": "Organize by use",
-        "text": "Keep text, contacts, images, and profiles in separate lists.",
+        "text": "Organize by free text, snippets, email, phone, images, and profile.",
         "icon": "folder",
         "large": true
       },
@@ -273,12 +273,12 @@
       },
       {
         "title": "Export and import",
-        "text": "Pro can export and import JSON backups.",
+        "text": "Export backups and import when needed. Available with the 30-day free trial and Pro.",
         "icon": "backup"
       },
       {
         "title": "Choose a look",
-        "text": "Light, dark, and premium color themes are available.",
+        "text": "Light and dark, plus premium color themes with Pro.",
         "icon": "theme"
       },
       {
@@ -301,13 +301,13 @@
     "app1": "Open",
     "app2": "Tap a row",
     "app3": "Copied",
-    "appText": "Keep reusable text and details organized with clear names."
+    "appText": "Organize and save the text and info you reuse, clearly and easily."
   },
   "themesSection": {
     "titleLine1": "Match the look",
     "titleLine2": "to where you use it.",
     "title": "Themes",
-    "subtitle": "From light to dark. Pro unlocks premium color themes.",
+    "subtitle": "Light and dark, plus premium color themes with Pro.",
     "imageAlt": "MyQuickPaste theme gallery",
     "caption": "Light / dark / premium themes",
     "note": "Premium themes require a Pro purchase. They are not included in the 30-day trial."
@@ -319,9 +319,9 @@
     "text": "Text and profiles you save in MyQuickPaste are managed on your device. We don't auto-send your content to the cloud.",
     "points": [
       "No automatic cloud sync",
-      "Snippet content is not sent to our servers",
+      "Does not auto-send saved content to external servers",
       "Data stays managed on device",
-      "Pro lets you export your own backup"
+      "Export your own backup during the 30-day free trial and with Pro."
     ],
     "link": "Read the privacy policy"
   },
@@ -385,7 +385,7 @@
       },
       {
         "q": "Can I move data when I change phones?",
-        "a": "With Pro you can export JSON and import it on another device."
+        "a": "Export backups and import when needed. Available with the 30-day free trial and Pro."
       }
     ]
   },
@@ -397,12 +397,12 @@
     "link": "Windows edition homepage"
   },
   "cta": {
-    "titleLine1": "Keep everyday text",
-    "titleLine2": "closer at hand.",
-    "title": "Make typing simpler.",
-    "lead": "Save, tap, paste. Make daily typing a little simpler with MyQuickPaste.",
+    "titleLine1": "Everyday text,",
+    "titleLine2": "one tap away.",
+    "title": "Everyday text, one tap away.",
+    "lead": "Save, tap, then paste.",
     "sub": "For 30 days after first install, try higher save limits and backup free of charge.",
-    "button": "See how it works"
+    "button": "30-day free trial"
   },
   "footer": {
     "pcEdition": "Windows edition",
@@ -527,40 +527,40 @@
   },
   "privacyPage": {
     "title": "Privacy Policy",
-    "lead": "MyQuickPaste (smartphone edition)",
-    "updated": "Last updated: July 2026",
+    "lead": "MyQuickPaste (Smartphone Edition)",
+    "updated": "Last updated: August 14, 2026",
     "sections": [
       {
         "h": "Overview",
-        "p": "MyQuickPaste is a smartphone application provided by Good Rabbit inc. (\"we\", \"us\"). This policy describes how the app handles information on your device."
+        "p": "MyQuickPaste is a smartphone app provided by Good Rabbit inc. (\"we\", \"us\", or \"our\"). This policy explains how MyQuickPaste handles information on your device."
       },
       {
-        "h": "Information we do not collect",
-        "p": "We do not collect, transmit, or store your saved snippets, profile cards, or clipboard content on our servers. The app is designed to keep your data on your device."
+        "h": "Data collection by us",
+        "p": "MyQuickPaste does not include any process that collects, transmits, or stores on servers operated by us the free text, snippets, email addresses, phone numbers, profiles, images, or clipboard contents you use in the app. This content is processed on your device to provide the app's features. However, when you explicitly use a sharing feature, when Android backup operates, or when you use store services such as Google Play, data is handled according to the mechanisms and policies of the relevant operating system or service."
       },
       {
-        "h": "Local storage",
-        "p": "Your entries, categories, profile cards, and app settings are saved in the app's private storage area on your smartphone."
+        "h": "On-device storage and Android backup",
+        "p": "Entered content, categories, profiles, app settings, and registered images are stored in the app's private storage area on your device. Registered images are copied into that private app storage. On Android, if the operating system's backup feature is enabled, some app data may be backed up to and restored from backup storage associated with your Google Account. Under the app's current backup rules, registered image files are excluded from cloud backup. During device-to-device transfer, data may be transferred through operating-system features."
       },
       {
         "h": "Security",
-        "p": "Saved data is stored in the app's private storage on your device, protected by your device's operating system. We do not operate servers that store your snippet or profile content."
+        "p": "Saved data is stored in an app-private area protected by the operating system. We do not operate our own server for storing your registered content. The security of the device itself, operating-system backups, and backup files you export depends on the security and management of the relevant device, service, and user-controlled storage."
       },
       {
         "h": "Clipboard access",
-        "p": "The app may read your device clipboard to display a preview on the main screen. Clipboard content is processed only on your device and is never transmitted to us or third parties."
+        "p": "To show previews on the main screen and provide related features, MyQuickPaste may read text or images currently stored in your device's clipboard. Clipboard content is processed on the device and is not automatically stored permanently unless you explicitly register it. The app may create a temporary cache file to preview clipboard images. MyQuickPaste does not include any process that sends clipboard content to servers operated by us."
       },
       {
-        "h": "Data retention and deletion",
-        "p": "Saved entries and profile cards remain on your device until you delete them in the app or uninstall the app. Uninstalling removes the app's local data from your device. Pro users may export a JSON backup file; you manage exported files yourself."
+        "h": "Data retention, deletion, and backups",
+        "p": "Saved data remains in the app's storage area on your device until you delete it in the app or uninstall the app. Uninstalling removes the app's local data from the device, but copies may remain separately in Android operating-system backups or in backup files that you exported and retained. During the 30-day free trial and with Pro, you can export and import data as a MyQuickPaste backup file (.mqp). You choose where an exported file is saved, and you are responsible for managing and deleting exported backup files."
       },
       {
-        "h": "App stores and purchases",
-        "p": "Downloads, trials, and Pro purchases are processed by Google Play or the Apple App Store (Google Play Billing on Android). We do not receive your payment card details. Purchase and license verification are handled by the store according to its privacy policy and terms. We do not use third-party analytics or advertising SDKs in the app."
+        "h": "App stores, purchases, and external services",
+        "p": "The 30-day free trial is managed within the app based on the initial installation time. Distribution of the Android edition and Pro purchases are handled through Google Play, and Google Play Billing is used to verify purchases. Pro is a one-time in-app purchase and is not a subscription. We do not directly receive credit card numbers or other payment card details. The app does not use third-party SDKs for analytics or advertising. When you use Google Play purchase or review features, or external features you choose such as sharing, email, or a web browser, the privacy policies and terms of the relevant services apply. The iOS edition is currently in development, and this policy will be updated as needed when its distribution and purchase implementation is finalized."
       },
       {
         "h": "Contact",
-        "p": "If you have questions about this policy, contact us at myquickpaste@hotmail.com."
+        "p": "If you have any questions about this policy, please contact us at myquickpaste@hotmail.com."
       }
     ]
   },
@@ -600,9 +600,9 @@
   "sceneMore": {
     "titleLine1": "Handy in these moments too.",
     "titleLine2": "",
-    "lead": "From travel to resale apps, chat, and event planning—your go-to text is one tap away.",
-    "cap3": "Copy listing replies in a flash",
-    "cap4": "Paste chat replies with one tap",
-    "cap6": "Reuse organizer messages instantly"
+    "lead": "Travel, resale apps, chat, event planning—copy your go-to text with one tap, anywhere.",
+    "cap3": "Copy resale listing snippets instantly",
+    "cap4": "Copy chat replies instantly",
+    "cap6": "Copy organizer notices instantly"
   }
 }

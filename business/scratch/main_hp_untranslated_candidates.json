@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-08-14T02:48:15.818704+00:00",
+  "count": 21,
+  "locales_with_c": [
+    "de",
+    "es",
+    "fr",
+    "id",
+    "it",
+    "nl",
+    "pl",
+    "pt",
+    "sv",
+    "tr",
+    "vi"
+  ],
+  "entries": [
+    {
+      "locale": "fr",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "fr",
+      "key": "sceneSocial.points[2].title",
+      "value": "Hashtags",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "fr",
+      "key": "sceneWork.points[2].title",
+      "value": "Contacts",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "de",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "de",
+      "key": "sceneSocial.points[2].title",
+      "value": "Hashtags",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "it",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "es",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "es",
+      "key": "sceneSocial.points[2].title",
+      "value": "Hashtags",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "pt",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "pt",
+      "key": "sceneSocial.points[2].title",
+      "value": "Hashtags",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "id",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "id",
+      "key": "sceneWork.points[1].title",
+      "value": "Email",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "vi",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "vi",
+      "key": "sceneWork.points[1].title",
+      "value": "Email",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "tr",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "nl",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "nl",
+      "key": "sceneSocial.points[1].title",
+      "value": "Posts",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "nl",
+      "key": "sceneSocial.points[2].title",
+      "value": "Hashtags",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "pl",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "sv",
+      "key": "sceneSocial.points[0].title",
+      "value": "Emoji",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    },
+    {
+      "locale": "sv",
+      "key": "sceneSocial.points[2].title",
+      "value": "Hashtags",
+      "classification": "C",
+      "reason": "英語マスター（en.json）と同一の未翻訳文字列",
+      "identical_to_en": true
+    }
+  ]
+}

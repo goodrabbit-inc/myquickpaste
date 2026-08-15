@@ -20,7 +20,7 @@
     "how": "Så fungerar det",
     "screens": "Skärmar",
     "pricing": "Priser",
-    "cta": "30 dagars gratis provperiod"
+    "cta": "Free / Pro"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Vardagstext, ett tryck bort.",
     "lead": "Standardsvar, adresser, kontakter, URL:er, emoji, hashtags. Spara det du återanvänder och kopiera med ett tryck från listan när du behöver.",
     "platformLine": "Google Play kommer snart · App Store under utveckling",
-    "trialTitle": "30 dagars gratis provperiod",
-    "trialText": "I 30 dagar efter första installationen kan du prova högre spargränser och säkerhetskopiering gratis.",
+    "trialTitle": "Free utan tidsgräns",
+    "trialText": "Spara upp till 10 objekt per textkategori, 10 bilder och 2 profiler. Sökning, omsortering och Snabbspara ingår också.",
     "trust": "21 språk",
     "eyebrow": "MyQuickPaste för smartphones",
     "catchLine1": "Vardagstexter,",
     "catchLine2": "ett tryck bort.",
     "sub": "Byt sedan till din vanliga app och klistra in.",
     "ctaPrimary": "Se hur det fungerar",
-    "ctaSecondary": "30 dagars gratis provperiod",
+    "ctaSecondary": "Free / Pro",
     "statusPlay": "Google Play kommer snart",
     "statusApp": "App Store under utveckling",
-    "pill1": "30 dagars gratis provperiod",
+    "pill1": "Free",
     "pill2": "Pro engångsköp",
     "pill3": "Lagras på enheten",
     "pill4": "21 språk"
@@ -89,12 +89,12 @@
     "appTitle": "MyQuickPaste",
     "appTag": "En fast plats för dina viktigaste texter",
     "appItems": [
-      "Spara adresser, signaturer och standardsvar under egna namn",
-      "Sex kategorier: fri text, standardfraser, e-post, telefon, adress, profil",
+      "Spara adresser, signaturer och svar med ett namn",
+      "Sex kategorier: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
       "Posterna finns kvar tills du själv tar bort dem — försvinner inte som i en historik",
       "Gjord för att snabbt hitta och kopiera de texter du använder mest, om och om igen"
     ],
-    "footer": "Kopierade du något för några timmar sedan? Då är Gboard smidigt. Men en adress, signatur eller ett standardsvar du använder varje vecka? Spara det här en gång och slipp leta igen."
+    "footer": "Kopierade du det för några timmar sedan? Då är Gboard praktiskt. Adresser, signaturer och standardsvar som du använder varje vecka? Spara dem i MyQuickPaste så slipper du leta."
   },
   "steps": {
     "title": "Så fungerar det",
@@ -102,7 +102,7 @@
     "items": [
       {
         "title": "Spara det du återanvänder",
-        "text": "Registrera vanliga texter, kontakter och mer."
+        "text": "Spara texter, kontaktuppgifter och annan information som du använder ofta."
       },
       {
         "title": "Tryck på raden du behöver",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Organisera efter användning",
-        "text": "Hantera efter fri text, standardsvar, e-post, telefon, bilder och profil.",
+        "text": "Ordna innehållet i fri text, fraser, kontakt, länkar, bilder och profil.",
         "icon": "folder",
         "large": true
       },
@@ -169,7 +169,7 @@
       },
       {
         "title": "Exportera och importera",
-        "text": "Exportera säkerhetskopior och importera vid behov. Tillgängligt med 30 dagars gratis provperiod och Pro.",
+        "text": "Med Pro kan du exportera dina data som en .mqp-säkerhetskopia och importera dem när du behöver.",
         "icon": "backup"
       },
       {
@@ -183,12 +183,12 @@
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "Kategorier: Fri text, Standardsvar, E-post, Telefon, Bilder, Profil",
+    "categoriesLabel": "Kategorier: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
     "categories": [
       "Fri text",
       "Standardsvar",
-      "E-post",
-      "Telefon",
+      "Kontakt",
+      "Länkar",
       "Bilder",
       "Profil"
     ],
@@ -200,7 +200,7 @@
     "subtitle": "Ljust och mörkt, plus premiumfärgade teman med Pro.",
     "imageAlt": "MyQuickPaste temagalleri",
     "caption": "Ljust / mörkt / premiumteman",
-    "note": "Premiumteman kräver Pro-köp. Ingår inte i 30-dagars provperiod.",
+    "note": "Ljust och mörkt tema är tillgängliga med Free. Premiumteman är tillgängliga med Pro.",
     "titleLine1": "Matcha utseendet",
     "titleLine2": "till var du använder det."
   },
@@ -223,13 +223,13 @@
   },
   "pricing": {
     "title": "Priser",
-    "subtitle": "I 30 dagar efter första installationen: högre gränser och säkerhetskopiering gratis. Fortsätt sedan med gratisplanen.",
-    "freeTitle": "Gratis",
+    "subtitle": "Använd Free så länge du vill. Uppgradera till Pro för högre spargränser, säkerhetskopior, premiumteman och anpassning av kategorier.",
+    "freeTitle": "Free",
     "freePrice": "0",
     "freeItems": [
       "Textkategorier: 10 vardera",
       "Bilder: 10",
-      "Profiler: 1",
+      "Profiler: 2",
       "Sök",
       "Ordna om",
       "Snabbspara"
@@ -245,37 +245,37 @@
       "Anpassade kategorinamn och ikoner"
     ],
     "note": "Appen är gratis att ladda ner. Pro är ett engångstillägg som köps via appbutiken; priset kan variera mellan olika regioner.",
-    "titleLine1": "Prova i 30 dagar,",
-    "titleLine2": "och känn skillnaden.",
-    "trialLabel": "Endast vid första installation",
-    "trialTitle": "30 dagars gratis provperiod",
-    "trialText": "Textkategorier: upp till 200 vardera · Bilder: 50 · Profiler: 30 · Exportera/importera säkerhetskopia",
-    "trialNote": "Premiumteman och anpassade kategorinamn/ikoner finns efter Pro-köp. Efter provperioden raderas inte dina data. Data över gratisgränsen sparas och blir åter användbara när du köper Pro.",
-    "freeLead": "Grundfunktionerna fortsätter vara gratis.",
+    "titleLine1": "Free täcker det viktigaste.",
+    "titleLine2": "Pro ger dig mer.",
+    "trialLabel": "Free",
+    "trialTitle": "Ingen tidsgräns",
+    "trialText": "Textkategorier: 10 objekt per kategori · Bilder: 10 · Profiler: 2 · Sök · Sortera om · Snabbspara",
+    "trialNote": "Behöver du mer? Pro höjer gränserna till 200 objekt per textkategori, 50 bilder och 30 profiler och lägger till .mqp-säkerhetskopior, premiumteman samt anpassade kategorinamn och ikoner.",
+    "freeLead": "Grundfunktionerna i Free kan användas utan tidsgräns.",
     "proTag": "Engångsköp",
     "proLead": "Ingen månadsavgift.",
     "notSub": "Inte en prenumeration"
   },
   "privacySection": {
     "title": "Integritet på enheten",
-    "text": "Text och profiler i MyQuickPaste hanteras på enheten. Vi skickar inte ditt innehåll till molnet automatiskt.",
+    "text": "Texter och profiler som du sparar i MyQuickPaste hanteras på din enhet. Vi skickar inte automatiskt ditt innehåll till molnet.",
     "link": "Läs integritetspolicyn",
     "titleLine1": "Det viktiga stannar",
     "titleLine2": "på din enhet.",
     "points": [
       "Ingen automatisk molnsynk",
-      "Skickar inte sparat innehåll automatiskt till externa servrar",
+      "Skickar inte automatiskt sparat innehåll till externa servrar",
       "Data hanteras på enheten",
-      "Du kan exportera din egen säkerhetskopia under den kostnadsfria 30-dagars provperioden och med Pro."
+      "Med Pro kan du exportera din egen .mqp-säkerhetskopia."
     ]
   },
   "cta": {
     "title": "Vardagstexter, ett tryck bort.",
     "lead": "Spara, tryck, sedan klistra in.",
-    "button": "30 dagars gratis provperiod",
+    "button": "Free / Pro",
     "titleLine1": "Vardagstexter,",
     "titleLine2": "ett tryck bort.",
-    "sub": "I 30 dagar efter första installationen kan du prova högre spargränser och säkerhetskopiering gratis."
+    "sub": "Free har ingen tidsgräns. Uppgradera till Pro när som helst om du behöver mer."
   },
   "footer": {
     "pcEdition": "Windowsutgåva",
@@ -293,12 +293,12 @@
         "a": "Nej. MyQuickPaste är mobilversionen. Den delar samma grundtanke men är en fristående app med egen data och eget köp i butiken."
       },
       {
-        "q": "Vad är skillnaden mellan gratisversionen och Pro?",
-        "a": "Gratisplanen inkluderar 10 objekt per textkategori, 10 bilder och 1 profil. Kopiera, lägg till, sök, ordna om och snabbspara ingår. Pro lägger till högre gränser, säkerhetskopiering, premiumteman och kategorianpassning. Ny installation: 30 dagars gratis provperiod för gränser och säkerhetskopiering (premiumteman och anpassning kräver Pro)."
+        "q": "Vad är skillnaden mellan Free och Pro?",
+        "a": "Med Free kan du spara upp till 10 objekt per textkategori, 10 bilder och 2 profiler. Kopiering, sparande, sökning, omsortering och Snabbspara är tillgängliga utan tidsgräns. Pro höjer gränserna till 200 objekt per textkategori, 50 bilder och 30 profiler och lägger till export/import av .mqp-säkerhetskopior, premiumteman samt anpassade kategorinamn och ikoner."
       },
       {
-        "q": "Hur fungerar 30-dagarsperioden?",
-        "a": "I 30 dagar från första start: upp till 200 objekt per textkategori, 50 bilder, 30 profiler och säkerhetskopiering gratis. Premiumteman och anpassning kräver Pro. Data raderas inte efter provperioden."
+        "q": "Har Free någon tidsgräns?",
+        "a": "Nej. Free kan användas utan tidsgräns. Pro är ett valfritt engångsköp som ger högre spargränser, säkerhetskopior, premiumteman och anpassning av kategorier."
       },
       {
         "q": "Var lagras min data?",
@@ -306,7 +306,7 @@
       },
       {
         "q": "Hur säkerhetskopierar eller flyttar jag min data?",
-        "a": "Pro-användare kan exportera en JSON-säkerhetskopia från inställningarna och importera den på en annan enhet med MyQuickPaste."
+        "a": "Med Pro kan du exportera en .mqp-säkerhetskopia från Inställningar och importera den på en annan enhet med MyQuickPaste."
       },
       {
         "q": "När kommer iPhone-versionen?",
@@ -314,7 +314,7 @@
       },
       {
         "q": "Hur köper jag Pro?",
-        "a": "Öppna uppgraderingsskärmen i appen eller Pro-tillägget i butiken. Betalningen hanteras helt av Google Play eller App Store."
+        "a": "Öppna skärmen för att uppgradera till Pro i appen. På Android hanteras köpet via Google Play. Pro är ett engångsköp, inte en prenumeration."
       }
     ],
     "contactTitle": "Kontakt",
@@ -336,23 +336,23 @@
       },
       {
         "h": "Lagring på enheten och Android-säkerhetskopiering",
-        "p": "Inmatat innehåll, kategorier, profiler, appinställningar och registrerade bilder lagras i appens privata lagringsutrymme på din enhet. Registrerade bilder kopieras till detta privata apputrymme. På Android kan vissa appdata, om operativsystemets säkerhetskopieringsfunktion är aktiverad, säkerhetskopieras till och återställas från lagringsutrymme som är kopplat till ditt Google-konto. Enligt appens nuvarande regler för säkerhetskopiering undantas registrerade bildfiler från molnsäkerhetskopiering. Vid överföring mellan enheter kan data överföras via operativsystemets funktioner."
+        "p": "Innehåll du anger, kategorier, profiler, appinställningar och sparade bilder lagras i appens privata lagringsutrymme på din enhet. Sparade bilder kopieras till detta privata lagringsutrymme. Om operativsystemets säkerhetskopiering är aktiverad på Android kan vissa appdata säkerhetskopieras till och återställas från säkerhetskopieringsutrymmet som är kopplat till ditt Google-konto. Enligt appens nuvarande regler för säkerhetskopiering ingår sparade bildfiler inte i molnsäkerhetskopiering. Vid överföring mellan enheter kan data överföras med hjälp av operativsystemets funktioner."
       },
       {
         "h": "Säkerhet",
-        "p": "Sparade data lagras i ett privat appområde som skyddas av operativsystemet. Vi driver ingen egen server för att lagra innehåll som du registrerar. Säkerheten för själva enheten, operativsystemets säkerhetskopior och de säkerhetskopieringsfiler som du exporterar beror på säkerheten och hanteringen av den aktuella enheten, tjänsten och den lagringsplats som användaren kontrollerar."
+        "p": "Sparade data lagras i ett privat appområde som skyddas av operativsystemet. Vi driver ingen egen server för att lagra innehållet som du sparar. Säkerheten för själva enheten, operativsystemets säkerhetskopior och säkerhetskopieringsfiler som du exporterar beror på säkerheten och hanteringen av den berörda enheten, tjänsten och lagringsplatsen som användaren själv kontrollerar."
       },
       {
         "h": "Åtkomst till urklipp",
-        "p": "För att visa förhandsgranskningar på huvudskärmen och tillhandahålla relaterade funktioner kan MyQuickPaste läsa text eller bilder som för närvarande finns i enhetens urklipp. Urklippsinnehållet behandlas på enheten och lagras inte automatiskt permanent om du inte uttryckligen registrerar det. Appen kan skapa en tillfällig cachefil för att förhandsgranska bilder från urklippet. MyQuickPaste innehåller ingen process som skickar urklippsinnehåll till servrar som vi driver."
+        "p": "För att visa förhandsvisningar på huvudskärmen och erbjuda relaterade funktioner kan MyQuickPaste läsa text eller bilder som för tillfället finns i enhetens urklipp. Innehållet i urklippet behandlas på enheten och sparas inte automatiskt permanent om du inte uttryckligen väljer att spara det. Appen kan skapa en tillfällig cachefil för att förhandsvisa bilder från urklippet. MyQuickPaste innehåller ingen process som skickar innehållet i urklippet till servrar som drivs av oss."
       },
       {
         "h": "Lagring, radering och säkerhetskopiering av data",
-        "p": "Sparade data finns kvar i appens lagringsutrymme på din enhet tills du raderar dem i appen eller avinstallerar appen. Vid avinstallation tas appens lokala data bort från enheten, men kopior kan finnas kvar separat i säkerhetskopior från Android-operativsystemet eller i säkerhetskopieringsfiler som du har exporterat och sparat. Under den kostnadsfria 30-dagars provperioden och med Pro kan du exportera och importera data som en MyQuickPaste-säkerhetskopieringsfil (.mqp). Du väljer var den exporterade filen ska sparas och ansvarar själv för att hantera och radera exporterade säkerhetskopieringsfiler."
+        "p": "Sparade data finns kvar i appens lagringsutrymme på din enhet tills du tar bort dem i appen eller avinstallerar appen. Vid avinstallation tas appens lokala data bort från enheten, men kopior kan finnas kvar separat i säkerhetskopior från Androids operativsystem eller i säkerhetskopieringsfiler som du själv har exporterat och behållit. Med Pro kan du exportera och importera data som en MyQuickPaste-säkerhetskopia (.mqp). Du väljer själv var den exporterade filen sparas och ansvarar för att hantera och ta bort exporterade säkerhetskopieringsfiler."
       },
       {
         "h": "Appbutiker, köp och externa tjänster",
-        "p": "Den kostnadsfria 30-dagars provperioden hanteras i appen utifrån tidpunkten för den första installationen. Distributionen av Android-versionen och Pro-köp hanteras via Google Play, och Google Play Billing används för att verifiera köp. Pro är ett engångsköp i appen och inte en prenumeration. Vi tar inte direkt emot kreditkortsnummer eller andra uppgifter om betalkort. Appen använder inga SDK:er från tredje part för analys eller annonsering. När du använder köp- eller recensionsfunktioner i Google Play eller externa funktioner som du själv väljer, till exempel delning, e-post eller webbläsare, gäller respektive tjänsts integritetspolicy och villkor. iOS-versionen är för närvarande under utveckling och den här policyn kommer vid behov att uppdateras när distributionen och köplösningen har slutförts."
+        "p": "Android-versionen distribueras via Google Play och Pro-köp hanteras via Google Play. Google Play Billing används för att verifiera köp. Pro är ett engångsköp i appen och inte en prenumeration. Vi tar inte direkt emot kreditkortsnummer eller andra betalkortsuppgifter. Appen använder inga SDK:er från tredje part för analys eller annonsering. När du använder köp- eller recensionsfunktioner i Google Play, eller externa funktioner som du själv väljer, till exempel delning, e-post eller webbläsare, gäller respektive tjänsts integritetspolicy och villkor. iOS-versionen är för närvarande under utveckling och denna policy uppdateras vid behov när distribution och köpfunktioner har fastställts."
       },
       {
         "h": "Kontakt",
@@ -373,7 +373,7 @@
         "items": [
           "Lade till kategorin Bilder (spara visitkort, logotyper med mera)",
           "Tryck för att kopiera, dela och förhandsgranska bilder",
-          "Supports JPEG, PNG, WebP, and GIF"
+          "Stöder JPEG, PNG, WebP och GIF"
         ]
       },
       {
@@ -381,12 +381,12 @@
         "date": "2026",
         "title": "Första lanseringen (Android)",
         "items": [
-          "Kategorilistor: fri text, standardfraser, e-post, telefon, adress, profil",
+          "Listor per kategori: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
           "Kopiera med en knapptryckning och förhandsvisning med långtryck",
           "Profilkort med fältvis kopiering",
           "Möjlighet att ändra ordning för listor och profiler",
-          "Gratisplan + 30 dagars gratis provperiod (högre gränser och säkerhetskopiering)",
-          "JSON-export/-import (Pro)",
+          "Free och Pro med olika spargränser",
+          "Export/import av .mqp-säkerhetskopior (Pro)",
           "Ljusa och mörka teman; premiumteman med Pro",
           "Inställningar för kopieringsfeedback, startkategori och säkerhetskopiering"
         ]
@@ -400,7 +400,7 @@
     "snippetsAlt": "Skärm för snippetlista",
     "profileAlt": "Skärm för profilkort",
     "profileEditAlt": "Skärm för profilredigering",
-    "cateAlt": "Sex kategoriflikar: fri text, standardfraser, e-post, telefon, adress, profil",
+    "cateAlt": "Sex kategoriflikar: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
     "items": [
       {
         "caption": "Fritext — signaturer, URL:er och kontouppgifter i ett ögonkast"
@@ -429,7 +429,7 @@
     "snippetsCap": "Kopiera vanliga svar snabbt",
     "imagesCap": "Spara, kopiera och dela bilder",
     "profileCap": "Kopiera adress eller kontakt fält för fält",
-    "profileEditCap": "Registrera detaljer du behöver tillsammans"
+    "profileEditCap": "Spara informationen du behöver på ett ställe"
   },
   "trust": {
     "t1Title": "Tryck för att kopiera",
@@ -437,7 +437,7 @@
     "t2Title": "Pro engångsköp",
     "t2Text": "Inga månadsbetalningar.",
     "t3Title": "Sparas på enheten",
-    "t3Text": "Registrerat innehåll hanteras på enheten.",
+    "t3Text": "Sparat innehåll hanteras på enheten.",
     "t4Title": "UI på 21 språk",
     "t4Text": "Appskärmar på 21 språk."
   },
@@ -573,8 +573,8 @@
         "a": "Text, profiler och inställningar lagras på din smartphone."
       },
       {
-        "q": "Förlorar jag appen efter 30-dagars provperiod?",
-        "a": "Nej. Efter provperioden kan du fortsätta med gratisplanen. Sparade data raderas inte. Data över gratisgränsen sparas och blir åter användbara när du köper Pro."
+        "q": "Kan jag fortsätta använda Free utan tidsgräns?",
+        "a": "Ja. Free har ingen tidsgräns. Du kan uppgradera till Pro när som helst om du vill ha högre spargränser, säkerhetskopior, premiumteman eller anpassning av kategorier."
       },
       {
         "q": "Är Pro en månadsprenumeration?",
@@ -586,14 +586,14 @@
       },
       {
         "q": "Kan jag flytta data när jag byter telefon?",
-        "a": "Exportera säkerhetskopior och importera vid behov. Tillgängligt med 30 dagars gratis provperiod och Pro."
+        "a": "Export och import av säkerhetskopior är tillgängligt med Pro. Du kan exportera en .mqp-säkerhetskopia från Inställningar och importera den på en annan enhet med MyQuickPaste."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
     "titleLine2": "på Windows också.",
-    "text": "Windowsutgåvan stannar vid skärmkanten och klistrar in registrerad text med ett klick — en separat app.",
+    "text": "Windows-versionen ligger kvar vid skärmkanten och kan klistra in sparad text med ett klick – det är en separat app.",
     "note": "Inte samma app som smartphoneutgåvan. Köp och sparad data delas inte.",
     "link": "Windowsutgåvans hemsida"
   },

@@ -20,7 +20,7 @@
     "how": "Jak to działa",
     "screens": "Ekrany",
     "pricing": "Cennik",
-    "cta": "30 dni bezpłatnego okresu próbnego"
+    "cta": "Free / Pro"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Codzienne teksty, jedno dotknięcie.",
     "lead": "Szablony, adresy, kontakty, URL, emoji, hashtagi. Zapisz to, co powtarzasz, i kopiuj jednym dotknięciem z listy, gdy potrzebujesz.",
     "platformLine": "Google Play wkrótce · App Store w opracowaniu",
-    "trialTitle": "30 dni bezpłatnego okresu próbnego",
-    "trialText": "Przez 30 dni po pierwszej instalacji wypróbuj bezpłatnie wyższe limity zapisu i kopię zapasową.",
+    "trialTitle": "Free bez limitu czasu",
+    "trialText": "Zapisz do 10 elementów w każdej kategorii tekstowej, 10 obrazów i 2 profili. Wyszukiwanie, zmiana kolejności i szybki zapis są również dostępne.",
     "trust": "21 języków",
     "eyebrow": "MyQuickPaste na smartfony",
     "catchLine1": "Codzienne teksty,",
     "catchLine2": "jedno dotknięcie.",
     "sub": "Potem przełącz się do zwykłej aplikacji i wklej.",
     "ctaPrimary": "Zobacz, jak to działa",
-    "ctaSecondary": "30 dni bezpłatnego okresu próbnego",
+    "ctaSecondary": "Free / Pro",
     "statusPlay": "Google Play wkrótce",
     "statusApp": "App Store w opracowaniu",
-    "pill1": "30 dni bezpłatnego okresu próbnego",
+    "pill1": "Free",
     "pill2": "Pro jednorazowy zakup",
     "pill3": "Przechowywane na urządzeniu",
     "pill4": "21 języków"
@@ -89,12 +89,12 @@
     "appTitle": "MyQuickPaste",
     "appTag": "Stałe miejsce na Twoje teksty",
     "appItems": [
-      "Zapisuj adresy, podpisy i standardowe odpowiedzi pod własnymi nazwami",
-      "Sześć kategorii: dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil",
+      "Zapisuj adresy, podpisy i odpowiedzi pod własną nazwą",
+      "Sześć kategorii: Dowolny tekst, Szablony, Kontakt, Linki, Obrazy, Profil",
       "Wpisy pozostają, dopóki ich sam nie usuniesz — bez automatycznego znikania",
       "Stworzone po to, by szybko znajdować i kopiować teksty używane najczęściej"
     ],
-    "footer": "Skopiowałeś coś kilka godzin temu? Wtedy sprawdzi się Gboard. Adres, podpis lub standardowa odpowiedź potrzebne co tydzień? Zapisz je tutaj raz i już nigdy nie będziesz musiał ich szukać."
+    "footer": "Skopiowano kilka godzin temu? W takim przypadku Gboard jest wygodny. Adresy, podpisy i gotowe odpowiedzi używane co tydzień? Zapisz je w MyQuickPaste i nie trać czasu na szukanie."
   },
   "steps": {
     "title": "Jak to działa",
@@ -102,7 +102,7 @@
     "items": [
       {
         "title": "Zapisz to, co używasz ponownie",
-        "text": "Zarejestruj często używane teksty, kontakty i więcej."
+        "text": "Zapisz często używane teksty, kontakty i inne informacje."
       },
       {
         "title": "Dotknij potrzebnego wiersza",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Organizuj według zastosowania",
-        "text": "Zarządzaj według wolnego tekstu, szablonów, e-mail, telefon, obrazów i profilu.",
+        "text": "Porządkuj dane według kategorii: dowolny tekst, szablony, kontakt, linki, obrazy i profil.",
         "icon": "folder",
         "large": true
       },
@@ -169,7 +169,7 @@
       },
       {
         "title": "Eksport i import",
-        "text": "Eksportuj kopie zapasowe i importuj, gdy potrzebujesz. Dostępne w 30-dniowym bezpłatnym okresie próbnym i Pro.",
+        "text": "W Pro możesz wyeksportować dane jako kopię zapasową .mqp i zaimportować ją, gdy będzie potrzebna.",
         "icon": "backup"
       },
       {
@@ -183,12 +183,12 @@
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "Kategorie: Wolny tekst, Szablony, E-mail, Telefon, Obrazy, Profil",
+    "categoriesLabel": "Kategorie: Dowolny tekst, Szablony, Kontakt, Linki, Obrazy, Profil",
     "categories": [
       "Wolny tekst",
       "Szablony",
-      "E-mail",
-      "Telefon",
+      "Kontakt",
+      "Linki",
       "Obrazy",
       "Profil"
     ],
@@ -200,7 +200,7 @@
     "subtitle": "Jasny i ciemny, plus premium motywy kolorystyczne z Pro.",
     "imageAlt": "Galeria motywów MyQuickPaste",
     "caption": "Jasne / ciemne / premium motywy",
-    "note": "Motywy premium wymagają zakupu Pro. Nie są w 30-dniowej wersji próbnej.",
+    "note": "Motyw jasny i ciemny są dostępne w Free. Motywy premium są dostępne w Pro.",
     "titleLine1": "Dopasuj wygląd",
     "titleLine2": "do miejsca użycia."
   },
@@ -223,16 +223,16 @@
   },
   "pricing": {
     "title": "Cennik",
-    "subtitle": "Przez 30 dni po pierwszej instalacji — wyższe limity i kopia zapasowa bezpłatnie. Potem kontynuuj plan darmowy.",
-    "freeTitle": "Bezpłatna",
+    "subtitle": "Korzystaj z Free bez limitu czasu. Przejdź na Pro, aby zwiększyć limity zapisu i korzystać z kopii zapasowych, motywów premium oraz personalizacji kategorii.",
+    "freeTitle": "Free",
     "freePrice": "0",
     "freeItems": [
       "Kategorie tekstu: po 10",
       "Obrazy: 10",
-      "Profile: 1",
+      "Profile: 2",
       "Wyszukiwanie",
       "Zmiana kolejności",
-      "Szybkie zapisywanie"
+      "Szybki zapis"
     ],
     "proTitle": "Pro (zakup jednorazowy)",
     "proPrice": "Cenę sprawdź w sklepie",
@@ -245,37 +245,37 @@
       "Własne nazwy i ikony kategorii"
     ],
     "note": "Aplikację można pobrać bezpłatnie. Pro to jednorazowy dodatek kupowany przez sklep z aplikacjami; cena może się różnić w zależności od regionu.",
-    "titleLine1": "Wypróbuj przez 30 dni,",
-    "titleLine2": "i poczuj różnicę.",
-    "trialLabel": "Tylko przy pierwszej instalacji",
-    "trialTitle": "30 dni bezpłatnego okresu próbnego",
-    "trialText": "Kategorie tekstu: do 200 w każdej · Obrazy: 50 · Profile: 30 · Eksport/import kopii zapasowej",
-    "trialNote": "Motywy premium i dostosowanie nazw/ikon kategorii dostępne po zakupie Pro. Po okresie próbnym dane nie są usuwane. Dane powyżej limitu darmowego pozostają i znów stają się dostępne po zakupie Pro.",
-    "freeLead": "Podstawowe funkcje pozostają bezpłatne.",
+    "titleLine1": "Free obejmuje wszystko, co najważniejsze.",
+    "titleLine2": "Pro daje jeszcze więcej możliwości.",
+    "trialLabel": "Free",
+    "trialTitle": "Bez limitu czasu",
+    "trialText": "Kategorie tekstowe: po 10 elementów · Obrazy: 10 · Profile: 2 · Wyszukiwanie · Zmiana kolejności · Szybki zapis",
+    "trialNote": "Potrzebujesz więcej? Pro zwiększa limity do 200 elementów w każdej kategorii tekstowej, 50 obrazów i 30 profili oraz dodaje kopie zapasowe .mqp, motywy premium i personalizację nazw oraz ikon kategorii.",
+    "freeLead": "Podstawowe funkcje Free są dostępne bez limitu czasu.",
     "proTag": "Jednorazowy zakup",
     "proLead": "Bez miesięcznej opłaty.",
     "notSub": "To nie subskrypcja"
   },
   "privacySection": {
     "title": "Prywatność na urządzeniu",
-    "text": "Teksty i profile w MyQuickPaste są zarządzane na urządzeniu. Nie wysyłamy automatycznie treści do chmury.",
+    "text": "Teksty i profile zapisane w MyQuickPaste są przechowywane na Twoim urządzeniu. Nie wysyłamy automatycznie Twoich treści do chmury.",
     "link": "Przeczytaj politykę prywatności",
     "titleLine1": "To, co ważne, zostaje",
     "titleLine2": "na Twoim urządzeniu.",
     "points": [
       "Bez automatycznej synchronizacji z chmurą",
-      "Nie wysyła automatycznie zapisanej treści na zewnętrzne serwery",
+      "Nie wysyła automatycznie zapisanych treści na zewnętrzne serwery",
       "Dane pozostają zarządzane na urządzeniu",
-      "Własną kopię zapasową można wyeksportować podczas 30-dniowego bezpłatnego okresu próbnego oraz w Pro."
+      "W Pro możesz wyeksportować własną kopię zapasową .mqp."
     ]
   },
   "cta": {
     "title": "Codzienne teksty, jedno dotknięcie.",
     "lead": "Zapisz, dotknij, potem wklej.",
-    "button": "30 dni bezpłatnego okresu próbnego",
+    "button": "Free / Pro",
     "titleLine1": "Codzienne teksty,",
     "titleLine2": "jedno dotknięcie.",
-    "sub": "Przez 30 dni po pierwszej instalacji wypróbuj bezpłatnie wyższe limity i kopię zapasową."
+    "sub": "Free nie ma limitu czasu. Jeśli potrzebujesz więcej możliwości, w każdej chwili możesz przejść na Pro."
   },
   "footer": {
     "pcEdition": "Wersja Windows",
@@ -293,12 +293,12 @@
         "a": "Nie. MyQuickPaste to osobna wersja na smartfony. Opiera się na tej samej idei, ale jest niezależną aplikacją z własnymi danymi i osobnym zakupem w sklepie."
       },
       {
-        "q": "Czym różni się wersja bezpłatna od Pro?",
-        "a": "Plan darmowy obejmuje 10 elementów na kategorię tekstu, 10 obrazów i 1 profil. Kopiowanie, dodawanie, wyszukiwanie, zmiana kolejności i szybkie zapisywanie są dostępne. Pro dodaje wyższe limity, kopię zapasową, motywy premium i dostosowanie kategorii. Nowa instalacja: 30 dni bezpłatnego okresu próbnego limitów i kopii (motywy premium i dostosowanie wymagają Pro)."
+        "q": "Czym różnią się Free i Pro?",
+        "a": "W Free możesz zapisać do 10 elementów w każdej kategorii tekstowej, 10 obrazów i 2 profili. Kopiowanie, zapisywanie, wyszukiwanie, zmiana kolejności i szybki zapis są dostępne bez limitu czasu. Pro zwiększa limity do 200 elementów w każdej kategorii tekstowej, 50 obrazów i 30 profili oraz dodaje eksport i import kopii zapasowych .mqp, motywy premium i personalizację nazw oraz ikon kategorii."
       },
       {
-        "q": "Jak działa 30-dniowy okres próbny?",
-        "a": "Przez 30 dni od pierwszego uruchomienia: do 200 elementów na kategorię tekstu, 50 obrazów, 30 profili i kopia zapasowa bezpłatnie. Motywy premium i dostosowanie wymagają Pro. Dane nie są usuwane po okresie próbnym."
+        "q": "Czy Free ma limit czasu?",
+        "a": "Nie. Z Free można korzystać bez limitu czasu. Pro to opcjonalny jednorazowy zakup, który zapewnia wyższe limity zapisu, kopie zapasowe, motywy premium i personalizację kategorii."
       },
       {
         "q": "Gdzie przechowywane są moje dane?",
@@ -306,7 +306,7 @@
       },
       {
         "q": "Jak zrobić kopię zapasową lub przenieść dane?",
-        "a": "Użytkownicy Pro mogą wyeksportować kopię zapasową w formacie JSON z ustawień i zaimportować ją na innym urządzeniu z MyQuickPaste."
+        "a": "W Pro możesz wyeksportować kopię zapasową .mqp w Ustawieniach i zaimportować ją na innym urządzeniu z MyQuickPaste."
       },
       {
         "q": "Kiedy pojawi się wersja na iPhone'a?",
@@ -314,7 +314,7 @@
       },
       {
         "q": "Jak kupić Pro?",
-        "a": "Otwórz ekran aktualizacji w aplikacji lub stronę dodatku Pro w sklepie. Płatność w całości obsługuje Google Play lub App Store."
+        "a": "Otwórz w aplikacji ekran przejścia na Pro. W systemie Android zakup jest obsługiwany przez Google Play. Pro to jednorazowy zakup, a nie subskrypcja."
       }
     ],
     "contactTitle": "Kontakt",
@@ -336,23 +336,23 @@
       },
       {
         "h": "Przechowywanie na urządzeniu i kopia zapasowa Androida",
-        "p": "Wprowadzone treści, kategorie, profile, ustawienia aplikacji i zarejestrowane obrazy są przechowywane w prywatnym obszarze aplikacji na Twoim urządzeniu. Zarejestrowane obrazy są kopiowane do tego prywatnego obszaru aplikacji. W systemie Android, jeśli funkcja kopii zapasowej systemu operacyjnego jest włączona, część danych aplikacji może zostać zapisana w przestrzeni kopii zapasowej powiązanej z Twoim kontem Google i z niej przywrócona. Zgodnie z aktualnymi regułami kopii zapasowej aplikacji pliki zarejestrowanych obrazów są wyłączone z kopii zapasowej w chmurze. Podczas przenoszenia między urządzeniami dane mogą być przekazywane za pośrednictwem funkcji systemu operacyjnego."
+        "p": "Wprowadzone treści, kategorie, profile, ustawienia aplikacji i zapisane obrazy są przechowywane w prywatnym obszarze aplikacji na urządzeniu. Zapisane obrazy są kopiowane do tego prywatnego obszaru. W systemie Android, jeśli funkcja kopii zapasowej systemu operacyjnego jest włączona, niektóre dane aplikacji mogą zostać zapisane w pamięci kopii zapasowej powiązanej z Twoim kontem Google i z niej przywrócone. Zgodnie z obecnymi regułami tworzenia kopii zapasowych zapisane pliki obrazów są wyłączone z kopii zapasowej w chmurze. Podczas przenoszenia danych między urządzeniami mogą one zostać przesłane za pomocą funkcji systemu operacyjnego."
       },
       {
         "h": "Bezpieczeństwo",
-        "p": "Zapisane dane są przechowywane w prywatnym obszarze aplikacji chronionym przez system operacyjny. Nie prowadzimy własnego serwera do przechowywania treści rejestrowanych przez użytkownika. Bezpieczeństwo samego urządzenia, kopii zapasowych systemu operacyjnego oraz eksportowanych przez Ciebie plików kopii zapasowych zależy od bezpieczeństwa i sposobu zarządzania odpowiednim urządzeniem, usługą oraz miejscem przechowywania kontrolowanym przez użytkownika."
+        "p": "Zapisane dane są przechowywane w prywatnym obszarze aplikacji chronionym przez system operacyjny. Nie prowadzimy własnego serwera do przechowywania zapisanych przez Ciebie treści. Bezpieczeństwo samego urządzenia, kopii zapasowych systemu operacyjnego oraz wyeksportowanych przez Ciebie plików kopii zapasowych zależy od zabezpieczeń i sposobu zarządzania odpowiednim urządzeniem, usługą oraz miejscem przechowywania kontrolowanym przez użytkownika."
       },
       {
         "h": "Dostęp do schowka",
-        "p": "Aby wyświetlać podgląd na ekranie głównym i zapewniać powiązane funkcje, MyQuickPaste może odczytywać tekst lub obrazy znajdujące się obecnie w schowku urządzenia. Zawartość schowka jest przetwarzana na urządzeniu i nie jest automatycznie trwale zapisywana, chyba że wyraźnie ją zarejestrujesz. Aplikacja może utworzyć tymczasowy plik pamięci podręcznej w celu podglądu obrazów ze schowka. MyQuickPaste nie zawiera żadnego procesu wysyłającego zawartość schowka na serwery obsługiwane przez nas."
+        "p": "Aby wyświetlać podgląd na ekranie głównym i udostępniać powiązane funkcje, MyQuickPaste może odczytywać tekst lub obrazy znajdujące się aktualnie w schowku urządzenia. Zawartość schowka jest przetwarzana na urządzeniu i nie jest automatycznie zapisywana na stałe, chyba że zapiszesz ją samodzielnie. Aplikacja może utworzyć tymczasowy plik pamięci podręcznej w celu wyświetlenia podglądu obrazu ze schowka. MyQuickPaste nie zawiera żadnego procesu wysyłającego zawartość schowka na obsługiwane przez nas serwery."
       },
       {
         "h": "Przechowywanie, usuwanie i kopie zapasowe danych",
-        "p": "Zapisane dane pozostają w obszarze przechowywania aplikacji na Twoim urządzeniu do czasu ich usunięcia w aplikacji lub odinstalowania aplikacji. Odinstalowanie usuwa lokalne dane aplikacji z urządzenia, jednak ich kopie mogą pozostać oddzielnie w kopiach zapasowych systemu Android lub w plikach kopii zapasowych, które wyeksportowałeś i zachowałeś. W okresie 30-dniowego bezpłatnego okresu próbnego oraz z Pro możesz eksportować i importować dane jako plik kopii zapasowej MyQuickPaste (.mqp). Sam wybierasz miejsce zapisania eksportowanego pliku i odpowiadasz za zarządzanie eksportowanymi plikami kopii zapasowych oraz ich usuwanie."
+        "p": "Zapisane dane pozostają w obszarze aplikacji na urządzeniu do chwili usunięcia ich w aplikacji lub odinstalowania aplikacji. Odinstalowanie usuwa lokalne dane aplikacji z urządzenia, jednak ich kopie mogą pozostać oddzielnie w kopiach zapasowych systemu Android lub w wyeksportowanych i zachowanych przez Ciebie plikach kopii zapasowych. W Pro możesz eksportować i importować dane jako plik kopii zapasowej MyQuickPaste (.mqp). Samodzielnie wybierasz miejsce zapisania wyeksportowanego pliku i odpowiadasz za zarządzanie oraz usuwanie wyeksportowanych kopii zapasowych."
       },
       {
         "h": "Sklepy z aplikacjami, zakupy i usługi zewnętrzne",
-        "p": "30-dniowy bezpłatny okres próbny jest zarządzany wewnątrz aplikacji na podstawie czasu pierwszej instalacji. Dystrybucja wersji na Androida i zakupy Pro są obsługiwane przez Google Play, a do weryfikacji zakupów używany jest Google Play Billing. Pro to jednorazowy zakup w aplikacji, a nie subskrypcja. Nie otrzymujemy bezpośrednio numerów kart kredytowych ani innych danych kart płatniczych. Aplikacja nie korzysta z zewnętrznych SDK do celów analitycznych ani reklamowych. Gdy korzystasz z funkcji zakupów lub opinii w Google Play albo z wybranych przez siebie funkcji zewnętrznych, takich jak udostępnianie, e-mail czy przeglądarka internetowa, obowiązują polityki prywatności i warunki odpowiednich usług. Wersja na iOS jest obecnie w fazie rozwoju, a niniejsza polityka zostanie w razie potrzeby zaktualizowana po sfinalizowaniu sposobu dystrybucji i obsługi zakupów."
+        "p": "Wersja na Androida jest dystrybuowana przez Google Play, a zakupy Pro są obsługiwane przez Google Play. Do weryfikacji zakupów używany jest Google Play Billing. Pro jest jednorazowym zakupem w aplikacji, a nie subskrypcją. Nie otrzymujemy bezpośrednio numerów kart kredytowych ani innych danych kart płatniczych. Aplikacja nie korzysta z zewnętrznych pakietów SDK do celów analitycznych ani reklamowych. Podczas korzystania z funkcji zakupu lub wystawiania opinii w Google Play albo z wybranych przez Ciebie funkcji zewnętrznych, takich jak udostępnianie, e-mail lub przeglądarka internetowa, obowiązują polityki prywatności i warunki odpowiednich usług. Wersja na iOS jest obecnie w przygotowaniu, a niniejsza polityka zostanie w razie potrzeby zaktualizowana po ustaleniu sposobu jej dystrybucji i obsługi zakupów."
       },
       {
         "h": "Kontakt",
@@ -373,7 +373,7 @@
         "items": [
           "Dodano kategorię Obrazy (zapisuj wizytówki, logo i inne materiały)",
           "Dotknij, aby kopiować, udostępniać i wyświetlać podgląd obrazów",
-          "Supports JPEG, PNG, WebP, and GIF"
+          "Obsługuje JPEG, PNG, WebP i GIF"
         ]
       },
       {
@@ -381,12 +381,12 @@
         "date": "2026",
         "title": "Pierwsze wydanie (Android)",
         "items": [
-          "Listy według kategorii: dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil",
+          "Listy według kategorii: Dowolny tekst, Szablony, Kontakt, Linki, Obrazy, Profil",
           "Kopiowanie jednym dotknięciem i podgląd po dłuższym dotknięciu",
           "Karty profilu z kopiowaniem pojedynczych pól",
           "Tryb zmiany kolejności dla list i profili",
-          "Plan darmowy + 30 dni bezpłatnego okresu próbnego (wyższe limity i kopia zapasowa)",
-          "Eksport i import JSON (Pro)",
+          "Free i Pro z różnymi limitami zapisu",
+          "Eksport/import kopii zapasowych .mqp (Pro)",
           "Motywy jasny i ciemny; motywy premium z Pro",
           "Ustawienia potwierdzenia kopiowania, kategorii startowej i kopii zapasowej"
         ]
@@ -400,7 +400,7 @@
     "snippetsAlt": "Ekran listy snippetów",
     "profileAlt": "Ekran karty profilu",
     "profileEditAlt": "Ekran edycji profilu",
-    "cateAlt": "Sześć zakładek kategorii: dowolny tekst, gotowe zwroty, e-mail, telefon, adres, profil",
+    "cateAlt": "Sześć kart kategorii: Dowolny tekst, Szablony, Kontakt, Linki, Obrazy, Profil",
     "items": [
       {
         "caption": "Tekst dowolny — podpisy, URL-e i dane konta na pierwszy rzut oka"
@@ -429,7 +429,7 @@
     "snippetsCap": "Szybko kopiuj zwykłe odpowiedzi",
     "imagesCap": "Zapisuj, kopiuj i udostępniaj obrazy",
     "profileCap": "Kopiuj adres lub kontakt pole po polu",
-    "profileEditCap": "Zarejestruj potrzebne dane razem"
+    "profileEditCap": "Zapisz razem potrzebne informacje"
   },
   "trust": {
     "t1Title": "Dotknij, aby skopiować",
@@ -437,7 +437,7 @@
     "t2Title": "Pro jednorazowo",
     "t2Text": "Bez comiesięcznych płatności.",
     "t3Title": "Zapisane na urządzeniu",
-    "t3Text": "Zarejestrowana treść jest zarządzana na urządzeniu.",
+    "t3Text": "Zapisane treści są przechowywane na urządzeniu.",
     "t4Title": "Interfejs w 21 językach",
     "t4Text": "Ekrany aplikacji w 21 językach."
   },
@@ -573,8 +573,8 @@
         "a": "Teksty, profile i ustawienia są na smartfonie."
       },
       {
-        "q": "Czy stracę aplikację po 30-dniowej wersji próbnej?",
-        "a": "Nie. Po okresie próbnym możesz kontynuować plan darmowy. Zapisane dane nie są usuwane. Dane powyżej limitu darmowego pozostają i znów stają się dostępne po zakupie Pro."
+        "q": "Czy mogę korzystać z Free bez limitu czasu?",
+        "a": "Tak. Free nie ma limitu czasu. W każdej chwili możesz przejść na Pro, jeśli potrzebujesz wyższych limitów zapisu, kopii zapasowych, motywów premium lub personalizacji kategorii."
       },
       {
         "q": "Czy Pro to subskrypcja miesięczna?",
@@ -586,14 +586,14 @@
       },
       {
         "q": "Czy mogę przenieść dane przy zmianie telefonu?",
-        "a": "Eksportuj kopie zapasowe i importuj, gdy potrzebujesz. Dostępne w 30-dniowym bezpłatnym okresie próbnym i Pro."
+        "a": "Eksportowanie i importowanie kopii zapasowych jest dostępne w Pro. W Ustawieniach możesz wyeksportować kopię zapasową .mqp i zaimportować ją na innym urządzeniu z MyQuickPaste."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
     "titleLine2": "także na Windows.",
-    "text": "Wersja Windows pozostaje przy krawędzi ekranu i wkleja zarejestrowany tekst jednym kliknięciem — to oddzielna aplikacja.",
+    "text": "Wersja dla systemu Windows pozostaje przy krawędzi ekranu i pozwala jednym kliknięciem wkleić zapisany tekst — jest to osobna aplikacja.",
     "note": "To nie ta sama aplikacja co wersja na smartfony. Zakupy i zapisane dane nie są współdzielone.",
     "link": "Strona wersji Windows"
   },

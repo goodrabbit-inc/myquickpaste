@@ -20,7 +20,7 @@
     "how": "Hoe het werkt",
     "screens": "Schermen",
     "pricing": "Prijzen",
-    "cta": "30 dagen gratis proefperiode"
+    "cta": "Free / Pro"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Dagelijkse teksten, één tik verwijderd.",
     "lead": "Standaardteksten, adressen, contacten, URL's, emoji, hashtags. Bewaar wat je hergebruikt en kopieer met één tik uit de lijst wanneer nodig.",
     "platformLine": "Google Play binnenkort · App Store in ontwikkeling",
-    "trialTitle": "30 dagen gratis proefperiode",
-    "trialText": "Gedurende 30 dagen na de eerste installatie kunt u gratis hogere opslaglimieten en back-up proberen.",
+    "trialTitle": "Free zonder tijdslimiet",
+    "trialText": "Sla maximaal 10 items per tekstcategorie, 10 afbeeldingen en 2 profielen op. Zoeken, herschikken en snel opslaan zijn inbegrepen.",
     "trust": "21 talen",
     "eyebrow": "MyQuickPaste voor smartphones",
     "catchLine1": "Dagelijkse teksten,",
     "catchLine2": "één tik verder.",
     "sub": "Schakel daarna over naar je gebruikelijke app en plak.",
     "ctaPrimary": "Bekijk hoe het werkt",
-    "ctaSecondary": "30 dagen gratis proefperiode",
+    "ctaSecondary": "Free / Pro",
     "statusPlay": "Google Play binnenkort",
     "statusApp": "App Store in ontwikkeling",
-    "pill1": "30 dagen gratis proefperiode",
+    "pill1": "Free",
     "pill2": "Pro eenmalige aankoop",
     "pill3": "Opgeslagen op apparaat",
     "pill4": "21 talen"
@@ -89,12 +89,12 @@
     "appTitle": "MyQuickPaste",
     "appTag": "Een vaste plek voor je standaardteksten",
     "appItems": [
-      "Bewaar adressen, handtekeningen en standaardantwoorden onder een eigen naam",
-      "Zes categorieën: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+      "Sla adressen, handtekeningen en antwoorden op met een naam",
+      "Zes categorieën: Vrije tekst, Sjablonen, Contact, Links, Afbeeldingen, Profiel",
       "Items blijven bewaard tot je ze zelf verwijdert, zonder dat ze automatisch verdwijnen",
       "Gemaakt om teksten die je vaak gebruikt steeds weer snel terug te vinden en te kopiëren"
     ],
-    "footer": "Net een paar uur geleden gekopieerd? Dan is Gboard prima. Maar een adres, handtekening of standaardantwoord dat je elke week gebruikt? Sla het hier één keer op en je hoeft nooit meer te zoeken."
+    "footer": "Een paar uur geleden gekopieerd? Daar is Gboard handig voor. Adressen, handtekeningen en standaardantwoorden die je elke week gebruikt? Sla ze op in MyQuickPaste en je hoeft niet meer te zoeken."
   },
   "steps": {
     "title": "Hoe het werkt",
@@ -102,7 +102,7 @@
     "items": [
       {
         "title": "Sla op wat je hergebruikt",
-        "text": "Registreer vaste teksten, contacten en meer."
+        "text": "Sla veelgebruikte tekst, contacten en meer op."
       },
       {
         "title": "Tik de regel die je nodig hebt",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Organiseren op gebruik",
-        "text": "Beheer per vrije tekst, standaardteksten, e-mail, telefoon, afbeeldingen en profiel.",
+        "text": "Orden je gegevens in vrije tekst, sjablonen, contact, links, afbeeldingen en profiel.",
         "icon": "folder",
         "large": true
       },
@@ -169,7 +169,7 @@
       },
       {
         "title": "Exporteren en importeren",
-        "text": "Exporteer back-ups en importeer wanneer nodig. Beschikbaar met 30 dagen gratis proberen en Pro.",
+        "text": "Met Pro kun je je gegevens exporteren als een .mqp-back-up en ze importeren wanneer dat nodig is.",
         "icon": "backup"
       },
       {
@@ -183,12 +183,12 @@
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "Categorieën: Vrije tekst, Standaardteksten, E-mail, Telefoon, Afbeeldingen, Profiel",
+    "categoriesLabel": "Categorieën: Vrije tekst, Sjablonen, Contact, Links, Afbeeldingen, Profiel",
     "categories": [
       "Vrije tekst",
       "Standaardteksten",
-      "E-mail",
-      "Telefoon",
+      "Contact",
+      "Links",
       "Afbeeldingen",
       "Profiel"
     ],
@@ -200,7 +200,7 @@
     "subtitle": "Licht en donker, plus premium kleurthema's met Pro.",
     "imageAlt": "MyQuickPaste themagalerij",
     "caption": "Licht / donker / premium thema's",
-    "note": "Premium thema's vereisen Pro-aankoop. Niet inbegrepen in 30-dagen proef.",
+    "note": "Het lichte en donkere thema zijn beschikbaar met Free. Premium-thema's zijn beschikbaar met Pro.",
     "titleLine1": "Pas de look aan",
     "titleLine2": "aan waar je het gebruikt."
   },
@@ -223,13 +223,13 @@
   },
   "pricing": {
     "title": "Prijzen",
-    "subtitle": "Gedurende 30 dagen na de eerste installatie: hogere limieten en back-up gratis. Daarna blijft u het gratis abonnement gebruiken.",
-    "freeTitle": "Gratis",
+    "subtitle": "Gebruik Free zo lang je wilt. Upgrade naar Pro voor hogere opslaglimieten, back-ups, premium-thema's en categorieaanpassing.",
+    "freeTitle": "Free",
     "freePrice": "0",
     "freeItems": [
       "Tekstcategorieën: 10 per categorie",
       "Afbeeldingen: 10",
-      "Profielen: 1",
+      "Profielen: 2",
       "Zoeken",
       "Herschikken",
       "Snel opslaan"
@@ -245,20 +245,20 @@
       "Aangepaste categorienamen en pictogrammen"
     ],
     "note": "De app is gratis te downloaden. Pro is een niet-verbruikbare add-on die je via de appstore aanschaft; de prijs kan per regio verschillen.",
-    "titleLine1": "Probeer 30 dagen,",
-    "titleLine2": "en voel het verschil.",
-    "trialLabel": "Alleen bij eerste installatie",
-    "trialTitle": "30 dagen gratis proefperiode",
-    "trialText": "Tekstcategorieën: tot 200 per categorie · Afbeeldingen: 50 · Profielen: 30 · Back-up exporteren/importeren",
-    "trialNote": "Premiumthema's en aangepaste categorienamen/pictogrammen zijn beschikbaar na Pro-aankoop. Na de proefperiode worden uw gegevens niet verwijderd. Gegevens boven de gratis limiet blijven bewaard en worden weer bruikbaar na Pro-aankoop.",
-    "freeLead": "Basisfuncties blijven gratis te gebruiken.",
+    "titleLine1": "Free biedt alles wat je nodig hebt.",
+    "titleLine2": "Pro biedt je meer.",
+    "trialLabel": "Free",
+    "trialTitle": "Geen tijdslimiet",
+    "trialText": "Tekstcategorieën: 10 items per categorie · Afbeeldingen: 10 · Profielen: 2 · Zoeken · Herschikken · Snel opslaan",
+    "trialNote": "Meer nodig? Pro verhoogt de limieten tot 200 items per tekstcategorie, 50 afbeeldingen en 30 profielen en voegt .mqp-back-ups, premium-thema's en aangepaste categorienamen en -pictogrammen toe.",
+    "freeLead": "De basisfuncties van Free zijn zonder tijdslimiet beschikbaar.",
     "proTag": "Eenmalige aankoop",
     "proLead": "Geen maandelijks bedrag.",
     "notSub": "Geen abonnement"
   },
   "privacySection": {
     "title": "Privacy op apparaat",
-    "text": "Teksten en profielen in MyQuickPaste worden op het apparaat beheerd. We sturen je inhoud niet automatisch naar de cloud.",
+    "text": "Teksten en profielen die je in MyQuickPaste opslaat, worden op je apparaat beheerd. We sturen je inhoud niet automatisch naar de cloud.",
     "link": "Lees het privacybeleid",
     "titleLine1": "Wat belangrijk is blijft",
     "titleLine2": "op je apparaat.",
@@ -266,16 +266,16 @@
       "Geen automatische cloudsynchronisatie",
       "Stuurt opgeslagen inhoud niet automatisch naar externe servers",
       "Gegevens blijven op apparaat beheerd",
-      "Je kunt je eigen back-up exporteren tijdens de gratis proefperiode van 30 dagen en met Pro."
+      "Met Pro kun je je eigen .mqp-back-up exporteren."
     ]
   },
   "cta": {
     "title": "Dagelijkse teksten, één tik verder.",
     "lead": "Opslaan, tikken, dan plakken.",
-    "button": "30 dagen gratis proberen",
+    "button": "Free / Pro",
     "titleLine1": "Dagelijkse teksten,",
     "titleLine2": "één tik verder.",
-    "sub": "Gedurende 30 dagen na de eerste installatie kunt u gratis hogere opslaglimieten en back-up proberen."
+    "sub": "Free heeft geen tijdslimiet. Upgrade op elk moment naar Pro als je meer nodig hebt."
   },
   "footer": {
     "pcEdition": "Windows-editie",
@@ -293,12 +293,12 @@
         "a": "Nee. MyQuickPaste is de smartphone-editie. Ze delen dezelfde filosofie, maar het is een aparte app met eigen gegevens en een eigen aankoop in de store."
       },
       {
-        "q": "Wat is het verschil tussen de gratis versie en Pro?",
-        "a": "Het gratis abonnement omvat 10 items per tekstcategorie, 10 afbeeldingen en 1 profiel. Kopiëren, toevoegen, zoeken, herschikken en snel opslaan zijn beschikbaar. Pro voegt hogere limieten, back-up, premiumthema's en categorie-aanpassing toe. Nieuwe installatie: 30 dagen gratis proefperiode voor limieten en back-up (premiumthema's en aanpassing vereisen Pro)."
+        "q": "Wat is het verschil tussen Free en Pro?",
+        "a": "Met Free kun je maximaal 10 items per tekstcategorie, 10 afbeeldingen en 2 profielen opslaan. Kopiëren, opslaan, zoeken, herschikken en snel opslaan zijn zonder tijdslimiet beschikbaar. Pro verhoogt de limieten tot 200 items per tekstcategorie, 50 afbeeldingen en 30 profielen en voegt het exporteren/importeren van .mqp-back-ups, premium-thema's en aangepaste categorienamen en -pictogrammen toe."
       },
       {
-        "q": "Hoe werkt de proefperiode van 30 dagen?",
-        "a": "Gedurende 30 dagen vanaf de eerste start: tot 200 items per tekstcategorie, 50 afbeeldingen, 30 profielen en back-up gratis. Premiumthema's en aanpassing vereisen Pro. Gegevens worden na de proefperiode niet verwijderd."
+        "q": "Heeft Free een tijdslimiet?",
+        "a": "Nee. Free kan zonder tijdslimiet worden gebruikt. Pro is een optionele eenmalige aankoop voor hogere opslaglimieten, back-ups, premium-thema's en categorieaanpassing."
       },
       {
         "q": "Waar worden mijn gegevens opgeslagen?",
@@ -306,7 +306,7 @@
       },
       {
         "q": "Hoe maak ik een back-up of zet ik gegevens over?",
-        "a": "Pro-gebruikers kunnen vanuit de instellingen een JSON-back-up exporteren en die op een ander toestel met MyQuickPaste importeren."
+        "a": "Met Pro kun je via Instellingen een .mqp-back-up exporteren en deze importeren op een ander apparaat met MyQuickPaste."
       },
       {
         "q": "Wanneer komt de iPhone-versie beschikbaar?",
@@ -314,7 +314,7 @@
       },
       {
         "q": "Hoe koop ik Pro?",
-        "a": "Open het upgradescherm in de app of de Pro-add-on in de store. De betaling wordt volledig afgehandeld door Google Play of de App Store."
+        "a": "Open in de app het scherm om te upgraden naar Pro. Op Android wordt de aankoop via Google Play verwerkt. Pro is een eenmalige aankoop, geen abonnement."
       }
     ],
     "contactTitle": "Contact",
@@ -336,23 +336,23 @@
       },
       {
         "h": "Opslag op het apparaat en Android-back-up",
-        "p": "Ingevoerde inhoud, categorieën, profielen, app-instellingen en geregistreerde afbeeldingen worden opgeslagen in de privéopslag van de app op je apparaat. Geregistreerde afbeeldingen worden naar deze privéopslag van de app gekopieerd. Als de back-upfunctie van het besturingssysteem op Android is ingeschakeld, kunnen sommige appgegevens worden geback-upt naar en hersteld vanuit de back-upopslag die aan je Google-account is gekoppeld. Volgens de huidige back-upregels van de app zijn geregistreerde afbeeldingsbestanden uitgesloten van cloudback-up. Bij overdracht tussen apparaten kunnen gegevens via functies van het besturingssysteem worden overgedragen."
+        "p": "Ingevoerde inhoud, categorieën, profielen, app-instellingen en opgeslagen afbeeldingen worden bewaard in het privéopslaggebied van de app op je apparaat. Opgeslagen afbeeldingen worden naar deze privéopslag van de app gekopieerd. Als de back-upfunctie van het besturingssysteem op Android is ingeschakeld, kunnen sommige appgegevens worden geback-upt naar en hersteld vanuit de back-upopslag die aan je Google-account is gekoppeld. Volgens de huidige back-upregels van de app zijn opgeslagen afbeeldingsbestanden uitgesloten van cloudback-up. Bij overdracht tussen apparaten kunnen gegevens via functies van het besturingssysteem worden overgedragen."
       },
       {
         "h": "Beveiliging",
-        "p": "Opgeslagen gegevens worden bewaard in een privégebied van de app dat door het besturingssysteem wordt beschermd. Wij beheren geen eigen server om door jou geregistreerde inhoud op te slaan. De beveiliging van het apparaat zelf, back-ups van het besturingssysteem en door jou geëxporteerde back-upbestanden hangt af van de beveiliging en het beheer van het betreffende apparaat, de betreffende service en de door de gebruiker beheerde opslaglocatie."
+        "p": "Opgeslagen gegevens worden bewaard in een privégebied van de app dat door het besturingssysteem wordt beschermd. Wij beheren geen eigen server om door jou opgeslagen inhoud te bewaren. De beveiliging van het apparaat zelf, back-ups van het besturingssysteem en door jou geëxporteerde back-upbestanden hangt af van de beveiliging en het beheer van het betreffende apparaat, de betreffende service en de door de gebruiker beheerde opslaglocatie."
       },
       {
         "h": "Toegang tot het klembord",
-        "p": "Om voorbeelden op het hoofdscherm te tonen en gerelateerde functies te bieden, kan MyQuickPaste tekst of afbeeldingen lezen die op dat moment in het klembord van je apparaat staan. Klembordinhoud wordt op het apparaat verwerkt en niet automatisch permanent opgeslagen, tenzij je deze uitdrukkelijk registreert. De app kan een tijdelijk cachebestand maken om klembordafbeeldingen vooraf te bekijken. MyQuickPaste bevat geen proces dat klembordinhoud naar door ons beheerde servers verzendt."
+        "p": "Om voorbeelden op het hoofdscherm te tonen en gerelateerde functies te bieden, kan MyQuickPaste tekst of afbeeldingen lezen die op dat moment in het klembord van je apparaat staan. Klembordinhoud wordt op het apparaat verwerkt en niet automatisch permanent opgeslagen, tenzij je deze uitdrukkelijk opslaat. De app kan een tijdelijk cachebestand maken om klembordafbeeldingen vooraf te bekijken. MyQuickPaste bevat geen proces dat klembordinhoud naar door ons beheerde servers verzendt."
       },
       {
         "h": "Bewaren, verwijderen en back-ups van gegevens",
-        "p": "Opgeslagen gegevens blijven in de opslagruimte van de app op je apparaat totdat je ze in de app verwijdert of de app verwijdert. Door de app te verwijderen worden lokale appgegevens van het apparaat verwijderd, maar kopieën kunnen afzonderlijk aanwezig blijven in back-ups van het Android-besturingssysteem of in back-upbestanden die je hebt geëxporteerd en bewaard. Tijdens de gratis proefperiode van 30 dagen en met Pro kun je gegevens exporteren en importeren als een MyQuickPaste-back-upbestand (.mqp). Je kiest zelf waar het geëxporteerde bestand wordt opgeslagen en bent verantwoordelijk voor het beheren en verwijderen van geëxporteerde back-upbestanden."
+        "p": "Opgeslagen gegevens blijven in de opslagruimte van de app op je apparaat totdat je ze in de app verwijdert of de app verwijdert. Door de app te verwijderen worden lokale appgegevens van het apparaat verwijderd, maar kopieën kunnen afzonderlijk aanwezig blijven in back-ups van het Android-besturingssysteem of in back-upbestanden die je hebt geëxporteerd en bewaard. Met Pro kun je gegevens exporteren en importeren als een MyQuickPaste-back-upbestand (.mqp). Je kiest zelf waar het geëxporteerde bestand wordt opgeslagen en bent verantwoordelijk voor het beheren en verwijderen van geëxporteerde back-upbestanden."
       },
       {
         "h": "Appstores, aankopen en externe diensten",
-        "p": "De gratis proefperiode van 30 dagen wordt binnen de app beheerd op basis van het tijdstip van de eerste installatie. De distributie van de Android-editie en Pro-aankopen worden via Google Play afgehandeld, en Google Play Billing wordt gebruikt om aankopen te verifiëren. Pro is een eenmalige in-app-aankoop en geen abonnement. Wij ontvangen niet rechtstreeks creditcardnummers of andere betaalkaartgegevens. De app gebruikt geen SDK’s van derden voor analyse of advertenties. Wanneer je aankoop- of beoordelingsfuncties van Google Play gebruikt, of externe functies die je zelf kiest, zoals delen, e-mail of een webbrowser, gelden het privacybeleid en de voorwaarden van de betreffende diensten. De iOS-editie is momenteel in ontwikkeling en dit beleid wordt indien nodig bijgewerkt zodra de distributie en aankoopimplementatie zijn afgerond."
+        "p": "De Android-versie wordt via Google Play gedistribueerd en Pro-aankopen worden via Google Play verwerkt. Google Play Billing wordt gebruikt om aankopen te verifiëren. Pro is een eenmalige in-app-aankoop en geen abonnement. Wij ontvangen niet rechtstreeks creditcardnummers of andere betaalkaartgegevens. De app gebruikt geen SDK’s van derden voor analyse of advertenties. Wanneer je aankoop- of beoordelingsfuncties van Google Play gebruikt, of externe functies die je zelf kiest, zoals delen, e-mail of een webbrowser, gelden het privacybeleid en de voorwaarden van de betreffende diensten. De iOS-versie is momenteel in ontwikkeling en dit beleid wordt indien nodig bijgewerkt zodra de distributie en aankoopimplementatie zijn afgerond."
       },
       {
         "h": "Contact",
@@ -373,7 +373,7 @@
         "items": [
           "Categorie Afbeeldingen toegevoegd (bewaar visitekaartjes, logo's en meer)",
           "Tik om afbeeldingen te kopiëren, delen en als voorbeeld te bekijken",
-          "Supports JPEG, PNG, WebP, and GIF"
+          "Ondersteunt JPEG, PNG, WebP en GIF"
         ]
       },
       {
@@ -381,12 +381,12 @@
         "date": "2026",
         "title": "Eerste release (Android)",
         "items": [
-          "Categorielijsten: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+          "Categorielijsten: Vrije tekst, Sjablonen, Contact, Links, Afbeeldingen, Profiel",
           "Kopiëren met één tik en voorbeeld bij lang indrukken",
           "Profielkaarten met kopiëren per veld",
           "Volgorde aanpassen voor lijsten en profielen",
-          "Gratis abonnement + 30 dagen gratis proefperiode (hogere limieten en back-up)",
-          "JSON-export/-import (Pro)",
+          "Free en Pro met verschillende opslaglimieten",
+          ".mqp-back-up exporteren/importeren (Pro)",
           "Lichte en donkere thema's; premiumthema's met Pro",
           "Instellingen voor kopieerfeedback, startcategorie en gegevensback-up"
         ]
@@ -400,7 +400,7 @@
     "snippetsAlt": "Scherm snippetlijst",
     "profileAlt": "Scherm profielkaart",
     "profileEditAlt": "Scherm profiel bewerken",
-    "cateAlt": "Zes categorietabbladen: vrije tekst, standaardteksten, e-mail, telefoon, adres, profiel",
+    "cateAlt": "Zes categorietabbladen: Vrije tekst, Sjablonen, Contact, Links, Afbeeldingen, Profiel",
     "items": [
       {
         "caption": "Vrije tekst — handtekeningen, URL’s en rekeninggegevens in één oogopslag"
@@ -429,7 +429,7 @@
     "snippetsCap": "Kopieer snel je gebruikelijke antwoorden",
     "imagesCap": "Sla afbeeldingen op, kopieer en deel",
     "profileCap": "Kopieer adres of contact veld voor veld",
-    "profileEditCap": "Registreer benodigde details samen"
+    "profileEditCap": "Sla de gegevens die je nodig hebt samen op"
   },
   "trust": {
     "t1Title": "Tik om te kopiëren",
@@ -437,7 +437,7 @@
     "t2Title": "Pro eenmalig",
     "t2Text": "Geen maandelijkse betalingen.",
     "t3Title": "Opgeslagen op apparaat",
-    "t3Text": "Geregistreerde inhoud wordt op het apparaat beheerd.",
+    "t3Text": "Opgeslagen inhoud wordt op het apparaat beheerd.",
     "t4Title": "UI in 21 talen",
     "t4Text": "App-schermen in 21 talen."
   },
@@ -573,8 +573,8 @@
         "a": "Teksten, profielen en instellingen staan op je smartphone."
       },
       {
-        "q": "Verlies ik de app na de 30-dagen proef?",
-        "a": "Nee. Na de proefperiode kunt u het gratis abonnement blijven gebruiken. Uw opgeslagen gegevens worden niet verwijderd. Gegevens boven de gratis limiet blijven bewaard en worden weer bruikbaar na Pro-aankoop."
+        "q": "Kan ik Free zonder tijdslimiet blijven gebruiken?",
+        "a": "Ja. Free heeft geen tijdslimiet. Je kunt op elk moment upgraden naar Pro als je hogere opslaglimieten, back-ups, premium-thema's of categorieaanpassing wilt."
       },
       {
         "q": "Is Pro een maandabonnement?",
@@ -586,14 +586,14 @@
       },
       {
         "q": "Kan ik gegevens verplaatsen bij telefoonwissel?",
-        "a": "Exporteer back-ups en importeer wanneer nodig. Beschikbaar met 30 dagen gratis proberen en Pro."
+        "a": "Back-ups exporteren en importeren is beschikbaar met Pro. Je kunt via Instellingen een .mqp-back-up exporteren en deze importeren op een ander apparaat met MyQuickPaste."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
     "titleLine2": "ook op Windows.",
-    "text": "De Windows-editie blijft aan de schermrand en plakt geregistreerde tekst met één klik — een aparte app.",
+    "text": "De Windows-versie blijft aan de rand van het scherm en kan opgeslagen tekst met één klik plakken; het is een aparte app.",
     "note": "Niet dezelfde app als de smartphone-editie. Aankopen en opgeslagen gegevens worden niet gedeeld.",
     "link": "Homepage Windows-editie"
   },

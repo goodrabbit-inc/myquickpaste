@@ -20,7 +20,7 @@
     "how": "Cara kerja",
     "screens": "Layar",
     "pricing": "Harga",
-    "cta": "Uji coba gratis 30 hari"
+    "cta": "Free / Pro"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Teks sehari-hari, satu ketuk saja.",
     "lead": "Teks baku, alamat, kontak, URL, emoji, hashtag. Simpan yang sering dipakai, lalu salin dengan satu ketuk dari daftar saat diperlukan.",
     "platformLine": "Google Play segera hadir · App Store dalam pengembangan",
-    "trialTitle": "Uji coba gratis 30 hari",
-    "trialText": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis.",
+    "trialTitle": "Free tanpa batas waktu",
+    "trialText": "Simpan hingga 10 item per kategori teks, 10 gambar, dan 2 profil. Pencarian, pengurutan ulang, dan Simpan cepat juga tersedia.",
     "trust": "21 bahasa",
     "eyebrow": "MyQuickPaste untuk smartphone",
     "catchLine1": "Teks sehari-hari,",
     "catchLine2": "satu ketuk saja.",
     "sub": "Lalu beralih ke aplikasi biasa Anda dan tempel.",
     "ctaPrimary": "Lihat cara kerjanya",
-    "ctaSecondary": "Uji coba gratis 30 hari",
+    "ctaSecondary": "Free / Pro",
     "statusPlay": "Google Play segera hadir",
     "statusApp": "App Store dalam pengembangan",
-    "pill1": "Uji coba gratis 30 hari",
+    "pill1": "Free",
     "pill2": "Pro pembelian sekali",
     "pill3": "Disimpan di perangkat",
     "pill4": "21 bahasa"
@@ -89,12 +89,12 @@
     "appTitle": "MyQuickPaste",
     "appTag": "Tempat permanen untuk teks penting Anda",
     "appItems": [
-      "Simpan alamat, tanda tangan, dan balasan tetap dengan nama masing-masing",
-      "Enam kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+      "Simpan alamat, tanda tangan, dan jawaban dengan nama",
+      "Enam kategori: Teks bebas, Templat, Kontak, Tautan, Gambar, Profil",
       "Item tetap tersimpan sampai Anda menghapusnya sendiri, tidak hilang otomatis seperti riwayat",
       "Dirancang untuk menemukan dan menyalin teks yang paling sering Anda gunakan dengan cepat"
     ],
-    "footer": "Menyalin sesuatu beberapa jam lalu? Gboard cocok untuk itu. Tapi alamat, tanda tangan, atau balasan tetap yang Anda pakai setiap minggu? Simpan sekali di sini, dan Anda tidak perlu mencarinya lagi."
+    "footer": "Baru disalin beberapa jam lalu? Gboard praktis untuk itu. Untuk alamat, tanda tangan, dan jawaban siap pakai yang Anda gunakan setiap minggu, simpan di MyQuickPaste agar tidak perlu mencarinya lagi."
   },
   "steps": {
     "title": "Cara kerja",
@@ -102,7 +102,7 @@
     "items": [
       {
         "title": "Simpan yang sering dipakai",
-        "text": "Daftarkan teks favorit, kontak, dan lainnya."
+        "text": "Simpan teks, kontak, dan informasi lain yang sering Anda gunakan."
       },
       {
         "title": "Ketuk baris yang Anda butuhkan",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Atur menurut penggunaan",
-        "text": "Kelola menurut teks bebas, teks baku, email, telepon, gambar, dan profil.",
+        "text": "Atur data berdasarkan teks bebas, templat, kontak, tautan, gambar, dan profil.",
         "icon": "folder",
         "large": true
       },
@@ -169,7 +169,7 @@
       },
       {
         "title": "Ekspor dan impor",
-        "text": "Ekspor cadangan dan impor saat diperlukan. Tersedia dengan uji coba gratis 30 hari dan Pro.",
+        "text": "Dengan Pro, Anda dapat mengekspor data sebagai cadangan .mqp dan mengimpornya saat diperlukan.",
         "icon": "backup"
       },
       {
@@ -183,12 +183,12 @@
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "Kategori: Teks bebas, Teks baku, Email, Telepon, Gambar, Profil",
+    "categoriesLabel": "Kategori: Teks bebas, Templat, Kontak, Tautan, Gambar, Profil",
     "categories": [
       "Teks bebas",
       "Teks baku",
-      "Email",
-      "Telepon",
+      "Kontak",
+      "Tautan",
       "Gambar",
       "Profil"
     ],
@@ -200,7 +200,7 @@
     "subtitle": "Terang dan gelap, plus tema warna premium dengan Pro.",
     "imageAlt": "Galeri tema MyQuickPaste",
     "caption": "Tema terang / gelap / premium",
-    "note": "Tema premium memerlukan pembelian Pro. Tidak termasuk uji coba 30 hari.",
+    "note": "Tema terang dan gelap tersedia di Free. Tema premium tersedia di Pro.",
     "titleLine1": "Sesuaikan tampilan",
     "titleLine2": "dengan tempat pemakaian."
   },
@@ -223,13 +223,13 @@
   },
   "pricing": {
     "title": "Harga",
-    "subtitle": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan gratis. Setelah itu, lanjutkan paket gratis.",
-    "freeTitle": "Gratis",
+    "subtitle": "Gunakan Free tanpa batas waktu. Upgrade ke Pro untuk batas penyimpanan yang lebih tinggi, cadangan, tema premium, dan penyesuaian kategori.",
+    "freeTitle": "Free",
     "freePrice": "0",
     "freeItems": [
       "Kategori teks: 10 masing-masing",
       "Gambar: 10",
-      "Profil: 1",
+      "Profil: 2",
       "Pencarian",
       "Urut ulang",
       "Simpan cepat"
@@ -245,37 +245,37 @@
       "Nama dan ikon kategori kustom"
     ],
     "note": "Aplikasi ini sendiri dapat diunduh gratis. Pro adalah add-on pembelian sekali melalui toko aplikasi; harga dapat berbeda tergantung wilayah.",
-    "titleLine1": "Coba selama 30 hari,",
-    "titleLine2": "dan rasakan pengalamannya.",
-    "trialLabel": "Hanya instal pertama",
-    "trialTitle": "Uji coba gratis 30 hari",
-    "trialText": "Kategori teks: hingga 200 masing-masing · Gambar: 50 · Profil: 30 · Ekspor/impor cadangan",
-    "trialNote": "Tema premium dan kustomisasi nama/ikon kategori tersedia setelah membeli Pro. Setelah uji coba, data Anda tidak dihapus. Data di atas batas gratis tetap tersimpan dan bisa digunakan lagi setelah membeli Pro.",
-    "freeLead": "Fitur inti tetap gratis digunakan.",
+    "titleLine1": "Free mencakup fitur-fitur penting.",
+    "titleLine2": "Pro memberi Anda lebih banyak.",
+    "trialLabel": "Free",
+    "trialTitle": "Tanpa batas waktu",
+    "trialText": "Kategori teks: 10 item per kategori · Gambar: 10 · Profil: 2 · Pencarian · Urut ulang · Simpan cepat",
+    "trialNote": "Butuh lebih banyak? Pro meningkatkan batas menjadi 200 item per kategori teks, 50 gambar, dan 30 profil, serta menambahkan cadangan .mqp, tema premium, dan penyesuaian nama serta ikon kategori.",
+    "freeLead": "Fitur utama Free dapat digunakan tanpa batas waktu.",
     "proTag": "Beli sekali",
     "proLead": "Tanpa biaya bulanan.",
     "notSub": "Bukan langganan"
   },
   "privacySection": {
     "title": "Privasi di perangkat",
-    "text": "Teks dan profil yang disimpan di MyQuickPaste dikelola di perangkat. Kami tidak mengirim konten Anda ke cloud secara otomatis.",
+    "text": "Teks dan profil yang Anda simpan di MyQuickPaste dikelola di perangkat Anda. Kami tidak mengirim konten Anda ke cloud secara otomatis.",
     "link": "Baca kebijakan privasi",
     "titleLine1": "Yang penting tetap",
     "titleLine2": "di perangkat Anda.",
     "points": [
       "Tanpa sinkronisasi cloud otomatis",
-      "Tidak mengirim konten tersimpan secara otomatis ke server eksternal",
+      "Tidak mengirim konten yang disimpan secara otomatis ke server eksternal",
       "Data tetap dikelola di perangkat",
-      "Anda dapat mengekspor cadangan sendiri selama uji coba gratis 30 hari dan dengan Pro."
+      "Dengan Pro, Anda dapat mengekspor cadangan .mqp milik Anda sendiri."
     ]
   },
   "cta": {
     "title": "Teks sehari-hari, satu ketuk saja.",
     "lead": "Simpan, ketuk, lalu tempel.",
-    "button": "Uji coba gratis 30 hari",
+    "button": "Free / Pro",
     "titleLine1": "Teks sehari-hari,",
     "titleLine2": "satu ketuk saja.",
-    "sub": "Selama 30 hari setelah instalasi pertama, coba batas simpan lebih tinggi dan cadangan secara gratis."
+    "sub": "Free tidak memiliki batas waktu. Upgrade ke Pro kapan saja jika Anda membutuhkan lebih banyak."
   },
   "footer": {
     "pcEdition": "Edisi Windows",
@@ -293,12 +293,12 @@
         "a": "Tidak. MyQuickPaste adalah edisi terpisah untuk smartphone. Konsepnya sama, tetapi ini aplikasi mandiri dengan data dan pembelian toko sendiri."
       },
       {
-        "q": "Apa bedanya edisi gratis dan Pro?",
-        "a": "Paket gratis mencakup 10 item per kategori teks, 10 gambar, dan 1 profil. Salin, tambah, cari, urut ulang, dan simpan cepat tersedia. Pro menambah batas lebih tinggi, cadangan, tema premium, dan kustomisasi kategori. Instal baru: uji coba gratis 30 hari batas dan cadangan (tema premium dan kustomisasi memerlukan Pro)."
+        "q": "Apa perbedaan antara Free dan Pro?",
+        "a": "Dengan Free, Anda dapat menyimpan hingga 10 item per kategori teks, 10 gambar, dan 2 profil. Menyalin, menyimpan, mencari, mengurutkan ulang, dan Simpan cepat tersedia tanpa batas waktu. Pro meningkatkan batas menjadi 200 item per kategori teks, 50 gambar, dan 30 profil serta menambahkan ekspor/impor cadangan .mqp, tema premium, dan penyesuaian nama serta ikon kategori."
       },
       {
-        "q": "Bagaimana cara kerja uji coba 30 hari?",
-        "a": "Selama 30 hari dari peluncuran pertama: hingga 200 item per kategori teks, 50 gambar, 30 profil, dan cadangan gratis. Tema premium dan kustomisasi memerlukan Pro. Data tidak dihapus setelah uji coba."
+        "q": "Apakah Free memiliki batas waktu?",
+        "a": "Tidak. Free dapat digunakan tanpa batas waktu. Pro adalah pembelian satu kali opsional yang memberikan batas penyimpanan lebih tinggi, cadangan, tema premium, dan penyesuaian kategori."
       },
       {
         "q": "Di mana data saya disimpan?",
@@ -306,7 +306,7 @@
       },
       {
         "q": "Bagaimana cara mencadangkan atau memindahkan data saya?",
-        "a": "Pengguna Pro dapat mengekspor backup JSON dari pengaturan dan mengimpornya ke MyQuickPaste di perangkat lain."
+        "a": "Dengan Pro, Anda dapat mengekspor cadangan .mqp dari Pengaturan dan mengimpornya di perangkat lain yang menggunakan MyQuickPaste."
       },
       {
         "q": "Kapan versi iPhone akan tersedia?",
@@ -314,7 +314,7 @@
       },
       {
         "q": "Bagaimana cara membeli Pro?",
-        "a": "Buka layar upgrade di dalam aplikasi, atau cari add-on Pro di toko. Pembayaran sepenuhnya ditangani oleh Google Play atau App Store."
+        "a": "Buka layar upgrade ke Pro di aplikasi. Di Android, pembelian diproses melalui Google Play. Pro adalah pembelian satu kali, bukan langganan."
       }
     ],
     "contactTitle": "Hubungi Kami",
@@ -336,23 +336,23 @@
       },
       {
         "h": "Penyimpanan di perangkat dan pencadangan Android",
-        "p": "Konten yang dimasukkan, kategori, profil, pengaturan aplikasi, dan gambar yang didaftarkan disimpan di area penyimpanan privat aplikasi pada perangkat Anda. Gambar yang didaftarkan disalin ke area penyimpanan privat tersebut. Di Android, jika fitur pencadangan sistem operasi diaktifkan, sebagian data aplikasi dapat dicadangkan ke penyimpanan cadangan yang terkait dengan Akun Google Anda dan dipulihkan dari sana. Berdasarkan aturan pencadangan aplikasi saat ini, file gambar yang didaftarkan dikecualikan dari pencadangan cloud. Saat melakukan pemindahan antarperangkat, data dapat dipindahkan melalui fitur sistem operasi."
+        "p": "Konten yang Anda masukkan, kategori, profil, pengaturan aplikasi, dan gambar yang disimpan berada di area penyimpanan privat aplikasi pada perangkat Anda. Gambar yang disimpan disalin ke area privat tersebut. Di Android, jika fitur pencadangan sistem operasi diaktifkan, sebagian data aplikasi dapat dicadangkan ke penyimpanan cadangan yang terkait dengan Akun Google Anda dan dipulihkan dari sana. Berdasarkan aturan pencadangan aplikasi saat ini, file gambar yang disimpan tidak disertakan dalam pencadangan cloud. Saat melakukan pemindahan antarperangkat, data dapat dipindahkan melalui fitur sistem operasi."
       },
       {
         "h": "Keamanan",
-        "p": "Data yang disimpan berada di area privat aplikasi yang dilindungi oleh sistem operasi. Kami tidak mengoperasikan server sendiri untuk menyimpan konten yang Anda daftarkan. Keamanan perangkat itu sendiri, cadangan sistem operasi, dan file cadangan yang Anda ekspor bergantung pada keamanan serta pengelolaan perangkat, layanan, dan lokasi penyimpanan yang dikendalikan pengguna."
+        "p": "Data yang disimpan berada di area privat aplikasi yang dilindungi oleh sistem operasi. Kami tidak mengoperasikan server sendiri untuk menyimpan konten yang Anda simpan. Keamanan perangkat, cadangan sistem operasi, dan file cadangan yang Anda ekspor bergantung pada keamanan serta pengelolaan perangkat, layanan, dan lokasi penyimpanan yang dikendalikan pengguna."
       },
       {
         "h": "Akses papan klip",
-        "p": "Untuk menampilkan pratinjau di layar utama dan menyediakan fitur terkait, MyQuickPaste dapat membaca teks atau gambar yang saat ini tersimpan di papan klip perangkat Anda. Isi papan klip diproses di perangkat dan tidak disimpan permanen secara otomatis kecuali Anda secara eksplisit mendaftarkannya. Aplikasi dapat membuat file cache sementara untuk menampilkan pratinjau gambar papan klip. MyQuickPaste tidak memiliki proses yang mengirimkan isi papan klip ke server yang kami operasikan."
+        "p": "Untuk menampilkan pratinjau di layar utama dan menyediakan fitur terkait, MyQuickPaste dapat membaca teks atau gambar yang saat ini berada di papan klip perangkat Anda. Isi papan klip diproses di perangkat dan tidak disimpan permanen secara otomatis kecuali Anda secara eksplisit menyimpannya. Aplikasi dapat membuat file cache sementara untuk menampilkan pratinjau gambar dari papan klip. MyQuickPaste tidak memiliki proses yang mengirim isi papan klip ke server yang kami operasikan."
       },
       {
         "h": "Penyimpanan, penghapusan, dan pencadangan data",
-        "p": "Data yang disimpan tetap berada di area penyimpanan aplikasi pada perangkat Anda sampai Anda menghapusnya di aplikasi atau menghapus instalasi aplikasi. Menghapus instalasi akan menghapus data lokal aplikasi dari perangkat, tetapi salinan dapat tetap tersimpan secara terpisah dalam cadangan sistem operasi Android atau dalam file cadangan yang telah Anda ekspor dan simpan. Selama uji coba gratis 30 hari dan dengan Pro, Anda dapat mengekspor dan mengimpor data sebagai file cadangan MyQuickPaste (.mqp). Anda memilih lokasi penyimpanan file yang diekspor dan bertanggung jawab untuk mengelola serta menghapus file cadangan yang telah diekspor."
+        "p": "Data yang disimpan tetap berada di area penyimpanan aplikasi pada perangkat Anda sampai Anda menghapusnya di aplikasi atau menghapus instalasi aplikasi. Menghapus instalasi akan menghapus data lokal aplikasi dari perangkat, tetapi salinannya dapat tetap tersimpan secara terpisah dalam cadangan sistem operasi Android atau file cadangan yang telah Anda ekspor dan simpan. Dengan Pro, Anda dapat mengekspor dan mengimpor data sebagai file cadangan MyQuickPaste (.mqp). Anda memilih lokasi penyimpanan file yang diekspor dan bertanggung jawab untuk mengelola serta menghapus file cadangan yang diekspor."
       },
       {
         "h": "Toko aplikasi, pembelian, dan layanan eksternal",
-        "p": "Uji coba gratis 30 hari dikelola di dalam aplikasi berdasarkan waktu instalasi awal. Distribusi edisi Android dan pembelian Pro diproses melalui Google Play, dan Google Play Billing digunakan untuk memverifikasi pembelian. Pro adalah pembelian dalam aplikasi satu kali dan bukan langganan. Kami tidak menerima secara langsung nomor kartu kredit atau detail kartu pembayaran lainnya. Aplikasi tidak menggunakan SDK pihak ketiga untuk analitik atau periklanan. Saat Anda menggunakan fitur pembelian atau ulasan Google Play, atau fitur eksternal yang Anda pilih seperti berbagi, email, atau browser web, kebijakan privasi dan ketentuan layanan terkait berlaku. Edisi iOS saat ini sedang dikembangkan, dan kebijakan ini akan diperbarui bila diperlukan setelah distribusi dan implementasi pembeliannya ditetapkan."
+        "p": "Distribusi versi Android dan pembelian Pro ditangani melalui Google Play, dan Google Play Billing digunakan untuk memverifikasi pembelian. Pro adalah pembelian dalam aplikasi satu kali, bukan langganan. Kami tidak menerima secara langsung nomor kartu kredit atau informasi kartu pembayaran lainnya. Aplikasi tidak menggunakan SDK pihak ketiga untuk analitik atau periklanan. Saat Anda menggunakan fitur pembelian atau ulasan Google Play, atau fitur eksternal yang Anda pilih seperti berbagi, email, atau browser web, kebijakan privasi dan ketentuan layanan terkait berlaku. Versi iOS saat ini sedang dikembangkan dan kebijakan ini akan diperbarui sesuai kebutuhan setelah distribusi serta implementasi pembeliannya ditetapkan."
       },
       {
         "h": "Kontak",
@@ -373,7 +373,7 @@
         "items": [
           "Menambahkan kategori Gambar (simpan kartu nama, logo, dan lainnya)",
           "Ketuk untuk menyalin, membagikan, dan melihat pratinjau gambar",
-          "Supports JPEG, PNG, WebP, and GIF"
+          "Mendukung JPEG, PNG, WebP, dan GIF"
         ]
       },
       {
@@ -381,12 +381,12 @@
         "date": "2026",
         "title": "Rilis pertama (Android)",
         "items": [
-          "Daftar berbasis kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+          "Daftar berdasarkan kategori: Teks bebas, Templat, Kontak, Tautan, Gambar, Profil",
           "Salin satu ketukan, pratinjau tekan lama",
           "Kartu profil dengan penyalinan per bidang",
           "Mode urutkan ulang untuk daftar dan profil",
-          "Paket gratis + uji coba gratis 30 hari (batas lebih tinggi dan cadangan)",
-          "Ekspor/impor JSON (Pro)",
+          "Free dan Pro dengan batas penyimpanan yang berbeda",
+          "Ekspor/impor cadangan .mqp (Pro)",
           "Tema terang dan gelap; tema premium dengan Pro",
           "Pengaturan untuk konfirmasi salin, kategori awal, dan backup"
         ]
@@ -400,7 +400,7 @@
     "snippetsAlt": "Layar daftar teks baku",
     "profileAlt": "Layar kartu profil",
     "profileEditAlt": "Layar edit profil",
-    "cateAlt": "Enam tab kategori: teks bebas, kalimat template, email, telepon, alamat, profil",
+    "cateAlt": "Enam tab kategori: Teks bebas, Templat, Kontak, Tautan, Gambar, Profil",
     "items": [
       {
         "caption": "Teks bebas — tanda tangan, URL, dan detail akun sekilas"
@@ -429,7 +429,7 @@
     "snippetsCap": "Salin balasan biasa dengan cepat",
     "imagesCap": "Simpan, salin, dan bagikan gambar",
     "profileCap": "Salin alamat atau kontak per kolom",
-    "profileEditCap": "Daftarkan detail yang dibutuhkan sekaligus"
+    "profileEditCap": "Simpan informasi yang Anda perlukan dalam satu tempat"
   },
   "trust": {
     "t1Title": "Ketuk untuk menyalin",
@@ -437,7 +437,7 @@
     "t2Title": "Pro sekali bayar",
     "t2Text": "Tanpa pembayaran bulanan.",
     "t3Title": "Disimpan di perangkat",
-    "t3Text": "Konten terdaftar dikelola di perangkat.",
+    "t3Text": "Konten yang disimpan dikelola di perangkat.",
     "t4Title": "UI 21 bahasa",
     "t4Text": "Layar aplikasi dalam 21 bahasa."
   },
@@ -573,8 +573,8 @@
         "a": "Teks, profil, dan pengaturan disimpan di smartphone Anda."
       },
       {
-        "q": "Apakah saya kehilangan aplikasi setelah uji coba 30 hari?",
-        "a": "Tidak. Setelah uji coba Anda bisa lanjut paket gratis. Data tersimpan tidak dihapus. Data di atas batas gratis tetap tersimpan dan bisa digunakan lagi setelah membeli Pro."
+        "q": "Bisakah saya terus menggunakan Free tanpa batas waktu?",
+        "a": "Ya. Free tidak memiliki batas waktu. Anda dapat upgrade ke Pro kapan saja jika membutuhkan batas penyimpanan yang lebih tinggi, cadangan, tema premium, atau penyesuaian kategori."
       },
       {
         "q": "Apakah Pro langganan bulanan?",
@@ -586,14 +586,14 @@
       },
       {
         "q": "Bisakah memindahkan data saat ganti ponsel?",
-        "a": "Ekspor cadangan dan impor saat diperlukan. Tersedia dengan uji coba gratis 30 hari dan Pro."
+        "a": "Ekspor dan impor cadangan tersedia di Pro. Anda dapat mengekspor cadangan .mqp dari Pengaturan dan mengimpornya di perangkat lain yang menggunakan MyQuickPaste."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
     "titleLine2": "juga di Windows.",
-    "text": "Edisi Windows tetap di tepi layar dan menempelkan teks terdaftar dengan satu klik — aplikasi terpisah.",
+    "text": "Versi Windows tetap berada di tepi layar dan dapat menempelkan teks yang disimpan dengan satu klik—ini adalah aplikasi terpisah.",
     "note": "Bukan aplikasi yang sama dengan edisi smartphone. Pembelian dan data tersimpan tidak dibagikan.",
     "link": "Beranda edisi Windows"
   },

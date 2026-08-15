@@ -20,7 +20,7 @@
     "how": "Cómo funciona",
     "screens": "Pantallas",
     "pricing": "Precios",
-    "cta": "30 días de prueba gratis"
+    "cta": "Free / Pro"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -31,18 +31,18 @@
     "catch": "Textos cotidianos, a un toque.",
     "lead": "Textos fijos, direcciones, contactos, URL, emoji, hashtags. Guarda lo que repites y cópialo con un toque desde la lista cuando lo necesites.",
     "platformLine": "Google Play próximamente · App Store en desarrollo",
-    "trialTitle": "30 días de prueba gratis",
-    "trialText": "Durante 30 días tras la primera instalación, prueba gratis límites más altos y copia de seguridad.",
+    "trialTitle": "Free sin límite de tiempo",
+    "trialText": "Guarda hasta 10 elementos por categoría de texto, 10 imágenes y 2 perfiles. También incluye búsqueda, reordenación y guardado rápido.",
     "trust": "21 idiomas",
     "eyebrow": "MyQuickPaste para smartphones",
     "catchLine1": "Tus textos del día a día,",
     "catchLine2": "a un toque.",
     "sub": "Luego cambia a tu app habitual y pega.",
     "ctaPrimary": "Ver cómo funciona",
-    "ctaSecondary": "30 días de prueba gratis",
+    "ctaSecondary": "Free / Pro",
     "statusPlay": "Google Play próximamente",
     "statusApp": "App Store en desarrollo",
-    "pill1": "30 días de prueba gratis",
+    "pill1": "Free",
     "pill2": "Pro compra única",
     "pill3": "Guardado en el dispositivo",
     "pill4": "21 idiomas"
@@ -89,12 +89,12 @@
     "appTitle": "MyQuickPaste",
     "appTag": "El lugar fijo para tus textos habituales",
     "appItems": [
-      "Guarda direcciones, firmas y respuestas habituales, cada una con su propio nombre",
-      "Seis categorías: texto libre, frases hechas, correo, teléfono, dirección y perfil",
+      "Guarda direcciones, firmas y respuestas con un nombre",
+      "Seis categorías: Texto libre, Plantillas, Contacto, Enlaces, Imágenes, Perfil",
       "Los textos permanecen hasta que tú los borres, sin que el historial los elimine",
       "Pensada para encontrar y copiar, una y otra vez, los textos que más usas"
     ],
-    "footer": "¿Lo copiaste hace unas horas? Gboard te resuelve el momento. ¿Una dirección, una firma o una respuesta que usas cada semana? Guárdala aquí y no vuelvas a buscarla."
+    "footer": "¿Lo copiaste hace unas horas? Gboard es práctico. Para las direcciones, firmas y respuestas predefinidas que usas cada semana, guárdalas en MyQuickPaste y deja de buscarlas."
   },
   "steps": {
     "title": "Cómo funciona",
@@ -102,7 +102,7 @@
     "items": [
       {
         "title": "Guarda lo que reutilizas",
-        "text": "Registra textos habituales, contactos y más."
+        "text": "Guarda los textos, contactos y demás información que usas con frecuencia."
       },
       {
         "title": "Toca la fila que necesitas",
@@ -148,7 +148,7 @@
       },
       {
         "title": "Organizar por uso",
-        "text": "Organiza por texto libre, textos fijos, correo, teléfono, imágenes y perfil.",
+        "text": "Organiza por texto libre, plantillas, contacto, enlaces, imágenes y perfil.",
         "icon": "folder",
         "large": true
       },
@@ -169,7 +169,7 @@
       },
       {
         "title": "Exportar e importar",
-        "text": "Exporta copias de seguridad e impórtalas cuando haga falta. Disponible con prueba gratuita de 30 días y Pro.",
+        "text": "Con Pro, puedes exportar tus datos como una copia de seguridad .mqp e importarla cuando la necesites.",
         "icon": "backup"
       },
       {
@@ -183,12 +183,12 @@
         "icon": "lock"
       }
     ],
-    "categoriesLabel": "Categorías: Texto libre, Textos fijos, Correo, Teléfono, Imágenes, Perfil",
+    "categoriesLabel": "Categorías: Texto libre, Plantillas, Contacto, Enlaces, Imágenes, Perfil",
     "categories": [
       "Texto libre",
       "Textos fijos",
-      "Correo",
-      "Teléfono",
+      "Contacto",
+      "Enlaces",
       "Imágenes",
       "Perfil"
     ],
@@ -200,7 +200,7 @@
     "subtitle": "Claro y oscuro, más temas premium con Pro.",
     "imageAlt": "Galería de temas MyQuickPaste",
     "caption": "Temas claro / oscuro / premium",
-    "note": "Los temas premium requieren compra Pro. No incluidos en la prueba de 30 días.",
+    "note": "Los temas claro y oscuro están disponibles con Free. Los temas premium están disponibles con Pro.",
     "titleLine1": "Adapta el aspecto",
     "titleLine2": "al lugar de uso."
   },
@@ -223,16 +223,16 @@
   },
   "pricing": {
     "title": "Precios",
-    "subtitle": "Durante 30 días tras la primera instalación, prueba gratis límites más altos y copia de seguridad. Después, sigue con el plan gratuito.",
-    "freeTitle": "Gratis",
+    "subtitle": "Usa Free todo el tiempo que quieras. Pásate a Pro para obtener límites de guardado más altos, copias de seguridad, temas premium y personalización de categorías.",
+    "freeTitle": "Free",
     "freePrice": "0",
     "freeItems": [
       "Categorías de texto: 10 cada una",
       "Imágenes: 10",
-      "Perfiles: 1",
+      "Perfiles: 2",
       "Búsqueda",
       "Reordenar",
-      "Registro rápido"
+      "Guardado rápido"
     ],
     "proTitle": "Pro (pago único)",
     "proPrice": "Consulta el precio en la tienda",
@@ -245,20 +245,20 @@
       "Nombres e iconos de categoría personalizados"
     ],
     "note": "La aplicación se puede descargar gratis. Pro es un complemento no consumible que se compra a través de la tienda de aplicaciones; el precio puede variar según la región.",
-    "titleLine1": "Pruébalo 30 días,",
-    "titleLine2": "y nota la diferencia.",
-    "trialLabel": "Solo en la primera instalación",
-    "trialTitle": "30 días de prueba gratis",
-    "trialText": "Categorías de texto: hasta 200 cada una · Imágenes: 50 · Perfiles: 30 · Exportar/importar copia de seguridad",
-    "trialNote": "Los temas premium y la personalización de categorías requieren comprar Pro. Tras los 30 días, tus datos no se eliminan. Los datos por encima del límite gratuito se conservan y vuelven a estar disponibles con Pro.",
-    "freeLead": "Las funciones básicas siguen siendo gratuitas.",
+    "titleLine1": "Free cubre lo esencial.",
+    "titleLine2": "Pro te ofrece más.",
+    "trialLabel": "Free",
+    "trialTitle": "Sin límite de tiempo",
+    "trialText": "Categorías de texto: 10 elementos cada una · Imágenes: 10 · Perfiles: 2 · Búsqueda · Reordenación · Guardado rápido",
+    "trialNote": "¿Necesitas más? Pro aumenta los límites a 200 elementos por categoría de texto, 50 imágenes y 30 perfiles, y añade copias de seguridad .mqp, temas premium y personalización de nombres e iconos de categorías.",
+    "freeLead": "Las funciones esenciales de Free se pueden usar sin límite de tiempo.",
     "proTag": "Compra única",
     "proLead": "Sin cuota mensual.",
     "notSub": "No es una suscripción"
   },
   "privacySection": {
     "title": "Privacidad en el dispositivo",
-    "text": "Textos y perfiles guardados en MyQuickPaste se gestionan en el dispositivo. No enviamos tu contenido a la nube automáticamente.",
+    "text": "Los textos y perfiles que guardas en MyQuickPaste se gestionan en tu dispositivo. No enviamos automáticamente tu contenido a la nube.",
     "link": "Leer la política de privacidad",
     "titleLine1": "Lo importante se queda",
     "titleLine2": "en tu dispositivo.",
@@ -266,16 +266,16 @@
       "Sin sincronización automática en la nube",
       "No envía automáticamente el contenido guardado a servidores externos",
       "Los datos se gestionan en el dispositivo",
-      "Puedes exportar tu propia copia de seguridad durante la prueba gratuita de 30 días y con Pro."
+      "Con Pro, puedes exportar tu propia copia de seguridad .mqp."
     ]
   },
   "cta": {
     "title": "Tus textos del día a día, a un toque.",
     "lead": "Guarda, toca, luego pega.",
-    "button": "30 días de prueba gratuita",
+    "button": "Free / Pro",
     "titleLine1": "Tus textos del día a día,",
     "titleLine2": "a un toque.",
-    "sub": "Durante 30 días tras la primera instalación, prueba gratis límites más altos y copia de seguridad."
+    "sub": "Free no tiene límite de tiempo. Pásate a Pro en cualquier momento si necesitas más."
   },
   "footer": {
     "pcEdition": "Edición Windows",
@@ -293,12 +293,12 @@
         "a": "No. MyQuickPaste es la edición para móviles. Comparte la misma filosofía, pero es una aplicación independiente, con sus propios datos y su propia compra en la tienda."
       },
       {
-        "q": "¿Cuál es la diferencia entre la versión gratuita y Pro?",
-        "a": "El plan gratuito incluye 10 elementos por categoría de texto, 10 imágenes y 1 perfil. Copiar, registrar, buscar, reordenar y registro rápido están disponibles. Pro añade límites más altos, copia de seguridad, temas premium y personalización de categorías. Instalación nueva: 30 días de prueba gratis de límites y copia de seguridad (temas premium y personalización requieren Pro)."
+        "q": "¿Cuál es la diferencia entre Free y Pro?",
+        "a": "Con Free puedes guardar hasta 10 elementos por categoría de texto, 10 imágenes y 2 perfiles. Las funciones de copiar, guardar, buscar, reordenar y guardado rápido están disponibles sin límite de tiempo. Pro aumenta los límites a 200 elementos por categoría de texto, 50 imágenes y 30 perfiles, y añade exportación/importación de copias de seguridad .mqp, temas premium y personalización de nombres e iconos de categorías."
       },
       {
-        "q": "¿Cómo funciona la prueba de 30 días?",
-        "a": "Durante 30 días desde el primer inicio: hasta 200 elementos por categoría de texto, 50 imágenes, 30 perfiles y copia de seguridad gratis. Temas premium y personalización requieren Pro. Los datos no se eliminan tras la prueba."
+        "q": "¿Free tiene límite de tiempo?",
+        "a": "No. Free se puede usar sin límite de tiempo. Pro es una compra única opcional que ofrece límites de guardado más altos, copias de seguridad, temas premium y personalización de categorías."
       },
       {
         "q": "¿Dónde se guardan mis datos?",
@@ -306,7 +306,7 @@
       },
       {
         "q": "¿Cómo hago una copia de seguridad o traslado mis datos?",
-        "a": "Los usuarios Pro pueden exportar una copia de seguridad en JSON desde los ajustes e importarla en otro dispositivo con MyQuickPaste."
+        "a": "Con Pro, puedes exportar una copia de seguridad .mqp desde Ajustes e importarla en otro dispositivo con MyQuickPaste."
       },
       {
         "q": "¿Cuándo estará disponible la versión para iPhone?",
@@ -314,7 +314,7 @@
       },
       {
         "q": "¿Cómo compro Pro?",
-        "a": "Abre la pantalla de actualización dentro de la aplicación o la ficha del complemento Pro en la tienda. El cobro lo gestiona por completo Google Play o el App Store."
+        "a": "Abre la pantalla para pasarte a Pro en la aplicación. En Android, la compra se procesa a través de Google Play. Pro es una compra única, no una suscripción."
       }
     ],
     "contactTitle": "Contacto",
@@ -336,23 +336,23 @@
       },
       {
         "h": "Almacenamiento en el dispositivo y copia de seguridad de Android",
-        "p": "El contenido introducido, las categorías, los perfiles, los ajustes de la aplicación y las imágenes registradas se almacenan en el área privada de almacenamiento de la aplicación en tu dispositivo. Las imágenes registradas se copian en ese almacenamiento privado. En Android, si está activada la función de copia de seguridad del sistema operativo, algunos datos de la aplicación pueden guardarse en el espacio de copia de seguridad asociado a tu cuenta de Google y restaurarse desde allí. Según las reglas de copia de seguridad actuales de la aplicación, los archivos de imágenes registradas quedan excluidos de la copia de seguridad en la nube. Durante la transferencia entre dispositivos, los datos pueden transferirse mediante funciones del sistema operativo."
+        "p": "El contenido introducido, las categorías, los perfiles, los ajustes de la aplicación y las imágenes guardadas se almacenan en el área privada de la aplicación en tu dispositivo. Las imágenes guardadas se copian en ese almacenamiento privado. En Android, si está activada la función de copia de seguridad del sistema operativo, algunos datos de la aplicación pueden guardarse en el espacio de copia de seguridad asociado a tu cuenta de Google y restaurarse desde allí. Según las reglas de copia de seguridad actuales de la aplicación, los archivos de imágenes guardadas quedan excluidos de la copia de seguridad en la nube. Durante la transferencia entre dispositivos, los datos pueden transferirse mediante funciones del sistema operativo."
       },
       {
         "h": "Seguridad",
-        "p": "Los datos guardados se almacenan en un área privada de la aplicación protegida por el sistema operativo. No operamos un servidor propio para almacenar el contenido que registras. La seguridad del propio dispositivo, de las copias de seguridad del sistema operativo y de los archivos de copia de seguridad que exportas depende de la seguridad y gestión del dispositivo, servicio y ubicación de almacenamiento controlada por el usuario correspondientes."
+        "p": "Los datos guardados se almacenan en un área privada de la aplicación protegida por el sistema operativo. No operamos un servidor propio para almacenar el contenido que guardas. La seguridad del propio dispositivo, las copias de seguridad del sistema operativo y los archivos de copia de seguridad que exportas depende de la seguridad y la gestión del dispositivo, el servicio y el almacenamiento correspondiente."
       },
       {
         "h": "Acceso al portapapeles",
-        "p": "Para mostrar vistas previas en la pantalla principal y ofrecer funciones relacionadas, MyQuickPaste puede leer texto o imágenes almacenados actualmente en el portapapeles del dispositivo. El contenido del portapapeles se procesa en el dispositivo y no se guarda automáticamente de forma permanente salvo que lo registres expresamente. La aplicación puede crear un archivo de caché temporal para previsualizar imágenes del portapapeles. MyQuickPaste no incluye ningún proceso que envíe el contenido del portapapeles a servidores operados por nosotros."
+        "p": "Para mostrar vistas previas en la pantalla principal y ofrecer funciones relacionadas, MyQuickPaste puede leer el texto o las imágenes que haya en ese momento en el portapapeles de tu dispositivo. El contenido del portapapeles se procesa en el dispositivo y no se guarda automáticamente de forma permanente, a menos que lo guardes expresamente. La aplicación puede crear un archivo de caché temporal para mostrar una vista previa de las imágenes del portapapeles. MyQuickPaste no incluye ningún proceso que envíe el contenido del portapapeles a servidores operados por nosotros."
       },
       {
         "h": "Conservación, eliminación y copias de seguridad de los datos",
-        "p": "Los datos guardados permanecen en el área de almacenamiento de la aplicación en tu dispositivo hasta que los eliminas en la aplicación o desinstalas la aplicación. Al desinstalarla se eliminan los datos locales de la aplicación del dispositivo, pero pueden quedar copias por separado en las copias de seguridad del sistema operativo Android o en los archivos de copia de seguridad que hayas exportado y conservado. Durante la prueba gratuita de 30 días y con Pro puedes exportar e importar los datos como un archivo de copia de seguridad de MyQuickPaste (.mqp). Tú eliges dónde se guarda el archivo exportado y eres responsable de gestionar y eliminar los archivos de copia de seguridad exportados."
+        "p": "Los datos guardados permanecen en el área de almacenamiento de la aplicación en tu dispositivo hasta que los eliminas desde la aplicación o desinstalas la aplicación. Al desinstalarla se eliminan los datos locales de la aplicación del dispositivo, pero pueden quedar copias por separado en las copias de seguridad del sistema operativo Android o en los archivos de copia de seguridad que hayas exportado y conservado. Con Pro, puedes exportar e importar datos como un archivo de copia de seguridad de MyQuickPaste (.mqp). Tú eliges dónde se guarda el archivo exportado y eres responsable de gestionar y eliminar los archivos de copia de seguridad exportados."
       },
       {
         "h": "Tiendas de aplicaciones, compras y servicios externos",
-        "p": "La prueba gratuita de 30 días se gestiona dentro de la aplicación según la hora de la instalación inicial. La distribución de la edición para Android y las compras de Pro se gestionan a través de Google Play, y se utiliza Google Play Billing para verificar las compras. Pro es una compra dentro de la aplicación de pago único y no una suscripción. No recibimos directamente números de tarjetas de crédito ni otros datos de tarjetas de pago. La aplicación no utiliza SDK de terceros con fines de análisis o publicidad. Cuando utilizas las funciones de compra o reseñas de Google Play, o funciones externas que eliges, como compartir, correo electrónico o un navegador web, se aplican las políticas de privacidad y los términos de los servicios correspondientes. La edición para iOS se encuentra actualmente en desarrollo y esta política se actualizará cuando sea necesario una vez finalizados su sistema de distribución y la implementación de las compras."
+        "p": "La distribución de la versión para Android y las compras de Pro se gestionan a través de Google Play, y Google Play Billing se utiliza para verificar las compras. Pro es una compra única dentro de la aplicación, no una suscripción. No recibimos directamente números de tarjetas de crédito ni otros datos de tarjetas de pago. La aplicación no utiliza SDK de terceros para análisis ni publicidad. Cuando utilizas funciones de compra o reseña de Google Play, o funciones externas que eliges, como compartir, correo electrónico o navegador web, se aplican las políticas de privacidad y las condiciones de los servicios correspondientes. La versión para iOS está actualmente en desarrollo y esta política se actualizará cuando sea necesario una vez que se definan su distribución y el sistema de compras."
       },
       {
         "h": "Contacto",
@@ -373,7 +373,7 @@
         "items": [
           "Se añadió la categoría Imágenes (guarda tarjetas de visita, logotipos y más)",
           "Toca para copiar, compartir y previsualizar imágenes",
-          "Supports JPEG, PNG, WebP, and GIF"
+          "Compatible con JPEG, PNG, WebP y GIF"
         ]
       },
       {
@@ -381,12 +381,12 @@
         "date": "2026",
         "title": "Primera publicación (Android)",
         "items": [
-          "Listas por categoría: texto libre, frases hechas, correo, teléfono, dirección, perfil",
+          "Listas por categoría: Texto libre, Plantillas, Contacto, Enlaces, Imágenes, Perfil",
           "Copia con un toque y vista previa con toque largo",
           "Fichas de perfil con copia campo a campo",
           "Modo de reordenar para listas y perfiles",
-          "Plan gratuito + 30 días de prueba gratis (límites y copia de seguridad)",
-          "Exportación e importación en JSON (Pro)",
+          "Free y Pro con distintos límites de guardado",
+          "Exportación/importación de copias de seguridad .mqp (Pro)",
           "Temas claro y oscuro; temas premium con Pro",
           "Ajustes para la confirmación al copiar, la categoría de inicio y la copia de seguridad"
         ]
@@ -400,7 +400,7 @@
     "snippetsAlt": "Pantalla de lista de textos fijos",
     "profileAlt": "Pantalla de tarjeta de perfil",
     "profileEditAlt": "Pantalla de edición de perfil",
-    "cateAlt": "Seis pestañas de categorías: texto libre, frases hechas, correo, teléfono, dirección, perfil",
+    "cateAlt": "Seis pestañas de categorías: Texto libre, Plantillas, Contacto, Enlaces, Imágenes, Perfil",
     "items": [
       {
         "caption": "Texto libre — firmas, URL y datos de cuenta de un vistazo"
@@ -429,7 +429,7 @@
     "snippetsCap": "Copia rápido tus respuestas habituales",
     "imagesCap": "Guarda, copia y comparte imágenes",
     "profileCap": "Copia dirección o contactos campo por campo",
-    "profileEditCap": "Registra juntos los datos que necesitas"
+    "profileEditCap": "Guarda juntos los datos que necesitas"
   },
   "trust": {
     "t1Title": "Toca para copiar",
@@ -437,7 +437,7 @@
     "t2Title": "Pro de pago único",
     "t2Text": "Sin pagos mensuales.",
     "t3Title": "Guardado en el dispositivo",
-    "t3Text": "El contenido registrado se gestiona en el dispositivo.",
+    "t3Text": "El contenido guardado se gestiona en el dispositivo.",
     "t4Title": "Interfaz en 21 idiomas",
     "t4Text": "Pantallas de la app en 21 idiomas."
   },
@@ -573,8 +573,8 @@
         "a": "Textos, perfiles y ajustes se guardan en tu smartphone."
       },
       {
-        "q": "¿Pierdo la app después de la prueba de 30 días?",
-        "a": "No. Tras la prueba puedes seguir con el plan gratuito. Tus datos no se eliminan. Los datos por encima del límite gratuito se conservan y vuelven a estar disponibles con Pro."
+        "q": "¿Puedo seguir usando Free sin límite de tiempo?",
+        "a": "Sí. Free no tiene límite de tiempo. Puedes pasarte a Pro en cualquier momento si quieres límites de guardado más altos, copias de seguridad, temas premium o personalización de categorías."
       },
       {
         "q": "¿Pro es una suscripción mensual?",
@@ -586,14 +586,14 @@
       },
       {
         "q": "¿Puedo mover datos al cambiar de teléfono?",
-        "a": "Exporta copias de seguridad e impórtalas cuando haga falta. Disponible con prueba gratuita de 30 días y Pro."
+        "a": "La exportación e importación de copias de seguridad está disponible con Pro. Puedes exportar una copia de seguridad .mqp desde Ajustes e importarla en otro dispositivo con MyQuickPaste."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
     "titleLine2": "también en Windows.",
-    "text": "La edición Windows permanece en el borde de la pantalla y pega texto registrado con un clic — es una app separada.",
+    "text": "La versión para Windows se mantiene en el borde de la pantalla y permite pegar texto guardado con un clic; es una aplicación independiente.",
     "note": "No es la misma app que la edición para móviles. Compras y datos guardados no se comparten.",
     "link": "Página de la edición Windows"
   },

@@ -20,7 +20,7 @@
     "support": "Support",
     "releaseNotes": "Release Notes",
     "privacy": "Privacy",
-    "cta": "30-day free trial"
+    "cta": "Free / Pro"
   },
   "brand": {
     "name": "MyQuickPaste",
@@ -33,18 +33,18 @@
     "lead": "Snippets, addresses, contacts, URLs, emoji, hashtags. Save what you reuse, then copy with one tap from your list when you need it.",
     "sub": "Then switch to your usual app and paste.",
     "ctaPrimary": "See how it works",
-    "ctaSecondary": "30-day free trial",
+    "ctaSecondary": "Free / Pro",
     "statusPlay": "Google Play coming soon",
     "statusApp": "App Store in development",
-    "pill1": "30-day free trial",
+    "pill1": "Free",
     "pill2": "Pro is a one-time purchase",
     "pill3": "Stored on your device",
     "pill4": "21 languages",
     "badge": "MyQuickPaste for smartphones",
     "catch": "Everyday text, one tap away.",
     "platformLine": "Google Play coming soon · App Store in development",
-    "trialTitle": "30-day free trial",
-    "trialText": "For 30 days after first install, try higher save limits and backup free of charge.",
+    "trialTitle": "Free, with no time limit",
+    "trialText": "Save up to 10 items per text category, 10 images, and 2 profiles. Search, reorder, and quick save are included.",
     "trust": "21 languages"
   },
   "stores": {
@@ -95,7 +95,7 @@
     "items": [
       {
         "title": "Save what you reuse",
-        "text": "Register your go-to text, contacts, and more."
+        "text": "Save your go-to text, contacts, and more."
       },
       {
         "title": "Tap the row you need",
@@ -207,7 +207,7 @@
     "snippetsCap": "Copy your usual replies fast",
     "imagesCap": "Save, copy, and share images",
     "profileCap": "Copy address or contact fields one by one",
-    "profileEditCap": "Register the details you need together",
+    "profileEditCap": "Save the details you need together",
     "items": [
       {
         "caption": "Free text - signatures, URLs, and account details at a glance"
@@ -234,12 +234,12 @@
     "titleLine2": "with the essentials.",
     "title": "Features",
     "subtitle": "Tools that lighten everyday typing.",
-    "categoriesLabel": "Categories: Free text, Snippets, Email, Phone, Images, Profile",
+    "categoriesLabel": "Categories: Free text, Snippets, Contact, Links, Images, Profile",
     "categories": [
       "Free text",
       "Snippets",
-      "Email",
-      "Phone",
+      "Contact",
+      "Links",
       "Images",
       "Profile"
     ],
@@ -252,7 +252,7 @@
       },
       {
         "title": "Organize by use",
-        "text": "Organize by free text, snippets, email, phone, images, and profile.",
+        "text": "Organize by free text, snippets, contact, links, images, and profile.",
         "icon": "folder",
         "large": true
       },
@@ -273,7 +273,7 @@
       },
       {
         "title": "Export and import",
-        "text": "Export backups and import when needed. Available with the 30-day free trial and Pro.",
+        "text": "With Pro, you can export your data as an .mqp backup and import it when needed.",
         "icon": "backup"
       },
       {
@@ -310,7 +310,7 @@
     "subtitle": "Light and dark, plus premium color themes with Pro.",
     "imageAlt": "MyQuickPaste theme gallery",
     "caption": "Light / dark / premium themes",
-    "note": "Premium themes require a Pro purchase. They are not included in the 30-day trial."
+    "note": "Light and dark themes are available with Free. Premium themes are available with Pro."
   },
   "privacySection": {
     "titleLine1": "What matters stays",
@@ -321,26 +321,26 @@
       "No automatic cloud sync",
       "Does not auto-send saved content to external servers",
       "Data stays managed on device",
-      "Export your own backup during the 30-day free trial and with Pro."
+      "With Pro, you can export your own .mqp backup."
     ],
     "link": "Read the privacy policy"
   },
   "pricing": {
-    "titleLine1": "Try it for 30 days",
-    "titleLine2": "and feel the difference.",
+    "titleLine1": "Free covers the essentials.",
+    "titleLine2": "Pro gives you more.",
     "title": "Pricing",
-    "subtitle": "For 30 days after first install, try higher save limits and backup free of charge. After that, keep using the free plan.",
-    "trialLabel": "First install only",
-    "trialTitle": "30-day free trial",
-    "trialText": "Text categories: up to 200 items each · Images: up to 50 · Profiles: up to 30 · Backup export and import",
-    "trialNote": "Premium themes and custom category names/icons are available after Pro purchase. After the 30-day trial, your saved data is not deleted. Data above free limits stays on your device and becomes usable again when you buy Pro.",
+    "subtitle": "Use Free for as long as you like. Upgrade to Pro for higher save limits, backups, premium themes, and category customization.",
+    "trialLabel": "Free",
+    "trialTitle": "No time limit",
+    "trialText": "Text categories: 10 items each · Images: 10 · Profiles: 2 · Search · Reorder · Quick save",
+    "trialNote": "Need more? Pro raises the limits to 200 items per text category, 50 images, and 30 profiles, and adds .mqp backups, premium themes, and custom category names and icons.",
     "freeTitle": "Free",
     "freePrice": "¥0",
-    "freeLead": "Core features stay free to use.",
+    "freeLead": "Core features are free with no time limit.",
     "freeItems": [
       "Text categories: 10 items each",
       "Images: 10",
-      "Profiles: 1",
+      "Profiles: 2",
       "Search",
       "Reorder",
       "Quick save"
@@ -372,8 +372,8 @@
         "a": "Text, profiles, and settings are stored on your smartphone."
       },
       {
-        "q": "Do I lose the app after the 30-day trial?",
-        "a": "No. After the trial you can keep using the free plan. Your saved data is not deleted. Data above free limits stays on your device and becomes usable again when you buy Pro."
+        "q": "Can I keep using Free without a time limit?",
+        "a": "Yes. Free has no time limit. You can upgrade to Pro anytime if you want higher save limits, backups, premium themes, or category customization."
       },
       {
         "q": "Is Pro a monthly subscription?",
@@ -385,14 +385,14 @@
       },
       {
         "q": "Can I move data when I change phones?",
-        "a": "Export backups and import when needed. Available with the 30-day free trial and Pro."
+        "a": "Backup export and import are available with Pro. You can export an .mqp backup from Settings and import it on another device running MyQuickPaste."
       }
     ]
   },
   "windowsEdition": {
     "titleLine1": "MyQuickPaste",
     "titleLine2": "on Windows too.",
-    "text": "The Windows edition stays at the screen edge and can paste registered text with one click—it's a separate app.",
+    "text": "The Windows edition stays at the screen edge and can paste saved text with one click—it's a separate app.",
     "note": "It is not the same app as the smartphone edition. Purchases and saved data are not shared.",
     "link": "Windows edition homepage"
   },
@@ -401,8 +401,8 @@
     "titleLine2": "one tap away.",
     "title": "Everyday text, one tap away.",
     "lead": "Save, tap, then paste.",
-    "sub": "For 30 days after first install, try higher save limits and backup free of charge.",
-    "button": "30-day free trial"
+    "sub": "Free has no time limit. Upgrade to Pro anytime if you need more.",
+    "button": "Free / Pro"
   },
   "footer": {
     "pcEdition": "Windows edition",
@@ -444,11 +444,11 @@
     "appTag": "A shelf for your go-to text",
     "appItems": [
       "Save addresses, signatures, and replies with a name",
-      "Six categories: freeword, snippets, mail, phone, images, profile",
+      "Six categories: Free text, Snippets, Contact, Links, Images, Profile",
       "Entries stay until you delete them—no history push-out",
       "Built for finding and copying the text you use again and again"
     ],
-    "footer": "Copied it a few hours ago? Gboard is handy. Addresses, signatures, and canned replies you use every week? Register them here and skip the search."
+    "footer": "Copied it a few hours ago? Gboard is handy. Addresses, signatures, and canned replies you use every week? Save them in MyQuickPaste and skip the search."
   },
   "benefits": {
     "title": "Why people like it",
@@ -498,11 +498,11 @@
       },
       {
         "q": "What is the difference between Free and Pro?",
-        "a": "The free plan includes up to 10 items per text category, 10 images, and 1 profile. Copy, add data, search, reorder, and quick save are available. Pro adds higher limits, backup export/import, premium themes, and custom category names/icons. New installs get 30 days to try higher limits and backup free (premium themes and category customization require Pro purchase)."
+        "a": "Free lets you save up to 10 items per text category, 10 images, and 2 profiles. Copy, save, search, reorder, and quick save are available with no time limit. Pro raises the limits to 200 items per text category, 50 images, and 30 profiles, and adds .mqp backup export/import, premium themes, and custom category names and icons."
       },
       {
-        "q": "How does the 30-day trial work?",
-        "a": "For 30 days from first launch, you can try up to 200 items per text category, 50 images, 30 profiles, and backup export/import free. Premium themes and category name/icon changes require Pro purchase. Your data is not deleted after the trial—you can stay on the free plan or buy Pro in the store."
+        "q": "Is there a time limit on Free?",
+        "a": "No. Free can be used without a time limit. Pro is an optional one-time purchase for higher save limits, backups, premium themes, and category customization."
       },
       {
         "q": "Where is my data stored?",
@@ -510,7 +510,7 @@
       },
       {
         "q": "How do I back up or move my data?",
-        "a": "Pro users can export a JSON backup from Settings and import it on another device running MyQuickPaste."
+        "a": "With Pro, you can export an .mqp backup from Settings and import it on another device running MyQuickPaste."
       },
       {
         "q": "When will the iPhone version be available?",
@@ -518,7 +518,7 @@
       },
       {
         "q": "How do I purchase Pro?",
-        "a": "Open the in-app upgrade screen or the store listing for the Pro add-on. Billing is handled entirely by Google Play or the App Store."
+        "a": "Open the Pro upgrade screen in the app. On Android, the purchase is processed by Google Play. Pro is a one-time purchase, not a subscription."
       }
     ],
     "contactTitle": "Contact",
@@ -540,23 +540,23 @@
       },
       {
         "h": "On-device storage and Android backup",
-        "p": "Entered content, categories, profiles, app settings, and registered images are stored in the app's private storage area on your device. Registered images are copied into that private app storage. On Android, if the operating system's backup feature is enabled, some app data may be backed up to and restored from backup storage associated with your Google Account. Under the app's current backup rules, registered image files are excluded from cloud backup. During device-to-device transfer, data may be transferred through operating-system features."
+        "p": "Entered content, categories, profiles, app settings, and saved images are stored in the app's private storage area on your device. Saved images are copied into that private app storage. On Android, if the operating system's backup feature is enabled, some app data may be backed up to and restored from backup storage associated with your Google Account. Under the app's current backup rules, saved image files are excluded from cloud backup. During device-to-device transfer, data may be transferred through operating-system features."
       },
       {
         "h": "Security",
-        "p": "Saved data is stored in an app-private area protected by the operating system. We do not operate our own server for storing your registered content. The security of the device itself, operating-system backups, and backup files you export depends on the security and management of the relevant device, service, and user-controlled storage."
+        "p": "Saved data is stored in an app-private area protected by the operating system. We do not operate our own server for storing your saved content. The security of the device itself, operating-system backups, and backup files you export depends on the security and management of the relevant device, service, and user-controlled storage."
       },
       {
         "h": "Clipboard access",
-        "p": "To show previews on the main screen and provide related features, MyQuickPaste may read text or images currently stored in your device's clipboard. Clipboard content is processed on the device and is not automatically stored permanently unless you explicitly register it. The app may create a temporary cache file to preview clipboard images. MyQuickPaste does not include any process that sends clipboard content to servers operated by us."
+        "p": "To show previews on the main screen and provide related features, MyQuickPaste may read text or images currently stored in your device's clipboard. Clipboard content is processed on the device and is not automatically stored permanently unless you explicitly save it. The app may create a temporary cache file to preview clipboard images. MyQuickPaste does not include any process that sends clipboard content to servers operated by us."
       },
       {
         "h": "Data retention, deletion, and backups",
-        "p": "Saved data remains in the app's storage area on your device until you delete it in the app or uninstall the app. Uninstalling removes the app's local data from the device, but copies may remain separately in Android operating-system backups or in backup files that you exported and retained. During the 30-day free trial and with Pro, you can export and import data as a MyQuickPaste backup file (.mqp). You choose where an exported file is saved, and you are responsible for managing and deleting exported backup files."
+        "p": "Saved data remains in the app's storage area on your device until you delete it in the app or uninstall the app. Uninstalling removes the app's local data from the device, but copies may remain separately in Android operating-system backups or in backup files that you exported and retained. With Pro, you can export and import data as a MyQuickPaste backup file (.mqp). You choose where an exported file is saved, and you are responsible for managing and deleting exported backup files."
       },
       {
         "h": "App stores, purchases, and external services",
-        "p": "The 30-day free trial is managed within the app based on the initial installation time. Distribution of the Android edition and Pro purchases are handled through Google Play, and Google Play Billing is used to verify purchases. Pro is a one-time in-app purchase and is not a subscription. We do not directly receive credit card numbers or other payment card details. The app does not use third-party SDKs for analytics or advertising. When you use Google Play purchase or review features, or external features you choose such as sharing, email, or a web browser, the privacy policies and terms of the relevant services apply. The iOS edition is currently in development, and this policy will be updated as needed when its distribution and purchase implementation is finalized."
+        "p": "Distribution of the Android edition and Pro purchases are handled through Google Play, and Google Play Billing is used to verify purchases. Pro is a one-time in-app purchase and is not a subscription. We do not directly receive credit card numbers or other payment card details. The app does not use third-party SDKs for analytics or advertising. When you use Google Play purchase or review features, or external features you choose such as sharing, email, or a web browser, the privacy policies and terms of the relevant services apply. The iOS edition is currently in development, and this policy will be updated as needed when its distribution and purchase implementation is finalized."
       },
       {
         "h": "Contact",
@@ -585,12 +585,12 @@
         "date": "2026",
         "title": "Initial public release (Android)",
         "items": [
-          "Category-based lists: Freeword, Snippets, Email, Phone, Images, Profile",
+          "Category-based lists: Free text, Snippets, Contact, Links, Images, Profile",
           "Tap to copy and long-press preview",
           "Profile cards with per-field copy",
           "Reorder mode for list and profile items",
-          "Free plan + 30-day free trial (higher limits and backup)",
-          "JSON export/import (Pro)",
+          "Free and Pro with different save limits",
+          ".mqp backup export/import (Pro)",
           "Light and dark themes; premium themes with Pro",
           "Settings for copy feedback, startup category, and data backup"
         ]

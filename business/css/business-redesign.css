@@ -176,6 +176,14 @@
   align-items: center;
 }
 
+.steps-main {
+  min-width: 0;
+}
+
+.steps-layout .steps-grid {
+  grid-template-columns: 1fr;
+}
+
 .steps-grid {
   gap: clamp(0.85rem, 1.5vw, 1.15rem);
 }
@@ -205,6 +213,8 @@
 }
 
 .scene-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: clamp(1.5rem, 3vw, 3rem);
   align-items: center;
 }
@@ -360,7 +370,8 @@
   }
 
   .hero-actions,
-  .store-status {
+  .store-status,
+  .hero-store-badges {
     justify-content: center;
   }
 
@@ -1288,8 +1299,7 @@
     gap: clamp(1.25rem, 2.5vw, 2rem);
   }
 
-  .steps-grid {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+  .steps-layout .steps-grid {
     gap: clamp(0.75rem, 1.2vw, 1rem);
     align-items: stretch;
   }

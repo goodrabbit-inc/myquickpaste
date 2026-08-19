@@ -30,7 +30,7 @@
     "badge": "MyQuickPaste für Smartphones",
     "catch": "Alltagstexte, ein Tipp entfernt.",
     "lead": "Textbausteine, Adressen, Kontakte, URLs, Emoji, Hashtags. Speichern Sie Wiederholtes und kopieren Sie bei Bedarf mit einem Tipp aus der Liste.",
-    "platformLine": "Google Play demnächst · App Store in Entwicklung",
+    "platformLine": "Jetzt bei Google Play · App Store in Entwicklung",
     "trialTitle": "Free ohne Zeitlimit",
     "trialText": "Speichern Sie bis zu 10 Einträge pro Textkategorie, 10 Bilder und 2 Profile. Suche, Sortieren und Schnellspeichern sind ebenfalls enthalten.",
     "trust": "21 Sprachen",
@@ -40,7 +40,7 @@
     "sub": "Dann wechseln Sie zur gewohnten App und fügen ein.",
     "ctaPrimary": "So funktioniert's",
     "ctaSecondary": "Free / Pro",
-    "statusPlay": "Google Play demnächst",
+    "statusPlay": "Jetzt bei Google Play",
     "statusApp": "App Store in Entwicklung",
     "pill1": "Free",
     "pill2": "Pro einmalig kaufen",
@@ -48,7 +48,7 @@
     "pill4": "21 Sprachen"
   },
   "stores": {
-    "googlePlay": "Bei Google Play",
+    "googlePlay": "Jetzt bei Google Play",
     "appStore": "App Store",
     "comingSoon": "Demnächst",
     "inDevelopment": "In Entwicklung",

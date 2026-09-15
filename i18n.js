@@ -107,7 +107,7 @@
   }
 
   function applyNavLinks(lang) {
-    document.querySelectorAll(".nav a[href], .brand[href], .edition-card a[href]").forEach(function (a) {
+    document.querySelectorAll(".nav a[href], .footer-nav a[href], .brand[href], .edition-card a[href]").forEach(function (a) {
       var href = a.getAttribute("href");
       if (!href || /^https?:\/\//i.test(href) || href.charAt(0) === "#") return;
       try {
@@ -347,6 +347,8 @@
     if (!pickerBtn || !pickerMenu) return;
     pickerBtn.setAttribute("aria-expanded", "true");
     pickerMenu.hidden = false;
+    var selected = pickerMenu.querySelector('[aria-selected="true"]') || pickerMenu.querySelector("[data-lang]");
+    if (selected) selected.focus();
   }
 
   function toggleLangMenu() {
@@ -359,7 +361,7 @@
     if (!pickerMenu) return;
     pickerMenu.innerHTML = LANG_REGISTRY.map(function (entry) {
       return (
-        '<li role="option" data-lang="' + escapeHtml(entry.code) + '" aria-selected="false">' +
+        '<li role="option" tabindex="-1" data-lang="' + escapeHtml(entry.code) + '" aria-selected="false">' +
         '<span class="lang-option-code">' + escapeHtml(entry.short) + "</span>" +
         '<span class="lang-option-name">' + escapeHtml(entry.label) + "</span>" +
         "</li>"
@@ -407,11 +409,11 @@
       var mode = img.getAttribute("data-windows-ad");
       var base = mode === "windows" ? "../images/windows-ads/" : "images/windows-ads/";
       img.src = base + winFile;
-      if (mode === "hub" && t && t.hub && t.hub.windowsAlt) img.alt = t.hub.windowsTitle;
+      if (mode === "hub" && t && t.hub && t.hub.windowsTitle) img.alt = t.hub.windowsTitle;
     });
     document.querySelectorAll("[data-android-ad]").forEach(function (img) {
       img.src = "android/images/marketing/" + andFile;
-      if (t && t.hub && t.hub.androidAlt) img.alt = t.hub.androidTitle;
+      if (t && t.hub && t.hub.androidTitle) img.alt = t.hub.androidTitle;
     });
   }
 
@@ -482,6 +484,22 @@
     applySubpages(t);
     var heroImg = document.getElementById("hero-screenshot");
     if (heroImg && t.hero && t.hero.screenshotAlt) heroImg.alt = t.hero.screenshotAlt;
+    if (detectPage() === "hub" && t.hub) {
+      var schema = document.querySelector('script[type="application/ld+json"]');
+      if (schema) {
+        try {
+          var graph = JSON.parse(schema.textContent);
+          graph["@graph"].forEach(function (node) {
+            if (node["@type"] === "CollectionPage") {
+              node.name = t.hub.metaTitle;
+              node.description = t.hub.metaDescription;
+              node.inLanguage = lang;
+            }
+          });
+          schema.textContent = JSON.stringify(graph);
+        } catch (e) { console.error("Invalid hub structured data", e); }
+      }
+    }
     applyEditionImages(lang, t);
     applyStoreLinks();
     applyNavLinks(lang);
@@ -524,6 +542,28 @@
     pickerBtn.addEventListener("click", function (e) {
       e.stopPropagation();
       toggleLangMenu();
+    });
+
+    pickerMenu.addEventListener("keydown", function (e) {
+      var options = Array.from(pickerMenu.querySelectorAll("[data-lang]"));
+      var index = options.indexOf(document.activeElement);
+      if (["ArrowDown", "ArrowUp", "Home", "End"].indexOf(e.key) !== -1) {
+        e.preventDefault();
+        if (e.key === "Home") index = 0;
+        else if (e.key === "End") index = options.length - 1;
+        else index = (index + (e.key === "ArrowDown" ? 1 : -1) + options.length) % options.length;
+        options[index].focus();
+      } else if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        if (index >= 0) setLang(options[index].getAttribute("data-lang"));
+        pickerBtn.focus();
+      } else if (e.key === "Escape") {
+        closeLangMenu();
+        pickerBtn.focus();
+      } else if (e.key === "Tab") {
+        closeLangMenu();
+        pickerBtn.focus();
+      }
     });
 
     pickerMenu.addEventListener("click", function (e) {

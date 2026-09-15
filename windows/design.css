@@ -123,3 +123,15 @@ footer { padding: 28px; font-size: 12px; }
 }
 @media (max-width: 360px) { .hero-wordmark { font-size: 21px; } .hero-brand { gap: 10px; } .hero-logo { width: 44px; height: 44px; } .hero-catch, html:lang(ja) .hero-catch { font-size: 24px; } }
 @media (prefers-reduced-motion: reduce) { .btn-store { transition: none; } .btn-store:hover { transform: none; } }
+
+/* The Store banner now lives within the main introduction. */
+.hero-cta .windows-download-link { gap: 12px; padding: 16px; border-radius: 12px; }
+.hero-cta .windows-store-icon { width: 32px; height: 32px; flex-basis: 32px; }
+.hero-cta .windows-download-copy strong { font-size: 16px; word-break: keep-all; overflow-wrap: anywhere; }
+.hero-cta .windows-download-arrow { flex-basis: 34px; height: 34px; font-size: 20px; }
+@media (max-width: 640px) {
+  .hero-cta .windows-download-link { gap: 10px; padding: 14px 12px; }
+  .hero-cta .windows-download-copy strong { font-size: 14px; }
+  .hero-cta .windows-download-product { font-size: 10px; }
+  .hero-cta .windows-download-arrow { flex-basis: 28px; height: 28px; }
+}

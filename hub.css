@@ -139,3 +139,7 @@ img { max-width: 100%; }
   .edition-cta { padding-inline: 12px; gap: 8px; font-size: 13px; }
   .edition-cta > span:last-child { width: 24px; height: 24px; }
 }
+
+/* Keep the approved Japanese headline in two readable phrases. */
+.hub-headline { white-space: pre-line; }
+@media (max-width: 360px) { .hub-headline { font-size: 23px; } }

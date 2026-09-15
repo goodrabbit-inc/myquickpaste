@@ -251,8 +251,8 @@
   "hub": {
     "metaTitle": "MyQuickPaste | Text snippets for Windows & Android",
     "metaDescription": "Save frequently used text with MyQuickPaste. Windows types directly into the focused app with a click. Android copies saved text so you can paste it into another app. Choose your edition.",
-    "headline": "Your everyday text. Ready when you are.",
-    "lead": "Click to type on Windows. Copy and paste on Android.\nChoose MyQuickPaste for the device you use.",
+    "headline": "Your everyday text. Quick to copy. Quick to enter.",
+    "lead": "On Windows, click to type directly into another app.\nOn Android, tap to copy, then paste into the app you want to use.",
     "chooseAria": "Choose an edition",
     "windowsBadge": "Windows",
     "windowsTitle": "One click. Straight into your app.",

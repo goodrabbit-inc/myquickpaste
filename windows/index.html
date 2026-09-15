@@ -75,6 +75,7 @@
   <link rel="alternate" hreflang="zh-TW" href="https://goodrabbit-inc.github.io/myquickpaste/windows/?lang=zh-tw" />
   <link rel="stylesheet" href="../style.css?v=12" />
   <link rel="stylesheet" href="download.css?v=1" />
+  <link rel="stylesheet" href="design.css?v=1" />
 </head>
 <body data-page="windows">
   <header class="site-header">
@@ -85,7 +86,7 @@
       </a>
       <nav class="nav" aria-label="メインメニュー">
         <a href="../" data-i18n="nav.home">ホーム</a>
-        <a href="index.html" data-i18n="nav.windows">Windows版</a>
+        <a href="index.html" data-i18n="nav.windows" aria-current="page">Windows版</a>
         <a href="../android/" data-i18n="nav.android">Android版</a>
         <a href="../support.html" data-i18n="nav.support">サポート</a>
         <a href="../release-notes.html" data-i18n="nav.releaseNotes">リリースノート</a>
@@ -133,18 +134,26 @@
   </aside>
 
   <section class="hero">
-    <div class="hero-brand">
+    <div class="windows-intro">
+      <div class="windows-intro-copy">
+        <div class="hero-brand">
       <img src="../images/logo.png" alt="" class="logo hero-logo" width="72" height="72" aria-hidden="true" />
       <p class="hero-wordmark">MyQuickPaste</p>
     </div>
-    <div class="hero-copy">
-      <h1 class="hero-catch" data-i18n="hero.catch">よく使う文章を保存。ワンクリックで貼り付け。</h1>
+        <div class="hero-copy">
+      <h1 class="hero-catch" data-i18n="hub.windowsTitle">クリックで、直接入力。</h1>
       <p class="hero-title">
-        <span class="hero-title-line" data-i18n="hero.headline1">画面の隅に置いて、いつでもすぐに入力。</span>
+        <span class="hero-title-line" data-i18n="hub.windowsNote">保存した文章をクリックすると、現在フォーカスされている別のWindowsアプリへ直接入力できます。</span>
         <span class="hero-title-line" data-i18n="hero.headline2">初めてでも一瞬で使える、作業効率に特化したコンパクトなソフト。</span>
       </p>
     </div>
-    <figure class="hero-screenshot-wrap">
+        <div class="hero-cta">
+      <a class="btn-store btn-lg" href="https://apps.microsoft.com/detail/9N8WHWKDDSKK" data-store="true" data-i18n="hero.ctaPrimary">Microsoft Store で無料ダウンロード</a>
+      <p class="cta-sub" data-i18n="hero.ctaSecondary">14日間、Pro版の全機能を無料でお試し</p>
+    </div>
+        <p class="trust-line" data-i18n="hero.trust">Microsoft Store 認定 · データはPC内で暗号化保存</p>
+      </div>
+      <figure class="hero-screenshot-wrap">
       <img
         id="hero-screenshot"
         data-windows-ad="windows"
@@ -156,23 +165,26 @@
         alt="MyQuickPaste：一覧をクリックすると登録した全文が貼り付け。編集画面で一度だけ登録。"
       />
     </figure>
-    <div class="hero-video-wrap">
+    </div>
+    <ul id="hero-features" class="hero-features"></ul>
+    <section class="windows-demo" aria-labelledby="windows-demo-title">
+      <div>
+        <h2 id="windows-demo-title" data-i18n="hub.windowsTitle">クリックで、直接入力。</h2>
+        <p data-i18n="hub.windowsNote">保存した文章をクリックすると、現在フォーカスされている別のWindowsアプリへ直接入力できます。</p>
+      </div>
+      <div class="hero-video-wrap">
       <video
         class="hero-video"
         src="../videos/hero-demo.mp4"
         controls
         playsinline
-        preload="metadata"
+        preload="none"
+        poster="../videos/Snapshot.PNG"
         width="640"
         aria-label="MyQuickPaste demo video"
       ></video>
     </div>
-    <ul id="hero-features" class="hero-features"></ul>
-    <div class="hero-cta">
-      <a class="btn-store btn-lg" href="https://apps.microsoft.com/detail/9N8WHWKDDSKK" data-store="true" data-i18n="hero.ctaPrimary">Microsoft Store で無料ダウンロード</a>
-      <p class="cta-sub" data-i18n="hero.ctaSecondary">14日間、Pro版の全機能を無料でお試し</p>
-    </div>
-    <p class="trust-line" data-i18n="hero.trust">Microsoft Store 認定 · データはPC内で暗号化保存</p>
+    </section>
   </section>
 
   <main>
@@ -226,6 +238,6 @@
     <p data-i18n="footer.developer">開発：Kazuhiro Suda</p>
   </footer>
 
-  <script src="../i18n.js?v=13"></script>
+  <script src="../i18n.js?v=16"></script>
 </body>
 </html>

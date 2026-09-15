@@ -60,6 +60,9 @@ class Page(HTMLParser):
             self.hreflang.append(attr)
         if tag == "script" and attr.get("type") == "application/ld+json":
             self.schema_text = ""
+        if tag == "link" and attr.get("rel") == "stylesheet":
+            stylesheet = local_file(urljoin(BASE + self.route, attr.get("href", "")))
+            require(stylesheet is not None and stylesheet.is_file(), f"Missing stylesheet: {self.route} {attr.get('href')}")
         if self.route == "":
             references = []
             if tag in ("img", "script") and attr.get("src"):

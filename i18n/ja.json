@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows版とAndroid版",
-    "metaDescription": "MyQuickPasteの公式サイト。Windows版は保存した文章をクリックして別のWindowsアプリへ直接入力。Android版はよく使う文章やURLを保存して、必要な時にコピーできます。",
-    "lead": "よく使う文章を、WindowsとAndroidで素早く使う。",
+    "metaTitle": "MyQuickPaste | あなたに合う版を選ぶ",
+    "metaDescription": "MyQuickPasteの公式サイト。あなたに合う版を選んでください。Windows版は保存した文章をクリックして別のWindowsアプリへ直接入力。Android版はアプリ内でコピーして、使いたいアプリへ貼り付けます。",
+    "headline": "あなたに合う MyQuickPaste を選ぶ",
+    "lead": "Windows版とAndroid版は、使い方が異なります。",
+    "chooseAria": "製品を選ぶ",
     "windowsBadge": "Windows版",
-    "windowsTitle": "保存した文章を、クリックで別のWindowsアプリへ直接入力",
-    "windowsNote": "クリックすると、今フォーカスしているWindowsアプリへ直接入力します。クリップボードから自分で貼り付ける操作ではありません。",
+    "windowsTitle": "クリックで、別のWindowsアプリへ直接入力",
+    "windowsNote": "保存した文章を選ぶだけ。現在フォーカス中のアプリに入力します。",
+    "windowsCompareAria": "Windows版の使い方",
+    "windowsCompareYes": "直接入力",
+    "windowsCompareNo": "コピーして貼り付けではない",
     "androidBadge": "Android版",
-    "androidTitle": "よく使う文章やURLを保存して、必要な時にコピー",
-    "androidNote": "アプリ内でコピーしたあと、別のアプリへ自分で貼り付けます。Windows版のような直接入力ではありません。",
+    "androidTitle": "保存した文章を、必要な時にすぐコピー",
+    "androidNote": "アプリ内でコピーして、使いたいアプリへ貼り付けます。",
+    "androidCompareAria": "Android版の使い方",
+    "androidCompareYes": "コピーして貼り付け",
+    "androidCompareNo": "直接入力ではない",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "詳しく見る",
-    "windowsAlt": "Windows版 MyQuickPaste。保存した行をクリックすると、別のWindowsアプリへ直接入力できます。",
-    "androidAlt": "Android版 MyQuickPaste。よく使う文章やURLを保存し、必要な時にコピーします。"
+    "windowsAlt": "Windows版 MyQuickPaste の公式ロゴ",
+    "androidAlt": "Android版 MyQuickPaste の公式ロゴ"
   }
 }

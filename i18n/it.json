@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows e Android",
-    "metaDescription": "Sito ufficiale di MyQuickPaste. Su Windows, un clic inserisce il testo in un'altra app. Su Android salvi testi e URL e li copi quando servono.",
-    "lead": "Usa rapidamente i testi salvati su Windows e Android.",
+    "metaTitle": "MyQuickPaste | Scegli la tua edizione",
+    "metaDescription": "Sito ufficiale di MyQuickPaste. Scegli l’edizione più adatta. Su Windows il testo salvato viene digitato nell’app in primo piano. Su Android copi e incolli tu.",
+    "headline": "Scegli il MyQuickPaste più adatto a te",
+    "lead": "Le edizioni Windows e Android funzionano in modo diverso.",
+    "chooseAria": "Scegli un’edizione",
     "windowsBadge": "Windows",
-    "windowsTitle": "Fai clic su un testo salvato per inserirlo in un'altra app Windows",
-    "windowsNote": "Il clic inserisce il testo nell'app Windows in primo piano. Non incolli dagli appunti.",
+    "windowsTitle": "Clicca per digitare direttamente in un’altra app Windows",
+    "windowsNote": "Scegli solo una riga salvata. Viene digitata nell’app attualmente in primo piano.",
+    "windowsCompareAria": "Come funziona l’edizione Windows",
+    "windowsCompareYes": "Digitazione diretta",
+    "windowsCompareNo": "Non è copia e incolla",
     "androidBadge": "Android",
-    "androidTitle": "Salva i testi e gli URL usati spesso, poi copiali quando servono",
-    "androidNote": "Copia nell'app e incolla tu in un'altra app. Non è l'inserimento diretto di Windows.",
+    "androidTitle": "Copia il testo salvato nel momento in cui ti serve",
+    "androidNote": "Copia nell’app, poi incolla nell’app che vuoi usare.",
+    "androidCompareAria": "Come funziona l’edizione Android",
+    "androidCompareYes": "Copia e incolla",
+    "androidCompareNo": "Non è digitazione diretta",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Scopri di più",
-    "windowsAlt": "MyQuickPaste per Windows. Un clic inserisce il testo in un'altra app Windows.",
-    "androidAlt": "MyQuickPaste per Android. Salva testi e URL, poi copiali quando servono."
+    "windowsAlt": "Logo ufficiale MyQuickPaste per Windows",
+    "androidAlt": "Logo ufficiale MyQuickPaste per Android"
   }
 }

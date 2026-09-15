@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows und Android",
-    "metaDescription": "Offizielle MyQuickPaste-Website. Unter Windows klicken Sie auf eine gespeicherte Zeile, um sie in eine andere App einzugeben. Unter Android speichern Sie Texte und URLs und kopieren sie bei Bedarf.",
-    "lead": "Nutzen Sie gespeicherten Text schnell unter Windows und Android.",
+    "metaTitle": "MyQuickPaste | Wählen Sie Ihre Edition",
+    "metaDescription": "Offizielle MyQuickPaste-Website. Wählen Sie die passende Edition. Unter Windows wird gespeicherter Text in die fokussierte App eingegeben. Unter Android kopieren Sie den Text und fügen ihn selbst ein.",
+    "headline": "Wählen Sie das MyQuickPaste, das zu Ihnen passt",
+    "lead": "Die Windows- und Android-Editionen funktionieren unterschiedlich.",
+    "chooseAria": "Edition wählen",
     "windowsBadge": "Windows",
-    "windowsTitle": "Klicken Sie auf gespeicherten Text, um ihn in eine andere Windows-App einzugeben",
-    "windowsNote": "Ein Klick gibt den Text in die gerade fokussierte Windows-App ein. Sie fügen nicht selbst aus der Zwischenablage ein.",
+    "windowsTitle": "Per Klick direkt in eine andere Windows-App eingeben",
+    "windowsNote": "Wählen Sie nur den gespeicherten Text. Er wird in die gerade fokussierte App eingegeben.",
+    "windowsCompareAria": "So funktioniert die Windows-Edition",
+    "windowsCompareYes": "Direkteingabe",
+    "windowsCompareNo": "Kein Kopieren und Einfügen",
     "androidBadge": "Android",
-    "androidTitle": "Speichern Sie häufige Texte und URLs und kopieren Sie sie bei Bedarf",
-    "androidNote": "Kopieren Sie in der App und fügen Sie selbst in einer anderen App ein. Das ist nicht die Direkteingabe von Windows.",
+    "androidTitle": "Gespeicherten Text kopieren, sobald Sie ihn brauchen",
+    "androidNote": "Kopieren Sie in der App und fügen Sie in der gewünschten App ein.",
+    "androidCompareAria": "So funktioniert die Android-Edition",
+    "androidCompareYes": "Kopieren und Einfügen",
+    "androidCompareNo": "Keine Direkteingabe",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Mehr erfahren",
-    "windowsAlt": "MyQuickPaste für Windows. Ein Klick gibt Text in eine andere Windows-App ein.",
-    "androidAlt": "MyQuickPaste für Android. Texte und URLs speichern und bei Bedarf kopieren."
+    "windowsAlt": "Offizielles MyQuickPaste-Logo für Windows",
+    "androidAlt": "Offizielles MyQuickPaste-Logo für Android"
   }
 }

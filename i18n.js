@@ -463,6 +463,14 @@
       var val = get(t, key);
       if (val != null) el.textContent = val;
     });
+    document.querySelectorAll("[data-i18n-alt]").forEach(function (el) {
+      var alt = get(t, el.getAttribute("data-i18n-alt"));
+      if (alt != null) el.setAttribute("alt", alt);
+    });
+    document.querySelectorAll("[data-i18n-aria]").forEach(function (el) {
+      var label = get(t, el.getAttribute("data-i18n-aria"));
+      if (label != null) el.setAttribute("aria-label", label);
+    });
     fillList("problem-list", t.problem && t.problem.items);
     fillHeroFeatures("hero-features", t.hero && t.hero.features);
     setText("problem-solution", t.problem && t.problem.solution);

@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows en Android",
-    "metaDescription": "Officiële MyQuickPaste-site. Op Windows klik je een regel om die in een andere app in te voeren. Op Android bewaar je tekst en URL's en kopieer je ze wanneer nodig.",
-    "lead": "Gebruik opgeslagen tekst snel op Windows en Android.",
+    "metaTitle": "MyQuickPaste | Kies je editie",
+    "metaDescription": "Officiële MyQuickPaste-site. Kies de editie die bij je past. Op Windows wordt opgeslagen tekst in de actieve app getypt. Op Android kopieer en plak je zelf.",
+    "headline": "Kies de MyQuickPaste die bij je past",
+    "lead": "De Windows- en Android-edities werken verschillend.",
+    "chooseAria": "Kies een editie",
     "windowsBadge": "Windows",
-    "windowsTitle": "Klik op opgeslagen tekst om die in een andere Windows-app in te voeren",
-    "windowsNote": "Een klik voert de tekst in de Windows-app met focus in. Je plakt niet zelf vanaf het klembord.",
+    "windowsTitle": "Klik om direct in een andere Windows-app te typen",
+    "windowsNote": "Kies gewoon een opgeslagen regel. Die wordt getypt in de app die nu de focus heeft.",
+    "windowsCompareAria": "Zo werkt de Windows-editie",
+    "windowsCompareYes": "Direct typen",
+    "windowsCompareNo": "Geen kopiëren en plakken",
     "androidBadge": "Android",
-    "androidTitle": "Bewaar vaak gebruikte tekst en URL's en kopieer ze wanneer nodig",
-    "androidNote": "Kopieer in de app en plak zelf in een andere app. Dit is niet de directe invoer van Windows.",
+    "androidTitle": "Kopieer je opgeslagen tekst wanneer je die nodig hebt",
+    "androidNote": "Kopieer in de app en plak in de app die je wilt gebruiken.",
+    "androidCompareAria": "Zo werkt de Android-editie",
+    "androidCompareYes": "Kopiëren en plakken",
+    "androidCompareNo": "Geen direct typen",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Meer informatie",
-    "windowsAlt": "MyQuickPaste voor Windows. Een klik voert tekst in een andere Windows-app in.",
-    "androidAlt": "MyQuickPaste voor Android. Bewaar tekst en URL's en kopieer ze wanneer nodig."
+    "windowsAlt": "Officieel MyQuickPaste-logo voor Windows",
+    "androidAlt": "Officieel MyQuickPaste-logo voor Android"
   }
 }

@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows và Android",
-    "metaDescription": "Trang chính thức của MyQuickPaste. Trên Windows, nhấp dòng đã lưu để nhập vào ứng dụng khác. Trên Android, lưu văn bản và URL rồi sao chép khi cần.",
-    "lead": "Dùng văn bản đã lưu nhanh trên Windows và Android.",
+    "metaTitle": "MyQuickPaste | Chọn phiên bản phù hợp",
+    "metaDescription": "Trang chính thức của MyQuickPaste. Chọn phiên bản phù hợp với bạn. Trên Windows, văn bản đã lưu được nhập vào ứng dụng đang có tiêu điểm. Trên Android, bạn sao chép rồi dán.",
+    "headline": "Chọn MyQuickPaste phù hợp với bạn",
+    "lead": "Bản Windows và Android hoạt động khác nhau.",
+    "chooseAria": "Chọn phiên bản",
     "windowsBadge": "Windows",
-    "windowsTitle": "Nhấp dòng đã lưu để nhập vào ứng dụng Windows khác",
-    "windowsNote": "Một cú nhấp nhập văn bản vào ứng dụng Windows đang có tiêu điểm. Bạn không dán từ clipboard.",
+    "windowsTitle": "Nhấp để nhập trực tiếp vào ứng dụng Windows khác",
+    "windowsNote": "Chỉ cần chọn dòng đã lưu. Văn bản sẽ được nhập vào ứng dụng đang có tiêu điểm.",
+    "windowsCompareAria": "Cách bản Windows hoạt động",
+    "windowsCompareYes": "Nhập trực tiếp",
+    "windowsCompareNo": "Không phải sao chép và dán",
     "androidBadge": "Android",
-    "androidTitle": "Lưu văn bản và URL thường dùng, rồi sao chép khi cần",
-    "androidNote": "Sao chép trong ứng dụng rồi tự dán sang ứng dụng khác. Không phải nhập trực tiếp như Windows.",
-    "more": "Xem thêm",
-    "windowsAlt": "MyQuickPaste cho Windows. Nhấp để nhập văn bản vào ứng dụng Windows khác.",
-    "androidAlt": "MyQuickPaste cho Android. Lưu văn bản và URL rồi sao chép khi cần."
+    "androidTitle": "Sao chép văn bản đã lưu ngay khi bạn cần",
+    "androidNote": "Sao chép trong ứng dụng, rồi dán vào ứng dụng bạn muốn dùng.",
+    "androidCompareAria": "Cách bản Android hoạt động",
+    "androidCompareYes": "Sao chép và dán",
+    "androidCompareNo": "Không phải nhập trực tiếp",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
+    "more": "Tìm hiểu thêm",
+    "windowsAlt": "Logo chính thức MyQuickPaste cho Windows",
+    "androidAlt": "Logo chính thức MyQuickPaste cho Android"
   }
 }

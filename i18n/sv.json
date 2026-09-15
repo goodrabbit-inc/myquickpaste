@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows och Android",
-    "metaDescription": "Officiell MyQuickPaste-webbplats. I Windows klickar du för att skriva text i en annan app. I Android sparar du text och URL:er och kopierar dem vid behov.",
-    "lead": "Använd sparad text snabbt på Windows och Android.",
+    "metaTitle": "MyQuickPaste | Välj din utgåva",
+    "metaDescription": "Officiell MyQuickPaste-webbplats. Välj utgåvan som passar dig. På Windows skrivs sparad text in i appen i fokus. På Android kopierar och klistrar du in själv.",
+    "headline": "Välj den MyQuickPaste som passar dig",
+    "lead": "Windows- och Android-utgåvorna fungerar olika.",
+    "chooseAria": "Välj en utgåva",
     "windowsBadge": "Windows",
-    "windowsTitle": "Klicka på sparad text för att skriva den i en annan Windows-app",
-    "windowsNote": "Ett klick skriver texten i Windows-appen som har fokus. Du klistrar inte in från urklipp.",
+    "windowsTitle": "Klicka för att skriva direkt i en annan Windows-app",
+    "windowsNote": "Välj bara en sparad rad. Den skrivs in i appen som har fokus.",
+    "windowsCompareAria": "Så fungerar Windows-utgåvan",
+    "windowsCompareYes": "Direkt inmatning",
+    "windowsCompareNo": "Inte kopiera och klistra in",
     "androidBadge": "Android",
-    "androidTitle": "Spara text och URL:er du ofta använder och kopiera dem vid behov",
-    "androidNote": "Kopiera i appen och klistra sedan in själv i en annan app. Det är inte Windows direkta inmatning.",
+    "androidTitle": "Kopiera din sparade text när du behöver den",
+    "androidNote": "Kopiera i appen och klistra sedan in i appen du vill använda.",
+    "androidCompareAria": "Så fungerar Android-utgåvan",
+    "androidCompareYes": "Kopiera och klistra in",
+    "androidCompareNo": "Inte direkt inmatning",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Läs mer",
-    "windowsAlt": "MyQuickPaste för Windows. Ett klick skriver text i en annan Windows-app.",
-    "androidAlt": "MyQuickPaste för Android. Spara text och URL:er och kopiera dem vid behov."
+    "windowsAlt": "Officiell MyQuickPaste-logotyp för Windows",
+    "androidAlt": "Officiell MyQuickPaste-logotyp för Android"
   }
 }

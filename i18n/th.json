@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows และ Android",
-    "metaDescription": "เว็บไซต์ทางการของ MyQuickPaste บน Windows คลิกบรรทัดที่บันทึกไว้เพื่อพิมพ์ลงแอปอื่น บน Android บันทึกข้อความและ URL แล้วคัดลอกเมื่อต้องการ",
-    "lead": "ใช้ข้อความที่บันทึกไว้อย่างรวดบน Windows และ Android",
+    "metaTitle": "MyQuickPaste | เลือกรุ่นที่เหมาะกับคุณ",
+    "metaDescription": "เว็บไซต์ทางการของ MyQuickPaste เลือกรุ่นที่เหมาะกับคุณ รุ่น Windows พิมพ์ข้อความที่บันทึกไว้ลงในแอปที่โฟกัสอยู่ รุ่น Android ให้คุณคัดลอกแล้ววางเอง",
+    "headline": "เลือก MyQuickPaste ที่เหมาะกับคุณ",
+    "lead": "รุ่น Windows และ Android ใช้งานต่างกัน",
+    "chooseAria": "เลือกรุ่น",
     "windowsBadge": "Windows",
-    "windowsTitle": "คลิกข้อความที่บันทึกไว้ เพื่อพิมพ์ลงอีกแอป Windows",
-    "windowsNote": "การคลิกจะพิมพ์ข้อความลงแอป Windows ที่โฟกัสอยู่ ไม่ใช่การวางจากคลิปบอร์ดเอง",
+    "windowsTitle": "คลิกเพื่อพิมพ์ตรงไปยังแอป Windows อื่น",
+    "windowsNote": "เลือกข้อความที่บันทึกไว้เท่านั้น ระบบจะพิมพ์ลงในแอปที่โฟกัสอยู่",
+    "windowsCompareAria": "วิธีใช้รุ่น Windows",
+    "windowsCompareYes": "พิมพ์โดยตรง",
+    "windowsCompareNo": "ไม่ใช่คัดลอกแล้ววาง",
     "androidBadge": "Android",
-    "androidTitle": "บันทึกข้อความและ URL ที่ใช้บ่อย แล้วคัดลอกเมื่อต้องการ",
-    "androidNote": "คัดลอกในแอป แล้วไปวางในอีกแอปเอง ไม่ใช่การพิมพ์ตรงแบบ Windows",
-    "more": "ดูรายละเอียด",
-    "windowsAlt": "MyQuickPaste สำหรับ Windows คลิกแล้วพิมพ์ข้อความลงอีกแอป Windows",
-    "androidAlt": "MyQuickPaste สำหรับ Android บันทึกข้อความและ URL แล้วคัดลอกเมื่อต้องการ"
+    "androidTitle": "คัดลอกข้อความที่บันทึกไว้เมื่อต้องการใช้",
+    "androidNote": "คัดลอกในแอป แล้วไปวางในแอปที่ต้องการใช้",
+    "androidCompareAria": "วิธีใช้รุ่น Android",
+    "androidCompareYes": "คัดลอกแล้ววาง",
+    "androidCompareNo": "ไม่ใช่การพิมพ์โดยตรง",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
+    "more": "ดูเพิ่มเติม",
+    "windowsAlt": "โลโก้ทางการของ MyQuickPaste สำหรับ Windows",
+    "androidAlt": "โลโก้ทางการของ MyQuickPaste สำหรับ Android"
   }
 }

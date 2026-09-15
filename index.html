@@ -7,11 +7,11 @@
   <link rel="icon" href="images/logo.png" type="image/png" sizes="150x150" />
   <link rel="apple-touch-icon" href="images/logo.png" />
   <meta name="google-site-verification" content="6Ia5BYbzrZgxu0Ig9AL8SdDwton3qzsaqIGnEd-KuXo" />
-  <meta name="description" content="MyQuickPasteの公式サイト。Windows版は保存した文章をクリックして別のWindowsアプリへ直接入力。Android版はよく使う文章やURLを保存して、必要な時にコピーできます。" />
-  <title>MyQuickPaste | Windows版とAndroid版</title>
+  <meta name="description" content="MyQuickPasteの公式サイト。あなたに合う版を選んでください。Windows版は保存した文章をクリックして別のWindowsアプリへ直接入力。Android版はアプリ内でコピーして、使いたいアプリへ貼り付けます。" />
+  <title>MyQuickPaste | あなたに合う版を選ぶ</title>
   <link rel="canonical" href="https://goodrabbit-inc.github.io/myquickpaste/" />
-  <meta property="og:title" content="MyQuickPaste | Windows版とAndroid版" />
-  <meta property="og:description" content="MyQuickPasteの公式サイト。Windows版は保存した文章をクリックして別のWindowsアプリへ直接入力。Android版はよく使う文章やURLを保存して、必要な時にコピーできます。" />
+  <meta property="og:title" content="MyQuickPaste | あなたに合う版を選ぶ" />
+  <meta property="og:description" content="MyQuickPasteの公式サイト。あなたに合う版を選んでください。Windows版は保存した文章をクリックして別のWindowsアプリへ直接入力。Android版はアプリ内でコピーして、使いたいアプリへ貼り付けます。" />
   <meta property="og:url" content="https://goodrabbit-inc.github.io/myquickpaste/" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://goodrabbit-inc.github.io/myquickpaste/images/windows-ads/ja-Windows_frequent-text_one-click_1024x500.png" />
@@ -55,7 +55,7 @@
   <link rel="alternate" hreflang="ar" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=ar" />
   <link rel="alternate" hreflang="zh-CN" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=zh-cn" />
   <link rel="alternate" hreflang="zh-TW" href="https://goodrabbit-inc.github.io/myquickpaste/?lang=zh-tw" />
-  <link rel="stylesheet" href="style.css?v=12" />
+  <link rel="stylesheet" href="style.css?v=13" />
 </head>
 <body data-page="hub">
   <header class="site-header">
@@ -98,42 +98,87 @@
   </header>
 
   <section class="hero hub-hero">
-    <div class="hero-brand">
-      <img src="images/logo.png" alt="" class="logo hero-logo" width="72" height="72" aria-hidden="true" />
-      <h1 class="hero-wordmark">MyQuickPaste</h1>
-    </div>
-    <p class="hub-lead" data-i18n="hub.lead">よく使う文章を、WindowsとAndroidで素早く使う。</p>
+    <p class="hub-kicker">MyQuickPaste</p>
+    <h1 class="hub-headline" data-i18n="hub.headline">あなたに合う MyQuickPaste を選ぶ</h1>
+    <p class="hub-lead" data-i18n="hub.lead">Windows版とAndroid版は、使い方が異なります。</p>
   </section>
 
   <main class="hub-main">
-    <section class="hub-editions" aria-label="製品を選ぶ">
-      <article class="edition-card">
+    <section class="hub-editions" data-i18n-aria="hub.chooseAria" aria-label="製品を選ぶ">
+      <article class="edition-card edition-card-windows">
+        <a class="edition-card-hit" href="windows/" tabindex="-1" aria-hidden="true"></a>
         <p class="edition-badge" data-i18n="hub.windowsBadge">Windows版</p>
-        <h2 data-i18n="hub.windowsTitle">保存した文章を、クリックで別のWindowsアプリへ直接入力</h2>
-        <p class="edition-note" data-i18n="hub.windowsNote">クリックすると、今フォーカスしているWindowsアプリへ直接入力します。クリップボードから自分で貼り付ける操作ではありません。</p>
-        <img
-          data-windows-ad="hub"
-          src="images/windows-ads/ja-Windows_frequent-text_one-click_1024x500.png"
-          width="1024"
-          height="500"
-          alt="Windows版 MyQuickPaste。保存した行をクリックすると、別のWindowsアプリへ直接入力できます。"
-          decoding="async"
-        />
-        <a class="btn-store" href="windows/" data-i18n="hub.more">詳しく見る</a>
+        <div class="edition-logo-stage">
+          <img
+            src="images/logos/windows.png"
+            width="512"
+            height="512"
+            alt="Windows版 MyQuickPaste の公式ロゴ"
+            data-i18n-alt="hub.windowsAlt"
+            decoding="async"
+          />
+        </div>
+        <h2 data-i18n="hub.windowsTitle">クリックで、別のWindowsアプリへ直接入力</h2>
+        <p class="edition-note" data-i18n="hub.windowsNote">保存した文章を選ぶだけ。現在フォーカス中のアプリに入力します。</p>
+        <ul class="edition-compare" data-i18n-aria="hub.windowsCompareAria" aria-label="Windows版の使い方">
+          <li class="is-yes">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="3" y="4" width="13" height="12" rx="2"></rect>
+              <path d="M3 8h13"></path>
+              <path d="m13 13 8 2.5-3.2 1.4-1.4 3.3z"></path>
+            </svg>
+            <span data-i18n="hub.windowsCompareYes">直接入力</span>
+          </li>
+          <li class="is-no">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="9" y="9" width="13" height="13" rx="2"></rect>
+              <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+              <path d="m3 3 18 18"></path>
+            </svg>
+            <span data-i18n="hub.windowsCompareNo">コピーして貼り付けではない</span>
+          </li>
+        </ul>
+        <div class="edition-actions">
+          <a class="btn-store btn-windows-store" href="https://apps.microsoft.com/detail/9N8WHWKDDSKK" target="_blank" rel="noopener noreferrer" data-store="true" data-i18n="hub.storeWindows">Microsoft Store</a>
+          <a class="btn-more" href="windows/" data-i18n="hub.more">詳しく見る</a>
+        </div>
       </article>
-      <article class="edition-card">
-        <p class="edition-badge edition-badge-android" data-i18n="hub.androidBadge">Android版</p>
-        <h2 data-i18n="hub.androidTitle">よく使う文章やURLを保存して、必要な時にコピー</h2>
-        <p class="edition-note" data-i18n="hub.androidNote">アプリ内でコピーしたあと、別のアプリへ自分で貼り付けます。Windows版のような直接入力ではありません。</p>
-        <img
-          data-android-ad="hub"
-          src="android/images/marketing/feature-ja.png"
-          width="1024"
-          height="500"
-          alt="Android版 MyQuickPaste。よく使う文章やURLを保存し、必要な時にコピーします。"
-          decoding="async"
-        />
-        <a class="btn-store" href="android/" data-i18n="hub.more">詳しく見る</a>
+      <article class="edition-card edition-card-android">
+        <a class="edition-card-hit" href="android/" tabindex="-1" aria-hidden="true"></a>
+        <p class="edition-badge" data-i18n="hub.androidBadge">Android版</p>
+        <div class="edition-logo-stage">
+          <img
+            src="images/logos/android.png"
+            width="512"
+            height="512"
+            alt="Android版 MyQuickPaste の公式ロゴ"
+            data-i18n-alt="hub.androidAlt"
+            decoding="async"
+          />
+        </div>
+        <h2 data-i18n="hub.androidTitle">保存した文章を、必要な時にすぐコピー</h2>
+        <p class="edition-note" data-i18n="hub.androidNote">アプリ内でコピーして、使いたいアプリへ貼り付けます。</p>
+        <ul class="edition-compare" data-i18n-aria="hub.androidCompareAria" aria-label="Android版の使い方">
+          <li class="is-yes">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="9" y="9" width="13" height="13" rx="2"></rect>
+              <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+            </svg>
+            <span data-i18n="hub.androidCompareYes">コピーして貼り付け</span>
+          </li>
+          <li class="is-no">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <rect x="3" y="4" width="14" height="12" rx="2"></rect>
+              <path d="M8 20h4"></path>
+              <path d="m3 3 18 18"></path>
+            </svg>
+            <span data-i18n="hub.androidCompareNo">直接入力ではない</span>
+          </li>
+        </ul>
+        <div class="edition-actions">
+          <a class="btn-store btn-android-store" href="https://play.google.com/store/apps/details?id=com.goodrabbit.clipee" target="_blank" rel="noopener noreferrer" data-i18n="hub.storeAndroid">Google Play</a>
+          <a class="btn-more" href="android/" data-i18n="hub.more">詳しく見る</a>
+        </div>
       </article>
     </section>
   </main>
@@ -143,6 +188,6 @@
     <p data-i18n="footer.developer">開発：Kazuhiro Suda</p>
   </footer>
 
-  <script src="i18n.js?v=13"></script>
+  <script src="i18n.js?v=14"></script>
 </body>
 </html>

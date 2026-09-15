@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows dan Android",
-    "metaDescription": "Situs resmi MyQuickPaste. Di Windows, klik baris tersimpan untuk mengetiknya ke aplikasi lain. Di Android, simpan teks dan URL lalu salin saat diperlukan.",
-    "lead": "Gunakan teks tersimpan dengan cepat di Windows dan Android.",
+    "metaTitle": "MyQuickPaste | Pilih edisi Anda",
+    "metaDescription": "Situs resmi MyQuickPaste. Pilih edisi yang sesuai. Di Windows, teks tersimpan diketik ke aplikasi yang sedang fokus. Di Android, Anda menyalin lalu menempel.",
+    "headline": "Pilih MyQuickPaste yang sesuai untuk Anda",
+    "lead": "Edisi Windows dan Android cara kerjanya berbeda.",
+    "chooseAria": "Pilih edisi",
     "windowsBadge": "Windows",
-    "windowsTitle": "Klik teks tersimpan untuk mengetiknya ke aplikasi Windows lain",
-    "windowsNote": "Klik mengetik teks ke aplikasi Windows yang sedang fokus. Anda tidak menempel dari papan klip.",
+    "windowsTitle": "Klik untuk mengetik langsung ke aplikasi Windows lain",
+    "windowsNote": "Cukup pilih baris tersimpan. Teks diketik ke aplikasi yang sedang fokus.",
+    "windowsCompareAria": "Cara kerja edisi Windows",
+    "windowsCompareYes": "Ketik langsung",
+    "windowsCompareNo": "Bukan salin dan tempel",
     "androidBadge": "Android",
-    "androidTitle": "Simpan teks dan URL yang sering dipakai, lalu salin saat diperlukan",
-    "androidNote": "Salin di dalam aplikasi, lalu tempel sendiri ke aplikasi lain. Ini bukan pengetikan langsung seperti Windows.",
+    "androidTitle": "Salin teks tersimpan saat Anda membutuhkannya",
+    "androidNote": "Salin di dalam aplikasi, lalu tempel ke aplikasi yang ingin digunakan.",
+    "androidCompareAria": "Cara kerja edisi Android",
+    "androidCompareYes": "Salin dan tempel",
+    "androidCompareNo": "Bukan ketik langsung",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Pelajari lebih lanjut",
-    "windowsAlt": "MyQuickPaste untuk Windows. Klik untuk mengetik teks ke aplikasi Windows lain.",
-    "androidAlt": "MyQuickPaste untuk Android. Simpan teks dan URL, lalu salin saat diperlukan."
+    "windowsAlt": "Logo resmi MyQuickPaste untuk Windows",
+    "androidAlt": "Logo resmi MyQuickPaste untuk Android"
   }
 }

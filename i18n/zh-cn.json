@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows 版与 Android 版",
-    "metaDescription": "MyQuickPaste 官方网站。Windows 版点击已保存的文字，直接输入到另一个 Windows 应用。Android 版保存常用文字和网址，需要时再复制。",
-    "lead": "在 Windows 和 Android 上快速使用已保存的文字。",
+    "metaTitle": "MyQuickPaste | 选择适合你的版本",
+    "metaDescription": "MyQuickPaste 官方网站。选择适合你的版本。Windows 版将已保存文字直接输入到当前焦点应用。Android 版在应用内复制，再由你粘贴。",
+    "headline": "选择适合你的 MyQuickPaste",
+    "lead": "Windows 版和 Android 版的用法并不相同。",
+    "chooseAria": "选择产品",
     "windowsBadge": "Windows 版",
-    "windowsTitle": "点击已保存的文字，直接输入到另一个 Windows 应用",
-    "windowsNote": "点击后会输入到当前具有焦点的 Windows 应用，不是从剪贴板自行粘贴。",
+    "windowsTitle": "点击即可直接输入到另一个 Windows 应用",
+    "windowsNote": "只需选择已保存的文字，就会输入到当前焦点所在的应用。",
+    "windowsCompareAria": "Windows 版的用法",
+    "windowsCompareYes": "直接输入",
+    "windowsCompareNo": "不是复制粘贴",
     "androidBadge": "Android 版",
-    "androidTitle": "保存常用文字和网址，需要时再复制",
-    "androidNote": "在应用内复制后，再自己粘贴到其他应用。这不是 Windows 版的直接输入。",
+    "androidTitle": "需要时立即复制已保存的文字",
+    "androidNote": "在应用内复制，再粘贴到你要使用的应用。",
+    "androidCompareAria": "Android 版的用法",
+    "androidCompareYes": "复制并粘贴",
+    "androidCompareNo": "不是直接输入",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "了解详情",
-    "windowsAlt": "Windows 版 MyQuickPaste。点击即可将文字输入到另一个 Windows 应用。",
-    "androidAlt": "Android 版 MyQuickPaste。保存文字和网址，需要时再复制。"
+    "windowsAlt": "Windows 版 MyQuickPaste 官方标志",
+    "androidAlt": "Android 版 MyQuickPaste 官方标志"
   }
 }

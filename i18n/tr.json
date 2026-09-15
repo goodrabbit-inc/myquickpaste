@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows ve Android",
-    "metaDescription": "MyQuickPaste resmi sitesi. Windows'ta kayıtlı satıra tıklayınca metin başka uygulamaya yazılır. Android'de metin ve URL'leri kaydedip gerektiğinde kopyalarsınız.",
-    "lead": "Kayıtlı metninizi Windows ve Android'de hızlı kullanın.",
+    "metaTitle": "MyQuickPaste | Sürümünüzü seçin",
+    "metaDescription": "Resmi MyQuickPaste sitesi. Size uyan sürümü seçin. Windows’ta kayıtlı metin odaktaki uygulamaya yazılır. Android’de kopyalayıp yapıştırırsınız.",
+    "headline": "Size uyan MyQuickPaste’i seçin",
+    "lead": "Windows ve Android sürümleri farklı çalışır.",
+    "chooseAria": "Bir sürüm seçin",
     "windowsBadge": "Windows",
-    "windowsTitle": "Kayıtlı bir satıra tıklayarak metni başka bir Windows uygulamasına yazın",
-    "windowsNote": "Tıklama, o anda odakta olan Windows uygulamasına metni yazar. Panodan yapıştırmazsınız.",
+    "windowsTitle": "Tıklayarak başka bir Windows uygulamasına doğrudan yazın",
+    "windowsNote": "Kayıtlı bir satır seçmeniz yeterli. Metin, o anda odakta olan uygulamaya yazılır.",
+    "windowsCompareAria": "Windows sürümü nasıl çalışır",
+    "windowsCompareYes": "Doğrudan yazma",
+    "windowsCompareNo": "Kopyala-yapıştır değil",
     "androidBadge": "Android",
-    "androidTitle": "Sık kullandığınız metin ve URL'leri kaydedin, gerektiğinde kopyalayın",
-    "androidNote": "Uygulama içinde kopyalayıp başka uygulamaya siz yapıştırırsınız. Windows'taki doğrudan yazma değildir.",
-    "more": "Daha fazla",
-    "windowsAlt": "Windows için MyQuickPaste. Tıklama metni başka bir Windows uygulamasına yazar.",
-    "androidAlt": "Android için MyQuickPaste. Metin ve URL'leri kaydedip gerektiğinde kopyalayın."
+    "androidTitle": "Kayıtlı metninizi ihtiyaç duyduğunuz anda kopyalayın",
+    "androidNote": "Uygulama içinde kopyalayın, sonra kullanmak istediğiniz uygulamaya yapıştırın.",
+    "androidCompareAria": "Android sürümü nasıl çalışır",
+    "androidCompareYes": "Kopyala ve yapıştır",
+    "androidCompareNo": "Doğrudan yazma değil",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
+    "more": "Daha fazla bilgi",
+    "windowsAlt": "Windows için resmi MyQuickPaste logosu",
+    "androidAlt": "Android için resmi MyQuickPaste logosu"
   }
 }

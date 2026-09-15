@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows і Android",
-    "metaDescription": "Офіційний сайт MyQuickPaste. У Windows клацання вводить збережений текст в іншу програму. В Android зберігайте тексти й URL і копіюйте їх за потреби.",
-    "lead": "Швидко використовуйте збережений текст у Windows і Android.",
+    "metaTitle": "MyQuickPaste | Оберіть свою версію",
+    "metaDescription": "Офіційний сайт MyQuickPaste. Оберіть версію, яка вам підходить. У Windows збережений текст вводиться в програму у фокусі. В Android ви копіюєте й вставляєте самі.",
+    "headline": "Оберіть MyQuickPaste, який вам підходить",
+    "lead": "Версії для Windows і Android працюють по-різному.",
+    "chooseAria": "Оберіть версію",
     "windowsBadge": "Windows",
-    "windowsTitle": "Натисніть збережений рядок, щоб ввести його в іншу програму Windows",
-    "windowsNote": "Клацання вводить текст у програму Windows, яка зараз у фокусі. Ви не вставляєте з буфера обміну.",
+    "windowsTitle": "Натисніть, щоб ввести текст безпосередньо в іншу програму Windows",
+    "windowsNote": "Просто виберіть збережений рядок. Його буде введено в програму, яка зараз у фокусі.",
+    "windowsCompareAria": "Як працює версія для Windows",
+    "windowsCompareYes": "Пряме введення",
+    "windowsCompareNo": "Не копіювання та вставка",
     "androidBadge": "Android",
-    "androidTitle": "Зберігайте часті тексти й URL і копіюйте їх, коли потрібно",
-    "androidNote": "Скопіюйте в програмі й самі вставте в іншу. Це не пряме введення, як у Windows.",
+    "androidTitle": "Копіюйте збережений текст, коли він потрібен",
+    "androidNote": "Скопіюйте в програмі, а тоді вставте в потрібну програму.",
+    "androidCompareAria": "Як працює версія для Android",
+    "androidCompareYes": "Копіювання та вставка",
+    "androidCompareNo": "Не пряме введення",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Докладніше",
-    "windowsAlt": "MyQuickPaste для Windows. Клацання вводить текст в іншу програму Windows.",
-    "androidAlt": "MyQuickPaste для Android. Зберігайте тексти й URL і копіюйте їх за потреби."
+    "windowsAlt": "Офіційний логотип MyQuickPaste для Windows",
+    "androidAlt": "Офіційний логотип MyQuickPaste для Android"
   }
 }

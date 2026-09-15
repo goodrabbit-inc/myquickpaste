@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows i Android",
-    "metaDescription": "Oficjalna strona MyQuickPaste. W Windows kliknięcie wpisuje tekst w innej aplikacji. Na Androidzie zapisujesz teksty i adresy URL i kopiujesz je, gdy są potrzebne.",
-    "lead": "Szybko używaj zapisanego tekstu w Windows i Androidzie.",
+    "metaTitle": "MyQuickPaste | Wybierz swoją edycję",
+    "metaDescription": "Oficjalna strona MyQuickPaste. Wybierz edycję dopasowaną do Ciebie. W Windows zapisany tekst jest wpisywany do aktywnej aplikacji. W Androidzie kopiujesz i wklejasz samodzielnie.",
+    "headline": "Wybierz MyQuickPaste dopasowany do Ciebie",
+    "lead": "Wersje Windows i Android działają inaczej.",
+    "chooseAria": "Wybierz edycję",
     "windowsBadge": "Windows",
-    "windowsTitle": "Kliknij zapisany tekst, aby wpisać go w innej aplikacji Windows",
-    "windowsNote": "Kliknięcie wpisuje tekst w aplikacji Windows, która ma fokus. Nie wklejasz ze schowka.",
+    "windowsTitle": "Kliknij, aby wpisać tekst bezpośrednio w innej aplikacji Windows",
+    "windowsNote": "Wystarczy wybrać zapisany wiersz. Zostanie wpisany w aktualnie aktywną aplikację.",
+    "windowsCompareAria": "Jak działa edycja Windows",
+    "windowsCompareYes": "Bezpośrednie wpisywanie",
+    "windowsCompareNo": "To nie kopiuj-wklej",
     "androidBadge": "Android",
-    "androidTitle": "Zapisuj często używane teksty i adresy URL, a potem kopiuj je w razie potrzeby",
-    "androidNote": "Skopiuj w aplikacji i wklej samodzielnie w innej. To nie jest bezpośrednie wpisywanie z Windows.",
-    "more": "Więcej",
-    "windowsAlt": "MyQuickPaste na Windows. Kliknięcie wpisuje tekst w innej aplikacji Windows.",
-    "androidAlt": "MyQuickPaste na Androida. Zapisuj teksty i adresy URL i kopiuj je w razie potrzeby."
+    "androidTitle": "Skopiuj zapisany tekst, gdy go potrzebujesz",
+    "androidNote": "Skopiuj w aplikacji, a potem wklej w wybranej aplikacji.",
+    "androidCompareAria": "Jak działa edycja Android",
+    "androidCompareYes": "Kopiuj i wklej",
+    "androidCompareNo": "To nie bezpośrednie wpisywanie",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
+    "more": "Dowiedz się więcej",
+    "windowsAlt": "Oficjalne logo MyQuickPaste dla Windows",
+    "androidAlt": "Oficjalne logo MyQuickPaste dla Androida"
   }
 }

@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows и Android",
-    "metaDescription": "Официальный сайт MyQuickPaste. В Windows щелчок вводит сохранённый текст в другое приложение. В Android сохраняйте тексты и URL и копируйте их при необходимости.",
-    "lead": "Быстро используйте сохранённый текст в Windows и Android.",
+    "metaTitle": "MyQuickPaste | Выберите свою версию",
+    "metaDescription": "Официальный сайт MyQuickPaste. Выберите подходящую версию. В Windows сохранённый текст вводится в приложение в фокусе. В Android вы копируете и вставляете сами.",
+    "headline": "Выберите MyQuickPaste, который вам подходит",
+    "lead": "Версии для Windows и Android работают по-разному.",
+    "chooseAria": "Выберите версию",
     "windowsBadge": "Windows",
-    "windowsTitle": "Нажмите сохранённую строку, чтобы ввести её в другое приложение Windows",
-    "windowsNote": "Щелчок вводит текст в приложение Windows, которое сейчас в фокусе. Вы не вставляете из буфера обмена.",
+    "windowsTitle": "Нажмите, чтобы ввести текст прямо в другое приложение Windows",
+    "windowsNote": "Просто выберите сохранённую строку. Она вводится в приложение, которое сейчас в фокусе.",
+    "windowsCompareAria": "Как работает версия для Windows",
+    "windowsCompareYes": "Прямой ввод",
+    "windowsCompareNo": "Не копирование и вставка",
     "androidBadge": "Android",
-    "androidTitle": "Сохраняйте частые тексты и URL и копируйте их, когда нужно",
-    "androidNote": "Скопируйте в приложении и сами вставьте в другое. Это не прямой ввод, как в Windows.",
+    "androidTitle": "Копируйте сохранённый текст, когда он нужен",
+    "androidNote": "Скопируйте в приложении и вставьте в нужное приложение.",
+    "androidCompareAria": "Как работает версия для Android",
+    "androidCompareYes": "Копирование и вставка",
+    "androidCompareNo": "Не прямой ввод",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Подробнее",
-    "windowsAlt": "MyQuickPaste для Windows. Щелчок вводит текст в другое приложение Windows.",
-    "androidAlt": "MyQuickPaste для Android. Сохраняйте тексты и URL и копируйте их при необходимости."
+    "windowsAlt": "Официальный логотип MyQuickPaste для Windows",
+    "androidAlt": "Официальный логотип MyQuickPaste для Android"
   }
 }

@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows et Android",
-    "metaDescription": "Site officiel de MyQuickPaste. Sur Windows, un clic saisit le texte dans une autre application. Sur Android, enregistrez textes et URL, puis copiez-les au besoin.",
-    "lead": "Utilisez vos textes enregistrés rapidement sur Windows et Android.",
+    "metaTitle": "MyQuickPaste | Choisissez votre édition",
+    "metaDescription": "Site officiel de MyQuickPaste. Choisissez l’édition qui vous convient. Sous Windows, le texte enregistré est saisi dans l’app au premier plan. Sous Android, vous copiez puis collez vous-même.",
+    "headline": "Choisissez le MyQuickPaste qui vous convient",
+    "lead": "Les éditions Windows et Android ne fonctionnent pas de la même façon.",
+    "chooseAria": "Choisir une édition",
     "windowsBadge": "Windows",
-    "windowsTitle": "Cliquez sur un texte enregistré pour le saisir dans une autre application Windows",
-    "windowsNote": "Le clic saisit le texte dans l'application Windows au premier plan. Vous ne collez pas depuis le presse-papiers.",
+    "windowsTitle": "Cliquez pour saisir directement dans une autre app Windows",
+    "windowsNote": "Choisissez simplement un texte enregistré. Il est saisi dans l’application actuellement au premier plan.",
+    "windowsCompareAria": "Fonctionnement de l’édition Windows",
+    "windowsCompareYes": "Saisie directe",
+    "windowsCompareNo": "Pas un copier-coller",
     "androidBadge": "Android",
-    "androidTitle": "Enregistrez les textes et URL fréquents, puis copiez-les au besoin",
-    "androidNote": "Copiez dans l'application, puis collez vous-même ailleurs. Ce n'est pas la saisie directe de Windows.",
+    "androidTitle": "Copiez vos textes enregistrés dès que vous en avez besoin",
+    "androidNote": "Copiez dans l’app, puis collez dans l’application que vous voulez utiliser.",
+    "androidCompareAria": "Fonctionnement de l’édition Android",
+    "androidCompareYes": "Copier-coller",
+    "androidCompareNo": "Pas de saisie directe",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "En savoir plus",
-    "windowsAlt": "MyQuickPaste pour Windows. Un clic saisit le texte dans une autre application Windows.",
-    "androidAlt": "MyQuickPaste pour Android. Enregistrez textes et URL, puis copiez-les au besoin."
+    "windowsAlt": "Logo officiel MyQuickPaste pour Windows",
+    "androidAlt": "Logo officiel MyQuickPaste pour Android"
   }
 }

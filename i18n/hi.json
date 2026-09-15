@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows और Android",
-    "metaDescription": "MyQuickPaste की आधिकारिक साइट। Windows पर सहेजी पंक्ति पर क्लिक कर दूसरे ऐप में लिखें। Android पर टेक्स्ट और URL सहेजें और ज़रूरत पर कॉपी करें।",
-    "lead": "सहेजे हुए टेक्स्ट को Windows और Android पर तेज़ी से इस्तेमाल करें।",
+    "metaTitle": "MyQuickPaste | अपना संस्करण चुनें",
+    "metaDescription": "MyQuickPaste की आधिकारिक साइट। अपने काम के हिसाब से संस्करण चुनें। Windows पर सहेजा टेक्स्ट फ़ोकस वाले ऐप में टाइप होता है। Android पर आप कॉपी करके पेस्ट करते हैं।",
+    "headline": "अपने काम के हिसाब से MyQuickPaste चुनें",
+    "lead": "Windows और Android संस्करण अलग तरीके से काम करते हैं।",
+    "chooseAria": "संस्करण चुनें",
     "windowsBadge": "Windows",
-    "windowsTitle": "सहेजी पंक्ति पर क्लिक कर दूसरे Windows ऐप में सीधे लिखें",
-    "windowsNote": "क्लिक वर्तमान फ़ोकस वाले Windows ऐप में टेक्स्ट लिखता है। आप क्लिपबोर्ड से पेस्ट नहीं करते।",
+    "windowsTitle": "क्लिक करके सीधे दूसरे Windows ऐप में टाइप करें",
+    "windowsNote": "बस सहेजी हुई पंक्ति चुनें। यह उस ऐप में टाइप हो जाती है जिस पर फ़ोकस है।",
+    "windowsCompareAria": "Windows संस्करण कैसे काम करता है",
+    "windowsCompareYes": "सीधे टाइप",
+    "windowsCompareNo": "कॉपी-पेस्ट नहीं",
     "androidBadge": "Android",
-    "androidTitle": "अक्सर इस्तेमाल टेक्स्ट और URL सहेजें, ज़रूरत पर कॉपी करें",
-    "androidNote": "ऐप में कॉपी करें, फिर दूसरे ऐप में खुद पेस्ट करें। यह Windows जैसा सीधे लिखना नहीं है।",
+    "androidTitle": "ज़रूरत पड़ते ही सहेजा हुआ टेक्स्ट कॉपी करें",
+    "androidNote": "ऐप में कॉपी करें, फिर जिस ऐप में चाहिए वहाँ पेस्ट करें।",
+    "androidCompareAria": "Android संस्करण कैसे काम करता है",
+    "androidCompareYes": "कॉपी और पेस्ट",
+    "androidCompareNo": "सीधे टाइप नहीं",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "और जानें",
-    "windowsAlt": "Windows के लिए MyQuickPaste। क्लिक दूसरे Windows ऐप में टेक्स्ट लिखता है।",
-    "androidAlt": "Android के लिए MyQuickPaste। टेक्स्ट और URL सहेजें, ज़रूरत पर कॉपी करें।"
+    "windowsAlt": "Windows के लिए आधिकारिक MyQuickPaste लोगो",
+    "androidAlt": "Android के लिए आधिकारिक MyQuickPaste लोगो"
   }
 }

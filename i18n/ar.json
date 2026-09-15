@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows وAndroid",
-    "metaDescription": "الموقع الرسمي لـ MyQuickPaste. على Windows انقر سطراً محفوظاً لإدخاله في تطبيق آخر. على Android احفظ النصوص والروابط وانسخها عند الحاجة.",
-    "lead": "استخدم نصوصك المحفوظة بسرعة على Windows وAndroid.",
+    "metaTitle": "MyQuickPaste | اختر إصدارك",
+    "metaDescription": "الموقع الرسمي لـ MyQuickPaste. اختر الإصدار المناسب لك. على Windows يُدخل النص المحفوظ في التطبيق الذي يملك التركيز. على Android تنسخ ثم تلصق بنفسك.",
+    "headline": "اختر إصدار MyQuickPaste المناسب لك",
+    "lead": "إصدارا Windows وAndroid يعملان بطريقة مختلفة.",
+    "chooseAria": "اختر إصداراً",
     "windowsBadge": "Windows",
-    "windowsTitle": "انقر سطراً محفوظاً لإدخاله مباشرة في تطبيق Windows آخر",
-    "windowsNote": "النقرة تدخل النص في تطبيق Windows الذي يملك التركيز. أنت لا تلصق من الحافظة.",
+    "windowsTitle": "انقر لإدخال النص مباشرة في تطبيق Windows آخر",
+    "windowsNote": "اختر السطر المحفوظ فقط. يُدخل في التطبيق الذي يملك التركيز الآن.",
+    "windowsCompareAria": "طريقة عمل إصدار Windows",
+    "windowsCompareYes": "إدخال مباشر",
+    "windowsCompareNo": "ليس نسخاً ولصقاً",
     "androidBadge": "Android",
-    "androidTitle": "احفظ النصوص والروابط المتكررة ثم انسخها عند الحاجة",
-    "androidNote": "انسخ داخل التطبيق ثم الصق بنفسك في تطبيق آخر. هذا ليس الإدخال المباشر في Windows.",
+    "androidTitle": "انسخ النص المحفوظ في اللحظة التي تحتاجه",
+    "androidNote": "انسخ داخل التطبيق ثم الصق في التطبيق الذي تريد استخدامه.",
+    "androidCompareAria": "طريقة عمل إصدار Android",
+    "androidCompareYes": "نسخ ولصق",
+    "androidCompareNo": "ليس إدخالاً مباشراً",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "معرفة المزيد",
-    "windowsAlt": "MyQuickPaste لـ Windows. نقرة تدخل النص في تطبيق Windows آخر.",
-    "androidAlt": "MyQuickPaste لأندرويد. احفظ النصوص والروابط وانسخها عند الحاجة."
+    "windowsAlt": "الشعار الرسمي لـ MyQuickPaste على Windows",
+    "androidAlt": "الشعار الرسمي لـ MyQuickPaste على Android"
   }
 }

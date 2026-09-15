@@ -249,17 +249,27 @@
     ]
   },
   "hub": {
-    "metaTitle": "MyQuickPaste | Windows and Android",
-    "metaDescription": "Official MyQuickPaste site. On Windows, click a saved line to type it into another Windows app. On Android, save text and URLs and copy them when you need them.",
-    "lead": "Use your saved text quickly on Windows and Android.",
+    "metaTitle": "MyQuickPaste | Choose your edition",
+    "metaDescription": "Official MyQuickPaste site. Choose the edition that fits how you work. Windows types saved text into the focused app. Android copies text so you can paste it yourself.",
+    "headline": "Choose the MyQuickPaste that fits how you work",
+    "lead": "The Windows and Android editions work differently.",
+    "chooseAria": "Choose an edition",
     "windowsBadge": "Windows",
-    "windowsTitle": "Click a saved line to type it into another Windows app",
-    "windowsNote": "A click types the text into the Windows app that currently has focus. You do not paste from the clipboard yourself.",
+    "windowsTitle": "Click to type directly into another Windows app",
+    "windowsNote": "Just pick a saved line. It is typed into the app that currently has focus.",
+    "windowsCompareAria": "How the Windows edition works",
+    "windowsCompareYes": "Direct typing",
+    "windowsCompareNo": "Not copy and paste",
     "androidBadge": "Android",
-    "androidTitle": "Save the text and URLs you use often, then copy when you need them",
-    "androidNote": "Copy inside the app, then paste into another app yourself. This is not the direct typing used on Windows.",
+    "androidTitle": "Copy your saved text the moment you need it",
+    "androidNote": "Copy inside the app, then paste into the app you want to use.",
+    "androidCompareAria": "How the Android edition works",
+    "androidCompareYes": "Copy and paste",
+    "androidCompareNo": "Not direct typing",
+    "storeWindows": "Microsoft Store",
+    "storeAndroid": "Google Play",
     "more": "Learn more",
-    "windowsAlt": "MyQuickPaste for Windows. Click a saved line to type it into another Windows app.",
-    "androidAlt": "MyQuickPaste for Android. Save text and URLs, then copy them when you need them."
+    "windowsAlt": "Official MyQuickPaste logo for Windows",
+    "androidAlt": "Official MyQuickPaste logo for Android"
   }
 }

@@ -11,7 +11,9 @@
     "home": "Accueil",
     "support": "Assistance",
     "releaseNotes": "Notes de version",
-    "privacy": "Confidentialité"
+    "privacy": "Confidentialité",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows et Android",
+    "metaDescription": "Site officiel de MyQuickPaste. Sur Windows, un clic saisit le texte dans une autre application. Sur Android, enregistrez textes et URL, puis copiez-les au besoin.",
+    "lead": "Utilisez vos textes enregistrés rapidement sur Windows et Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Cliquez sur un texte enregistré pour le saisir dans une autre application Windows",
+    "windowsNote": "Le clic saisit le texte dans l'application Windows au premier plan. Vous ne collez pas depuis le presse-papiers.",
+    "androidBadge": "Android",
+    "androidTitle": "Enregistrez les textes et URL fréquents, puis copiez-les au besoin",
+    "androidNote": "Copiez dans l'application, puis collez vous-même ailleurs. Ce n'est pas la saisie directe de Windows.",
+    "more": "En savoir plus",
+    "windowsAlt": "MyQuickPaste pour Windows. Un clic saisit le texte dans une autre application Windows.",
+    "androidAlt": "MyQuickPaste pour Android. Enregistrez textes et URL, puis copiez-les au besoin."
   }
 }

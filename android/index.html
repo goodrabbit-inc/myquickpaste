@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light only">
+  <title>MyQuickPaste｜よく使う文字をタップひとつでコピー</title>
+  <meta data-i18n-attr="content:meta.description" name="description" content="定型文、住所、連絡先、絵文字、ハッシュタグなど、よく使う内容を保存してワンタップでコピー。スマートフォンの入力作業をシンプルにするMyQuickPaste。">
+  <link rel="canonical" href="https://goodrabbit-inc.github.io/myquickpaste/android/">
+  <!-- SEO 多言語 hreflang -->
+  <link rel="alternate" hreflang="x-default" href="https://goodrabbit-inc.github.io/myquickpaste/android/" />
+  <link rel="alternate" hreflang="ja" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=ja" />
+  <link rel="alternate" hreflang="en" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=en" />
+  <link rel="alternate" hreflang="fr" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=fr" />
+  <link rel="alternate" hreflang="de" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=de" />
+  <link rel="alternate" hreflang="es" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=es" />
+  <link rel="alternate" hreflang="it" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=it" />
+  <link rel="alternate" hreflang="pt" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=pt" />
+  <link rel="alternate" hreflang="nl" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=nl" />
+  <link rel="alternate" hreflang="pl" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=pl" />
+  <link rel="alternate" hreflang="sv" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=sv" />
+  <link rel="alternate" hreflang="ru" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=ru" />
+  <link rel="alternate" hreflang="uk" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=uk" />
+  <link rel="alternate" hreflang="tr" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=tr" />
+  <link rel="alternate" hreflang="th" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=th" />
+  <link rel="alternate" hreflang="vi" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=vi" />
+  <link rel="alternate" hreflang="id" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=id" />
+  <link rel="alternate" hreflang="ko" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=ko" />
+  <link rel="alternate" hreflang="hi" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=hi" />
+  <link rel="alternate" hreflang="ar" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=ar" />
+  <link rel="alternate" hreflang="zh-CN" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=zh-cn" />
+  <link rel="alternate" hreflang="zh-TW" href="https://goodrabbit-inc.github.io/myquickpaste/android/?lang=zh-tw" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="MyQuickPaste">
+  <meta property="og:url" content="https://goodrabbit-inc.github.io/myquickpaste/android/">
+  <meta property="og:locale" content="ja_JP">
+  <meta property="og:title" data-i18n-attr="content:meta.ogTitle" content="MyQuickPaste｜よく使う文字をタップひとつでコピー">
+  <meta property="og:description" data-i18n-attr="content:meta.ogDescription" content="定型文、住所、連絡先、絵文字、ハッシュタグなど、よく使う内容を保存してワンタップでコピー。">
+  <!-- TODO: OGP画像 1200×630px を images/og-cover.png に配置し、下記を有効化 -->
+  <!-- <meta property="og:image" content="https://goodrabbit-inc.github.io/myquickpaste/android/images/og-cover.png"> -->
+  <meta property="og:image" content="https://goodrabbit-inc.github.io/myquickpaste/android/images/icon.png">
+
+  <!-- X / Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" data-i18n-attr="content:meta.ogTitle" content="MyQuickPaste｜よく使う文字をタップひとつでコピー">
+  <meta name="twitter:description" data-i18n-attr="content:meta.ogDescription" content="定型文、住所、連絡先、絵文字、ハッシュタグなど、よく使う内容を保存してワンタップでコピー。">
+  <meta name="twitter:image" content="https://goodrabbit-inc.github.io/myquickpaste/android/images/icon.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "MyQuickPaste",
+    "applicationCategory": "UtilitiesApplication",
+    "operatingSystem": "Android",
+    "description": "よく使う文章やURLを保存し、必要な時にコピーして別アプリへ貼り付けできるAndroidアプリ。",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.goodrabbit.clipee",
+    "url": "https://goodrabbit-inc.github.io/myquickpaste/android/",
+    "author": {
+      "@type": "Organization",
+      "name": "Good Rabbit inc."
+    }
+  }
+  </script>
+
+  <link rel="icon" href="images/icon.png" type="image/png">
+  <link rel="stylesheet" href="css/business.css">
+  <link rel="stylesheet" href="css/business-redesign.css">
+</head>
+<body data-page="home">
+  <a class="skip-link" href="#main">本文へスキップ</a>
+
+  <!-- ==================================================
+       Header
+  ================================================== -->
+  <header class="site-header" id="site-header">
+    <div class="header-inner container">
+      <a class="brand" href="index.html">
+        <img class="logo-sm" src="images/icon.png" width="36" height="36" alt="" decoding="async">
+        <span class="brand-text">
+          <span class="brand-name" data-i18n="brand.name">MyQuickPaste</span>
+          <span class="brand-sub" data-i18n="brand.edition">Android版</span>
+        </span>
+      </a>
+
+      <div class="lang-picker">
+        <button type="button" class="lang-picker-btn" id="lang-picker-btn" aria-haspopup="listbox" aria-expanded="false">
+          <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+          <span class="lang-current"></span>
+        </button>
+        <ul class="lang-picker-menu" id="lang-picker-menu" role="listbox" hidden>
+          <li role="option" data-lang="ja"></li>
+          <li role="option" data-lang="en"></li>
+          <li role="option" data-lang="fr"></li>
+          <li role="option" data-lang="de"></li>
+          <li role="option" data-lang="zh"></li>
+          <li role="option" data-lang="zh_TW"></li>
+          <li role="option" data-lang="ko"></li>
+          <li role="option" data-lang="ru"></li>
+          <li role="option" data-lang="it"></li>
+          <li role="option" data-lang="es"></li>
+          <li role="option" data-lang="pt"></li>
+          <li role="option" data-lang="hi"></li>
+          <li role="option" data-lang="ar"></li>
+          <li role="option" data-lang="id"></li>
+          <li role="option" data-lang="th"></li>
+          <li role="option" data-lang="vi"></li>
+          <li role="option" data-lang="tr"></li>
+          <li role="option" data-lang="uk"></li>
+          <li role="option" data-lang="nl"></li>
+          <li role="option" data-lang="pl"></li>
+          <li role="option" data-lang="sv"></li>
+        </ul>
+      </div>
+
+      <button type="button" class="nav-toggle" id="nav-toggle" aria-controls="nav-panel" aria-expanded="false" aria-label="Menu">
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      </button>
+
+      <div class="nav-panel" id="nav-panel">
+        <nav class="nav" aria-label="Main">
+          <a href="#features" data-i18n="nav.features">特徴</a>
+          <a href="#how-it-works" data-i18n="nav.how">使い方</a>
+          <a href="#screenshots" data-i18n="nav.screens">画面</a>
+          <a href="#pricing" data-i18n="nav.pricing">料金</a>
+          <a href="support.html" data-nav="support" data-i18n="nav.support">サポート</a>
+        </nav>
+        <a class="header-cta btn btn-sm btn-primary" href="#pricing" data-i18n="nav.cta">Free / Pro</a>
+      </div>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ==================================================
+         Hero
+    ================================================== -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-inner container hero-grid">
+        <div class="hero-copy reveal">
+          <p class="hero-eyebrow" data-i18n="hero.eyebrow">MyQuickPaste Android版</p>
+          <h1 id="hero-title" class="hero-title">
+            <span data-i18n="hero.catchLine1">よく使う文字を、</span><br>
+            <span data-i18n="hero.catchLine2">タップひとつで。</span>
+          </h1>
+          <p class="hero-lead" data-i18n="hero.lead">定型文、住所、連絡先、URL、絵文字、ハッシュタグ。何度も使う内容を保存して、必要なときに一覧からタップひとつでコピー。</p>
+          <p class="hero-sub" data-i18n="hero.sub">あとは、いつものアプリに切り替えて貼り付けるだけ。</p>
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="#how-it-works" data-i18n="hero.ctaPrimary">使い方を見る</a>
+            <a class="btn btn-secondary" href="#pricing" data-i18n="hero.ctaSecondary">Free / Pro</a>
+          </div>
+          <div class="store-status" aria-label="Store availability">
+            <span class="store-status-item" data-i18n="hero.statusPlay">Google Playで配信中</span>
+            <span class="store-status-item" data-i18n="hero.statusApp">App Store 開発中</span>
+          </div>
+          <div class="store-badges hero-store-badges" aria-label="Download">
+            <a class="store-badge" data-badge-link="google-play" href="https://play.google.com/store/apps/details?id=com.goodrabbit.clipee" target="_blank" rel="noopener noreferrer">
+              <img src="images/badges/google-play-ja.png" data-badge-img="google-play" alt="" width="155" height="60" loading="eager" decoding="async">
+            </a>
+            <span class="store-badge is-soon" aria-disabled="true">
+              <img src="images/badges/app-store-ja.svg" data-badge-img="app-store" alt="" width="120" height="40" loading="eager" decoding="async">
+              <span class="store-soon-tag" data-i18n="stores.inDevelopment">開発中</span>
+            </span>
+          </div>
+        </div>
+
+        <div class="hero-visual reveal">
+          <img class="hero-feature-img" data-marketing-img="feature" src="images/marketing/feature-ja.png" width="1024" height="500" alt="MyQuickPaste feature graphic" loading="eager" fetchpriority="high" decoding="async">
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Trust Bar
+    ================================================== -->
+    <section class="trust-bar" aria-label="Trust">
+      <div class="container trust-grid">
+        <article class="trust-item reveal">
+          <h3 data-i18n="trust.t1Title">タップでコピー</h3>
+          <p data-i18n="trust.t1Text">保存した行をタップするだけ。</p>
+        </article>
+        <article class="trust-item reveal">
+          <h3 data-i18n="trust.t2Title">買い切りPro</h3>
+          <p data-i18n="trust.t2Text">毎月の支払いはありません。</p>
+        </article>
+        <article class="trust-item reveal">
+          <h3 data-i18n="trust.t3Title">端末内に保存</h3>
+          <p data-i18n="trust.t3Text">保存した内容は端末内で管理。</p>
+        </article>
+        <article class="trust-item reveal">
+          <h3 data-i18n="trust.t4Title">21言語UI</h3>
+          <p data-i18n="trust.t4Text">21言語の画面表示に対応。</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         How It Works
+    ================================================== -->
+    <section class="section" id="how-it-works">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2>
+            <span data-i18n="steps.titleLine1">保存して、タップして、</span><br>
+            <span data-i18n="steps.titleLine2">あとは貼り付けるだけ。</span>
+          </h2>
+          <p data-i18n="steps.subtitle">難しい設定は必要ありません。基本操作は3ステップです。</p>
+        </div>
+        <div class="steps-layout reveal">
+          <div class="steps-main">
+            <div class="steps-grid" data-i18n-steps="steps.items"></div>
+          </div>
+          <div class="steps-visual">
+            <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="7" src="images/marketing/usecase-ja-07.png" width="1080" height="1920" alt="MyQuickPaste usage guide" loading="lazy" decoding="async">
+          </div>
+        </div>
+        <noscript>
+          <div class="steps-grid">
+            <article class="step-card"><div class="step-num">01</div><h3>よく使う内容を保存</h3><p>よく使う文章や連絡先などを登録します。</p></article>
+            <article class="step-card"><div class="step-num">02</div><h3>使いたい行をタップ</h3><p>一覧から項目を1回タップすると、内容がクリップボードへコピーされます。</p></article>
+            <article class="step-card"><div class="step-num">03</div><h3>利用先のアプリへ貼り付け</h3><p>メール、SNS、チャット、地図などへ切り替え、コピーした内容を貼り付けます。</p></article>
+          </div>
+        </noscript>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Scene: Social
+    ================================================== -->
+    <section class="scene scene-social" id="scene-social">
+      <div class="container scene-inner">
+        <div class="scene-grid">
+          <div class="scene-copy reveal">
+            <p class="scene-eyebrow" data-i18n="sceneSocial.eyebrow">SNSでも</p>
+            <h2 class="scene-title">
+              <span data-i18n="sceneSocial.titleLine1">絵文字も、ハッシュタグも。</span><br>
+              <span data-i18n="sceneSocial.titleLine2">必要な時にすぐコピー。</span>
+            </h2>
+            <p class="scene-lead" data-i18n="sceneSocial.lead">お気に入りの絵文字やハッシュタグ、よく使う投稿文を保存。使いたい内容をタップしてコピーし、いつものSNSへ貼り付けるだけ。</p>
+          </div>
+          <div class="scene-media reveal">
+            <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="5" src="images/marketing/usecase-ja-05.png" width="1080" height="1920" alt="MyQuickPaste social media use case" loading="lazy" decoding="async">
+          </div>
+        </div>
+        <div class="scene-points" data-i18n-scene-points="sceneSocial.points"></div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Scene: Work
+    ================================================== -->
+    <section class="scene scene-work" id="scene-work">
+      <div class="container scene-inner">
+        <div class="scene-grid is-reverse">
+          <div class="scene-copy reveal">
+            <p class="scene-eyebrow" data-i18n="sceneWork.eyebrow">仕事でも</p>
+            <h2 class="scene-title">
+              <span data-i18n="sceneWork.titleLine1">定型文も、連絡先も。</span><br>
+              <span data-i18n="sceneWork.titleLine2">必要な時にすぐコピー。</span>
+            </h2>
+            <p class="scene-lead" data-i18n="sceneWork.lead">定型文、メールアドレス、電話番号、URLなど、何度も使う情報をひとまとめに。必要な行をタップして、すぐコピーできます。</p>
+          </div>
+          <div class="scene-media reveal">
+            <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="2" src="images/marketing/usecase-ja-02.png" width="1080" height="1920" alt="MyQuickPaste airport lounge use case" loading="lazy" decoding="async">
+          </div>
+        </div>
+        <div class="scene-points" data-i18n-scene-points="sceneWork.points"></div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Scene: Daily
+    ================================================== -->
+    <section class="scene scene-daily" id="scene-daily">
+      <div class="container scene-inner">
+        <div class="scene-grid">
+          <div class="scene-copy reveal">
+            <p class="scene-eyebrow" data-i18n="sceneDaily.eyebrow">毎日の中でも</p>
+            <h2 class="scene-title">
+              <span data-i18n="sceneDaily.titleLine1">住所も、プロフィールも。</span><br>
+              <span data-i18n="sceneDaily.titleLine2">必要な時にすぐコピー。</span>
+            </h2>
+            <p class="scene-lead" data-i18n="sceneDaily.lead">自宅の住所、メールアドレス、プロフィール文、よく使う一言。必要なときにタップして、すぐコピーできます。</p>
+          </div>
+          <div class="scene-media reveal">
+            <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="1" src="images/marketing/usecase-ja-01.png" width="1080" height="1920" alt="MyQuickPaste travel use case" loading="lazy" decoding="async">
+          </div>
+        </div>
+        <div class="scene-points" data-i18n-scene-points="sceneDaily.points"></div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         More Use Cases
+    ================================================== -->
+    <section class="section section-scene-more" id="scene-more">
+      <div class="container">
+        <div class="section-head section-head--center reveal">
+          <h2>
+            <span data-i18n="sceneMore.titleLine1">こんな場面でも。</span><br>
+            <span data-i18n="sceneMore.titleLine2"></span>
+          </h2>
+          <p data-i18n="sceneMore.lead">旅行、フリマ、チャット、幹事まで。よく使う文字を、どんな場面でもタップひとつでコピー。</p>
+        </div>
+
+        <div class="shots-carousel scene-more-carousel" data-carousel>
+          <button type="button" class="shots-btn shots-btn-prev" data-carousel-prev aria-label="Previous">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+          </button>
+          <div class="shots-track" data-carousel-track tabindex="0">
+            <figure class="shot-slide is-marketing is-active" data-carousel-slide>
+              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="3" src="images/marketing/usecase-ja-03.png" width="1080" height="1920" alt="MyQuickPaste marketplace use case" loading="lazy" decoding="async">
+              <figcaption class="scene-more-caption" data-i18n="sceneMore.cap3">フリマの定型文もすぐコピー</figcaption>
+            </figure>
+            <figure class="shot-slide is-marketing" data-carousel-slide>
+              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="4" src="images/marketing/usecase-ja-04.png" width="1080" height="1920" alt="MyQuickPaste chat use case" loading="lazy" decoding="async">
+              <figcaption class="scene-more-caption" data-i18n="sceneMore.cap4">チャットの返信もすぐコピー</figcaption>
+            </figure>
+            <figure class="shot-slide is-marketing" data-carousel-slide>
+              <img class="marketing-usecase-img" data-marketing-img="usecase" data-usecase-index="6" src="images/marketing/usecase-ja-06.png" width="1080" height="1920" alt="MyQuickPaste event organizer use case" loading="lazy" decoding="async">
+              <figcaption class="scene-more-caption" data-i18n="sceneMore.cap6">幹事の案内文もすぐコピー</figcaption>
+            </figure>
+          </div>
+          <button type="button" class="shots-btn shots-btn-next" data-carousel-next aria-label="Next">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </button>
+          <div class="shots-dots" data-carousel-dots role="tablist" aria-label="More use cases"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         App Screens
+    ================================================== -->
+    <section class="section shots-section" id="screenshots">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2>
+            <span data-i18n="screenshots.titleLine1">見れば、</span><br>
+            <span data-i18n="screenshots.titleLine2">すぐ使える。</span>
+          </h2>
+          <p data-i18n="screenshots.lead">大きな行、分かりやすいカテゴリ、迷いにくい編集ボタン。毎日使うことを考えた、シンプルな画面です。</p>
+        </div>
+
+        <div class="shots-carousel" data-carousel>
+          <button type="button" class="shots-btn shots-btn-prev" data-carousel-prev aria-label="Previous">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+          </button>
+          <div class="shots-track" data-carousel-track tabindex="0">
+            <figure class="shot-slide is-active" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-freetext-ja.png" data-shot-img="freetext" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.freetextAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.freetextCap">よく使う文字を一覧で管理</figcaption>
+            </figure>
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-snippets-ja.png" data-shot-img="snippets" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.snippetsAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.snippetsCap">いつもの返信をすぐコピー</figcaption>
+            </figure>
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-images-ja.png" data-shot-img="images" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.imagesAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.imagesCap">画像を保存・コピー・共有</figcaption>
+            </figure>
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-profile-ja.png" data-shot-img="profile" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.profileAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.profileCap">住所や連絡先を項目ごとにコピー</figcaption>
+            </figure>
+            <figure class="shot-slide" data-carousel-slide>
+              <div class="phone-frame">
+                <img src="images/ss-profile-edit-ja.png" data-shot-img="profile-edit" width="613" height="1297" alt="" data-i18n-attr="alt:screenshots.profileEditAlt" loading="lazy" decoding="async">
+              </div>
+              <figcaption class="shot-caption" data-i18n="screenshots.profileEditCap">必要な情報をまとめて登録</figcaption>
+            </figure>
+          </div>
+          <button type="button" class="shots-btn shots-btn-next" data-carousel-next aria-label="Next">
+            <svg aria-hidden="true" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18l6-6-6-6"/></svg>
+          </button>
+          <div class="shots-dots" data-carousel-dots role="tablist" aria-label="App screens"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Features
+    ================================================== -->
+    <section class="section" id="features">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2>
+            <span data-i18n="features.titleLine1">シンプルだけど、</span><br>
+            <span data-i18n="features.titleLine2">必要な機能はしっかり。</span>
+          </h2>
+        </div>
+        <div class="features-bento" data-i18n-features-bento="features.items"></div>
+        <p class="section-note reveal" data-i18n="features.categoriesLabel">カテゴリ：フリーワード、定型文、メール、リンク、画像、プロフィール</p>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Themes
+    ================================================== -->
+    <section class="section" id="themes">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2>
+            <span data-i18n="themesSection.titleLine1">使う場所に合わせて、</span><br>
+            <span data-i18n="themesSection.titleLine2">見た目も選べる。</span>
+          </h2>
+          <p data-i18n="themesSection.subtitle">ライト、ダークに加え、Proではプレミアム配色テーマを利用できます。</p>
+        </div>
+        <div class="themes-frame reveal">
+          <div class="theme-showcase-wrapper">
+            <div class="theme-showcase">
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#E8F6F0;--theme-surface:#FFFFFF;--theme-accent:#00838F;--theme-text:#212121;--theme-muted:#6E6E6E;--theme-border:#C8C8C8;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Light</span><span class="theme-preview-tier" data-i18n="pricing.freeTitle">Free</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#1A2420;--theme-surface:#FFFFFF;--theme-accent:#00838F;--theme-text:#E8E8E8;--theme-muted:#909090;--theme-border:#6A6A6A;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Dark</span><span class="theme-preview-tier" data-i18n="pricing.freeTitle">Free</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#F5F2EB;--theme-surface:#FAF8F4;--theme-accent:#546E7A;--theme-text:#2E2E2E;--theme-muted:#757575;--theme-border:#E5E2DB;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Paper White</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#252528;--theme-surface:#ECEFF1;--theme-accent:#90A4AE;--theme-text:#ECEFF1;--theme-muted:#9E9E9E;--theme-border:#383838;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Charcoal Minimal</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#F4ECD8;--theme-surface:#FFF8E7;--theme-accent:#8B6914;--theme-text:#3D2B1F;--theme-muted:#6B5344;--theme-border:#D4C4A8;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Sepia</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#0A1628;--theme-surface:#E8ECF4;--theme-accent:#C9A227;--theme-text:#E8ECF4;--theme-muted:#8B9BB5;--theme-border:#2A4060;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Midnight</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#FFF5F7;--theme-surface:#FFFCFD;--theme-accent:#C73A6E;--theme-text:#3A1F28;--theme-muted:#966070;--theme-border:#E8CCD6;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Rose Blush</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#141018;--theme-surface:#F5EBF0;--theme-accent:#D97A9A;--theme-text:#F5EBF0;--theme-muted:#A89098;--theme-border:#2A2030;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Sakura Night</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#F5F0FA;--theme-surface:#FCFAFF;--theme-accent:#6626B5;--theme-text:#2C2440;--theme-muted:#86799A;--theme-border:#E3D8F0;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Lavender</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#152238;--theme-surface:#E8EEF8;--theme-accent:#42A5F5;--theme-text:#E8EEF8;--theme-muted:#8BA3C7;--theme-border:#223858;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Business Navy</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#FFF6E5;--theme-surface:#FFFCF5;--theme-accent:#5F8F4E;--theme-text:#3D4A32;--theme-muted:#849078;--theme-border:#EDE6D4;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Matcha</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#102D20;--theme-surface:#F3F6F1;--theme-accent:#3FA77A;--theme-text:#F3F6F1;--theme-muted:#86A392;--theme-border:#28533B;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Forest</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#F8FAFE;--theme-surface:#FEFFFF;--theme-accent:#7BA7D8;--theme-text:#3D4555;--theme-muted:#8791A3;--theme-border:#E4E8EF;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">Pastel</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+              <article class="theme-preview-card">
+                <div class="theme-preview-ui" style="--theme-bg:#000000;--theme-surface:#121212;--theme-accent:#00E5FF;--theme-text:#FFFFFF;--theme-muted:#BDBDBD;--theme-border:#1A1A1A;" aria-hidden="true">
+                  <div class="theme-preview-topbar"><span class="theme-preview-brand-mark"></span><span class="theme-preview-brand">MyQuickPaste</span></div>
+                  <div class="theme-preview-tabs"><span class="theme-preview-tab is-active"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span><span class="theme-preview-tab"></span></div>
+                  <div class="theme-preview-list"><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div><div class="theme-preview-row"><span class="theme-preview-line"></span><span class="theme-preview-copy"></span></div></div>
+                </div>
+                <div class="theme-preview-meta"><span class="theme-preview-name">OLED Dark</span><span class="theme-preview-tier" data-i18n="pricing.proTitle">Pro</span></div>
+              </article>
+            </div>
+          </div>
+        </div>
+        <p class="section-note reveal" data-i18n="themesSection.note">ライト／ダークテーマはFreeでも利用できます。プレミアムテーマはProで利用できます。</p>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Privacy
+    ================================================== -->
+    <section class="section privacy-section" id="privacy">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2>
+            <span data-i18n="privacySection.titleLine1">大切な内容は、</span><br>
+            <span data-i18n="privacySection.titleLine2">あなたの端末の中に。</span>
+          </h2>
+          <p data-i18n="privacySection.text">MyQuickPasteに保存した文章やプロフィールは端末内で管理されます。保存内容をクラウドへ自動送信するサービスではありません。</p>
+        </div>
+        <ul class="privacy-list reveal" data-i18n-list="privacySection.points"></ul>
+        <p class="reveal"><a href="privacy.html" data-i18n="privacySection.link">プライバシーポリシーを読む</a></p>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Pricing
+    ================================================== -->
+    <section class="section" id="pricing">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2>
+            <span data-i18n="pricing.titleLine1">Freeでも、しっかり使える。</span><br>
+            <span data-i18n="pricing.titleLine2">Proなら、もっと便利に。</span>
+          </h2>
+          <p data-i18n="pricing.subtitle">Freeは期間制限なく使えます。Proにすると保存上限が増え、バックアップ、プレミアムテーマ、カテゴリのカスタマイズが利用できます。</p>
+        </div>
+
+        <article class="pricing-trial reveal">
+          <p class="price-tag" data-i18n="pricing.trialLabel">Free</p>
+          <h3 data-i18n="pricing.trialTitle">期間制限なし</h3>
+          <p data-i18n="pricing.trialText">文字カテゴリ：各10件／画像：10件／プロフィール：2件／検索／並べ替え／クイック保存</p>
+          <p class="section-note" data-i18n="pricing.trialNote">さらに必要ならProへ。文字カテゴリ各200件、画像50件、プロフィール30件まで保存でき、.mqpバックアップ、プレミアムテーマ、カテゴリ名・アイコンのカスタマイズが利用できます。</p>
+        </article>
+
+        <div class="pricing-grid">
+          <article class="price-card reveal">
+            <h3 data-i18n="pricing.freeTitle">Free</h3>
+            <p class="price-amount" data-i18n="pricing.freePrice">¥0</p>
+            <p data-i18n="pricing.freeLead">基本機能は期間制限なく無料で使えます。</p>
+            <ul data-i18n-pricing-list="pricing.freeItems"></ul>
+          </article>
+          <article class="price-card is-pro reveal">
+            <p class="price-tag" data-i18n="pricing.proTag">買い切り</p>
+            <h3 data-i18n="pricing.proTitle">Pro</h3>
+            <p class="price-amount" data-i18n="pricing.proPrice">価格はストアでご確認ください</p>
+            <p data-i18n="pricing.proLead">毎月の支払いはありません。</p>
+            <p class="pricing-note-strong" data-i18n="pricing.notSub">サブスクリプションではありません</p>
+            <ul data-i18n-pricing-list="pricing.proItems"></ul>
+          </article>
+        </div>
+        <p class="section-note reveal" data-i18n="pricing.note">アプリ本体は無料でダウンロードできます。Proはストア経由の買い切りアドオンで、価格は地域によって異なる場合があります。</p>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         FAQ
+    ================================================== -->
+    <section class="section" id="faq">
+      <div class="container">
+        <div class="section-head reveal">
+          <h2 data-i18n="faq.title">よくある質問</h2>
+        </div>
+        <div class="faq-list" data-i18n-faq-details="faq.items"></div>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Windows Edition
+    ================================================== -->
+    <section class="section windows-section" id="windows-edition">
+      <div class="container">
+        <article class="windows-card reveal">
+          <div class="windows-logos">
+            <img src="../images/logo.png" width="48" height="48" alt="" loading="lazy" decoding="async">
+          </div>
+          <h2>
+            <span data-i18n="windowsEdition.titleLine1">Windowsでも、</span><br>
+            <span data-i18n="windowsEdition.titleLine2">MyQuickPaste。</span>
+          </h2>
+          <p data-i18n="windowsEdition.text">Windows版は画面端に常駐し、登録した文字をワンクリックで直接貼り付けられる別アプリです。</p>
+          <p class="section-note" data-i18n="windowsEdition.note">Android版とは別アプリです。購入情報や保存データは共有されません。</p>
+          <p><a href="../windows/" data-i18n="windowsEdition.link">Windows版ホームページ</a></p>
+          <a class="store-badge store-badge-ms" data-badge-link="microsoft" href="https://apps.microsoft.com/detail/9N8WHWKDDSKK" target="_blank" rel="noopener noreferrer">
+            <img src="images/badges/ms-store-ja.svg" data-badge-img="microsoft" width="161" height="44" alt="" data-i18n-attr="alt:stores.microsoftBadgeAlt" loading="lazy" decoding="async">
+          </a>
+        </article>
+      </div>
+    </section>
+
+    <!-- ==================================================
+         Final CTA
+    ================================================== -->
+    <section class="final-cta" id="download">
+      <div class="container final-cta-inner reveal">
+        <h2>
+          <span data-i18n="cta.titleLine1">よく使う文字を、</span><br>
+          <span data-i18n="cta.titleLine2">タップひとつで。</span>
+        </h2>
+        <p data-i18n="cta.lead">保存して、タップして、あとは貼り付けるだけ。</p>
+        <p data-i18n="cta.sub">Freeは期間制限なく使えます。さらに必要になったら、いつでもProにアップグレードできます。</p>
+        <div class="final-cta-actions">
+          <a class="btn btn-primary" href="#pricing" data-i18n="cta.button">Free / Pro</a>
+          <a class="btn btn-secondary" href="#how-it-works" data-i18n="hero.ctaPrimary">使い方を見る</a>
+        </div>
+        <div class="store-badges">
+          <a class="store-badge" data-badge-link="google-play" href="https://play.google.com/store/apps/details?id=com.goodrabbit.clipee" target="_blank" rel="noopener noreferrer">
+            <img src="images/badges/google-play-ja.png" data-badge-img="google-play" alt="" width="155" height="60" loading="lazy" decoding="async">
+          </a>
+          <span class="store-badge is-soon" aria-disabled="true">
+            <img src="images/badges/app-store-ja.svg" data-badge-img="app-store" alt="" width="120" height="40" loading="lazy" decoding="async">
+            <span class="store-soon-tag" data-i18n="stores.inDevelopment">開発中</span>
+          </span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ==================================================
+       Footer
+  ================================================== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <img src="images/icon.png" width="40" height="40" alt="" loading="lazy" decoding="async">
+        <div>
+          <strong data-i18n="brand.name">MyQuickPaste</strong>
+          <span data-i18n="brand.edition">Android版</span>
+        </div>
+      </div>
+      <nav class="footer-links" aria-label="Footer">
+        <a href="support.html" data-i18n="nav.support">サポート</a>
+        <a href="release-notes.html" data-i18n="nav.releaseNotes">リリースノート</a>
+        <a href="privacy.html" data-i18n="nav.privacy">プライバシーポリシー</a>
+        <a href="../windows/" data-i18n="footer.pcEdition">Windows版</a>
+        <a href="mailto:myquickpaste@hotmail.com" data-i18n="footer.contact">お問い合わせ</a>
+      </nav>
+      <div class="footer-meta">
+        <p data-i18n="footer.copyright">Copyright © 2025–2026 Good Rabbit inc., Japan. All rights reserved.</p>
+        <p data-i18n="footer.developer">開発：Kazuhiro Suda</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js" defer></script>
+  <script src="js/stores.js" defer></script>
+  <script src="js/marketing-images.js" defer></script>
+  <script src="js/screenshots.js" defer></script>
+  <script src="js/site.js" defer></script>
+</body>
+</html>

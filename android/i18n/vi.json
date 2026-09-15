@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "lang": "vi",
+    "title": "MyQuickPaste | Sao chép văn bản hàng ngày bằng một chạm",
+    "description": "Lưu văn bản mẫu, địa chỉ, liên hệ, URL, emoji, hashtag và hơn thế—sao chép một chạm. Chuyển sang app quen dùng và dán. MyQuickPaste giúp gõ trên điện thoại đơn giản hơn.",
+    "ogTitle": "MyQuickPaste | Sao chép văn bản hàng ngày bằng một chạm",
+    "ogDescription": "Lưu văn bản và thông tin hay dùng, sao chép một chạm khi cần. Chuyển sang app quen dùng và dán."
+  },
+  "lang": {
+    "label": "Ngôn ngữ",
+    "ja": "日本語",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Trang chủ",
+    "support": "Hỗ trợ",
+    "releaseNotes": "Ghi chú phát hành",
+    "privacy": "Quyền riêng tư",
+    "features": "Tính năng",
+    "how": "Cách hoạt động",
+    "screens": "Màn hình",
+    "pricing": "Giá",
+    "cta": "Free / Pro"
+  },
+  "brand": {
+    "name": "MyQuickPaste",
+    "edition": "Android"
+  },
+  "hero": {
+    "badge": "MyQuickPaste cho Android",
+    "catch": "Văn bản hàng ngày, một chạm là xong.",
+    "lead": "Văn bản mẫu, địa chỉ, liên hệ, URL, emoji, hashtag. Lưu nội dung hay dùng, sao chép một chạm từ danh sách khi cần.",
+    "platformLine": "Đã có trên Google Play · App Store đang phát triển",
+    "trialTitle": "Free không giới hạn thời gian",
+    "trialText": "Lưu tối đa 10 mục cho mỗi danh mục văn bản, 10 hình ảnh và 2 hồ sơ. Tìm kiếm, sắp xếp lại và Lưu nhanh cũng được hỗ trợ.",
+    "trust": "21 ngôn ngữ",
+    "eyebrow": "MyQuickPaste cho Android",
+    "catchLine1": "Văn bản hay dùng,",
+    "catchLine2": "một chạm là xong.",
+    "sub": "Rồi chuyển sang app quen dùng và dán.",
+    "ctaPrimary": "Xem cách hoạt động",
+    "ctaSecondary": "Free / Pro",
+    "statusPlay": "Đã có trên Google Play",
+    "statusApp": "App Store đang phát triển",
+    "pill1": "Free",
+    "pill2": "Pro mua một lần",
+    "pill3": "Lưu trên thiết bị",
+    "pill4": "21 ngôn ngữ"
+  },
+  "stores": {
+    "googlePlay": "Tải trên Google Play",
+    "appStore": "App Store",
+    "comingSoon": "Sắp ra mắt",
+    "inDevelopment": "Đang phát triển",
+    "googlePlayBadgeAlt": "Tải trên Google Play",
+    "appStoreBadgeAlt": "Tải trên App Store",
+    "microsoftBadgeAlt": "Tải từ Microsoft (MyQuickPaste cho Windows)"
+  },
+  "compare": {
+    "title": "Bộ ứng dụng MyQuickPaste",
+    "subtitle": "Cùng một ý tưởng — dán ngay lập tức những gì bạn hay dùng — nhưng được thiết kế riêng cho máy tính và điện thoại.",
+    "pcTitle": "MyQuickPaste (Phiên bản Windows)",
+    "pcText": "Ứng dụng Windows luôn sẵn sàng ở cạnh màn hình và dán văn bản trực tiếp chỉ bằng một cú nhấp.",
+    "pcLink": "Trang web phiên bản Windows",
+    "mobileTitle": "MyQuickPaste (Phiên bản Smartphone)",
+    "mobileText": "Lưu văn bản hay dùng trên smartphone — rồi gọi lại để sao chép bất cứ lúc nào.",
+    "note": "Phiên bản máy tính và điện thoại là hai ứng dụng riêng biệt. Giao dịch mua và dữ liệu đã lưu không được chia sẻ giữa hai phiên bản."
+  },
+  "problem": {
+    "title": "Bạn có từng gặp tình huống này trên điện thoại không?",
+    "items": [
+      "Phải lục lại tin nhắn hoặc ghi chú cũ mỗi khi cần cùng một địa chỉ hay số điện thoại",
+      "Phải gõ lại chữ ký hoặc câu trả lời cố định nhiều lần trên bàn phím màn hình nhỏ",
+      "Phải chuyển qua lại giữa các ứng dụng chỉ để sao chép lại một dòng văn bản"
+    ],
+    "solution": "Chỉ cần lưu một lần trong MyQuickPaste, sau đó mở ứng dụng và chạm là xong. Dán vào email, tin nhắn, bản đồ — bất cứ nơi nào bạn cần."
+  },
+  "clipboardCompare": {
+    "title": "Khác gì so với bộ nhớ tạm của Gboard?",
+    "subtitle": "Với văn bản bạn vừa sao chép, Gboard vẫn nhanh hơn. Nhưng với văn bản bạn cần hằng ngày hoặc hằng tuần, ứng dụng này phù hợp hơn nhiều.",
+    "clipboardTitle": "Bộ nhớ tạm Gboard",
+    "clipboardTag": "Lịch sử sao chép gần đây",
+    "clipboardItems": [
+      "Chọn từ bàn phím và dán ngay — cách nhanh nhất",
+      "Tự động lưu những gì bạn vừa sao chép",
+      "Các mục chưa ghim sẽ biến mất sau khoảng 5 mục hoặc 1 giờ",
+      "Lịch sử lẫn lộn khiến việc lưu trữ văn bản yêu thích gọn gàng trở nên khó khăn"
+    ],
+    "appTitle": "MyQuickPaste",
+    "appTag": "Nơi lưu trữ cố định cho văn bản quan trọng của bạn",
+    "appItems": [
+      "Lưu địa chỉ, chữ ký và câu trả lời với tên dễ nhận biết",
+      "Sáu danh mục: Văn bản tự do, Mẫu câu, Liên hệ, Liên kết, Hình ảnh, Hồ sơ",
+      "Các mục luôn được giữ lại cho đến khi bạn tự xóa, không tự biến mất như lịch sử",
+      "Được thiết kế để tìm và sao chép nhanh những văn bản bạn dùng thường xuyên nhất"
+    ],
+    "footer": "Nội dung vừa sao chép vài giờ trước? Gboard rất tiện cho trường hợp đó. Còn địa chỉ, chữ ký và câu trả lời mẫu bạn dùng hằng tuần? Hãy lưu chúng trong MyQuickPaste để không phải tìm lại."
+  },
+  "steps": {
+    "title": "Cách hoạt động",
+    "subtitle": "Không cần thiết lập phức tạp. Chỉ ba bước.",
+    "items": [
+      {
+        "title": "Lưu nội dung hay dùng",
+        "text": "Lưu văn bản, thông tin liên hệ và những nội dung bạn thường xuyên sử dụng."
+      },
+      {
+        "title": "Chạm dòng bạn cần",
+        "text": "Một chạm sao chép nội dung vào clipboard."
+      },
+      {
+        "title": "Dán vào app khác",
+        "text": "Chuyển sang mail, mạng xã hội, chat, bản đồ và dán."
+      }
+    ],
+    "titleLine1": "Lưu, chạm,",
+    "titleLine2": "rồi dán."
+  },
+  "benefits": {
+    "title": "Điều người dùng thích nhất",
+    "items": [
+      {
+        "title": "Dễ thao tác bằng một tay",
+        "text": "Các hàng lớn, tab danh mục và bố cục theo chiều dọc — tất cả được thiết kế để chọn nhanh ngay cả khi đang di chuyển.",
+        "icon": "📱"
+      },
+      {
+        "title": "Dễ dàng tìm kiếm",
+        "text": "Thay vì gộp mọi thứ vào một ghi chú dài vô tận, hãy lưu câu mẫu, danh bạ và thẻ hồ sơ vào các danh sách riêng biệt.",
+        "icon": "🗂️"
+      },
+      {
+        "title": "Chỉ lưu trên thiết bị của bạn",
+        "text": "Câu mẫu và danh bạ quan trọng của bạn chỉ được lưu trên điện thoại. Chúng tôi không cung cấp dịch vụ đồng bộ đám mây.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "Tính năng",
+    "subtitle": "Công cụ giúp gõ phím hàng ngày nhẹ hơn.",
+    "items": [
+      {
+        "title": "Sao chép một chạm",
+        "text": "Chạm dòng để sao chép nội dung vào clipboard.",
+        "icon": "tap",
+        "large": true
+      },
+      {
+        "title": "Sắp xếp theo mục đích",
+        "text": "Sắp xếp dữ liệu theo văn bản tự do, mẫu câu, liên hệ, liên kết, hình ảnh và hồ sơ.",
+        "icon": "folder",
+        "large": true
+      },
+      {
+        "title": "Sắp xếp mục yêu thích",
+        "text": "Đưa mục hay dùng lên trên để tìm dễ hơn.",
+        "icon": "sort"
+      },
+      {
+        "title": "Sao chép từng trường",
+        "text": "Chỉ sao chép địa chỉ, tên hoặc số cần dùng.",
+        "icon": "card"
+      },
+      {
+        "title": "Hình ảnh sẵn sàng",
+        "text": "Lưu logo hoặc ảnh, rồi sao chép, chia sẻ hoặc xem trước.",
+        "icon": "image"
+      },
+      {
+        "title": "Xuất và nhập",
+        "text": "Với Pro, bạn có thể xuất dữ liệu thành bản sao lưu .mqp và nhập lại khi cần.",
+        "icon": "backup"
+      },
+      {
+        "title": "Chọn giao diện",
+        "text": "Theme sáng và tối, cùng các theme màu cao cấp với Pro.",
+        "icon": "theme"
+      },
+      {
+        "title": "Ở trên thiết bị",
+        "text": "Văn bản và hồ sơ được quản lý trên điện thoại.",
+        "icon": "lock"
+      }
+    ],
+    "categoriesLabel": "Danh mục: Văn bản tự do, Mẫu câu, Liên hệ, Liên kết, Hình ảnh, Hồ sơ",
+    "categories": [
+      "Văn bản tự do",
+      "Văn bản mẫu",
+      "Liên hệ",
+      "Liên kết",
+      "Hình ảnh",
+      "Hồ sơ"
+    ],
+    "titleLine1": "Đơn giản,",
+    "titleLine2": "đủ phần cần thiết."
+  },
+  "themesSection": {
+    "title": "Theme",
+    "subtitle": "Sáng và tối, cùng chủ đề màu cao cấp với Pro.",
+    "imageAlt": "Thư viện theme MyQuickPaste",
+    "caption": "Theme sáng / tối / premium",
+    "note": "Giao diện sáng và tối có sẵn trong Free. Giao diện cao cấp có sẵn trong Pro.",
+    "titleLine1": "Khớp giao diện",
+    "titleLine2": "với nơi bạn dùng."
+  },
+  "usecases": {
+    "title": "Lý tưởng cho",
+    "items": [
+      {
+        "title": "Đội ngũ bán hàng & nhân viên hiện trường",
+        "text": "Sao chép ngay địa chỉ, số điện thoại và câu trả lời cố định khi gặp khách hàng."
+      },
+      {
+        "title": "Nhân viên văn phòng & hỗ trợ khách hàng",
+        "text": "Chuẩn bị sẵn câu trả lời cố định và thông tin liên hệ trên điện thoại để phản hồi nhanh ngay cả khi ở ngoài văn phòng."
+      },
+      {
+        "title": "Sử dụng cá nhân",
+        "text": "Lưu địa chỉ nhà, chữ ký email và những câu bạn hay dùng — những điều thiết yếu hằng ngày."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Giá",
+    "subtitle": "Sử dụng Free không giới hạn thời gian. Nâng cấp lên Pro để có giới hạn lưu cao hơn, sao lưu, giao diện cao cấp và tùy chỉnh danh mục.",
+    "freeTitle": "Free",
+    "freePrice": "0",
+    "freeItems": [
+      "Danh mục văn bản: 10 mỗi loại",
+      "Hình ảnh: 10",
+      "Hồ sơ: 2",
+      "Tìm kiếm",
+      "Sắp xếp",
+      "Lưu nhanh"
+    ],
+    "proTitle": "Pro (mua một lần)",
+    "proPrice": "Xem giá trên cửa hàng",
+    "proItems": [
+      "Danh mục văn bản: tối đa 200 mỗi loại",
+      "Hình ảnh: 50",
+      "Hồ sơ: 30",
+      "Xuất/nhập sao lưu",
+      "Chủ đề cao cấp",
+      "Tên và biểu tượng danh mục tùy chỉnh"
+    ],
+    "note": "Bản thân ứng dụng có thể tải miễn phí. Pro là gói mua thêm một lần qua cửa hàng ứng dụng; giá có thể khác nhau tùy khu vực.",
+    "titleLine1": "Free đáp ứng các nhu cầu cơ bản.",
+    "titleLine2": "Pro mang đến nhiều hơn.",
+    "trialLabel": "Free",
+    "trialTitle": "Không giới hạn thời gian",
+    "trialText": "Danh mục văn bản: 10 mục mỗi danh mục · Hình ảnh: 10 · Hồ sơ: 2 · Tìm kiếm · Sắp xếp lại · Lưu nhanh",
+    "trialNote": "Cần nhiều hơn? Pro tăng giới hạn lên 200 mục cho mỗi danh mục văn bản, 50 hình ảnh và 30 hồ sơ, đồng thời bổ sung bản sao lưu .mqp, giao diện cao cấp và tùy chỉnh tên cũng như biểu tượng danh mục.",
+    "freeLead": "Các tính năng cơ bản của Free có thể sử dụng không giới hạn thời gian.",
+    "proTag": "Mua một lần",
+    "proLead": "Không phí hàng tháng.",
+    "notSub": "Không phải đăng ký"
+  },
+  "privacySection": {
+    "title": "Quyền riêng tư trên thiết bị",
+    "text": "Văn bản và hồ sơ bạn lưu trong MyQuickPaste được quản lý trên thiết bị. Chúng tôi không tự động gửi nội dung của bạn lên đám mây.",
+    "link": "Đọc chính sách quyền riêng tư",
+    "titleLine1": "Điều quan trọng ở",
+    "titleLine2": "trên thiết bị của bạn.",
+    "points": [
+      "Không đồng bộ cloud tự động",
+      "Không tự động gửi nội dung đã lưu đến máy chủ bên ngoài",
+      "Dữ liệu quản lý trên thiết bị",
+      "Với Pro, bạn có thể xuất bản sao lưu .mqp của riêng mình."
+    ]
+  },
+  "cta": {
+    "title": "Văn bản hay dùng, một chạm là xong.",
+    "lead": "Lưu, chạm, rồi dán.",
+    "button": "Free / Pro",
+    "titleLine1": "Văn bản hay dùng,",
+    "titleLine2": "một chạm là xong.",
+    "sub": "Free không có giới hạn thời gian. Hãy nâng cấp lên Pro bất cứ lúc nào khi bạn cần nhiều hơn."
+  },
+  "footer": {
+    "pcEdition": "Bản Windows",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Đã đăng ký bản quyền.",
+    "developer": "Nhà phát triển: Kazuhiro Suda",
+    "contact": "Liên hệ"
+  },
+  "supportPage": {
+    "title": "Hỗ trợ",
+    "lead": "Trợ giúp cho MyQuickPaste (Phiên bản Smartphone).",
+    "faqTitle": "Câu hỏi thường gặp",
+    "items": [
+      {
+        "q": "Đây có phải cùng một ứng dụng với MyQuickPaste cho Windows không?",
+        "a": "Không. MyQuickPaste là phiên bản riêng dành cho điện thoại. Nó có cùng ý tưởng nhưng là một ứng dụng độc lập với dữ liệu và giao dịch mua trên cửa hàng riêng."
+      },
+      {
+        "q": "Free và Pro khác nhau như thế nào?",
+        "a": "Với Free, bạn có thể lưu tối đa 10 mục cho mỗi danh mục văn bản, 10 hình ảnh và 2 hồ sơ. Sao chép, lưu, tìm kiếm, sắp xếp lại và Lưu nhanh đều có thể sử dụng không giới hạn thời gian. Pro tăng giới hạn lên 200 mục cho mỗi danh mục văn bản, 50 hình ảnh và 30 hồ sơ, đồng thời bổ sung xuất/nhập bản sao lưu .mqp, giao diện cao cấp và tùy chỉnh tên cũng như biểu tượng danh mục."
+      },
+      {
+        "q": "Free có giới hạn thời gian không?",
+        "a": "Không. Free có thể sử dụng không giới hạn thời gian. Pro là giao dịch mua một lần tùy chọn, cung cấp giới hạn lưu cao hơn, sao lưu, giao diện cao cấp và tùy chỉnh danh mục."
+      },
+      {
+        "q": "Dữ liệu của tôi được lưu ở đâu?",
+        "a": "Văn bản đã lưu, thẻ hồ sơ và cài đặt chỉ được lưu trữ trên thiết bị của bạn."
+      },
+      {
+        "q": "Làm thế nào để sao lưu hoặc chuyển dữ liệu của tôi?",
+        "a": "Với Pro, bạn có thể xuất bản sao lưu .mqp từ Cài đặt và nhập vào một thiết bị khác đang sử dụng MyQuickPaste."
+      },
+      {
+        "q": "Khi nào phiên bản iPhone sẽ có sẵn?",
+        "a": "Phiên bản iOS đang được phát triển. Trang này sẽ được cập nhật khi có sẵn trên App Store."
+      },
+      {
+        "q": "Làm thế nào để mua Pro?",
+        "a": "Mở màn hình nâng cấp lên Pro trong ứng dụng. Trên Android, giao dịch mua được xử lý qua Google Play. Pro là giao dịch mua một lần, không phải gói đăng ký."
+      }
+    ],
+    "contactTitle": "Liên hệ với chúng tôi",
+    "contactText": "Để báo cáo sự cố hoặc đề xuất tính năng mới, vui lòng gửi email cho chúng tôi:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "Chính sách quyền riêng tư",
+    "lead": "MyQuickPaste (phiên bản smartphone)",
+    "updated": "Cập nhật lần cuối: 14 tháng 8 năm 2026",
+    "sections": [
+      {
+        "h": "Tổng quan",
+        "p": "MyQuickPaste là ứng dụng dành cho smartphone do Good Rabbit inc. (“chúng tôi”) cung cấp. Chính sách này giải thích cách MyQuickPaste xử lý thông tin trên thiết bị của bạn."
+      },
+      {
+        "h": "Dữ liệu do chúng tôi thu thập",
+        "p": "MyQuickPaste không có quy trình thu thập, truyền hoặc lưu trữ trên máy chủ do chúng tôi vận hành các nội dung bạn sử dụng trong ứng dụng như văn bản tự do, đoạn văn mẫu, địa chỉ email, số điện thoại, hồ sơ, hình ảnh hoặc nội dung bảng tạm. Những nội dung này được xử lý trên thiết bị của bạn để cung cấp các tính năng của ứng dụng. Tuy nhiên, khi bạn chủ động sử dụng tính năng chia sẻ, khi tính năng sao lưu Android hoạt động hoặc khi bạn sử dụng dịch vụ cửa hàng như Google Play, dữ liệu sẽ được xử lý theo cơ chế và chính sách của hệ điều hành hoặc dịch vụ tương ứng."
+      },
+      {
+        "h": "Lưu trữ trên thiết bị và sao lưu Android",
+        "p": "Nội dung bạn nhập, danh mục, hồ sơ, cài đặt ứng dụng và hình ảnh đã lưu được lưu trữ trong vùng riêng tư của ứng dụng trên thiết bị. Hình ảnh đã lưu được sao chép vào vùng riêng tư này. Trên Android, nếu tính năng sao lưu của hệ điều hành được bật, một số dữ liệu ứng dụng có thể được sao lưu vào vùng lưu trữ sao lưu liên kết với Tài khoản Google của bạn và được khôi phục từ đó. Theo quy tắc sao lưu hiện tại của ứng dụng, các tệp hình ảnh đã lưu không được đưa vào bản sao lưu đám mây. Khi chuyển dữ liệu giữa các thiết bị, dữ liệu có thể được chuyển thông qua các tính năng của hệ điều hành."
+      },
+      {
+        "h": "Bảo mật",
+        "p": "Dữ liệu đã lưu được lưu trữ trong vùng riêng tư của ứng dụng được hệ điều hành bảo vệ. Chúng tôi không vận hành máy chủ riêng để lưu trữ nội dung bạn đã lưu. Mức độ an toàn của thiết bị, bản sao lưu của hệ điều hành và các tệp sao lưu bạn xuất phụ thuộc vào mức độ bảo mật và cách quản lý của thiết bị, dịch vụ và vị trí lưu trữ do người dùng kiểm soát."
+      },
+      {
+        "h": "Truy cập bảng tạm",
+        "p": "Để hiển thị bản xem trước trên màn hình chính và cung cấp các tính năng liên quan, MyQuickPaste có thể đọc văn bản hoặc hình ảnh hiện có trong bảng nhớ tạm của thiết bị. Nội dung bảng nhớ tạm được xử lý trên thiết bị và không tự động được lưu vĩnh viễn trừ khi bạn chủ động lưu nội dung đó. Ứng dụng có thể tạo tệp bộ nhớ đệm tạm thời để xem trước hình ảnh trong bảng nhớ tạm. MyQuickPaste không có quy trình gửi nội dung bảng nhớ tạm đến máy chủ do chúng tôi vận hành."
+      },
+      {
+        "h": "Lưu giữ, xóa và sao lưu dữ liệu",
+        "p": "Dữ liệu đã lưu vẫn nằm trong vùng lưu trữ của ứng dụng trên thiết bị cho đến khi bạn xóa dữ liệu trong ứng dụng hoặc gỡ cài đặt ứng dụng. Việc gỡ cài đặt sẽ xóa dữ liệu cục bộ của ứng dụng khỏi thiết bị, nhưng các bản sao có thể vẫn tồn tại riêng trong bản sao lưu của hệ điều hành Android hoặc trong các tệp sao lưu mà bạn đã xuất và giữ lại. Với Pro, bạn có thể xuất và nhập dữ liệu dưới dạng tệp sao lưu MyQuickPaste (.mqp). Bạn chọn nơi lưu tệp đã xuất và chịu trách nhiệm quản lý cũng như xóa các tệp sao lưu đã xuất."
+      },
+      {
+        "h": "Cửa hàng ứng dụng, mua hàng và dịch vụ bên ngoài",
+        "p": "Việc phân phối phiên bản Android và mua Pro được xử lý qua Google Play, và Google Play Billing được dùng để xác minh giao dịch mua. Pro là giao dịch mua trong ứng dụng một lần, không phải gói đăng ký. Chúng tôi không trực tiếp nhận số thẻ tín dụng hoặc thông tin thẻ thanh toán khác. Ứng dụng không sử dụng SDK của bên thứ ba cho mục đích phân tích hoặc quảng cáo. Khi bạn sử dụng tính năng mua hàng hoặc đánh giá của Google Play, hoặc các tính năng bên ngoài do bạn chọn như chia sẻ, email hoặc trình duyệt web, chính sách quyền riêng tư và điều khoản của các dịch vụ tương ứng sẽ được áp dụng. Phiên bản iOS hiện đang được phát triển và chính sách này sẽ được cập nhật khi cần thiết sau khi phương thức phân phối và triển khai mua hàng được hoàn thiện."
+      },
+      {
+        "h": "Liên hệ",
+        "p": "Nếu bạn có câu hỏi về chính sách này, vui lòng liên hệ với chúng tôi tại myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "Ghi chú phát hành",
+    "lead": "Lịch sử phiên bản của MyQuickPaste.",
+    "latestPrefix": "Phiên bản mới nhất:",
+    "storeNote": "Các bản cập nhật được phân phối qua Google Play (và sẽ được phân phối qua App Store sau khi có sẵn).",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "Tháng 7 năm 2026",
+        "title": "Danh mục Hình ảnh",
+        "items": [
+          "Đã thêm danh mục Hình ảnh (lưu danh thiếp, logo và nhiều nội dung khác)",
+          "Chạm để sao chép, chia sẻ và xem trước hình ảnh",
+          "Hỗ trợ JPEG, PNG, WebP và GIF"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "Phát hành đầu tiên (Android)",
+        "items": [
+          "Danh sách theo danh mục: Văn bản tự do, Mẫu câu, Liên hệ, Liên kết, Hình ảnh, Hồ sơ",
+          "Sao chép một chạm, xem trước bằng nhấn giữ",
+          "Thẻ hồ sơ với khả năng sao chép từng trường",
+          "Chế độ sắp xếp lại cho danh sách và hồ sơ",
+          "Free và Pro với giới hạn lưu khác nhau",
+          "Xuất/nhập bản sao lưu .mqp (Pro)",
+          "Chủ đề sáng và tối; chủ đề cao cấp với Pro",
+          "Cài đặt xác nhận sao chép, danh mục khởi động và sao lưu"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "Màn hình ứng dụng",
+    "subtitle": "Màn hình thực của MyQuickPaste.",
+    "freetextAlt": "Màn hình danh sách văn bản tự do",
+    "snippetsAlt": "Màn hình danh sách mẫu",
+    "profileAlt": "Màn hình thẻ hồ sơ",
+    "profileEditAlt": "Màn hình chỉnh sửa hồ sơ",
+    "cateAlt": "Sáu thẻ danh mục: Văn bản tự do, Mẫu câu, Liên hệ, Liên kết, Hình ảnh, Hồ sơ",
+    "items": [
+      {
+        "caption": "Văn bản tự do — chữ ký, URL và thông tin tài khoản trong nháy mắt"
+      },
+      {
+        "caption": "Đoạn mẫu — câu trả lời sẵn cho email và chat"
+      },
+      {
+        "caption": "Hình ảnh — logo, ảnh và ảnh chụp sẵn sàng sao chép"
+      },
+      {
+        "caption": "Hồ sơ — sao chép địa chỉ, điện thoại hoặc tất cả bằng một chạm"
+      },
+      {
+        "caption": "Sửa hồ sơ — thẻ Nhà, Công việc và khách hàng riêng biệt"
+      },
+      {
+        "caption": "Tab danh mục — chuyển nhanh giữa sáu danh sách"
+      }
+    ],
+    "imagesAlt": "Màn hình danh mục Hình ảnh",
+    "titleLine1": "Đủ rõ ràng",
+    "titleLine2": "để dùng ngay.",
+    "lead": "Dòng lớn, danh mục rõ, chỉnh sửa đơn giản — cho dùng hàng ngày.",
+    "freetextCap": "Quản lý văn bản tái sử dụng trong một danh sách",
+    "snippetsCap": "Sao chép nhanh câu trả lời quen",
+    "imagesCap": "Lưu, sao chép và chia sẻ hình ảnh",
+    "profileCap": "Sao chép địa chỉ hoặc liên hệ từng trường",
+    "profileEditCap": "Lưu các thông tin bạn cần cùng một chỗ"
+  },
+  "trust": {
+    "t1Title": "Chạm để sao chép",
+    "t1Text": "Chỉ cần chạm vào dòng đã lưu.",
+    "t2Title": "Pro trả một lần",
+    "t2Text": "Không trả phí hàng tháng.",
+    "t3Title": "Lưu trên thiết bị",
+    "t3Text": "Nội dung đã lưu được quản lý trên thiết bị.",
+    "t4Title": "Giao diện 21 ngôn ngữ",
+    "t4Text": "Màn hình app bằng 21 ngôn ngữ."
+  },
+  "pain": {
+    "titleLine1": "Đừng cứ hỏi",
+    "titleLine2": "「Ở đâu nhỉ?」 mỗi lần.",
+    "lead": "Cùng thông tin—nhưng mỗi lần lại tìm ghi chú, chọn lại bằng nhấn giữ hoặc gõ lại cùng văn bản. Những bước nhỏ cộng dồn mỗi ngày.",
+    "p1Title": "Tìm",
+    "p1Text": "Địa chỉ hay văn bản mẫu—không biết ở ghi chú nào.",
+    "p2Title": "Chọn",
+    "p2Text": "Nhấn giữ để chọn đúng phần cần dùng.",
+    "p3Title": "Gõ lại",
+    "p3Text": "Gõ lại cùng câu trả lời hoặc hồ sơ nhiều lần.",
+    "resolveLine1": "Với MyQuickPaste,",
+    "resolveLine2": "một chạm từ danh sách.",
+    "resolveSub": "Không tìm. Không gõ lại. Chỉ chạm dòng bạn cần.",
+    "flowOldLabel": "Quy trình thông thường",
+    "flowOld1": "Tìm",
+    "flowOld2": "Chọn",
+    "flowOld3": "Sao chép",
+    "flowNewLabel": "MyQuickPaste",
+    "flowNew1": "Chạm",
+    "flowNew2": "Sao chép"
+  },
+  "sceneSocial": {
+    "eyebrow": "Cả mạng xã hội",
+    "titleLine1": "Emoji và hashtag—",
+    "titleLine2": "sao chép khi cần.",
+    "lead": "Lưu emoji, hashtag và văn bản đăng yêu thích. Chạm để sao chép, rồi dán vào app mạng xã hội quen dùng.",
+    "points": [
+      {
+        "title": "Emoji",
+        "text": "Lưu mục yêu thích",
+        "icon": "heart"
+      },
+      {
+        "title": "Bài đăng",
+        "text": "Lưu văn bản hay dùng",
+        "icon": "camera"
+      },
+      {
+        "title": "Hashtag",
+        "text": "Sao chép cả bộ",
+        "icon": "tag"
+      },
+      {
+        "title": "Sao chép nhanh",
+        "text": "Một chạm khi cần",
+        "icon": "clock"
+      }
+    ]
+  },
+  "sceneWork": {
+    "eyebrow": "Cả công việc",
+    "titleLine1": "Văn bản mẫu và liên hệ—",
+    "titleLine2": "sao chép khi cần.",
+    "lead": "Văn bản mẫu, email, số điện thoại, URL và thông tin hay dùng khác ở một nơi. Chạm dòng để sao chép ngay.",
+    "points": [
+      {
+        "title": "Văn bản mẫu",
+        "text": "Câu trả lời thường dùng",
+        "icon": "doc"
+      },
+      {
+        "title": "Email",
+        "text": "Lưu chữ ký và thông báo",
+        "icon": "mail"
+      },
+      {
+        "title": "Liên hệ",
+        "text": "Sao chép số nhanh",
+        "icon": "phone"
+      },
+      {
+        "title": "Sao chép nhanh",
+        "text": "Xong bằng một chạm",
+        "icon": "zap"
+      }
+    ]
+  },
+  "sceneDaily": {
+    "eyebrow": "Trong đời sống hàng ngày",
+    "titleLine1": "Địa chỉ và hồ sơ—",
+    "titleLine2": "sao chép khi cần.",
+    "lead": "Địa chỉ nhà, email, tiểu sử hồ sơ, câu yêu thích. Chạm và sao chép ngay khi cần.",
+    "points": [
+      {
+        "title": "Địa chỉ",
+        "text": "Ít gõ lại hơn",
+        "icon": "home"
+      },
+      {
+        "title": "Hồ sơ",
+        "text": "Lưu phần giới thiệu",
+        "icon": "user"
+      },
+      {
+        "title": "Cụm từ quen",
+        "text": "Dùng lại bất cứ lúc nào",
+        "icon": "note"
+      },
+      {
+        "title": "Tìm nhanh",
+        "text": "Giữ gọn gàng",
+        "icon": "search"
+      }
+    ]
+  },
+  "comparison": {
+    "titleLine1": "Không chỉ bản sao tạm —",
+    "titleLine2": "nơi cho nội dung hay dùng.",
+    "otherLabel": "Ghi chú hoặc lịch sử clipboard",
+    "other1": "Mở",
+    "other2": "Tìm",
+    "other3": "Chọn phần cần",
+    "other4": "Sao chép",
+    "otherText": "Tốt cho lịch sử gần đây. Với thông tin hay dùng, việc tìm trở thành trở ngại.",
+    "appLabel": "MyQuickPaste",
+    "app1": "Mở",
+    "app2": "Chạm dòng",
+    "app3": "Đã sao chép",
+    "appText": "Sắp xếp và lưu rõ ràng văn bản và thông tin hay dùng."
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "Chạm có tự dán sang app khác không?",
+        "a": "Chạm dòng sẽ sao chép vào clipboard. Sau đó chuyển sang mail, mạng xã hội hoặc chat và dán."
+      },
+      {
+        "q": "Dữ liệu của tôi lưu ở đâu?",
+        "a": "Văn bản, hồ sơ và cài đặt lưu trên smartphone."
+      },
+      {
+        "q": "Tôi có thể tiếp tục sử dụng Free không giới hạn thời gian không?",
+        "a": "Có. Free không có giới hạn thời gian. Bạn có thể nâng cấp lên Pro bất cứ lúc nào nếu cần giới hạn lưu cao hơn, sao lưu, giao diện cao cấp hoặc tùy chỉnh danh mục."
+      },
+      {
+        "q": "Pro có phải đăng ký tháng không?",
+        "a": "Không. Pro mua một lần, không có phí hàng tháng."
+      },
+      {
+        "q": "Có thể chia sẻ dữ liệu với bản Windows không?",
+        "a": "Bản smartphone và Windows là app riêng. Mua hàng và dữ liệu không chia sẻ."
+      },
+      {
+        "q": "Có thể chuyển dữ liệu khi đổi điện thoại không?",
+        "a": "Xuất và nhập bản sao lưu có sẵn trong Pro. Bạn có thể xuất bản sao lưu .mqp từ Cài đặt và nhập vào một thiết bị khác đang sử dụng MyQuickPaste."
+      }
+    ]
+  },
+  "windowsEdition": {
+    "titleLine1": "MyQuickPaste",
+    "titleLine2": "cũng có trên Windows.",
+    "text": "Phiên bản Windows nằm ở cạnh màn hình và cho phép dán văn bản đã lưu chỉ bằng một cú nhấp chuột—đây là một ứng dụng riêng biệt.",
+    "note": "Không cùng app với bản smartphone. Mua hàng và dữ liệu lưu không chia sẻ.",
+    "link": "Trang chủ bản Windows"
+  },
+  "sceneMore": {
+    "titleLine1": "Hữu ích trong những lúc này.",
+    "titleLine2": "",
+    "lead": "Du lịch, chợ đồ cũ, chat, tổ chức sự kiện—sao chép văn bản quen một chạm ở mọi tình huống.",
+    "cap3": "Văn bản đăng bán, sao chép ngay",
+    "cap4": "Trả lời chat, sao chép ngay",
+    "cap6": "Tin nhắn ban tổ chức, sao chép ngay"
+  }
+}

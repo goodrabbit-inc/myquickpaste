@@ -11,7 +11,9 @@
     "home": "หน้าแรก",
     "support": "สนับสนุน",
     "releaseNotes": "บันทึกการเผยแพร่",
-    "privacy": "ความเป็นส่วนตัว"
+    "privacy": "ความเป็นส่วนตัว",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows และ Android",
+    "metaDescription": "เว็บไซต์ทางการของ MyQuickPaste บน Windows คลิกบรรทัดที่บันทึกไว้เพื่อพิมพ์ลงแอปอื่น บน Android บันทึกข้อความและ URL แล้วคัดลอกเมื่อต้องการ",
+    "lead": "ใช้ข้อความที่บันทึกไว้อย่างรวดบน Windows และ Android",
+    "windowsBadge": "Windows",
+    "windowsTitle": "คลิกข้อความที่บันทึกไว้ เพื่อพิมพ์ลงอีกแอป Windows",
+    "windowsNote": "การคลิกจะพิมพ์ข้อความลงแอป Windows ที่โฟกัสอยู่ ไม่ใช่การวางจากคลิปบอร์ดเอง",
+    "androidBadge": "Android",
+    "androidTitle": "บันทึกข้อความและ URL ที่ใช้บ่อย แล้วคัดลอกเมื่อต้องการ",
+    "androidNote": "คัดลอกในแอป แล้วไปวางในอีกแอปเอง ไม่ใช่การพิมพ์ตรงแบบ Windows",
+    "more": "ดูรายละเอียด",
+    "windowsAlt": "MyQuickPaste สำหรับ Windows คลิกแล้วพิมพ์ข้อความลงอีกแอป Windows",
+    "androidAlt": "MyQuickPaste สำหรับ Android บันทึกข้อความและ URL แล้วคัดลอกเมื่อต้องการ"
   }
 }

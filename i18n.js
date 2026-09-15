@@ -107,7 +107,7 @@
   }
 
   function applyNavLinks(lang) {
-    document.querySelectorAll(".nav a[href], .brand[href]").forEach(function (a) {
+    document.querySelectorAll(".nav a[href], .brand[href], .edition-card a[href]").forEach(function (a) {
       var href = a.getAttribute("href");
       if (!href || /^https?:\/\//i.test(href) || href.charAt(0) === "#") return;
       try {
@@ -382,7 +382,37 @@
     if (page === "support") return "supportPage";
     if (page === "release-notes") return "releaseNotesPage";
     if (page === "privacy") return "privacyPage";
+    if (page === "hub") return "hub";
     return null;
+  }
+
+  var WINDOWS_AD_LANGS = {
+    ja: true, en: true, fr: true, de: true, es: true, it: true, pt: true,
+    nl: true, pl: true, sv: true, ru: true, uk: true, tr: true, th: true,
+    vi: true, id: true, ko: true, hi: true, ar: true, "zh-cn": true, "zh-tw": true
+  };
+
+  var ANDROID_FEATURE_LOCALE = {
+    "zh-cn": "zh",
+    "zh-tw": "zh_TW"
+  };
+
+  function applyEditionImages(lang, t) {
+    var winLang = WINDOWS_AD_LANGS[lang] ? lang : "en";
+    var winFile = winLang + "-Windows_frequent-text_one-click_1024x500.png";
+    var andLoc = ANDROID_FEATURE_LOCALE[lang] || lang;
+    var andFile = "feature-" + andLoc + ".png";
+
+    document.querySelectorAll("[data-windows-ad]").forEach(function (img) {
+      var mode = img.getAttribute("data-windows-ad");
+      var base = mode === "windows" ? "../images/windows-ads/" : "images/windows-ads/";
+      img.src = base + winFile;
+      if (mode === "hub" && t && t.hub && t.hub.windowsAlt) img.alt = t.hub.windowsAlt;
+    });
+    document.querySelectorAll("[data-android-ad]").forEach(function (img) {
+      img.src = "android/images/marketing/" + andFile;
+      if (t && t.hub && t.hub.androidAlt) img.alt = t.hub.androidAlt;
+    });
   }
 
   function updatePageSeo(langCode, t, historyMode) {
@@ -390,13 +420,21 @@
       document.documentElement.lang = (t.meta && t.meta.lang) || langCode;
       var pageKey = getPageSectionKey();
       var pageSection = pageKey ? t[pageKey] : null;
-      if (pageSection && pageSection.metaTitle) {
+      if (pageKey === "hub" && t.hub && t.hub.metaTitle) {
+        document.title = t.hub.metaTitle;
+      } else if (pageSection && pageSection.metaTitle) {
         document.title = pageSection.metaTitle;
       } else if (t.meta && t.meta.title) {
         document.title = t.meta.title;
       }
       var desc = document.querySelector('meta[name="description"]');
-      if (desc && t.meta && t.meta.description && !pageKey) {
+      if (pageKey === "hub" && desc && t.hub && t.hub.metaDescription) {
+        desc.setAttribute("content", t.hub.metaDescription);
+        var ogTitle = document.querySelector('meta[property="og:title"]');
+        var ogDesc = document.querySelector('meta[property="og:description"]');
+        if (ogTitle && t.hub.metaTitle) ogTitle.setAttribute("content", t.hub.metaTitle);
+        if (ogDesc && t.hub.metaDescription) ogDesc.setAttribute("content", t.hub.metaDescription);
+      } else if (desc && t.meta && t.meta.description && !pageKey) {
         desc.setAttribute("content", t.meta.description);
       }
     }
@@ -436,6 +474,7 @@
     applySubpages(t);
     var heroImg = document.getElementById("hero-screenshot");
     if (heroImg && t.hero && t.hero.screenshotAlt) heroImg.alt = t.hero.screenshotAlt;
+    applyEditionImages(lang, t);
     applyStoreLinks();
     applyNavLinks(lang);
     applyDocumentDirection(lang);

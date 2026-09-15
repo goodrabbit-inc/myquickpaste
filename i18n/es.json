@@ -11,7 +11,9 @@
     "home": "Inicio",
     "support": "Soporte",
     "releaseNotes": "Notas de la versión",
-    "privacy": "Privacidad"
+    "privacy": "Privacidad",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows y Android",
+    "metaDescription": "Sitio oficial de MyQuickPaste. En Windows, un clic escribe el texto en otra aplicación. En Android, guarda textos y URL y cópialos cuando los necesites.",
+    "lead": "Usa tu texto guardado rápidamente en Windows y Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Haz clic en un texto guardado para escribirlo en otra aplicación de Windows",
+    "windowsNote": "El clic escribe el texto en la aplicación de Windows que tiene el foco. No pegas desde el portapapeles.",
+    "androidBadge": "Android",
+    "androidTitle": "Guarda los textos y URL que usas a menudo y cópialos cuando los necesites",
+    "androidNote": "Copia dentro de la app y pega tú en otra app. No es la escritura directa de Windows.",
+    "more": "Ver más",
+    "windowsAlt": "MyQuickPaste para Windows. Un clic escribe el texto en otra aplicación de Windows.",
+    "androidAlt": "MyQuickPaste para Android. Guarda textos y URL y cópialos cuando los necesites."
   }
 }

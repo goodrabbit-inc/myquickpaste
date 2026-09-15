@@ -11,7 +11,9 @@
     "home": "Start",
     "support": "Support",
     "releaseNotes": "Versionshinweise",
-    "privacy": "Datenschutz"
+    "privacy": "Datenschutz",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows und Android",
+    "metaDescription": "Offizielle MyQuickPaste-Website. Unter Windows klicken Sie auf eine gespeicherte Zeile, um sie in eine andere App einzugeben. Unter Android speichern Sie Texte und URLs und kopieren sie bei Bedarf.",
+    "lead": "Nutzen Sie gespeicherten Text schnell unter Windows und Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Klicken Sie auf gespeicherten Text, um ihn in eine andere Windows-App einzugeben",
+    "windowsNote": "Ein Klick gibt den Text in die gerade fokussierte Windows-App ein. Sie fügen nicht selbst aus der Zwischenablage ein.",
+    "androidBadge": "Android",
+    "androidTitle": "Speichern Sie häufige Texte und URLs und kopieren Sie sie bei Bedarf",
+    "androidNote": "Kopieren Sie in der App und fügen Sie selbst in einer anderen App ein. Das ist nicht die Direkteingabe von Windows.",
+    "more": "Mehr erfahren",
+    "windowsAlt": "MyQuickPaste für Windows. Ein Klick gibt Text in eine andere Windows-App ein.",
+    "androidAlt": "MyQuickPaste für Android. Texte und URLs speichern und bei Bedarf kopieren."
   }
 }

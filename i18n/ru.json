@@ -11,7 +11,9 @@
     "home": "Главная",
     "support": "Поддержка",
     "releaseNotes": "Примечания к выпуску",
-    "privacy": "Конфиденциальность"
+    "privacy": "Конфиденциальность",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows и Android",
+    "metaDescription": "Официальный сайт MyQuickPaste. В Windows щелчок вводит сохранённый текст в другое приложение. В Android сохраняйте тексты и URL и копируйте их при необходимости.",
+    "lead": "Быстро используйте сохранённый текст в Windows и Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Нажмите сохранённую строку, чтобы ввести её в другое приложение Windows",
+    "windowsNote": "Щелчок вводит текст в приложение Windows, которое сейчас в фокусе. Вы не вставляете из буфера обмена.",
+    "androidBadge": "Android",
+    "androidTitle": "Сохраняйте частые тексты и URL и копируйте их, когда нужно",
+    "androidNote": "Скопируйте в приложении и сами вставьте в другое. Это не прямой ввод, как в Windows.",
+    "more": "Подробнее",
+    "windowsAlt": "MyQuickPaste для Windows. Щелчок вводит текст в другое приложение Windows.",
+    "androidAlt": "MyQuickPaste для Android. Сохраняйте тексты и URL и копируйте их при необходимости."
   }
 }

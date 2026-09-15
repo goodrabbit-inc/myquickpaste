@@ -11,7 +11,9 @@
     "home": "Beranda",
     "support": "Dukungan",
     "releaseNotes": "Catatan Rilis",
-    "privacy": "Privasi"
+    "privacy": "Privasi",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows dan Android",
+    "metaDescription": "Situs resmi MyQuickPaste. Di Windows, klik baris tersimpan untuk mengetiknya ke aplikasi lain. Di Android, simpan teks dan URL lalu salin saat diperlukan.",
+    "lead": "Gunakan teks tersimpan dengan cepat di Windows dan Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Klik teks tersimpan untuk mengetiknya ke aplikasi Windows lain",
+    "windowsNote": "Klik mengetik teks ke aplikasi Windows yang sedang fokus. Anda tidak menempel dari papan klip.",
+    "androidBadge": "Android",
+    "androidTitle": "Simpan teks dan URL yang sering dipakai, lalu salin saat diperlukan",
+    "androidNote": "Salin di dalam aplikasi, lalu tempel sendiri ke aplikasi lain. Ini bukan pengetikan langsung seperti Windows.",
+    "more": "Pelajari lebih lanjut",
+    "windowsAlt": "MyQuickPaste untuk Windows. Klik untuk mengetik teks ke aplikasi Windows lain.",
+    "androidAlt": "MyQuickPaste untuk Android. Simpan teks dan URL, lalu salin saat diperlukan."
   }
 }

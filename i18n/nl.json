@@ -11,7 +11,9 @@
     "home": "Home",
     "support": "Ondersteuning",
     "releaseNotes": "Release-opmerkingen",
-    "privacy": "Privacy"
+    "privacy": "Privacy",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows en Android",
+    "metaDescription": "Officiële MyQuickPaste-site. Op Windows klik je een regel om die in een andere app in te voeren. Op Android bewaar je tekst en URL's en kopieer je ze wanneer nodig.",
+    "lead": "Gebruik opgeslagen tekst snel op Windows en Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Klik op opgeslagen tekst om die in een andere Windows-app in te voeren",
+    "windowsNote": "Een klik voert de tekst in de Windows-app met focus in. Je plakt niet zelf vanaf het klembord.",
+    "androidBadge": "Android",
+    "androidTitle": "Bewaar vaak gebruikte tekst en URL's en kopieer ze wanneer nodig",
+    "androidNote": "Kopieer in de app en plak zelf in een andere app. Dit is niet de directe invoer van Windows.",
+    "more": "Meer informatie",
+    "windowsAlt": "MyQuickPaste voor Windows. Een klik voert tekst in een andere Windows-app in.",
+    "androidAlt": "MyQuickPaste voor Android. Bewaar tekst en URL's en kopieer ze wanneer nodig."
   }
 }

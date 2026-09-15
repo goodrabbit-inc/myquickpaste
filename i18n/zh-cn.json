@@ -11,7 +11,9 @@
     "home": "首页",
     "support": "支持",
     "releaseNotes": "发行说明",
-    "privacy": "隐私"
+    "privacy": "隐私",
+    "windows": "Windows 版",
+    "android": "Android 版"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows 版与 Android 版",
+    "metaDescription": "MyQuickPaste 官方网站。Windows 版点击已保存的文字，直接输入到另一个 Windows 应用。Android 版保存常用文字和网址，需要时再复制。",
+    "lead": "在 Windows 和 Android 上快速使用已保存的文字。",
+    "windowsBadge": "Windows 版",
+    "windowsTitle": "点击已保存的文字，直接输入到另一个 Windows 应用",
+    "windowsNote": "点击后会输入到当前具有焦点的 Windows 应用，不是从剪贴板自行粘贴。",
+    "androidBadge": "Android 版",
+    "androidTitle": "保存常用文字和网址，需要时再复制",
+    "androidNote": "在应用内复制后，再自己粘贴到其他应用。这不是 Windows 版的直接输入。",
+    "more": "了解详情",
+    "windowsAlt": "Windows 版 MyQuickPaste。点击即可将文字输入到另一个 Windows 应用。",
+    "androidAlt": "Android 版 MyQuickPaste。保存文字和网址，需要时再复制。"
   }
 }

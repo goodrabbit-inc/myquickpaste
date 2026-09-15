@@ -641,6 +641,107 @@ footer p {
   margin: 0.25rem 0;
 }
 
+.hub-hero {
+  padding-bottom: 0.35rem;
+}
+
+.hub-lead {
+  margin: 0 auto;
+  max-width: 36rem;
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.hub-main {
+  max-width: 1040px;
+}
+
+.hub-editions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+}
+
+.edition-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.35rem 1.4rem 1.5rem;
+  box-shadow: var(--shadow);
+}
+
+.edition-badge {
+  display: inline-flex;
+  align-self: flex-start;
+  margin: 0 0 0.7rem;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.edition-badge-android {
+  background: #d1fae5;
+  color: #047857;
+}
+
+.edition-card h2 {
+  margin: 0 0 0.65rem;
+  font-size: 1.15rem;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.edition-note {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  color: var(--muted);
+  min-height: 4.4em;
+}
+
+.edition-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1024 / 500;
+  object-fit: contain;
+  background: #f8fafc;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  margin-bottom: 1.1rem;
+}
+
+.edition-card .btn-store {
+  align-self: flex-start;
+}
+
+@media (max-width: 800px) {
+  .hub-editions {
+    grid-template-columns: 1fr;
+  }
+
+  .edition-note {
+    min-height: 0;
+  }
+}
+
+html.is-rtl .edition-card h2,
+html.is-rtl .edition-note {
+  text-align: right;
+}
+
+html.is-rtl .edition-badge,
+html.is-rtl .edition-card .btn-store {
+  align-self: flex-end;
+}
+
 @media (max-width: 640px) {
   .header-inner {
     justify-content: space-between;
@@ -752,5 +853,14 @@ html.is-rtl .nav {
   .hero-wordmark {
     background: linear-gradient(120deg, #60a5fa 0%, #93c5fd 48%, #a5b4fc 100%);
     filter: drop-shadow(0 1px 0 rgba(0, 0, 0, 0.25));
+  }
+
+  .edition-badge-android {
+    background: #064e3b;
+    color: #6ee7b7;
+  }
+
+  .edition-card img {
+    background: #0f172a;
   }
 }

@@ -11,7 +11,9 @@
     "home": "Головна",
     "support": "Підтримка",
     "releaseNotes": "Примітки до випуску",
-    "privacy": "Конфіденціальність"
+    "privacy": "Конфіденціальність",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows і Android",
+    "metaDescription": "Офіційний сайт MyQuickPaste. У Windows клацання вводить збережений текст в іншу програму. В Android зберігайте тексти й URL і копіюйте їх за потреби.",
+    "lead": "Швидко використовуйте збережений текст у Windows і Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Натисніть збережений рядок, щоб ввести його в іншу програму Windows",
+    "windowsNote": "Клацання вводить текст у програму Windows, яка зараз у фокусі. Ви не вставляєте з буфера обміну.",
+    "androidBadge": "Android",
+    "androidTitle": "Зберігайте часті тексти й URL і копіюйте їх, коли потрібно",
+    "androidNote": "Скопіюйте в програмі й самі вставте в іншу. Це не пряме введення, як у Windows.",
+    "more": "Докладніше",
+    "windowsAlt": "MyQuickPaste для Windows. Клацання вводить текст в іншу програму Windows.",
+    "androidAlt": "MyQuickPaste для Android. Зберігайте тексти й URL і копіюйте їх за потреби."
   }
 }

@@ -11,7 +11,9 @@
     "home": "الرئيسية",
     "support": "الدعم",
     "releaseNotes": "ملاحظات الإصدار",
-    "privacy": "الخصوصية"
+    "privacy": "الخصوصية",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows وAndroid",
+    "metaDescription": "الموقع الرسمي لـ MyQuickPaste. على Windows انقر سطراً محفوظاً لإدخاله في تطبيق آخر. على Android احفظ النصوص والروابط وانسخها عند الحاجة.",
+    "lead": "استخدم نصوصك المحفوظة بسرعة على Windows وAndroid.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "انقر سطراً محفوظاً لإدخاله مباشرة في تطبيق Windows آخر",
+    "windowsNote": "النقرة تدخل النص في تطبيق Windows الذي يملك التركيز. أنت لا تلصق من الحافظة.",
+    "androidBadge": "Android",
+    "androidTitle": "احفظ النصوص والروابط المتكررة ثم انسخها عند الحاجة",
+    "androidNote": "انسخ داخل التطبيق ثم الصق بنفسك في تطبيق آخر. هذا ليس الإدخال المباشر في Windows.",
+    "more": "معرفة المزيد",
+    "windowsAlt": "MyQuickPaste لـ Windows. نقرة تدخل النص في تطبيق Windows آخر.",
+    "androidAlt": "MyQuickPaste لأندرويد. احفظ النصوص والروابط وانسخها عند الحاجة."
   }
 }

@@ -11,7 +11,9 @@
     "home": "Trang chủ",
     "support": "Hỗ trợ",
     "releaseNotes": "Ghi chú phiên bản",
-    "privacy": "Quyền riêng tư"
+    "privacy": "Quyền riêng tư",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows và Android",
+    "metaDescription": "Trang chính thức của MyQuickPaste. Trên Windows, nhấp dòng đã lưu để nhập vào ứng dụng khác. Trên Android, lưu văn bản và URL rồi sao chép khi cần.",
+    "lead": "Dùng văn bản đã lưu nhanh trên Windows và Android.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "Nhấp dòng đã lưu để nhập vào ứng dụng Windows khác",
+    "windowsNote": "Một cú nhấp nhập văn bản vào ứng dụng Windows đang có tiêu điểm. Bạn không dán từ clipboard.",
+    "androidBadge": "Android",
+    "androidTitle": "Lưu văn bản và URL thường dùng, rồi sao chép khi cần",
+    "androidNote": "Sao chép trong ứng dụng rồi tự dán sang ứng dụng khác. Không phải nhập trực tiếp như Windows.",
+    "more": "Xem thêm",
+    "windowsAlt": "MyQuickPaste cho Windows. Nhấp để nhập văn bản vào ứng dụng Windows khác.",
+    "androidAlt": "MyQuickPaste cho Android. Lưu văn bản và URL rồi sao chép khi cần."
   }
 }

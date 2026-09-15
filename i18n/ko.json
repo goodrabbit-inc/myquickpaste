@@ -11,7 +11,9 @@
     "home": "홈",
     "support": "지원",
     "releaseNotes": "릴리스 정보",
-    "privacy": "개인정보"
+    "privacy": "개인정보",
+    "windows": "Windows",
+    "android": "Android"
   },
   "hero": {
     "kicker": "MyQuickPaste",
@@ -245,5 +247,19 @@
         "contactEmail": "myquickpaste@hotmail.com"
       }
     ]
+  },
+  "hub": {
+    "metaTitle": "MyQuickPaste | Windows 및 Android",
+    "metaDescription": "MyQuickPaste 공식 사이트. Windows에서는 저장한 줄을 클릭해 다른 앱에 바로 입력합니다. Android에서는 자주 쓰는 글과 URL을 저장해 필요할 때 복사합니다.",
+    "lead": "저장한 글을 Windows와 Android에서 빠르게 사용하세요.",
+    "windowsBadge": "Windows",
+    "windowsTitle": "저장한 글을 클릭하면 다른 Windows 앱에 바로 입력",
+    "windowsNote": "클릭하면 지금 포커스된 Windows 앱에 바로 입력됩니다. 클립보드에서 직접 붙여넣는 방식이 아닙니다.",
+    "androidBadge": "Android",
+    "androidTitle": "자주 쓰는 글과 URL을 저장해 두고, 필요할 때 복사",
+    "androidNote": "앱에서 복사한 뒤 다른 앱에 직접 붙여넣습니다. Windows의 직접 입력이 아닙니다.",
+    "more": "자세히 보기",
+    "windowsAlt": "Windows용 MyQuickPaste. 클릭하면 다른 Windows 앱에 바로 입력됩니다.",
+    "androidAlt": "Android용 MyQuickPaste. 글과 URL을 저장하고 필요할 때 복사합니다."
   }
 }

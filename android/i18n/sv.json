@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "lang": "sv",
+    "title": "MyQuickPaste | Kopiera vardagstext med ett tryck",
+    "description": "Spara standardsvar, adresser, kontakter, URL:er, emoji, hashtags och mer—kopiera med ett tryck. Byt till din vanliga app och klistra in. MyQuickPaste gör det enklare att skriva på mobilen.",
+    "ogTitle": "MyQuickPaste | Kopiera vardagstext med ett tryck",
+    "ogDescription": "Spara texter och info du återanvänder, kopiera med ett tryck när du behöver. Byt till din vanliga app och klistra in."
+  },
+  "lang": {
+    "label": "Språk",
+    "ja": "日本語",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Hem",
+    "support": "Support",
+    "releaseNotes": "Versionsinformation",
+    "privacy": "Integritet",
+    "features": "Funktioner",
+    "how": "Så fungerar det",
+    "screens": "Skärmar",
+    "pricing": "Priser",
+    "cta": "Free / Pro"
+  },
+  "brand": {
+    "name": "MyQuickPaste",
+    "edition": "Android"
+  },
+  "hero": {
+    "badge": "MyQuickPaste för Android",
+    "catch": "Vardagstext, ett tryck bort.",
+    "lead": "Standardsvar, adresser, kontakter, URL:er, emoji, hashtags. Spara det du återanvänder och kopiera med ett tryck från listan när du behöver.",
+    "platformLine": "Tillgänglig på Google Play · App Store under utveckling",
+    "trialTitle": "Free utan tidsgräns",
+    "trialText": "Spara upp till 10 objekt per textkategori, 10 bilder och 2 profiler. Sökning, omsortering och Snabbspara ingår också.",
+    "trust": "21 språk",
+    "eyebrow": "MyQuickPaste för Android",
+    "catchLine1": "Vardagstexter,",
+    "catchLine2": "ett tryck bort.",
+    "sub": "Byt sedan till din vanliga app och klistra in.",
+    "ctaPrimary": "Se hur det fungerar",
+    "ctaSecondary": "Free / Pro",
+    "statusPlay": "Tillgänglig på Google Play",
+    "statusApp": "App Store under utveckling",
+    "pill1": "Free",
+    "pill2": "Pro engångsköp",
+    "pill3": "Lagras på enheten",
+    "pill4": "21 språk"
+  },
+  "stores": {
+    "googlePlay": "Hämta på Google Play",
+    "appStore": "App Store",
+    "comingSoon": "Kommer snart",
+    "inDevelopment": "Under utveckling",
+    "googlePlayBadgeAlt": "Hämta på Google Play",
+    "appStoreBadgeAlt": "Ladda ner på App Store",
+    "microsoftBadgeAlt": "Hämta från Microsoft (MyQuickPaste för Windows)"
+  },
+  "compare": {
+    "title": "MyQuickPaste-familjen",
+    "subtitle": "Samma idé — klistra in det du använder ofta på ett ögonblick — anpassad både för dator och mobil.",
+    "pcTitle": "MyQuickPaste (Windows)",
+    "pcText": "En Windows-app som ligger redo i skärmkanten och klistrar in med ett enda klick.",
+    "pcLink": "Webbplats för Windows-versionen",
+    "mobileTitle": "MyQuickPaste (mobil)",
+    "mobileText": "Spara texten du återanvänder på din smartphone — och hämta den för att kopiera igen när som helst.",
+    "note": "Dator- och mobilversionen är två separata appar. Köp och sparad data delas inte mellan dem."
+  },
+  "problem": {
+    "title": "Känns det igen, i mobilen?",
+    "items": [
+      "Leta i gamla chattar eller anteckningar varje gång du behöver samma adress eller telefonnummer",
+      "Skriva om signaturen eller ett standardsvar igen på det lilla skärmtangentbordet",
+      "Byta app bara för att kopiera en enda textrad ännu en gång"
+    ],
+    "solution": "Spara texten en gång i MyQuickPaste — öppna sedan bara appen och tryck. Klistra in i e-post, chatt, kartor — var du än behöver den."
+  },
+  "clipboardCompare": {
+    "title": "Så skiljer det sig från Gboards urklipp",
+    "subtitle": "För något du precis kopierat är Gboard fortfarande snabbast. För texter du använder varje dag eller varje vecka passar den här appen bättre.",
+    "clipboardTitle": "Gboards urklipp",
+    "clipboardTag": "Senaste kopieringshistorik",
+    "clipboardItems": [
+      "Välj direkt från tangentbordet och klistra in genast — det snabbaste sättet",
+      "Sparar automatiskt det du nyligen kopierat",
+      "Ofästa objekt försvinner efter cirka 5 poster eller ungefär en timme",
+      "En blandad historik som är mindre lämplig för att hålla favorittexter ordnade"
+    ],
+    "appTitle": "MyQuickPaste",
+    "appTag": "En fast plats för dina viktigaste texter",
+    "appItems": [
+      "Spara adresser, signaturer och svar med ett namn",
+      "Sex kategorier: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
+      "Posterna finns kvar tills du själv tar bort dem — försvinner inte som i en historik",
+      "Gjord för att snabbt hitta och kopiera de texter du använder mest, om och om igen"
+    ],
+    "footer": "Kopierade du det för några timmar sedan? Då är Gboard praktiskt. Adresser, signaturer och standardsvar som du använder varje vecka? Spara dem i MyQuickPaste så slipper du leta."
+  },
+  "steps": {
+    "title": "Så fungerar det",
+    "subtitle": "Ingen komplex setup. Bara tre steg.",
+    "items": [
+      {
+        "title": "Spara det du återanvänder",
+        "text": "Spara texter, kontaktuppgifter och annan information som du använder ofta."
+      },
+      {
+        "title": "Tryck på raden du behöver",
+        "text": "Ett tryck kopierar innehållet till urklipp."
+      },
+      {
+        "title": "Klistra in i en annan app",
+        "text": "Byt till mejl, sociala medier, chatt, kartor och klistra in."
+      }
+    ],
+    "titleLine1": "Spara, tryck,",
+    "titleLine2": "klistra in."
+  },
+  "benefits": {
+    "title": "Det som uppskattas mest",
+    "items": [
+      {
+        "title": "Lätt att använda med en hand",
+        "text": "Stora rader, kategoriflikar och en stående layout — utformad för att du snabbt ska kunna välja rätt, även på språng.",
+        "icon": "📱"
+      },
+      {
+        "title": "Lätt att hitta allt",
+        "text": "Istället för en enda oändlig anteckning håller du standardfraser, kontakter och profilkort i separata listor.",
+        "icon": "🗂️"
+      },
+      {
+        "title": "Sparas på din enhet",
+        "text": "Dina standardfraser och kontakter stannar på telefonen. Vi erbjuder ingen molnsynkronisering.",
+        "icon": "🔒"
+      }
+    ]
+  },
+  "features": {
+    "title": "Funktioner",
+    "subtitle": "Verktyg som lättar vardagligt skrivande.",
+    "items": [
+      {
+        "title": "Kopiera med ett tryck",
+        "text": "Tryck på en rad för att kopiera innehållet till urklipp.",
+        "icon": "tap",
+        "large": true
+      },
+      {
+        "title": "Organisera efter användning",
+        "text": "Ordna innehållet i fri text, fraser, kontakt, länkar, bilder och profil.",
+        "icon": "folder",
+        "large": true
+      },
+      {
+        "title": "Ordna om favoriter",
+        "text": "Flytta frekventa objekt högst upp så de är lättare att hitta.",
+        "icon": "sort"
+      },
+      {
+        "title": "Kopiera fält för fält",
+        "text": "Kopiera bara adress, namn eller nummer du behöver.",
+        "icon": "card"
+      },
+      {
+        "title": "Bilder redo att använda",
+        "text": "Spara logotyper eller foton, kopiera, dela eller förhandsgranska.",
+        "icon": "image"
+      },
+      {
+        "title": "Exportera och importera",
+        "text": "Med Pro kan du exportera dina data som en .mqp-säkerhetskopia och importera dem när du behöver.",
+        "icon": "backup"
+      },
+      {
+        "title": "Välj utseende",
+        "text": "Ljust och mörkt tema, plus premiumfärgteman med Pro.",
+        "icon": "theme"
+      },
+      {
+        "title": "Stannar på enheten",
+        "text": "Text och profiler hanteras på telefonen.",
+        "icon": "lock"
+      }
+    ],
+    "categoriesLabel": "Kategorier: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
+    "categories": [
+      "Fri text",
+      "Standardsvar",
+      "Kontakt",
+      "Länkar",
+      "Bilder",
+      "Profil"
+    ],
+    "titleLine1": "Enkelt,",
+    "titleLine2": "med det väsentliga."
+  },
+  "themesSection": {
+    "title": "Teman",
+    "subtitle": "Ljust och mörkt, plus premiumfärgade teman med Pro.",
+    "imageAlt": "MyQuickPaste temagalleri",
+    "caption": "Ljust / mörkt / premiumteman",
+    "note": "Ljust och mörkt tema är tillgängliga med Free. Premiumteman är tillgängliga med Pro.",
+    "titleLine1": "Matcha utseendet",
+    "titleLine2": "till var du använder det."
+  },
+  "usecases": {
+    "title": "Perfekt för",
+    "items": [
+      {
+        "title": "Säljare och fältpersonal",
+        "text": "Kopiera adresser, telefonnummer och standardsvar direkt på plats hos kunden."
+      },
+      {
+        "title": "Administration och kundtjänst",
+        "text": "Ha standardsvar och kontaktuppgifter alltid nära till hands i mobilen."
+      },
+      {
+        "title": "Privat användning",
+        "text": "Spara din hemadress, e-postsignatur och vanliga fraser för vardagsbruk."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Priser",
+    "subtitle": "Använd Free så länge du vill. Uppgradera till Pro för högre spargränser, säkerhetskopior, premiumteman och anpassning av kategorier.",
+    "freeTitle": "Free",
+    "freePrice": "0",
+    "freeItems": [
+      "Textkategorier: 10 vardera",
+      "Bilder: 10",
+      "Profiler: 2",
+      "Sök",
+      "Ordna om",
+      "Snabbspara"
+    ],
+    "proTitle": "Pro (engångsköp)",
+    "proPrice": "Se priset i butiken",
+    "proItems": [
+      "Textkategorier: upp till 200 vardera",
+      "Bilder: 50",
+      "Profiler: 30",
+      "Exportera/importera säkerhetskopia",
+      "Premiumteman",
+      "Anpassade kategorinamn och ikoner"
+    ],
+    "note": "Appen är gratis att ladda ner. Pro är ett engångstillägg som köps via appbutiken; priset kan variera mellan olika regioner.",
+    "titleLine1": "Free täcker det viktigaste.",
+    "titleLine2": "Pro ger dig mer.",
+    "trialLabel": "Free",
+    "trialTitle": "Ingen tidsgräns",
+    "trialText": "Textkategorier: 10 objekt per kategori · Bilder: 10 · Profiler: 2 · Sök · Sortera om · Snabbspara",
+    "trialNote": "Behöver du mer? Pro höjer gränserna till 200 objekt per textkategori, 50 bilder och 30 profiler och lägger till .mqp-säkerhetskopior, premiumteman samt anpassade kategorinamn och ikoner.",
+    "freeLead": "Grundfunktionerna i Free kan användas utan tidsgräns.",
+    "proTag": "Engångsköp",
+    "proLead": "Ingen månadsavgift.",
+    "notSub": "Inte en prenumeration"
+  },
+  "privacySection": {
+    "title": "Integritet på enheten",
+    "text": "Texter och profiler som du sparar i MyQuickPaste hanteras på din enhet. Vi skickar inte automatiskt ditt innehåll till molnet.",
+    "link": "Läs integritetspolicyn",
+    "titleLine1": "Det viktiga stannar",
+    "titleLine2": "på din enhet.",
+    "points": [
+      "Ingen automatisk molnsynk",
+      "Skickar inte automatiskt sparat innehåll till externa servrar",
+      "Data hanteras på enheten",
+      "Med Pro kan du exportera din egen .mqp-säkerhetskopia."
+    ]
+  },
+  "cta": {
+    "title": "Vardagstexter, ett tryck bort.",
+    "lead": "Spara, tryck, sedan klistra in.",
+    "button": "Free / Pro",
+    "titleLine1": "Vardagstexter,",
+    "titleLine2": "ett tryck bort.",
+    "sub": "Free har ingen tidsgräns. Uppgradera till Pro när som helst om du behöver mer."
+  },
+  "footer": {
+    "pcEdition": "Windowsutgåva",
+    "copyright": "Copyright © 2025–2026 Good Rabbit inc., Japan. Alla rättigheter förbehållna.",
+    "developer": "Utvecklare: Kazuhiro Suda",
+    "contact": "Kontakt"
+  },
+  "supportPage": {
+    "title": "Support",
+    "lead": "Hjälp för MyQuickPaste (mobilversion).",
+    "faqTitle": "Vanliga frågor",
+    "items": [
+      {
+        "q": "Är det samma app som MyQuickPaste för Windows?",
+        "a": "Nej. MyQuickPaste är mobilversionen. Den delar samma grundtanke men är en fristående app med egen data och eget köp i butiken."
+      },
+      {
+        "q": "Vad är skillnaden mellan Free och Pro?",
+        "a": "Med Free kan du spara upp till 10 objekt per textkategori, 10 bilder och 2 profiler. Kopiering, sparande, sökning, omsortering och Snabbspara är tillgängliga utan tidsgräns. Pro höjer gränserna till 200 objekt per textkategori, 50 bilder och 30 profiler och lägger till export/import av .mqp-säkerhetskopior, premiumteman samt anpassade kategorinamn och ikoner."
+      },
+      {
+        "q": "Har Free någon tidsgräns?",
+        "a": "Nej. Free kan användas utan tidsgräns. Pro är ett valfritt engångsköp som ger högre spargränser, säkerhetskopior, premiumteman och anpassning av kategorier."
+      },
+      {
+        "q": "Var lagras min data?",
+        "a": "Sparade texter, profilkort och inställningar lagras endast på din enhet."
+      },
+      {
+        "q": "Hur säkerhetskopierar eller flyttar jag min data?",
+        "a": "Med Pro kan du exportera en .mqp-säkerhetskopia från Inställningar och importera den på en annan enhet med MyQuickPaste."
+      },
+      {
+        "q": "När kommer iPhone-versionen?",
+        "a": "iOS-versionen är under förberedelse. Den här sidan uppdateras så snart den finns i App Store."
+      },
+      {
+        "q": "Hur köper jag Pro?",
+        "a": "Öppna skärmen för att uppgradera till Pro i appen. På Android hanteras köpet via Google Play. Pro är ett engångsköp, inte en prenumeration."
+      }
+    ],
+    "contactTitle": "Kontakt",
+    "contactText": "För felrapporter och funktionsförslag, mejla oss på:",
+    "contactEmail": "myquickpaste@hotmail.com"
+  },
+  "privacyPage": {
+    "title": "Integritetspolicy",
+    "lead": "MyQuickPaste (smartphone-version)",
+    "updated": "Senast uppdaterad: 14 augusti 2026",
+    "sections": [
+      {
+        "h": "Översikt",
+        "p": "MyQuickPaste är en smartphone-app som tillhandahålls av Good Rabbit inc. (”vi”). Den här policyn förklarar hur MyQuickPaste hanterar information på din enhet."
+      },
+      {
+        "h": "Datainsamling från vår sida",
+        "p": "MyQuickPaste innehåller ingen process som samlar in, överför eller lagrar på servrar som vi driver den fritext, de textmallar, e-postadresser, telefonnummer, profiler, bilder eller det urklippsinnehåll som du använder i appen. Innehållet behandlas på din enhet för att tillhandahålla appens funktioner. När du däremot uttryckligen använder en delningsfunktion, när Android-säkerhetskopiering körs eller när du använder butikstjänster som Google Play behandlas data enligt mekanismerna och policyerna för det aktuella operativsystemet eller den aktuella tjänsten."
+      },
+      {
+        "h": "Lagring på enheten och Android-säkerhetskopiering",
+        "p": "Innehåll du anger, kategorier, profiler, appinställningar och sparade bilder lagras i appens privata lagringsutrymme på din enhet. Sparade bilder kopieras till detta privata lagringsutrymme. Om operativsystemets säkerhetskopiering är aktiverad på Android kan vissa appdata säkerhetskopieras till och återställas från säkerhetskopieringsutrymmet som är kopplat till ditt Google-konto. Enligt appens nuvarande regler för säkerhetskopiering ingår sparade bildfiler inte i molnsäkerhetskopiering. Vid överföring mellan enheter kan data överföras med hjälp av operativsystemets funktioner."
+      },
+      {
+        "h": "Säkerhet",
+        "p": "Sparade data lagras i ett privat appområde som skyddas av operativsystemet. Vi driver ingen egen server för att lagra innehållet som du sparar. Säkerheten för själva enheten, operativsystemets säkerhetskopior och säkerhetskopieringsfiler som du exporterar beror på säkerheten och hanteringen av den berörda enheten, tjänsten och lagringsplatsen som användaren själv kontrollerar."
+      },
+      {
+        "h": "Åtkomst till urklipp",
+        "p": "För att visa förhandsvisningar på huvudskärmen och erbjuda relaterade funktioner kan MyQuickPaste läsa text eller bilder som för tillfället finns i enhetens urklipp. Innehållet i urklippet behandlas på enheten och sparas inte automatiskt permanent om du inte uttryckligen väljer att spara det. Appen kan skapa en tillfällig cachefil för att förhandsvisa bilder från urklippet. MyQuickPaste innehåller ingen process som skickar innehållet i urklippet till servrar som drivs av oss."
+      },
+      {
+        "h": "Lagring, radering och säkerhetskopiering av data",
+        "p": "Sparade data finns kvar i appens lagringsutrymme på din enhet tills du tar bort dem i appen eller avinstallerar appen. Vid avinstallation tas appens lokala data bort från enheten, men kopior kan finnas kvar separat i säkerhetskopior från Androids operativsystem eller i säkerhetskopieringsfiler som du själv har exporterat och behållit. Med Pro kan du exportera och importera data som en MyQuickPaste-säkerhetskopia (.mqp). Du väljer själv var den exporterade filen sparas och ansvarar för att hantera och ta bort exporterade säkerhetskopieringsfiler."
+      },
+      {
+        "h": "Appbutiker, köp och externa tjänster",
+        "p": "Android-versionen distribueras via Google Play och Pro-köp hanteras via Google Play. Google Play Billing används för att verifiera köp. Pro är ett engångsköp i appen och inte en prenumeration. Vi tar inte direkt emot kreditkortsnummer eller andra betalkortsuppgifter. Appen använder inga SDK:er från tredje part för analys eller annonsering. När du använder köp- eller recensionsfunktioner i Google Play, eller externa funktioner som du själv väljer, till exempel delning, e-post eller webbläsare, gäller respektive tjänsts integritetspolicy och villkor. iOS-versionen är för närvarande under utveckling och denna policy uppdateras vid behov när distribution och köpfunktioner har fastställts."
+      },
+      {
+        "h": "Kontakt",
+        "p": "Om du har frågor om den här policyn kan du kontakta oss på myquickpaste@hotmail.com."
+      }
+    ]
+  },
+  "releaseNotesPage": {
+    "title": "Versionsinformation",
+    "lead": "Versionshistorik för MyQuickPaste.",
+    "latestPrefix": "Senaste version:",
+    "storeNote": "Uppdateringar distribueras via Google Play (och, när det blir tillgängligt, även via App Store).",
+    "entries": [
+      {
+        "version": "1.0.1",
+        "date": "Juli 2026",
+        "title": "Bildkategori",
+        "items": [
+          "Lade till kategorin Bilder (spara visitkort, logotyper med mera)",
+          "Tryck för att kopiera, dela och förhandsgranska bilder",
+          "Stöder JPEG, PNG, WebP och GIF"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2026",
+        "title": "Första lanseringen (Android)",
+        "items": [
+          "Listor per kategori: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
+          "Kopiera med en knapptryckning och förhandsvisning med långtryck",
+          "Profilkort med fältvis kopiering",
+          "Möjlighet att ändra ordning för listor och profiler",
+          "Free och Pro med olika spargränser",
+          "Export/import av .mqp-säkerhetskopior (Pro)",
+          "Ljusa och mörka teman; premiumteman med Pro",
+          "Inställningar för kopieringsfeedback, startkategori och säkerhetskopiering"
+        ]
+      }
+    ]
+  },
+  "screenshots": {
+    "title": "Appskärmar",
+    "subtitle": "Riktiga skärmar från MyQuickPaste.",
+    "freetextAlt": "Skärm för fri textlista",
+    "snippetsAlt": "Skärm för snippetlista",
+    "profileAlt": "Skärm för profilkort",
+    "profileEditAlt": "Skärm för profilredigering",
+    "cateAlt": "Sex kategoriflikar: Fri text, Fraser, Kontakt, Länkar, Bilder, Profil",
+    "items": [
+      {
+        "caption": "Fritext — signaturer, URL:er och kontouppgifter i ett ögonkast"
+      },
+      {
+        "caption": "Snippets — färdiga svar för e-post och chatt"
+      },
+      {
+        "caption": "Bilder — logotyper, foton och skärmdumpar redo att kopieras"
+      },
+      {
+        "caption": "Profil — kopiera adress, telefon eller allt med ett tryck"
+      },
+      {
+        "caption": "Redigera profil — separata kort för Hem, Arbete och kunder"
+      },
+      {
+        "caption": "Kategoriflikar — växla mellan sex listor direkt"
+      }
+    ],
+    "imagesAlt": "Skärm för bildkategori",
+    "titleLine1": "Tydligt nog",
+    "titleLine2": "för att använda direkt.",
+    "lead": "Stora rader, tydliga kategorier och enkel redigering — för vardagsbruk.",
+    "freetextCap": "Hantera återanvändbar text i en lista",
+    "snippetsCap": "Kopiera vanliga svar snabbt",
+    "imagesCap": "Spara, kopiera och dela bilder",
+    "profileCap": "Kopiera adress eller kontakt fält för fält",
+    "profileEditCap": "Spara informationen du behöver på ett ställe"
+  },
+  "trust": {
+    "t1Title": "Tryck för att kopiera",
+    "t1Text": "Tryck bara på en sparad rad.",
+    "t2Title": "Pro engångsköp",
+    "t2Text": "Inga månadsbetalningar.",
+    "t3Title": "Sparas på enheten",
+    "t3Text": "Sparat innehåll hanteras på enheten.",
+    "t4Title": "UI på 21 språk",
+    "t4Text": "Appskärmar på 21 språk."
+  },
+  "pain": {
+    "titleLine1": "Sluta fråga dig",
+    "titleLine2": "«Var var det?»",
+    "lead": "Samma info—men varje gång letar du i anteckningar, markerar om med långtryck eller skriver samma text igen. Små steg som staplas varje dag.",
+    "p1Title": "Söka",
+    "p1Text": "Adress eller standardsvar—du vet inte i vilken anteckning.",
+    "p2Title": "Markera",
+    "p2Text": "Långtryck för att få just den del du behöver.",
+    "p3Title": "Skriva igen",
+    "p3Text": "Du skriver samma svar eller profil om och om igen.",
+    "resolveLine1": "Med MyQuickPaste",
+    "resolveLine2": "ett tryck från listan.",
+    "resolveSub": "Sök inte. Skriv inte om. Tryck bara på raden du behöver.",
+    "flowOldLabel": "Vanligt flöde",
+    "flowOld1": "Sök",
+    "flowOld2": "Markera",
+    "flowOld3": "Kopiera",
+    "flowNewLabel": "MyQuickPaste",
+    "flowNew1": "Tryck",
+    "flowNew2": "Kopiera"
+  },
+  "sceneSocial": {
+    "eyebrow": "Även för sociala medier",
+    "titleLine1": "Emoji och hashtags—",
+    "titleLine2": "kopiera när du behöver dem.",
+    "lead": "Spara favorit-emoji, hashtags och inläggstexter. Tryck för att kopiera och klistra in i dina vanliga sociala appar.",
+    "points": [
+      {
+        "title": "Emoji",
+        "text": "Spara favoriter",
+        "icon": "heart"
+      },
+      {
+        "title": "Inlägg",
+        "text": "Spara vanliga texter",
+        "icon": "camera"
+      },
+      {
+        "title": "Hashtaggar",
+        "text": "Kopiera som set",
+        "icon": "tag"
+      },
+      {
+        "title": "Snabbkopiera",
+        "text": "Ett tryck när det behövs",
+        "icon": "clock"
+      }
+    ]
+  },
+  "sceneWork": {
+    "eyebrow": "Även på jobbet",
+    "titleLine1": "Standardsvar och kontakter—",
+    "titleLine2": "kopiera när du behöver dem.",
+    "lead": "Standardsvar, e-post, telefonnummer, URL:er och annan återanvänd info på ett ställe. Tryck på en rad för att kopiera direkt.",
+    "points": [
+      {
+        "title": "Standardsvar",
+        "text": "Dina vanliga svar",
+        "icon": "doc"
+      },
+      {
+        "title": "E-post",
+        "text": "Spara signaturer och meddelanden",
+        "icon": "mail"
+      },
+      {
+        "title": "Kontakter",
+        "text": "Kopiera nummer snabbt",
+        "icon": "phone"
+      },
+      {
+        "title": "Snabbkopiera",
+        "text": "Klart med ett tryck",
+        "icon": "zap"
+      }
+    ]
+  },
+  "sceneDaily": {
+    "eyebrow": "I vardagen",
+    "titleLine1": "Adress och profil—",
+    "titleLine2": "kopiera när du behöver dem.",
+    "lead": "Hemadress, e-post, profiltext, favoritfraser. Tryck och kopiera direkt när du behöver.",
+    "points": [
+      {
+        "title": "Adress",
+        "text": "Mindre ominskning",
+        "icon": "home"
+      },
+      {
+        "title": "Profil",
+        "text": "Spara din intro",
+        "icon": "user"
+      },
+      {
+        "title": "Favoritfraser",
+        "text": "Återanvänd när som helst",
+        "icon": "note"
+      },
+      {
+        "title": "Hitta snabbt",
+        "text": "Håll ordning",
+        "icon": "search"
+      }
+    ]
+  },
+  "comparison": {
+    "titleLine1": "Inte bara tillfälliga kopior —",
+    "titleLine2": "ett hem för det du återanvänder.",
+    "otherLabel": "Anteckningar eller urklippshistorik",
+    "other1": "Öppna",
+    "other2": "Sök",
+    "other3": "Välj det du behöver",
+    "other4": "Kopiera",
+    "otherText": "Bra för nylig historik. För ofta återanvänd info blir sökning friktion.",
+    "appLabel": "MyQuickPaste",
+    "app1": "Öppna",
+    "app2": "Tryck på rad",
+    "app3": "Kopierat",
+    "appText": "Organisera och spara återanvänd text och info tydligt och enkelt."
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "q": "Klistrar ett tryck in automatiskt i en annan app?",
+        "a": "Ett tryck på en rad kopierar den till urklipp. Byt sedan till mejl, sociala medier eller chatt och klistra in."
+      },
+      {
+        "q": "Var lagras mina data?",
+        "a": "Text, profiler och inställningar lagras på din smartphone."
+      },
+      {
+        "q": "Kan jag fortsätta använda Free utan tidsgräns?",
+        "a": "Ja. Free har ingen tidsgräns. Du kan uppgradera till Pro när som helst om du vill ha högre spargränser, säkerhetskopior, premiumteman eller anpassning av kategorier."
+      },
+      {
+        "q": "Är Pro en månadsprenumeration?",
+        "a": "Nej. Pro är ett engångsköp utan återkommande månadsavgift."
+      },
+      {
+        "q": "Kan jag dela data med Windowsutgåvan?",
+        "a": "Nej. Smartphone- och Windowsutgåvor är separata appar. Köp och data delas inte."
+      },
+      {
+        "q": "Kan jag flytta data när jag byter telefon?",
+        "a": "Export och import av säkerhetskopior är tillgängligt med Pro. Du kan exportera en .mqp-säkerhetskopia från Inställningar och importera den på en annan enhet med MyQuickPaste."
+      }
+    ]
+  },
+  "windowsEdition": {
+    "titleLine1": "MyQuickPaste",
+    "titleLine2": "på Windows också.",
+    "text": "Windows-versionen ligger kvar vid skärmkanten och kan klistra in sparad text med ett klick – det är en separat app.",
+    "note": "Inte samma app som smartphoneutgåvan. Köp och sparad data delas inte.",
+    "link": "Windowsutgåvans hemsida"
+  },
+  "sceneMore": {
+    "titleLine1": "Användbart i dessa stunder också.",
+    "titleLine2": "",
+    "lead": "Resor, second hand, chatt, event—kopiera din favorittext med ett tryck i alla situationer.",
+    "cap3": "Annonsannonser kopieras direkt",
+    "cap4": "Chattsvar kopieras direkt",
+    "cap6": "Organisatormeddelanden kopieras direkt"
+  }
+}

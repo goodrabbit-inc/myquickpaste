@@ -32,7 +32,6 @@ img { max-width: 100%; }
 .site-header { background: #fff; border-bottom: 1px solid var(--line); }
 .header-inner { max-width: 1200px; margin: auto; padding: 20px 32px; display: flex; align-items: center; gap: 32px; }
 .brand { display: inline-flex; align-items: center; gap: 10px; font-family: "Segoe UI", sans-serif; font-size: 21px; font-weight: 700; letter-spacing: -.6px; }
-.brand::before { content: ""; width: 20px; height: 23px; border-radius: 5px; background: linear-gradient(90deg, #db5790 0 43%, transparent 43% 57%, #36a69d 57%); }
 .nav { display: flex; align-items: center; gap: 28px; margin-inline-start: auto; }
 .nav a { min-height: 44px; display: inline-flex; align-items: center; font-size: 14px; font-weight: 600; }
 .nav a:hover, .footer-nav a:hover { text-decoration: underline; text-underline-offset: 5px; }
@@ -95,7 +94,48 @@ img { max-width: 100%; }
   .edition-cta::after { border-radius: 18px; }
   .site-footer { margin-inline: 20px; padding-inline: 0; }
 }
-@media (max-width: 360px) { .header-inner { padding-inline: 16px; } .brand { font-size: 18px; gap: 8px; } .brand::before { width: 16px; height: 20px; } .hub-main { padding-inline: 16px; } .edition-card { padding: 20px; } .edition-card h2 { font-size: 21px; } }
+@media (max-width: 360px) { .header-inner { padding-inline: 16px; } .brand { font-size: 18px; gap: 8px; } .hub-main { padding-inline: 16px; } .edition-card { padding: 20px; } .edition-card h2 { font-size: 21px; } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .edition-card { transition: none; } }
 
 .hub-lead { white-space: pre-line; }
+
+/* Paired official marks and restrained visual accents for the edition gateway. */
+.brand-logos { display: inline-flex; align-items: center; gap: 5px; flex-shrink: 0; }
+.brand-logos img { display: block; width: 32px; height: 32px; object-fit: contain; }
+.hub-hero { position: relative; isolation: isolate; overflow: hidden; margin: 26px 0 30px; padding: 42px 24px 38px; border: 1px solid #e9e7ea; border-radius: 26px; background: radial-gradient(ellipse at 0% 25%, #fbe3ee 0, transparent 55%), radial-gradient(ellipse at 100% 75%, #dff2ed 0, transparent 55%), #fff; }
+.hub-hero::before, .hub-hero::after { content: ""; position: absolute; z-index: -1; width: 360px; height: 360px; border: 1px solid #c783a422; border-radius: 50%; pointer-events: none; }
+.hub-hero::before { inset-inline-start: -190px; top: -145px; box-shadow: 0 0 0 38px #ffffff35, 0 0 0 76px #ffffff25; }
+.hub-hero::after { inset-inline-end: -185px; bottom: -190px; border-color: #4d9f9826; box-shadow: 0 0 0 38px #ffffff35, 0 0 0 76px #ffffff25; }
+.hub-kicker { display: inline-block; padding: 6px 14px; border: 1px solid #ffffff; border-radius: 999px; background: #ffffffa8; color: #53616c; letter-spacing: .13em; }
+.hub-headline { position: relative; }
+.hub-lead { margin-top: 20px; }
+.edition-card { border-top: 3px solid var(--edition-accent); box-shadow: 0 10px 30px #20262e07; background: linear-gradient(155deg, var(--edition-soft), #fff 55%); }
+.edition-device { display: flex; align-items: center; justify-content: center; width: 50px; height: 50px; margin-inline-start: auto; flex-shrink: 0; border: 1px solid #ffffff; border-radius: 14px; color: var(--edition-accent); background: var(--edition-soft); }
+.edition-proof { box-shadow: 0 4px 14px #20262e06; }
+.edition-cta > span:last-child { display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: #ffffff1c; flex-shrink: 0; }
+.site-footer { position: relative; }
+.site-footer::before { content: ""; position: absolute; top: -1px; left: 50%; transform: translateX(-50%); width: 88px; height: 2px; background: linear-gradient(90deg, #d86596, #43a79d); }
+@media (max-width: 900px) and (min-width: 721px) { .edition-device { width: 40px; height: 40px; } .edition-identity { gap: 12px; } }
+@media (max-width: 720px) {
+  .brand { font-size: 18px; gap: 8px; }
+  .brand-logos { gap: 4px; }
+  .brand-logos img { width: 25px; height: 25px; }
+  .hub-hero { margin: 20px 0 24px; padding: 26px 16px 28px; border-radius: 20px; }
+  .hub-kicker { font-size: 9px; padding: 5px 10px; letter-spacing: .08em; }
+  .hub-hero::before, .hub-hero::after { width: 250px; height: 250px; }
+  .hub-hero::before { inset-inline-start: -185px; top: -105px; }
+  .hub-hero::after { inset-inline-end: -180px; bottom: -130px; }
+  .edition-device { width: 44px; height: 44px; border-radius: 12px; }
+  .edition-device svg { width: 28px; height: 28px; }
+}
+@media (max-width: 360px) {
+  .brand { font-size: 16px; gap: 7px; }
+  .brand-logos { gap: 3px; }
+  .brand-logos img { width: 22px; height: 22px; }
+  .hub-hero { padding-inline: 12px; }
+  .edition-identity { gap: 10px; }
+  .edition-device { width: 34px; height: 38px; }
+  .edition-device svg { width: 24px; height: 24px; }
+  .edition-cta { padding-inline: 12px; gap: 8px; font-size: 13px; }
+  .edition-cta > span:last-child { width: 24px; height: 24px; }
+}

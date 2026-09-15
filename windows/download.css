@@ -1,0 +1,36 @@
+/* Above-the-fold Store link. The whole banner is one keyboard-accessible link. */
+.windows-download-banner {
+  max-width: var(--max);
+  margin: 20px auto 0;
+  padding: 0 16px;
+}
+.windows-download-link {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 18px 24px;
+  border: 1px solid #364052;
+  border-radius: 16px;
+  background: linear-gradient(110deg, #182334, #2d2335);
+  color: #fff;
+  text-align: start;
+  text-decoration: none;
+  box-shadow: 0 6px 20px #17212c12;
+  transition: box-shadow .2s, border-color .2s;
+}
+.windows-download-link:hover { color: #fff; border-color: #db5790; box-shadow: 0 8px 24px #17212c26; }
+.windows-download-link:focus-visible { outline: 3px solid #db2777; outline-offset: 4px; }
+.windows-store-icon { flex: 0 0 40px; }
+.windows-download-copy { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.windows-download-product { font-size: 12px; color: #d3dae4; letter-spacing: .03em; }
+.windows-download-copy strong { font-size: clamp(16px, 2.1vw, 20px); line-height: 1.5; overflow-wrap: anywhere; }
+.windows-download-arrow { display: flex; align-items: center; justify-content: center; flex: 0 0 42px; height: 42px; margin-inline-start: auto; background: #c42267; border-radius: 50%; font-size: 22px; }
+@media (max-width: 640px) {
+  .windows-download-banner { margin-top: 14px; }
+  .windows-download-link { padding: 16px; gap: 12px; border-radius: 14px; }
+  .windows-store-icon { flex-basis: 32px; width: 32px; height: 32px; }
+  .windows-download-product { font-size: 11px; }
+  .windows-download-copy strong { font-size: 15px; }
+  .windows-download-arrow { flex-basis: 30px; height: 30px; font-size: 18px; }
+}
+@media (prefers-reduced-motion: reduce) { .windows-download-link { transition: none; } }

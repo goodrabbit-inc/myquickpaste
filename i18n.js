@@ -407,11 +407,11 @@
       var mode = img.getAttribute("data-windows-ad");
       var base = mode === "windows" ? "../images/windows-ads/" : "images/windows-ads/";
       img.src = base + winFile;
-      if (mode === "hub" && t && t.hub && t.hub.windowsAlt) img.alt = t.hub.windowsAlt;
+      if (mode === "hub" && t && t.hub && t.hub.windowsAlt) img.alt = t.hub.windowsTitle;
     });
     document.querySelectorAll("[data-android-ad]").forEach(function (img) {
       img.src = "android/images/marketing/" + andFile;
-      if (t && t.hub && t.hub.androidAlt) img.alt = t.hub.androidAlt;
+      if (t && t.hub && t.hub.androidAlt) img.alt = t.hub.androidTitle;
     });
   }
 
